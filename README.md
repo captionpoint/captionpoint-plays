@@ -1,4 +1,10 @@
-# :sweat_drops: backslide
+# The CaptionPoint App
+- currently (2/2022) a fork of https://github.com/sinedied/backslide.git
+- CLI tool for making presentations with [remark.js](https://github.com/gnab/remark)
+- adds sass, preview server, self-contained HTML export
+- adds template folder for reusing styles, fonts, js, etc.
+- live theater captioning-specific styling
+- live theater captioning-specific template options: titling, song lyrics, color-coding character names, etc.
 
 [![NPM version](https://img.shields.io/npm/v/backslide.svg)](https://www.npmjs.com/package/backslide)
 ![Node version](https://img.shields.io/node/v/backslide.svg)
