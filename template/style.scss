@@ -1,0 +1,442 @@
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('font/league-gothic/league-gothic.eot');
+    src: url('font/league-gothic/league-gothic.eot?#iefix') format('embedded-opentype'),
+         url('font/league-gothic/league-gothic.woff') format('woff'),
+         url('font/league-gothic/league-gothic.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('font/source-sans-pro/source-sans-pro-regular.eot');
+    src: url('font/source-sans-pro/source-sans-pro-regular.eot?#iefix') format('embedded-opentype'),
+         url('font/source-sans-pro/source-sans-pro-regular.woff') format('woff'),
+         url('font/source-sans-pro/source-sans-pro-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro Italic';
+    src: url('font/source-sans-pro/source-sans-pro-italic.eot');
+    src: url('font/source-sans-pro/source-sans-pro-italic.eot?#iefix') format('embedded-opentype'),
+         url('font/source-sans-pro/source-sans-pro-italic.woff') format('woff'),
+         url('font/source-sans-pro/source-sans-pro-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro Semi';
+    src: url('font/source-sans-pro/source-sans-pro-semibold.eot');
+    src: url('font/source-sans-pro/source-sans-pro-semibold.eot?#iefix') format('embedded-opentype'),
+         url('font/source-sans-pro/source-sans-pro-semibold.woff') format('woff'),
+         url('font/source-sans-pro/source-sans-pro-semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro Semi Italic';
+    src: url('font/source-sans-pro/source-sans-pro-semibolditalic.eot');
+    src: url('font/source-sans-pro/source-sans-pro-semibolditalic.eot?#iefix') format('embedded-opentype'),
+         url('font/source-sans-pro/source-sans-pro-semibolditalic.woff') format('woff'),
+         url('font/source-sans-pro/source-sans-pro-semibolditalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+// Theme
+// ---------------------------------------------------------------------------
+
+$primary          : yellow;
+$secondary        : #999966;
+$character        : $secondary;
+$light            : $primary;
+$dark             : black;
+$caption          : $primary;
+$text-light       : $primary;
+$code-background  : #F8F8F8;
+$overlay          : transparentize(#000, .5);
+$font-size        : 5.3em;
+$font-size-char   : 70%;
+$font-size-impact : 128px;
+$font             : Source Sans Pro, sans-serif;
+$font-title       : Source Sans Pro, sans-serif;
+$font-em          : Source Sans Pro Italic;
+$font-fixed       : 'Lucida Console', Monaco, monospace;
+$margin           : 20px;
+$iframe-scale     : 1.5;
+
+
+// CSS Base
+// ---------------------------------------------------------------------------
+
+* { box-sizing: border-box; }
+body { font-family: $font; }
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-family: $font-title;
+  font-weight: normal;
+}
+h1 { color: $primary; }
+h2 { color: $character; font-size: $font-size-char; }
+h3 { color: $character; font-size: $font-size-char; }
+li { margin-bottom: .25em; };
+pre, code {
+  text-align: left;
+  font-family: $font-fixed;
+  color: $secondary;
+  background: $code-background;
+}
+a, a:visited, a:hover, a:active { color: $primary; }
+em { font-family: $font-em; }
+i { color: $secondary; font-style: italic; }
+img { vertical-align: inherit; }
+blockquote {
+  border-left: 8px solid;
+  padding-left: .5em;
+  color: $secondary;
+  text-align: left;
+  margin: 1em 0;
+  & > p { margin: 0; }
+}
+
+
+// Remark base
+// ---------------------------------------------------------------------------
+
+.remark-code { font-size: .9em; }
+.remark-container { background: lighten($dark, 10%); }
+.remark-slide-scaler { box-shadow: none; background: $dark; }
+// uncomment this to remove notes area
+.remark-notes-area,
+.remark-notes { display: none!important; }
+
+// uncomment this to remove notes area
+.remark-slides-area,
+.remark-preview-area {
+  width: 100%!important;
+}
+
+// uncomment this to remove notes area
+.remark-container.remark-presenter-mode .remark-slides-area {
+  width: 100%;
+}
+
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: .3;
+}
+.remark-slide-content {
+  background: $dark;
+  font-size: $font-size;
+  padding: 2% 3%;
+  color: $caption;
+  height: 100%;
+  // UNCOMMENT FOR AUTO-BLACKOUT
+
+  // animation:signup-response 0.5s 1;
+  // -webkit-animation:signup-response 0.5s 1;
+  // animation-fill-mode: forwards;
+  //
+  // animation-delay:8s;
+  // -webkit-animation-delay:8s;
+  // -webkit-animation-fill-mode: forwards;
+  h2, h3 {
+    margin: 0;
+    opacity: 1;
+    font-size: 70%;
+  }
+
+  p {
+    line-height: 1.1;
+    padding-bottom: 5%;
+    opacity: 1;
+    margin: 0;
+  }
+  // uncomment this to simulate h2 height
+  // height magic number is height of h2
+  > p:first-child{
+    &::before {
+      content: '';
+      display: block;
+      height: 76px;
+    }
+  }
+
+  &.middle p {
+    flex: 0;
+  }
+}
+
+.remark-visible,
+.remark-backdrop {
+  animation-duration: 100ms;
+  animation-fill-mode: both;
+  animation-timing-function: ease-out;
+  animation-name: fadeIn;
+}
+
+@keyframes signup-response{
+    from {opacity :1;}
+    to {opacity :0;}
+}
+
+@-webkit-keyframes signup-response{
+    from {opacity :1;}
+    to {opacity :0;}
+}
+
+// Animations
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animation-fade {
+  animation-duration: 300ms;
+  animation-fill-mode: both;
+  animation-timing-function: ease-out;
+  .remark-visible & { animation-name: fadeIn; }
+}
+
+.remark-slide-number {
+  display: none;
+}
+
+/*-----------------------------------------*/
+
+/*TEMPLATE: SONG STYLES*/
+.song {
+  text-align: center;
+  p {
+    margin-bottom: 20px;
+    &:first-child::before,
+    &::before {
+      content: "\266A \00A0";
+      display: inline-block;
+      height: inherit;
+    }
+    &::after {
+      content: "\00A0 \266A";
+    }
+  }
+}
+
+/*-----------------------------------------*/
+
+/*TEMPLATE: NOISE STYLES*/
+.noise {
+  text-align: center;
+  p{
+    &:first-child::before,
+    &::before {
+    content: "[";
+    display: inline-block;
+  }
+    &::after {
+    content: "]";
+  }
+  }
+
+}
+/*-----------------------------------------*/
+/*TEMPLATE: ASIDE STYLES (possibly unnecessary)*/
+.aside {
+  padding-top: 0;
+  h2 {
+    display: inline-block;
+  }
+  p {
+    margin-top: -9px;
+  }
+}
+
+/*-----------------------------------------*/
+/*DIMMING STYLES */
+span.dim {
+  opacity: .4;
+}
+/*-----------------------------------------*/
+/*STYLING FOR MULTIPLE CHARACTERS SPEAKING*/
+.remark-slide-content {
+  p:nth-last-child(n+4),
+  h2:nth-last-child(n+4){
+  // opacity: .4;
+  }
+}
+/*KEEPS OVERLAPPING CHARACTERS FROM DIMMING*/
+.overlap p:nth-last-child(n+4),
+.overlap h2:nth-last-child(n+4) {
+  opacity: 1;
+}
+.aside h2,
+.aside h2+h2,
+.characters h2 {
+  opacity: 1!important;
+}
+
+// Additions
+.impact {
+  background-color: $primary;
+  vertical-align: middle;
+  text-align: center;
+  &, h1, h2 { color: $text-light; }
+  h1 { font-size: $font-size-impact; }
+}
+
+.smaller {
+  font-size: 4rem;
+}
+
+.sticky,
+.remark-preview-area .hljs-default {
+  animation:signup-response 0;
+  -webkit-animation:signup-response 0;
+  animation-fill-mode: forwards;
+
+  animation-delay:0;
+  -webkit-animation-delay:0; /* Safari and Chrome */
+  -webkit-animation-fill-mode: forwards;
+}
+.full {
+  &, h1, h2 { color: $text-light; }
+  &iframe {
+    height: calc(#{100%/$iframe-scale} - 1.2em);
+    width: 100%/$iframe-scale;
+    transform: scale($iframe-scale);
+    transform-origin: 0 0;
+    border: 0;
+  }
+}
+
+/*POSSIBLE CHARACTER COLORS - change 'names' to match Character names*/
+
+h2[id*="one-"] {
+  color: #9e2e2e;
+}
+h2[id*="two-"] {
+  color: #2966a3;
+}
+h2[id*="three-"] {
+  color: #df8020;
+}
+h2[id*="four-"] {
+  color: #8c75a3;
+}
+h2[id*="five-"] {
+  color: #3d8f3d;
+}
+h2[id*="six-"] {
+  color: #e085b3;
+
+}
+h2[id*="seven-"] {
+  color: #862d86;
+}
+h2[id*="eight-"] {
+  color: #996633;
+}
+h2[id*="nine-"] {
+  color: #40bfbf;
+}
+
+
+// Utilities
+// ---------------------------------------------------------------------------
+
+// Positioning
+.side-layer {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  padding: 0 2em;
+}
+.middle { &, & img, & span { vertical-align: middle; } };
+.top { vertical-align: top; };
+.bottom { justify-content: bottom; };
+.inline-block {
+  p, ul, ol, blockquote {
+    display: inline-block;
+    text-align: left;
+  }
+}
+.no-margin { &, & > p, & > pre, & > ul, & > ol { margin: 0; } }
+.no-padding { padding: 0; }
+.space-left { padding-left: 1em; }
+.space-right { padding-right: 1em; }
+
+// Images
+.responsive > img { width: 100%; height: auto; };
+.contain { background-size: contain; };
+.overlay { box-shadow: inset 0 0 0 9999px $overlay; }
+
+// Text
+.left { text-align: left; }
+.right { text-align: right; }
+.center { text-align: center; }
+.justify { text-align: justify; }
+.primary { color: $primary; }
+.alt { color: $secondary; };
+.em { color: $secondary; };
+.thin { font-weight: 200; }
+.huge { font-size: 2em; }
+.big { font-size: 1.5em; }
+.small { font-size: .8em; }
+.dark-bg { background-color: $dark; }
+.alt-bg { background-color: $secondary; };
+
+// Simple 12-columns grid system
+.row {
+  width: 100%;
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  &.table { display: table; };
+  &.table [class^="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: inherit;
+  }
+}
+
+[class^="col-"] {
+  float: left;
+  &.inline-block {
+    float: none;
+    display: inline-block;
+  }
+}
+
+@for $i from 1 through 12 {
+  .col-#{$i} {width: 100% / 12 * $i; }
+}
+
+
+
+
+// Fix PDF print with chrome
+// ---------------------------------------------------------------------------
+
+@page {
+  // 908px 681px for 4/3 slides
+  size: 1210px 681px;
+  margin: 0;
+}
+
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}

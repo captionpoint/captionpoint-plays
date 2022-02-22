@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    background-image: none;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('font/source-sans-pro/source-sans-pro-regular.eot');
+    src: url('font/source-sans-pro/source-sans-pro-regular.eot?#iefix') format('embedded-opentype'),
+         url('font/source-sans-pro/source-sans-pro-regular.woff') format('woff'),
+         url('font/source-sans-pro/source-sans-pro-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+    color: #999966;
+    font-family: 'Source Sans Pro';
+}
+
+.code-line {
+    color: yellow;
+}
+
+.vscode-dark hr {
+    border-bottom: 3px solid gray;
+}
