@@ -3,6 +3,7 @@
 test/
 dist/
 example/
+_archives/
 node_modules/
 .idea/
 npm-debug.log
