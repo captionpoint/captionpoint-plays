@@ -1,0 +1,13 @@
+.reveal .slides {
+    text-align: left;
+    padding: 2% 3%;
+}
+
+.reveal {
+    color: white;
+}
+.reveal h2 {
+    font-size: 70%;
+    text-transform: uppercase;
+    color: #999966;
+}

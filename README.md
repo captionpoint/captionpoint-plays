@@ -105,7 +105,8 @@ If you have images, it's best to include them as [data-uri](https://css-tricks.c
 
 If you have set a `title` variable in your document (like this `title: My Awesome Presentation`), it will be used as the HTML document title, otherwise the file name will be used.
 
-> Note: you can strip presenter notes from the exported HTML using the `--strip-notes` option, and remove slide fragments with the `--handouts` option.
+> ???
+ you can strip presenter notes from the exported HTML using the `--strip-notes` option, and remove slide fragments with the `--handouts` option.
 
 #### As a website
 
@@ -117,7 +118,8 @@ Files within the `template` folder and from the `assets`, `images` and `img` fol
 
 Use `bs pdf` to export your all `.md` files as PDF presentations.
 
-> Note: you can remove slide fragements with the `--handouts` option.
+> ???
+ you can remove slide fragements with the `--handouts` option.
 
 This feature is based on [Decktape](https://github.com/astefanutti/decktape/).
 
