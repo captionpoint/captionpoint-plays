@@ -90,7 +90,7 @@ A little nervous.
 
 ---
 
-Hoping this all works. It won't.
+Hoping this all works.
 
 ---
 
