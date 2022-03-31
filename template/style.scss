@@ -151,6 +151,7 @@ blockquote {
     margin: 0;
     opacity: 1;
     font-size: 70%;
+    text-transform: uppercase;
   }
 
   p {
@@ -267,7 +268,7 @@ span.dim {
 .remark-slide-content {
   p:nth-last-child(n+4),
   h2:nth-last-child(n+4){
-  // opacity: .4;
+  opacity: .4;
   }
 }
 /*KEEPS OVERLAPPING CHARACTERS FROM DIMMING*/
