@@ -589,7 +589,7 @@ I need it to be harder for you to make a mistake,
 to even have the option to use–
 ---
 ## NOAH:
-I could break up with Jackson. I WILL.
+I could break up with Jackson.
 ---
 ## NOAH:
 I mean. If I’m already staying here for a while.
