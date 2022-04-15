@@ -4145,14 +4145,16 @@ of retelling de story of de Exodus from Egypt.
 ## PAOLA:
 Brava. 
 ---
-Possiamo mangiare adesso? 
+Possiamo mangiare adesso?
+
 (Good. Can we eat now?)
+---
 ## DAVIDE:
 Ah ah, in inglese, tesoro mio.
+
 (Ah, ah, in English, my treasure.)
 ---
 ## PAOLA:
-(mocking the English)
 I’m hungry. Is time to eat?
 ---
 ## DAVIDE:
@@ -4169,13 +4171,19 @@ I don’t remember de words.
 That is what de book is for.
 ---
 ## PAOLA:
-Non riesco a leggere l’Inglese o l’ebraico, Davide. Lo sai che non riesco. Perché tu / 
-(I can’t read English or Hebrew, Davide. You know I can’t. Why are you / trying)
+Non riesco a leggere l’Inglese o l’ebraico, Davide. 
+
+(I can’t read English or Hebrew, Davide.)
+---
+Lo sai che non riesco. Perché tu 
+
+(You know I can’t. Why are you trying)
 ---
 ## DAVIDE:
 OK. I’m sorry, gioia.
 ---
 Tu vuoi?
+
 (Do you want?)
 ---
 ## PAOLA:
@@ -4195,730 +4203,1397 @@ not all four before food.
 ## DAVIDE:
 Is holiday!
 ---
-template: overlap
 ## PAOLA:
 Is Tuesday! You have work tomorrow.
-
+---
 ## DAVIDE:
 Every day is holiday in America!
 ---
 ## PAOLA:
 I go early to factory tomorrow.
+---
 ## DAVIDE:
 So you need good sleep.
-## PAOLA: reluctantly raises her glass. ## DAVIDE: too.
+---
 ## DAVIDE:
-Barukh atah adonai eloheinu melekh ha’olam, borei pri hagafen.
+Barukh atah adonai eloheinu melekh ha’olam, 
+---
+borei pri hagafen.
+---
 ## PAOLA:
 Amen.
-They cheers and drink.
+---
 ## DAVIDE:
 Is good wine.
+---
 ## PAOLA:
 Rosa gave to me.
+---
 ## DAVIDE:
 Who is Rosa?
+---
 ## PAOLA:
 Other seamstress at factory.
+---
 ## DAVIDE:
 See? Friends already!
+---
 ## PAOLA:
-No friend. Other seamstress.
-She is from Mexico. She speak Spanish, io parlo l’italiano (I speak Italian), we quasi (kind of) understand each other.
+No friend. 
+---
+Other seamstress.
+---
+Rosa is Mexican. 
+---
+She speak Spanish, 
+---
+io parlo l’italiano 
+
+(I speak Italian), 
+---
+we quasi 
+
+(kind of) 
+---
+understand each other.
+---
 ## DAVIDE:
 Good!
+---
 ## PAOLA:
-She twenty-seven. She no have husband.
+She twenty-seven. 
+---
+She no have husband.
+---
 ## DAVIDE:
 You find her husband.
+---
 ## PAOLA:
 Who? Who I know?
+---
 ## DAVIDE:
 We meet people soon.
+---
 ## PAOLA:
 Where?
+---
 ## DAVIDE:
-We go to sinagoga, Rabbi find us people.
+We go to sinagoga, 
+---
+template: overlap
+Rabbi find us people.
+
 ## PAOLA:
 Non di nuovo.
+
 (Not again)
+---
 ## DAVIDE:
 What?
+---
 ## PAOLA:
 We no go to sinagoga.
+---
 ## DAVIDE:
-Gioia/
+Gioia
+---
 ## PAOLA:
-No. End of conversation.
+No. 
+---
+End of conversation.
+---
 ## DAVIDE:
-Fine. I go to sinagoga. I meet Rabbi. He find us husband for Rosa. 
-Husband for bottle of wine? Is good deal.
+Fine. I go to sinagoga. 
+---
+I talk to Rabbi. 
+---
+He find us husband for Rosa. 
+---
+Husband for bottle of wine? 
+---
+Is good deal.
+---
 ## PAOLA:
 Rosa no is Jewish.
+---
 ## DAVIDE:
 Oh.
+---
 ## PAOLA:
 No one here is Jewish.
+---
 ## DAVIDE:
-If we go to / sinagoga
+If we go to sinagoga
+---
 ## PAOLA:
-Rosa is Catholic. I tell her I know all de prayers. She no believe me. So I start saying dem. She believe me den.
+Rosa is Catholic. 
+---
+I tell her I know all de prayers. 
+---
+She no believe me. 
+---
+Then I start saying dem. 
+---
+She believe me den.
+---
 ## DAVIDE:
 Yes.
+---
 ## PAOLA:
-She ask me if I meet Pope in Roma. 
+She ask me if I meet Pope in Roma.
+---
 ## DAVIDE:
 Ha!
+---
 ## PAOLA:
 Papa Pio XII. Il bastardo!
+---
 ## DAVIDE:
-Sì. 
+Sì.
+---
 ## PAOLA:
-She say he best Pope ever. I tell her he murder your family.
+She say he best Pope ever. 
+---
+I tell her he murder your family.
+---
 ## DAVIDE:
 You said dat?
+---
 ## PAOLA:
-Yes I said dat, of course I said dat! 
+Yes I said dat, 
+---
+of course I said dat! 
+---
 ## DAVIDE:
-## PAOLA:.
+Paola.
+---
 ## PAOLA:
-What? He no lift finger to save Jews. He sit there twirling thumbs on ‘quel posto’ when Nazis come in and put all of us on trains. 
-Rosa said he save Rabbi. She heard on radio he save Zolli. 
+What? 
+---
+He no lift finger to save Jews. 
+---
+He sit there twirling thumbs on ‘quel posto’ 
+---
+when Nazis come in and put all of us on trains.
+---
+Rosa said he save Rabbi. 
+---
+She heard on radio he save Zolli.
+---
 ## DAVIDE:
 Zolli è un traditore.
+
 (Zolli is a traitor)
+---
 ## PAOLA:
 Dis what I say! 
-He become Catholic to save il suo culo 
+---
+He become Catholic to save 
+---
+il suo culo
+
 (his ass)
+---
 ## DAVIDE:
 Esattamente!
+
 (Exactly!)
+---
 ## PAOLA:
 See? We no be friends.
+---
 ## DAVIDE:
 She still give wine.
+---
+
 ## PAOLA:
-She is good woman. 
-She sends i soldi to her family back in Mexico.
-                (money)
-## PAOLA: is sweating profusely. She starts fanning herself to no avail.
+She is good woman.
+---
+She sends i soldi 
+(money)
+---
+back to her family back in Mexico.
+---
 ## PAOLA:
-Fa troppo caldo. 
+Fa troppo caldo.
+---
 ## DAVIDE:
 Inglese, gioia.
+
 (English, my joy)
+---
 ## PAOLA:
 Is too hot.
+---
 ## DAVIDE:
-Is Los Angeles! Sunshine city, baby!
+Is Los Angeles! 
+---
+Sunshine city, baby!
+---
 ## PAOLA:
-We need a, a... ventilatore.
+We need a, 
+---
+a... ventilatore.
+---
 ## DAVIDE:
 A fan.
+---
 ## PAOLA:
 We need a fan.
+---
 ## DAVIDE:
-We get fan soon. 
+We get fan soon.
+---
 ## PAOLA:
 Soon, soon, everything soon.
+---
 ## DAVIDE:
 Yes.
+---
 ## PAOLA:
-Why we no get one from John?
+Why we no get a fan from John?
+---
 ## DAVIDE:
 Neighbor John?
+---
 ## PAOLA:
 Yes. He say he has extra fan.
+---
 ## DAVIDE:
 You talk to him?
+---
 ## PAOLA:
 Oh finiscila.
+
 (Oh stop it)
+---
 ## DAVIDE:
 He like you.
+---
 ## PAOLA:
 No he don’t.
+---
 ## DAVIDE:
 He like you.
+---
 ## PAOLA:
 I like you.
+---
 ## DAVIDE:
 Good.
-So. We can say Mah Nishtana?
+---
+So. 
+---
+We can say Mah Nishtana?
+---
 ## PAOLA:
 Can we just pass it?
+---
 ## DAVIDE:
-## PAOLA:.
+Paola.
+---
 ## PAOLA:
-No ‘## PAOLA:’ me.
+No ‘Paola’ me.
+---
+template: overlap
 ## DAVIDE:
 Is Pasqua. 
+
 ## PAOLA:
 So?
+---
 ## DAVIDE:
 Is what we do.
+---
 ## PAOLA:
 In old country, maybe.
+---
 ## DAVIDE:
-## PAOLA:. Our brothers and sisters/
+Paola. Our brothers and sisters
+---
+template: overlap
 ## PAOLA:
-No! You no / tell me about
+No! You no tell me about
+
 ## DAVIDE:
-They would want us to / make Seder.
+They would want us to make Seder.
+---
 ## PAOLA:
-Non ero a Auschwitz, ma ho perso anche io la mia famiglia
-(I wasn’t in Auschwitz, but I lost my family too.)
+Non ero a Auschwitz,
+
+(I wasn’t in Auschwitz,)
+---
+ma ho perso anche io la mia famiglia
+
+(but I lost my family too.)
+---
 ## DAVIDE:
-Lo so. Perdonami. 
+Lo so. Perdonami.
+
 (I know. Forgive me.)
-A beat. The sound of a knock on the door. ## PAOLA: instinctively starts hiding the Jewish Seder items.
+---
+template: noise
+knocking
+---
 ## DAVIDE:
-## PAOLA:, it no is our door. Knock from upstairs.
+Paola, it no is our door. 
+---
+Knock from upstairs.
+---
 ## PAOLA:
 Oh, I thought...
-DaviDE
-I know. But is ok. Is America. 
-A beat.
-davide
+---
+## DAVIDE:
+I know. 
+---
+But is ok. 
+---
+Is America. 
+---
+## DAVIDE:
 We do one part den food, ok?
+---
 ## PAOLA:
-## DAVIDE:.
+Davide.
+---
 ## DAVIDE:
 What?
+---
 ## PAOLA:
-I no know parts.
+I know no parts.
+---
 ## DAVIDE:
 Yes you do.
+---
 ## PAOLA:
 No.
+---
 ## DAVIDE:
-You know Mah Nishtana. You know ten piaghe.
-                                                            (ten plagues)
+You know Mah Nishtana. 
+---
+You know ten piaghe.
+
+(ten plagues)
+---
 ## PAOLA:
 No.
+---
 ## DAVIDE:
-Fine, den song. Just one song. Mi Chamocha? You know-
-(half-singing)
-Mi Chamocha Ba...
+Fine, den song. 
+---
+Just one song. 
+---
+Mi Chamocha? 
+---
+You know...
+---
+.song[
+Mi Chamocha Ba...]
+---
 Gioia?
-A beat. 
+---
 ## PAOLA:
-In convent I try to make Seder. I take... come si dice... vino di comunione/
+In convent I try to make Seder. 
+---
+I take... 
+---
+template: overlap
+the comunione
+
 ## DAVIDE:
 Communion wine.
+---
 ## PAOLA:
-I take communion wine and uh wafer. For Matzah. But I no remember prayers. I try and try but... 
-Den de nun, Suora Maria, she come in and she tell me to say prayer before bed. And I remember all of “Pater noster qui es in caelis” (Our father, who art in heaven) - I still remember- but I no remember de Jewish prayers. 
-I cry and cry because I thought my parents be mad at me. How I remember “Pater noster” and no de words of my people?
+I take communion wine and uh wafer. 
+---
+For Matzah. 
+---
+But I no remember prayers. 
+---
+I try and try but... 
+---
+Den de nun, Suora Maria, 
+---
+she come in and she tell me to say prayer before bed. 
+---
+And I remember all of 
+---
+“Pater noster qui es in caelis” 
+
+(Our father, who art in heaven)
+---
+I still remember 
+---
+but I no remember de Jewish prayers. 
+---
+I think that my parents be mad at me. 
+---
+How I remember “Pater noster” 
+---
+and no de words of my people?
+---
 ## DAVIDE:
 You had eight years old, gioia.
+---
 ## PAOLA:
-Lo so, ma ancora... is hard for me when you try make us be Jewish.
+Lo so, ma ancora... 
+
 (I know, but still...)
+---
+is hard for me when you try make us be Jewish.
+---
 ## DAVIDE:
 We are Jewish.
+---
 ## PAOLA:
 Yes.
+---
 ## DAVIDE:
-...
 Is not same though.
+---
 ## PAOLA:
 Is not same, no.
-A beat.
+---
 ## PAOLA:
-Did you make Seder in War?
-A beat. ## DAVIDE: tops off his glass of wine, then ## PAOLA:’s.
-## PAOLA:
+Did you make a sedar in the War?
+---
 Parla con me, tesoro mio.
+
 (Talk to me, my treasure.)
+---
 ## DAVIDE:
 What you want me to say?
+---
 ## PAOLA:
-Something. 
+Something.
+---
 Anything.
+---
 ## DAVIDE:
 I no have something to say.
+---
+template: overlap
+## PAOLA:
+Davide.
+
+## DAVIDE:
+No!
+---
+template: overlap
 ## PAOLA:
 You have to start to talk about it.
+
 ## DAVIDE:
-I no “have to.” 
-## PAOLA:
-## DAVIDE:.
-## DAVIDE:
-No. No one at work ask me. When I clean ‘quel posto’ no one ask me ‘oh where you from?’ 
-They no look in eyes, just walk by. 
-And is good. 
-Is how / I want.
+No. No one at work ask me. 
+---
+When I clean ‘quel posto’ 
+---
+no one ask me ‘oh where you from?
+’ 
+---
+They no look in eyes, just walk by.
+---
+And is good.
+---
+Is how I want.
+---
 ## PAOLA:
 I am no someone at work. 
+---
 ## DAVIDE:
 I know.
+---
 ## PAOLA:
 I am me.
+---
 ## PAOLA:
-We in America now. Dis is first Seder in America. We no have people listening. Or knocking. We can talk about it now. 
+We in America now. 
+---
+Dis is first Seder in America. 
+---
+We no have people listening. 
+---
+Or knocking. 
+---
+We can talk about it now. 
+---
 ## DAVIDE:
 We in America so we no need to talk about it.
+---
 Is too soon.
+---
 ## PAOLA:
-Is ten years. 
+Is ten years.
+---
 ## DAVIDE:
 Pasqua mi fa triste, OK? 
+
 (Passover makes me sad, ok?)
-Mama make il petto di manzo (brisket), Nonna make la minestra (soup). Piccolo (little) Alberto say Mah Nishtana. Mi fa triste, ## PAOLA:. (It makes me sad, ## PAOLA:)
+---
+Mama make il petto di manzo (brisket), 
+---
+Nonna make la minestra (soup). 
+---
+Piccolo (little) Alberto say Mah Nishtana. 
+---
+Mi fa triste, Paola. 
+
+(It makes me sad, Paola.)
+---
 ## PAOLA:
 Ok.
+---
 ## DAVIDE:
-I do one in Auschwitz. Guard bang on door. We no need Maror to show us 
-(he looks in the Haggadah)
+I do one in Auschwitz. 
+---
+Guard bang on door. 
+---
+We no need Maror to show us 
+---
 “bitterness of slavery.”
-## DAVIDE: drinks from his wine. A beat.
+---
 ## PAOLA:
 Next year be more easy. 
+---
 And more easy year after year after.
+---
 ## DAVIDE:
 Maybe.
+---
 ## PAOLA:
-Yes. I will make more easy. I make petto di manzo (brisket) like your Mama. You make la minestra (soup) like my Nonna. 
+Yes. 
+---
+I will make more easy. 
+---
+I make petto di manzo (brisket) like your Mama. 
+---
+You make la minestra (soup) like my Nonna.
+---
 ## DAVIDE:
-And piccola ## VALERIA: say Mah Nishtana.
-(And little ## VALERIA: say the Four Questions.)
+And piccola Valeria say Mah Nishtana.
+
+(And little Valeria say the Four Questions.)
+---
 ## PAOLA:
-Piccola ## VALERIA:?
-davide
+Piccola Valeria?
+---
+## DAVIDE:
 I thought we could name her after your Mama.
-paola
-## VALERIA:, mmmm.
-Forse piccolo Yosef. Come tuo padre. 
+---
+## PAOLA:
+Valeria, mmmm.
+---
+Forse piccolo Yosef. Come tuo padre.
+
 (Maybe little Yosef. Like your father.)
+---
 ## DAVIDE:
-We make hundred babies who all fight to say Mah Nishtana.
+We make hundred babies 
+---
+who all fight to say Mah Nishtana.
+---
 ## PAOLA:
 Hundred?
+---
 ## DAVIDE:
 Twenty boys, eighty girls.
+---
 ## PAOLA:
 E li spingerai tutti fuori dalla tua vagina?
+
 (And you will push them all out of your vagina?)
+---
 ## DAVIDE:
 If I have to.
+---
 ## PAOLA:
 In dis small too hot apartment?
+---
 ## DAVIDE:
-We move to big house one day. With garden.
+We move to big house one day. 
+---
+With garden.
+---
 ## PAOLA:
 With hundreds of flowers.
+---
 ## DAVIDE:
 Fiori di ciliegio.
+
 (Cherry blossoms.)
+---
 ## PAOLA:
-(whispering)
 Ma non abbiamo soldi to make hundred babies.
+
 (But we don’t have money to...)
+---
 ## DAVIDE:
 So start with one, yes?
+---
 ## PAOLA:
-Maybe. Soon.
+Maybe. 
+---
+Soon.
+---
 ## DAVIDE:
 “Soon, soon, everything soon.”
-## PAOLA: drinks from her cup.
+---
 ## PAOLA:
-You make me drink four cups of vino, maybe we start tonight.
+You make me drink four cups of vino, 
+---
+maybe we start tonight.
+---
 ## DAVIDE:
 No make joke.
+---
 ## PAOLA:
 Is no joke.
+---
 ## DAVIDE:
 Is no joke?
-## PAOLA: shakes her head. ## DAVIDE: kisses her.
-## DAVIDE: raises his glass of wine.
+---
 ## DAVIDE:
-New favorite holiday! Sexy holiday!
-They clink glasses. 
+New favorite holiday! 
+---
+Sexy holiday!
+---
 ## PAOLA:
 Pasqua no is sexy.
+---
 ## DAVIDE:
-Yes is sexy. Red seas.
+Yes is sexy. 
+---
+Red seas.
+---
 ## PAOLA:
 Red seas?
+---
 ## DAVIDE:
-I part your red seas.
+I part 
+---
+your red seas.
+---
 ## PAOLA:
-## DAVIDE:!
+Davide.
+---
 ## DAVIDE:
 What? You try.
+---
 ## PAOLA:
 I try?
+---
 ## DAVIDE:
 Yes.
+---
 ## PAOLA:
 You, uh...
-You make my burn bush. I mean, bush burn.
+---
+You make 
+---
+my burn bush. 
+---
+I mean, bush burn.
+---
 ## DAVIDE:
-Ooh! See? Sexy!
+Ooh! See? 
+---
+Sexy!
+---
 Can I make bush burn now?
+---
 ## PAOLA:
 After dinner.
+---
 ## DAVIDE:
-I eat quickly. We do prayers quickly.
+I eat quickly. 
+---
+We do prayers quickly.
+---
 ## PAOLA:
 More prayers?
+---
 ## DAVIDE:
-We need to practice. For when we have hundred babies.
+We need to practice. 
+---
+For when we have 100 babies.
+---
 ## PAOLA:
-## DAVIDE:.
+Davide.
+---
 ## DAVIDE:
-We want our children and our children’s children and der children to make Seder, no? So we have to do it. Dey no do it if we no do it.
-A beat.
+We want our children 
+---
+and our children’s children 
+---
+and der children to make Seder, no? 
+---
+So we have to do it. 
+---
+Dey no do it if we no do it.
+---
 ## PAOLA:
 You think we be good parents?
+---
 ## DAVIDE:
 We be best parents, gioia.
+---
 ## PAOLA:
 And dey be happy?
+---
 ## DAVIDE:
 We love dem so much dey be happy.
+---
 ## PAOLA:
 And safe?
+---
 ## DAVIDE:
 We never let them leave de house.
+---
 ## PAOLA:
 Ha! They will hate us.
+---
 ## DAVIDE:
 No one could hate you, gioia.
+---
 ## PAOLA:
 You think they be smart?
+---
 ## DAVIDE:
-So smart. Doctors and Rabbis!
+So smart. 
+---
+Doctors and Rabbis!
+---
 ## PAOLA:
 Doctors and Rabbis, ha!
+---
 ## DAVIDE:
 No cleaners.
+---
 ## PAOLA:
-No. Doctors. Maybe dentista like my Papà.
-                                 (dentist)
+No. Doctors. 
+Maybe dentista 
+
+(dentist)
+---
+like my Papà.
+---
 ## DAVIDE:
-Yes. Or professore like my Papà.
+Yes. 
+---
+Or professore like my Papà.
+---
 ## PAOLA:
 Your Papà was un professore?
+---
 ## DAVIDE:
 Sì. All’università di Roma.
-    (At the University in Rome)
+
+(At the University in Rome)
+---
 ## PAOLA:
 Of what?
+---
 ## DAVIDE:
-History. Art history.
+History. 
+---
+Art history.
+---
 ## PAOLA:
 Sì. Forse un professore.
+
 (Yes. Maybe a professor).
+---
 But I is scared.
+---
 ## DAVIDE:
 Why, gioia?
+---
 ## PAOLA:
 For make baby.
+---
 I no can do dat again.
+---
 ## DAVIDE:
-Dat was in DP camp. You better / now.
+Dat was in DP camp. 
+---
+You better now.
+---
 ## PAOLA:
 We no know dat.
+---
 ## DAVIDE:
-We were starving. Doctor said he no have chance. 
+We were starving. 
+---
+Doctor said he no have chance.
+---
 ## PAOLA:
 I know what Doctor say.
+---
 ## DAVIDE:
-But now we healthy. Good, strong bones, see? 
+But now we healthy now. 
+---
+Good, strong bones, yes? 
+---
 ## PAOLA:
 Yes.
+---
 ## DAVIDE:
-Good! We eat. No prayer, basta. 
-I get food. For make bones more strong.
+Good! 
+---
+We eat. 
+---
+No prayer, basta. 
+---
+I get food. 
+---
+For make bones more strong.
+---
 ## PAOLA:
-(laughing)
-You are best person I ever know, ## DAVIDE:.
-You always smiling, always trying to make me happy. Even in de Camp, you give your food to younger boys.
+You are best person 
+---
+I ever know, Davide.
+---
+You always smiling, 
+---
+always trying to make me happy. 
+---
+Even in de Camp, 
+---
+you give your food to younger boys.
+---
 ## DAVIDE:
-Basta, ## PAOLA:. Let’s just eat.
+Basta, Paola. 
+---
+Let’s just eat.
+---
 ## PAOLA:
-What? What I say?
+What? 
+---
+What I say?
+---
 ## DAVIDE:
-I tell you I no want to talk about de Camp no more.
+I tell you 
+---
+I no want to talk about de War no more.
+---
 ## PAOLA:
-## DAVIDE:/
+Davide.
+---
 ## DAVIDE:
 No.
+---
 ## PAOLA:
-Whatever you say, ## DAVIDE:, I will like you still. Dere is nothing you cannot tell me.
+Whatever you say, Davide, 
+---
+I will love you still. 
+---
+Dere is nothing you cannot tell me.
+---
 I am your wife. 
+---
 ## DAVIDE:
 Lo so.
+
 (I know.)
+---
 ## PAOLA:
-I tell you everything about my family. About my life in war. 
+I tell you everything about my family. 
+---
+About my life in war. 
+---
 ## DAVIDE:
 Is different.
+---
 ## PAOLA:
-Why? Because I no survivor?
+Why? 
+---
+Because I no survivor?
+---
 ## DAVIDE:
-Yes you survivor. Is miracle! You survive war.
+Yes you survivor. 
+---
+Is miracle! 
+---
+You survive war.
+---
 ## PAOLA:
-No. In camp is survivor. I no in camp. 
+No. 
+---
+I no in camp.
+---
+In camp is survivor. 
+---
 ## DAVIDE:
 Non é una gara.
+
 (It’s not a competition)
+---
 ## PAOLA:
-It feel like one. Sometimes it feel like one.
+It feel like one. 
+---
+Sometimes it feel like one.
+---
 ## DAVIDE:
 I sorry.
+---
 ## PAOLA:
-No, you no be sorry. Just talk to me, gioia.
-## DAVIDE:
-## PAOLA:.
+No,no, no... you no be sorry. 
+---
+gioia, just talk to me.
+---
 ## PAOLA:
-How you going to tell piccola ## VALERIA: one day if you won’t even talk to me?
+How you going to tell piccola Valeria one day 
+---
+if you won’t even talk to me now?
+---
 ## DAVIDE:
-We no tell piccola ## VALERIA:. New life.
+We no tell piccola Valeria. 
+---
+New life.
+---
+template: overlap
+## PAOLA:
+But we
 
+## DAVIDE:
+No. 
+---
+New life. 
+---
+No old life. 
+---
+We say new life.
+---
+## PAOLA:
+Davide.
+---
+## DAVIDE:
+We always have same fight. 
+---
+I no want to fight no more.
+---
+## PAOLA:
+I no want to fight no more too, 
+---
+ma è importante!
 
-PAOLA
-But we/
-## DAVIDE:
-No. New life. No old life. We say new life.
-## PAOLA:
-## DAVIDE:/
-## DAVIDE:
-We always have same fight. I no want to fight no more.
-## PAOLA:
-I no want to fight no more too, ma è importante!
 (...but It’s important!)
+---
 ## DAVIDE:
-È importante che tutti quelli che amavo siano morti? No, non è importante! / È il passato! 
-(It’s important that everyone I love died? No, it’s not important! It’s the past!)
+È importante che tutti quelli che amavo siano morti? 
+
+(It’s important that everyone I love died?)
+---
+No, non è importante! 
+
+(No, it’s not important!) 
+---
+È il passato! 
+
+(It’s the past!)
+---
 ## PAOLA:
-Anche tutti quelli che io amavo sono morti, / ## DAVIDE:.
-(Everyone I love died too, ## DAVIDE:)
+Anche tutti quelli che io amavo sono morti, Davide.
+
+(Everyone I love died too,Davide)
+---
 ## DAVIDE:
-Hai scavato le tombe dei tuoi genitori? Hai sentito puzza di capelli bruciati quando ti sei svegliata?
-(Did you dig your parents’ graves? Did you smell burnt hair when you woke up?)
-A beat.
+Hai scavato le tombe dei tuoi genitori? 
+
+(Did you dig your parents’ graves?)
+---
+Hai sentito puzza di capelli bruciati quando ti sei svegliata?
+
+(Did you smell burnt hair when you woke up?)
+---
 ## PAOLA:
 L’hai fatto?
+
 (You did that?)
-## DAVIDE: nods. He composes himself.
+---
 ## DAVIDE:
-See? You no like me still.
-paola
-No. I like you more dan I ever like you. 
-Husband and wife need to tell each other everything. Good and bad. Is only way to be free.
-A beat.
-
-
-
+See? 
+---
+You no like me still.
+---
+## PAOLA:
+No. 
+---
+I like you more dan I ever like you.
+---
+Husband and wife need to tell each other everything. 
+---
+Good and bad. 
+---
+Is only way to be free.
+---
 ## DAVIDE:
 I no give my food to younger boys when I was in de Camp.
+---
 ## PAOLA:
 What?
+---
 ## DAVIDE:
-I tell you dis in DP camp because I like you and want to show myself good for you.
+I tell you dis in DP camp because I like you 
+---
+and want to show myself good for you.
+---
 If I give food to boys, I no survive.
+---
 ## PAOLA:
 Oh.
+---
 ## DAVIDE:
-I was sick. Starving. Almost dead. I no good person. 
+I was sick. 
+---
+Starving. 
+---
+Almost dead. 
+---
+I no good person.
+---
 How you be good person when you almost dead?
+---
 ## PAOLA:
-Gioia/
-
-
+Gioia
+---
 ## DAVIDE:
-Era il giorno della Selezione. 
+Era il giorno della Selezione.
+
 (It was the day of the Selection.)
-I knew dey were going to send me to de showers. I was too sick. I change place with healthy boy. Judel. Judel go to shower. I stay in camp. I survive. Is no miracle. 
-A long silence.
+---
+I knew dey were going to send me to de showers. 
+---
+I was too sick. 
+---
+I change place with healthy boy. 
+---
+Judel. 
+---
+Judel go to shower. 
+---
+I stay in camp. 
+---
+I survive. 
+---
+Is no miracle.
+---
 ## DAVIDE:
-## PAOLA:?
-Tesoro mio?
-A beat.
+Paola? Tesoro mio?
+---
 ## PAOLA:
 You make miracle. 
-## DAVIDE:
-No.
+---
 ## PAOLA:
-You make miracle to survive. No God. You make miracle to love me. For make hundred babies. 
-## PAOLA: takes ## DAVIDE:’s face in her hands.
+You make miracle to survive. 
+---
+No God. 
+---
+You make miracle to love me. 
+---
+For make hundred babies. 
+---
 ## PAOLA:
-You are best person I ever know, ## DAVIDE:.
-She holds him. 
+You are best person I ever know, Davide.
+---
 ## DAVIDE:
-Mi sento così.../
+Mi sento così...
+
 (I feel so...)
+---
 ## PAOLA:
 Lo so.
+
 (I know.)
-A long beat.
+---
+template: noise
+shhhh
+---
 ## PAOLA:
-We no need to tell. We tell nice story.
+Davide, we no need to tell. 
+---
+We tell nice story.
+---
 To be more better for Piccolo Yosef.
+---
 ## DAVIDE:
-And piccola ## VALERIA:.
+And piccola Valeria.
+---
 ## PAOLA:
-Sì. For when we have hundred babies.
+Sì. For to make hundred babies.
+---
 ## DAVIDE:
 Sì. 
-A beat.
+---
 ## DAVIDE:
-So where we start?
+So where do we start?
+---
 ## PAOLA:
-Tell me your favorite part of Seder.
+What your favorite part of Seder.
+---
 ## DAVIDE:
 Il petto di manzo.
+
 (The brisket.)
+---
 ## PAOLA:
 No, favorite prayer part.
+---
 ## DAVIDE:
-## PAOLA:.
+Paola.
+---
 ## PAOLA:
-I do good. Let me do good.
+I do good. 
+---
+Let me do good.
+---
 ## DAVIDE:
 Il Dayeinu.
+---
 ## PAOLA:
 Il Dayeinu?
+---
 ## DAVIDE:
 Yes.
+---
 ## PAOLA:
-We sing Dayeinu and den we make our bones strong.
+We sing Il Dayeinu and den we make our bones strong.
+---
 ## DAVIDE:
 Ok.
-## DAVIDE: turns to the page with ‘Dayeinu’ in their Haggadot. ## PAOLA: takes her napkin and wipes off her sweat. She takes the Haggadah and starts fanning herself.
+---
 ## DAVIDE:
-(singing)
+.song[
 Ilu hotzi, hotzianu 
-Hotzianu mimi-
-(he stops)
+Hotzianu mimi-]
+---
 Just take off your clothes, gioia.
+---
 ## PAOLA:
-## DAVIDE:!
+Davide!
+---
 ## DAVIDE:
 What? Is just us.
+---
 ## PAOLA:
-What if someone/
+What if someone
+---
 ## DAVIDE:
 Who?
+---
 ## PAOLA:
-I don’t know. I vicini o...
-                      (The neighbors, or....)
+I don’t know. 
+---
+I vicini o...
+
+(The neighbors, or....)
+---
 ## DAVIDE:
-## PAOLA:, we’re free!
+Paola, we’re free!
+---
 ## PAOLA:
-Three months in America and you’re already a nudista. A “beatnik.”
+Three months in America 
+---
+and you’re already a nudista. 
+---
+A “beatnik.”
+---
 ## DAVIDE:
 Come on!
+---
 ## PAOLA:
 Only if you take off your clothes.
+---
 ## DAVIDE:
 OK.
+---
 ## PAOLA:
 OK?
+---
 ## DAVIDE:
 We’re free!
+---
 On count of three.
-## DAVIDE: and paola
-One....two... three!
-They both quickly strip off their clothes, so they’re only wearing undergarments. 
+---
+## DAVIDE & PAOLA:
+One....
+---
+## DAVIDE & PAOLA:
+two... 
+---
+## DAVIDE & PAOLA:
+three!
+---
 ## PAOLA:
 Ahhh!
+---
 ## DAVIDE:
 Look at my sexy American wife!
+---
 ## PAOLA:
 No!
-## DAVIDE: takes ## PAOLA:’s hands and claps them in rhythm to the song.
+---
+template: noise
+clapping
+---
 ## DAVIDE:
-(singing)
+.song[
 Ilu hotzi, hotzianu 
-Hotzianu mimitzrayim,
-Hotzianu mimitzrayim Dayeinu!
-From faraway: the sound of a timbrel.
-## DAVIDE: stands up, grabs ## PAOLA:’s hand, and starts twirling her around. They dance semi-naked and free as they sing the Dayeinu.
-## DAVIDE: and paola
-(singing)
+Hotzianu mimitzrayim,]
+---
+.song[
+Hotzianu mimitzrayim Dayeinu!]
+---
+template: song
+## DAVIDE & PAOLA:
 Day, day-einu! Day, day-einu
 Day, day-einu, Dayeinu Dayeinu!
+---
+template: song
 Ilu natan, natan lanu,
 natan lanu et hashabbat,
 natan lanu et hashabbat Dayeinu!
+---
+template: song
 Day, day-einu! Day, day-einu
 Day, day-einu, Dayeinu Dayeinu!
-They kiss. 
+---
 ## PAOLA:
 Oy.
+---
 ## DAVIDE:
 I good dancer.
+---
 ## PAOLA:
 You think you good dancer.
+---
 ## DAVIDE:
-I took dance class. Arthur Murray. 
+I took dance class. 
+---
+Arthur Murray. 
+---
 “Arthur Murray taught me dancing in a hurry.”
+---
 ## PAOLA:
 It was much too much in a hurry.
-A beat.
+---
 ## PAOLA:
-I hear “Dayeinu, die, die” I think die.
+I hear “Dayeinu, die, die” 
+---
+I think die.
+---
 ## DAVIDE:
 Is different in Hebrew.
+---
 ## PAOLA:
 I know is different.
-A beat.
+---
 ## PAOLA:
 You never die, ok?
+---
 ## DAVIDE:
 I survive. Survivor, hey?
+---
 ## PAOLA:
 No. You never can die. 
+---
 ## DAVIDE:
 Non fare la noiosa, gioia.
+
 (Don’t be morbid, my joy)
+---
 ## PAOLA:
-No. You never can die. 
+No. You never can die.
+---
 Ok? 
+---
+template: title
 END OF PART TWO.
-part 3: chag ha-aviv (the festival of spring)
-The future. 31 years after Part One. Another warm evening in April. The same house as in Part One. The same Passover table. 
-Projection: April 2050, 15th of Nissan 5810. Los Angeles, California.
-## DEV: (54), ## YAEL: (50) and ## VALERIA: (88) sit around the table. ## DEV: and ## YAEL: pick at their mostly empty plates of food. ## DEV: wears a Kippa. ## VALERIA: is in a wheelchair. She no longer has the ability to speak. She is hooked up to a thought-to-text machine.
-Anytime ## VALERIA: grunts or responds to the conversation in any way, the translation of her responses should be subtitled for the audience.
+---
+Part 3: chag ha-aviv (the festival of spring)
+---
+April 2050, 15th of Nissan 5810. Los Angeles, California.
+---
 ## DEV:
-Hineni, Here I am, ready to perform the Levi Family tradition of recreating the story of the Exodus from Egypt. As it says in the Haggadah, “let all who are hungry, come and eat. Let all who are in need, come and share the Pesach meal.” So, as our Nonno did in Auschwitz for Judel, we too shall share our food with those in need. 
+Hineni, 
+---
+Here I am, ready to perform 
+---
+the Levi Family tradition of 
+---
+recreating the story of the Exodus from Egypt. 
+---
+As it says in the Haggadah, 
+---
+“let all who are hungry, come and eat. 
+---
+Let all who are in need, 
+---
+come and share the Pesach meal.” 
+---
+So, as our Nonno did in Auschwitz for Judel, 
+---
+we too shall share our food with those in need.
+---
 ## YAEL:
 Amen.
-## YAEL: and ## DEV: take all of the leftover food and ritualistically put it into to-go boxes.
+---
 ## YAEL:
 Can I save some for the girls?
+---
 ## DEV:
-Yaya. It’s for the elderly who became homeless when the Hebrew Homes were shut / down
+Yaya. 
+---
+It’s for the elderly who became homeless 
+---
+when the Hebrew Homes were shut down
+---
 ## YAEL:
-I know, I know. 
-But Maya’s going to be so sad she missed her Aunt ## DEV:’s cooking. Just a bite?
+I know, I know.
+---
+But Maya’s going to be so sad 
+---
+she missed her Aunt Dev’s cooking. 
+---
+Just a bite?
+---
 ## DEV:
 Fine, just a bite.
-Silence as they finish the ritual.
+---
 ## YAEL:
 Oh, I missed this.
+---
 ## DEV:
 It’s nice to have you back.
+---
 ## YAEL:
 Nice to be back, sis.
+---
 ## DEV:
-Mom was so excited you were coming this year she insisted I make-
-Oh shoot. Let me go get it.
-## DEV: exits to the kitchen.
+Mom was so excited you were coming this year 
+---
+she insisted I make-
+---
+Oh shoot. 
+---
+Let me go get it.
+---
 ## YAEL:
 What is she getting?
-## VALERIA: grunts (You’ll have to see.)
-yael
-Ugh fine. 
+---
+## VALERIA:
+[grunts]
+(You’ll have to see.)
+---
+## YAEL:
+Ugh fine.
+--- 
 Come ti senti?
+
 (How are you feeling, Ma?)
-## VALERIA: gives a thumbs up (My two girls under the same roof? I couldn’t be happier.)
+---
+## VALERIA: 
+(My two girls under the same roof? I couldn’t be happier.)
 ## YAEL: takes her mother’s hand.
 ## YAEL:
 Me too, Ma.
