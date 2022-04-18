@@ -99,7 +99,7 @@ that our ancestors ate in the land of Egypt.
 ---
 As it says in the Torah, 
 ---
-“seven days shall you eat matzot - 
+“seven days shall you eat matzot  
 ---
 the bread of poverty and persecution” 
 ---
@@ -172,7 +172,7 @@ Cazzo! I forgot your laundry.
 
 ## YAEL:
 It’s fine. Don’t worry.
-
+---
 ## PAOLA:
 Valeria! Bada a come parli!
 ---
@@ -182,7 +182,7 @@ We only get you for a week,
 I wanna do your laundry. 
 ---
 ## YAEL:
-Mom, it’s fine.
+Don't worry.
 ---
 ## PAOLA:
 Allora, andiamo.
@@ -252,10 +252,9 @@ Mikol haleilot?
 ---
 template: song
 Sheb’khol haleilot anu okhlin 
-hametz umatzah, 
+hametz umatzah, hametz umatzah
 ---
 template: song
-hametz umatzah
 ## ALL:
 halailah hazeh, halailah hazeh, kuloh matzah.
 ---
@@ -320,10 +319,6 @@ halailah hazeh, halailah hazeh,
 ---
 template: song
 shtei f’amim.
----
-template:noise
-## DAVIDE: 
-coughs
 ---
 template: song
 ## YAEL:
@@ -555,7 +550,7 @@ over our oppressors’ suffering.
 Amen.
 ---
 ## YAEL:
-But here we’re not... 
+But here in L.A.we’re not... 
 ---
 I mean, we’re free.
 ---
@@ -594,7 +589,9 @@ And the two synagogue SHOOTINGS.
 One was just two hours away, Yaya
 ---
 ## YAEL:
-Ok fine, you’re right. 
+Ok whatever, fine, 
+
+you’re right. 
 ---
 Not ‘free’ or whatever, 
 ---
@@ -790,7 +787,7 @@ She just had to
 ## PAOLA:
 È Pasqua!
 ---
-What I wouldn’t give to be here with my sister and brother, 
+What I wouldn’t give to be here with my brother and sister, 
 ---
 and you’re arguing over blobs?
 ---
@@ -820,7 +817,9 @@ Dev, let’s just keep going.
 Sure... Um. 
 ---
 ## DEV:
-B’khol dor v’dor chayav adam li’roat et atzmo, 
+B’khol dor v’dor 
+---
+chayav adam li’roat et atzmo, 
 ---
 k’ilu who yatzah mi mitzraim.
 ---
@@ -881,7 +880,9 @@ Well, io amo la lingua.
 ## PAOLA:
 Perfetto, gioia.
 ---
-So, are you seeing anyone?
+So, 
+---
+are you seeing anyone?
 ---
 ## YAEL:
 Nonna!
@@ -1003,8 +1004,9 @@ It’s your Nonno’s greatest joy.
 Yeah, we’ve been spending a lot of time together. 
 ---
 Bro-ing out.
-Right, Nonno? 
 ---
+Your know,
+
 “Bro-ing?”
 ---
 template: noise
@@ -1092,7 +1094,9 @@ Oh sure.
 ---
 He used to march all the time. 
 ---
-Any cause, your Nonno was there. 
+Yeah, if there was any cause, 
+---
+he was there. 
 ---
 He even smuggled prayer books into the Soviet Union 
 ---
@@ -1334,7 +1338,7 @@ You don’t want to know if your birth parents, like
 Yael, enough.
 ---
 ## PAOLA:
-You know, I took one of those DNA tests. 
+You know, I that DNA test. 
 ---
 That 23me site.
 ---
@@ -1342,11 +1346,9 @@ That 23me site.
 Really?
 ---
 ## PAOLA:
-It was very interesting. 
+Yes, It was very very interesting. 
 ---
-Very, very few Jews are 100% Jewish. 
----
-Did you know that? 
+Did you know that most, uh..no Jews are 100% Jewish. 
 ---
 I’m not, and I’m from the ‘old country’ 
 ---
@@ -1359,7 +1361,7 @@ Zagreb isn’t the old country, Ma.
 Did you know I’m 2.3 percent Neanderthal?
 ---
 ## VALERIA:
-Makes sense.
+That makes sense.
 ---
 ## PAOLA:
 Anyway, these days it’s hard to tell. 
@@ -1440,12 +1442,12 @@ Ok whatever, I wasn’t saying
 ## VALERIA:
 Girls, enough. 
 ---
-Honey, hell, you’re more Jewish than any of us.
+Dev, hell, you’re more Jewish than any of us.
 ---
 ## DEV:
 I mean, genetically I’m not. 
 ---
-But I was raised with the the language, 
+But I was raised with the language, 
 ---
 the holidays, the stories, 
 ---
@@ -1524,7 +1526,7 @@ Language requirement.
 I took Hebrew.
 ---
 ## YAEL:
-I already know Hebrew.
+I already knew Hebrew.
 ---
 ## DEV:
 So did I.
@@ -1617,7 +1619,7 @@ Good.
 Mom tells me you’re kicking ass at the rock gym. 
 ---
 ## DEV:
-I’m only there a couple days a week.
+It's only a couple days a week.
 ---
 ## YAEL:
 Still.
@@ -1676,6 +1678,7 @@ We haven’t done that in
 
 ## YAEL:
 I know.
+---
 ---
 ## DEV:
 I miss you too.
@@ -1967,7 +1970,7 @@ She’s had them for a couple weeks.
 What happened?
 ---
 ## PAOLA:
-I’m old, what can I tell you? 
+I’m old, what can I say? 
 ---
 The dentist told me I needed new teeth, 
 ---
@@ -1999,7 +2002,7 @@ I take them out to go to sleep
 ---
 and I couldn’t find them. 
 ---
-I looked everywhere for them. 
+I looked everywhere, 
 ---
 Under the bed, 
 ---
@@ -2021,9 +2024,7 @@ and they gave him this liquid thing.
 Hydrogen peroxide.
 ---
 ## PAOLA:
-Right. 
----
-Hydrogen peroxide. 
+Hydrogen peroxide, Right.
 ---
 And it made him throw up. 
 ---
@@ -2033,23 +2034,23 @@ Meanwhile, this poor dog,
 ---
 he was so scared. 
 ---
-Gosh, you should have seen him. 
+Oh My Gosh, you should have seen him. 
 ---
-Shaking and crying. 
+He was just a crying and a shaking. 
 ---
 So I decided to pray for him. 
 ---
-You know the last time I prayed? 
+You know when the last time was I prayed? 
 ---
 When the Germans were dropping bombs on us. 
 ---
 That’s when. 
 ---
-Anyway, I prayed and prayed. 
+So, I prayed and I prayed. 
 ---
-“God, please let Bacio be OK.” 
+“God, please help Bacio.” 
 ---
-I told myself if God helped him, 
+I told myself if God helped Bacio, 
 ---
 I’d promise to be a better Jew. 
 ---
@@ -2059,13 +2060,15 @@ but still, no teeth.
 ---
 But just wait. 
 ---
-Devorah searched the house again 
+Devorah went searched the house again 
 ---
 and what do you know? 
 ---
-There it was, under my pillow, 
+There they were, 
 ---
-can you believe it? 
+right under my pillow, 
+---
+do you believe it? 
 ---
 Bacio was fine in a few hours. 
 ---
@@ -2122,11 +2125,8 @@ Oh. Uh, sure.
 ---
 There’s another bib in his bag by the door.
 ---
-## PAOLA:
-You were a miracle.
----
 ## VALERIA:
-You were a miracle too, hon.
+You were a miracle, hon.
 ---
 ## DEV:
 I thought you didn’t believe in that.
@@ -2157,7 +2157,9 @@ It’s your Nonno’s favorite holiday,
 of course I’m doing it.
 ---
 ## VALERIA:
-I’m sorry about New Haven.
+I’m 
+---
+sorry about New Haven.
 ---
 ## DEV:
 It’s fine.
@@ -2179,7 +2181,7 @@ Won’t make it to July.
 ---
 Yeah.
 ---
-At least we’re all together now.
+Well, at least we’re all together now.
 ---
 ---
 ## VALERIA:
@@ -2461,7 +2463,7 @@ Valeria, è Pasqua!
 UCLA doesn’t shut down the whole school, Ma.
 ---
 ## DEV:
-But you’re allowed to take the day off 
+But you can take the day off 
 ---
 for Jewish holidays, right?
 ---
@@ -2531,7 +2533,7 @@ So vai, vai.
 ---
 Teach Jesus on Passover!
 ---
-In Zagreb, you know, 
+You know, in Zagreb,  
 ---
 we didn’t even use red wine on Passover. 
 ---
@@ -2566,9 +2568,9 @@ Ever since your father
 Basta!
 ---
 ## PAOLA:
-You get to a certain age, girls, 
+There comes a point in life, girls, 
 ---
-no one listens to you anymore. 
+where no one listens to you anymore. 
 ---
 Look at your Nonno.
 ---
@@ -2576,7 +2578,7 @@ template: noise
 grunts
 ---
 ## VALERIA:
-Have you changed your mind about...
+Did you change your mind about the...
 ---
 ## PAOLA:
 No.
@@ -2608,7 +2610,7 @@ But Ma, he’s 87 years old.
 ## PAOLA:
 He’s a fighter. Trust me. 
 ---
-Just look at him.
+Look at him.
 ---
 template: noise
 grunts
@@ -2637,7 +2639,9 @@ I’m pre-med, Nonna.
 So what do your medical studies tell you?
 ---
 ## YAEL:
-Well, uh, in cases where death is inevitable, 
+Well, 
+---
+uh, in cases where death is... 
 ---
 template: overlap
 you know, with or without medical intervention
@@ -2737,6 +2741,9 @@ What?
 Um, yeah. 
 ---
 Nonno helped me with the application before...
+---
+## DAVIDE:
+[grunts]
 ---
 ## VALERIA:
 Why didn’t you tell me?
@@ -2944,7 +2951,7 @@ Make up your own rules?
 ## VALERIA:
 Testa dura! 
 ---
-When I’m that age, girls, just pull the plug.
+Girls, when I’m that age, girls, just pull the plug.
 ---
 template: overlap
 ## DEV:
@@ -3098,7 +3105,7 @@ Yael!
 ## PAOLA:
 She doesn’t date! 
 ---
-If she did, you bet your tuches I would harass her.
+Because if she did, you bet your tuches I would ask her.
 ---
 ## DEV:
 It’s not that I don’t date.
@@ -3156,7 +3163,7 @@ Avrai molti fidanzati.
 I really like him, Nonna.
 ---
 ## PAOLA:
-I dated a goy guy once, you know.
+You know, I dated a goy guy once.
 ---
 ## DEV:
 Really?
@@ -3180,13 +3187,13 @@ grunt
 ## PAOLA:
 Anyway. 
 ---
-There was this handsome young blonde man 
+There was this handsome blonde man 
 ---
 who fixed things around the convent. 
 ---
-He was kind. 
+Never said a word to anyone about who I was.
 ---
-Never said a word to anyone about who I was. 
+He was so kind. 
 ---
 I think his name was Giorgio, 
 ---
@@ -3202,7 +3209,7 @@ You sang?
 ## PAOLA:
 Of course! 
 ---
-The nuns taught me all sorts of songs.
+The nuns taught us all sorts of songs.
 ---
 ## DEV:
 Nonna, I think you’re getting confused 
@@ -3210,11 +3217,11 @@ Nonna, I think you’re getting confused
 with The Sound of Music.
 ---
 ## PAOLA:
-No, they taught me all sorts of Christian songs.
+No, they taught us all sorts of Christian songs.
 ---
 And By the way, 
 ---
-the movie was garbage, total nonsense.
+that movie was total garbage, nonsense.
 ---
 template: overlap
 ## YAEL:
@@ -3224,7 +3231,7 @@ We know!
 We know!
 ---
 ## PAOLA:
-When we were running for our lives through the hills to Italy, 
+When we were running through the kills of Italy, 
 ---
 you think we could sing and dance? 
 ---
@@ -3241,13 +3248,13 @@ template: song
 So what happened to Rolfe?
 ---
 ## PAOLA:
-Oh. Well, when the War was over, 
+Oh. Well, when after the War was over, 
 ---
 I wanted to find my family. 
 ---
-The nuns wanted to keep me of course. 
+The nuns wanted to keep me. 
 ---
-They were very kind, but I wanted my Mama. 
+but I had to find my Mama. 
 ---
 I didn’t know she was dead. 
 ---
