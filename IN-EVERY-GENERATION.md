@@ -7,11 +7,11 @@ title: TITLE
 author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-orange-zest: character-four
-lavender-purple: character-five
+plum-purple: valeria
+stiletto-red: dev
+st-tropaz-blue: paola
+orange-zest: davide
+lavender-purple: yael
 green-goblin: character-six
 shocking-pink: character-seven
 brown-clay: character-eight
@@ -63,6 +63,7 @@ END SETTINGS
 ---
 template: title
 IN EVERY GENERATION
+
 by Ali Viterbi
 ---
 template: music
@@ -3793,7 +3794,9 @@ then the Germans.
 ---
 Who’s next?
 ---
-Five hundred or even fifty years is a long time for the young. 
+Five hundred or even fifty years 
+---
+is a long time for the young. 
 ---
 But for the old, 
 ---
@@ -4155,7 +4158,9 @@ Ah ah, in inglese, tesoro mio.
 (Ah, ah, in English, my treasure.)
 ---
 ## PAOLA:
-I’m hungry. Is time to eat?
+I’m hungry. 
+---
+Can we eat?
 ---
 ## DAVIDE:
 It de Ma Nishtanah. 
@@ -4190,7 +4195,7 @@ Tu vuoi?
 Just a little.
 ---
 ## PAOLA:
-Davide!
+ah, ah, ah....Davide!
 ---
 ## DAVIDE:
 Four cups of wine, yes?
@@ -4204,7 +4209,9 @@ not all four before food.
 Is holiday!
 ---
 ## PAOLA:
-Is Tuesday! You have work tomorrow.
+Is Tuesday! 
+---
+You have to go to work tomorrow.
 ---
 ## DAVIDE:
 Every day is holiday in America!
@@ -4307,7 +4314,7 @@ Fine. I go to sinagoga.
 ---
 I talk to Rabbi. 
 ---
-He find us husband for Rosa. 
+Rabbi find us husband for Rosa. 
 ---
 Husband for bottle of wine? 
 ---
@@ -4332,8 +4339,7 @@ I tell her I know all de prayers.
 ---
 She no believe me. 
 ---
-Then I start saying dem. 
----
+Then I start to say dem. 
 She believe me den.
 ---
 ## DAVIDE:
@@ -4370,15 +4376,15 @@ Paola.
 ## PAOLA:
 What? 
 ---
-He no lift finger to save Jews. 
+He no lift finger to help the Jews. 
 ---
 He sit there twirling thumbs on ‘quel posto’ 
 ---
-when Nazis come in and put all of us on trains.
+when Nazis come and put us on trains.
 ---
 Rosa said he save Rabbi. 
 ---
-She heard on radio he save Zolli.
+She hear on radio he save Zolli.
 ---
 ## DAVIDE:
 Zolli è un traditore.
@@ -4506,7 +4512,7 @@ So?
 Is what we do.
 ---
 ## PAOLA:
-In old country, maybe.
+Maybe in old country.
 ---
 ## DAVIDE:
 Paola. Our brothers and sisters
@@ -4534,6 +4540,10 @@ Lo so. Perdonami.
 ---
 template: noise
 knocking
+---
+template: noise
+## Paola:
+Shhhh Shhh Shhhh
 ---
 ## DAVIDE:
 Paola, it no is our door. 
@@ -4593,12 +4603,12 @@ Mi Chamocha Ba...]
 Gioia?
 ---
 ## PAOLA:
-In convent I try to make Seder. 
+In convent, I try to make Sedar. 
 ---
 I take... 
 ---
 template: overlap
-the comunione
+you know...the comunione
 
 ## DAVIDE:
 Communion wine.
@@ -4606,7 +4616,7 @@ Communion wine.
 ## PAOLA:
 I take communion wine and uh wafer. 
 ---
-For Matzah. 
+To make the Matzah. 
 ---
 But I no remember prayers. 
 ---
@@ -4626,7 +4636,7 @@ I still remember
 ---
 but I no remember de Jewish prayers. 
 ---
-I think that my parents be mad at me. 
+And uh...I think that my parents be mad at me. 
 ---
 How I remember “Pater noster” 
 ---
@@ -4652,10 +4662,10 @@ Yes.
 Is not same though.
 ---
 ## PAOLA:
-Is not same, no.
+No,is not same.
 ---
 ## PAOLA:
-Did you make a sedar in the War?
+Did you make a seder in the War?
 ---
 Parla con me, tesoro mio.
 
@@ -4688,7 +4698,7 @@ No. No one at work ask me.
 ---
 When I clean ‘quel posto’ 
 ---
-no one ask me ‘oh where you from?
+no one say ‘oh where you from?
 ’ 
 ---
 They no look in eyes, just walk by.
@@ -4709,7 +4719,7 @@ I am me.
 ## PAOLA:
 We in America now. 
 ---
-Dis is first Seder in America. 
+Dis our first Seder in America. 
 ---
 We no have people listening. 
 ---
@@ -4753,7 +4763,7 @@ We no need Maror to show us
 “bitterness of slavery.”
 ---
 ## PAOLA:
-Next year be more easy. 
+Next year, it be more easy. 
 ---
 And more easy year after year after.
 ---
@@ -4767,7 +4777,7 @@ I will make more easy.
 ---
 I make petto di manzo (brisket) like your Mama. 
 ---
-You make la minestra (soup) like my Nonna.
+And you make la minestra (soup) like my Nonna.
 ---
 ## DAVIDE:
 And piccola Valeria say Mah Nishtana.
@@ -4807,10 +4817,10 @@ E li spingerai tutti fuori dalla tua vagina?
 If I have to.
 ---
 ## PAOLA:
-In dis small too hot apartment?
+In dis hot, too small apartment?
 ---
 ## DAVIDE:
-We move to big house one day. 
+We move to big house some day. 
 ---
 With garden.
 ---
@@ -4847,7 +4857,7 @@ maybe we start tonight.
 No make joke.
 ---
 ## PAOLA:
-Is no joke.
+No, is joke.
 ---
 ## DAVIDE:
 Is no joke?
@@ -4905,9 +4915,9 @@ Can I make bush burn now?
 After dinner.
 ---
 ## DAVIDE:
-I eat quickly. 
+I eat quick.
 ---
-We do prayers quickly.
+We say prayers quick.
 ---
 ## PAOLA:
 More prayers?
@@ -4950,7 +4960,7 @@ And safe?
 We never let them leave de house.
 ---
 ## PAOLA:
-Ha! They will hate us.
+Ha! Then they hate us.
 ---
 ## DAVIDE:
 No one could hate you, gioia.
@@ -5019,10 +5029,10 @@ Dat was in DP camp.
 You better now.
 ---
 ## PAOLA:
-We no know dat.
+We don't know dat.
 ---
 ## DAVIDE:
-We were starving. 
+Ah, We were starving. 
 ---
 Doctor said he no have chance.
 ---
@@ -5030,7 +5040,7 @@ Doctor said he no have chance.
 I know what Doctor say.
 ---
 ## DAVIDE:
-But now we healthy now. 
+But we healthy now. 
 ---
 Good, strong bones, yes? 
 ---
@@ -5044,6 +5054,10 @@ We eat.
 ---
 No prayer, basta. 
 ---
+## PAOLA:
+[laughter]
+---
+## DAVIDE:
 I get food. 
 ---
 For make bones more strong.
@@ -5121,6 +5135,8 @@ No.
 ---
 I no in camp.
 ---
+I was in church and I was fine.
+---
 In camp is survivor. 
 ---
 ## DAVIDE:
@@ -5144,7 +5160,7 @@ gioia, just talk to me.
 ## PAOLA:
 How you going to tell piccola Valeria one day 
 ---
-if you won’t even talk to me now?
+when you won’t even talk to me now?
 ---
 ## DAVIDE:
 We no tell piccola Valeria. 
@@ -5219,7 +5235,7 @@ You no like me still.
 ## PAOLA:
 No. 
 ---
-I like you more dan I ever like you.
+I like you, I like you more dan I ever like you.
 ---
 Husband and wife need to tell each other everything. 
 ---
@@ -5228,7 +5244,7 @@ Good and bad.
 Is only way to be free.
 ---
 ## DAVIDE:
-I no give my food to younger boys when I was in de Camp.
+I no give food to younger boys in the war.
 ---
 ## PAOLA:
 What?
@@ -5266,7 +5282,7 @@ I knew dey were going to send me to de showers.
 ---
 I was too sick. 
 ---
-I change place with healthy boy. 
+I change places with a healthy boy. 
 ---
 Judel. 
 ---
@@ -5278,8 +5294,14 @@ I survive.
 ---
 Is no miracle.
 ---
+---
 ## DAVIDE:
-Paola? Tesoro mio?
+Paola?
+---
+Tesoro mio?
+
+## PAOLA:
+[shhhhh]
 ---
 ## PAOLA:
 You make miracle. 
@@ -5289,9 +5311,9 @@ You make miracle to survive.
 ---
 No God. 
 ---
-You make miracle to love me. 
+You make miracle for to love me. 
 ---
-For make hundred babies. 
+For to have hundred babies. 
 ---
 ## PAOLA:
 You are best person I ever know, Davide.
@@ -5314,13 +5336,15 @@ Davide, we no need to tell.
 ---
 We tell nice story.
 ---
-To be more better for Piccolo Yosef.
+For to be better for Piccolo Yosef.
 ---
 ## DAVIDE:
 And piccola Valeria.
 ---
 ## PAOLA:
-Sì. For to make hundred babies.
+Sì. 
+---
+And for to make hundred babies.
 ---
 ## DAVIDE:
 Sì. 
@@ -5425,16 +5449,10 @@ two...
 three!
 ---
 ## PAOLA:
-Ahhh!
+[laughter]
 ---
 ## DAVIDE:
 Look at my sexy American wife!
----
-## PAOLA:
-No!
----
-template: noise
-clapping
 ---
 ## DAVIDE:
 .song[
@@ -5478,6 +5496,9 @@ Arthur Murray.
 It was much too much in a hurry.
 ---
 ## PAOLA:
+[laughter]
+---
+## PAOLA:
 I hear “Dayeinu, die, die” 
 ---
 I think die.
@@ -5510,14 +5531,20 @@ Ok?
 template: title
 END OF PART TWO.
 ---
+template: music
+---
 Part 3: chag ha-aviv (the festival of spring)
+---
+The future: 31 years after Part One.
 ---
 April 2050, 15th of Nissan 5810. Los Angeles, California.
 ---
 ## DEV:
 Hineni, 
 ---
-Here I am, ready to perform 
+Here I am, 
+---
+ready to perform 
 ---
 the Levi Family tradition of 
 ---
@@ -5531,12 +5558,13 @@ Let all who are in need,
 ---
 come and share the Pesach meal.” 
 ---
-So, as our Nonno did in Auschwitz for Judel, 
+And so, as our Nonno did in Auschwitz for Judel, 
 ---
 we too shall share our food with those in need.
 ---
 ## YAEL:
 Amen.
+---
 ---
 ## YAEL:
 Can I save some for the girls?
@@ -5583,1050 +5611,2201 @@ What is she getting?
 ---
 ## VALERIA:
 [grunts]
+
 (You’ll have to see.)
 ---
 ## YAEL:
 Ugh fine.
---- 
+---
 Come ti senti?
 
 (How are you feeling, Ma?)
 ---
 ## VALERIA: 
+[grunts]
+
 (My two girls under the same roof? I couldn’t be happier.)
-## YAEL: takes her mother’s hand.
+---
 ## YAEL:
 Me too, Ma.
-## VALERIA: grunts (She missed you.)
+---
+## VALERIA: 
+[grunts]
+
+(She missed you.)
+---
 ## YAEL:
 You know I missed her too.
-## DEV: re-enters with dessert.
-dev
-Nonna ## VALERIA:’s Torta di Pasqua.
+---
+## DEV:
+Nonna Valeria’s Torta di Pasqua.
+---
 ## YAEL:
-Oh wow! It looks amazing.
-## VALERIA: gives a thumbs up (Yeah, it looks beautiful, hon.). 
+Oh wow! 
+---
+It looks amazing.
+---
+## VALERIA: 
+[grunts]
+
+(Yeah, it looks beautiful, hon.). 
+---
 ## DEV:
 Thanks, Ma.
-They eat in silence for a bit.
+---
+template: noise
+eating
+---
 ## YAEL:
 It was a really nice service last week.
-You did a beautiful job. 
+---
+You did a beautiful job.
+---
 ## DEV:
 Thanks.
+---
 ## YAEL:
 I’m glad Beit Yisrael is safe again. 
+---
 Dad would have wanted to be buried there.
+---
 ## DEV:
 Yeah.
+---
 ## YAEL:
 And so many of his old congregants showed up. 
+---
 I thought they’d all left or converted.
+---
 ## DEV:
 Yeah, most of them have.
-## DEV:
-...
-## YAEL:
-...
+---
+---
 ## DEV:
 I can’t believe Zoey starts middle school in the fall. 
-## VALERIA: grunts (They grow up so fast.)
+---
+## VALERIA: 
+[grunts] 
+
+(They grow up so fast.)
+---
 ## YAEL:
 I know, right?
+---
 ## DEV:
 And those boobies!
+---
 ## YAEL:
 I know! 
+---
 ## DEV:
-They’re like mini ## YAEL:-sized boobies.
+They’re like mini Yael-sized boobies.
+---
 ## YAEL:
 I took her bra shopping for the first time last week.
+---
 ## DEV:
-Oh my god.
+Oh my God.
+---
 ## YAEL:
 She was mortified.
+---
 ## DEV:
 I bet. 
+---
 ## YAEL:
 Like “Mom, give me your wallet and go outside!”
+---
 ## DEV:
 Oof. 
+---
 ## YAEL:
-I went into the dressing room with her. She threw a fit.
-And I’m like, you think I’m bad? Imagine doing this with Grandma like Aunt ## DEV: / and I did!
-## VALERIA: grunts (I wasn’t as bad as your Nonna!).
+I went into the dressing room with her. 
+---
+She threw a fit.
+---
+And I’m like, you think I’m bad? 
+---
+Imagine doing this with Grandma 
+---
+like Aunt Dev and I did!
+---
+## VALERIA: 
+[grunts]
+
+(I wasn’t as bad as your Nonna!).
+---
 ## DEV:
-Remember? I used to stuff my bras with socks.
+Remember? 
+---
+I used to stuff my bras with socks.
+---
 ## YAEL:
 And I used to pull them out.
+---
 ## DEV:
 At Hebrew school.
+---
 ## YAEL:
 Yeah sorry.
+---
 ## DEV:
-We’d be learning like the Mi Chamocha or something and everyone would be like “look Jewlan lost her boobies! Jewlan lost her boobies!”
+We’d be learning like the Mi Chamocha or something 
+---
+and everyone would be like 
+---
+“look Jewlan lost her boobies!" 
+---
+"Jewlan lost her boobies!”
+---
 ## YAEL:
 Jewlan?
+---
 ## DEV:
 You don’t remember?
-## YAEL:
-...
+---
 ## DEV:
-That’s what everyone at Hebrew school used to call me. Like Mulan. But Jew-Lan.
+That’s what everyone at Hebrew school used to call me. 
+---
+Like Mulan. 
+---
+But Jew-Lan.
+---
 ## YAEL:
 Oh my gosh, right.
-A beat. ## DEV: makes a decision.
+---
 ## DEV:
-(fake casual)
-You know, Zoey’s gonna need her Aunt ## DEV: for Bat-Mitzvah stuff pretty soon.
+You know, 
+---
+Zoey’s gonna need her Aunt Dev 
+---
+for Bat-Mitzvah stuff pretty soon.
+---
 ## YAEL:
-Oh ## DEV:, come on/
+Oh Dev, come on
+---
 ## DEV:
-She might go to Catholic school, but she’s still Jewish.
-## VALERIA: grunts (Of course she is!)
-yael
-I know, Ma. But she’s still pretty traumatized. 
+She might go to Catholic school, 
+---
+but she’s still Jewish.
+---
+## VALERIA: 
+[grunts] 
+
+(Of course she is!)
+---
+## YAEL:
+I know, Ma. 
+---
+But she’s still pretty traumatized. 
+---
 I’m still traumatized.
+---
 ## DEV:
 It was five years ago. 
+---
 ## YAEL:
-Wouldn’t you be if you picked up your six-year-old daughter from school with a black eye? They called her / a 
-## VALERIA: grunts (I thought you weren’t going to talk about this.)
+Wouldn’t you be 
+---
+if you picked up your six-year-old 
+---
+daughter from school with a black eye?
+---
+They called her a
+---
+## VALERIA: 
+[grunts] 
+
+(I thought you weren’t going to talk about this.)
+---
 ## DEV:
-You’re right. I’m sorry.
-A beat.
+You’re right. 
+---
+I’m sorry.
+---
 ## YAEL:
 I did just teach her about the Shoah.
+---
 ## DEV:
 Oh?
+---
 ## YAEL:
-Yeah, she started studying World War 2 in history class. They kind of skirt around it.
-## DEV:
+Yeah, she started studying World War 2 in history class. 
+---
+They kind of skirt around it.
+---
+## DEV: 
 Even at Saint Mary’s?
+---
 ## YAEL:
 Yup.
-And she must have told Maya because now Maya’s afraid to go in the shower. 
-dev
+---
+And she must have told Maya 
+---
+because now Maya’s afraid to go in the shower. 
+---
+## DEV:
+
 Did that ever happen to you?
-## VALERIA: grunts (I used to have to go in the shower with her.)
+---
+## VALERIA: 
+[grunts] 
+
+(I used to have to go in the shower with her.)
+---
 ## YAEL:
 Oh my gosh, right.
+---
 ## DEV:
 My first memory is being in the gas chambers.
+---
 ## YAEL:
 What?
+---
 ## DEV:
-Yeah. I mean, obviously not. But, like, my first memory is of a series of recurring nightmares I had when I was little where I was in Auschwitz.
+Yeah. 
+---
+I mean, obviously not. 
+---
+But, like, 
+---
+my first memory 
+---
+is of a series of recurring nightmares 
+---
+I had when I was little 
+---
+where I was in Auschwitz.
+---
 ## YAEL:
-Wait. Oh my gosh me too. I used to have Holocaust dreams all the time.
+Wait. 
+---
+Oh my gosh me too. 
+---
+I used to have Holocaust dreams all the time.
+---
 ## DEV:
 Seriously?
-yael
-Yeah. There’s this one where I was in the shower room and gas started coming out, and I tried to scream and nothing came out of my mouth.
-## DEV:
-I had this one once, I think I was maybe 11 or 12 or something, where you and I had to dig Nonno’s grave. Like the Nazis were yelling at us, and we had to dig his grave to shoot him into.
-## VALERIA: grunts (Non fatte le noiose, girls!).
-yael
-Did you ever have the one where you’re running over the Italian border, and you / trip?
-dev
-Trip? OhmygodYES.
+---
 ## YAEL:
-Sometimes they’re doing selections. And I lie and tell them I’m someone else. And they take the fake ## YAEL: away to the showers.
+Yeah. 
+---
+There’s this one 
+---
+where I was in the shower room 
+---
+and gas started coming out, 
+---
+and I tried to scream 
+---
+and nothing came out of my mouth.
+---
 ## DEV:
-Woah. That’s dark, sis.
-A beat.
+I had this one once, 
+---
+I think I was maybe 11 or 12 or something, 
+---
+where you and I had to dig Nonno’s grave. 
+---
+Like the Nazis were yelling at us, 
+---
+and we had to dig his grave to shoot him into.
+---
+## VALERIA: 
+[grunts] 
+
+(Non fatte le noiose, girls!)
+
+(Don't be morbid, girls!)
+---
+## YAEL:
+Did you ever have the one 
+---
+where you’re running over the Italian border, 
+---
+template: overlap
+and you trip?
+
+## Dev:
+Trip? OhmygodYES.
+---
+## YAEL:
+Sometimes they’re doing selections. 
+---
+And I lie and tell them I’m someone else. 
+---
+And they take the fake Yael away to the showers.
+---
 ## DEV:
-Did you see? The last Shoah survivor just...
+Woah. 
+---
+That’s dark, sis.
+---
+## DEV:
+Did you see? 
+---
+The last Shoah survivor just
+---
 ## YAEL:
 I know.
-A beat. A long one. This should land.
+---
+---
 ## DEV:
-I thought you were such a prick for making Nonna record all her stories, but...
+I used to think you were such a prick 
+---
+for making Nonna record all her stories, but...
+---
 ## YAEL:
 I was kind of a prick.
+---
 ## DEV:
-But now you can show them to the girls. Instead of whatever bullshit they’re learning at Saint Mary’s.
+But now you can show them to the girls. 
+---
+Instead of whatever bullshit they’re learning at Saint Mary’s.
+---
 ## YAEL:
-It’s better than what they teach in public school. You know, two sides to the Holocaust and two sides to slavery and two sides to like Japanese / internment and
+It’s better than what they teach in public school. 
+---
+Two sides of the Holocaust 
+---
+and two sides to slavery 
+---
+and two sides to the
+Japanese internment
+---
 ## DEV:
-Exactly. Thank God you have those recordings.
+Exactly. 
+---
+Thank God you have those recordings.
+---
 ## YAEL:
 Yeah, but they’re just kids.
+---
 ## DEV:
 So were we.
+---
 ## YAEL:
-And look how we turned / out ha
+And look how we turned out, ha
+---
 ## DEV:
 At least we know where we come from. 
-A knock on the door. 
+---
+template: noise
+knocking at door
+---
 ## YAEL:
-Who is that? Shit!
-The knocking continues. ## YAEL: panics. She quickly and automatically hides the Seder plate and Jewish items, including the screen upon which they were reading their mothers’ thoughts.
-dev
+Who is that? 
+---
+Shit!
+---
+template: noise
+knocking continues
+---
+## DEV:
 What are you doing?
-yael
-Oh my god don’t be a martyr.
+---
+## YAEL:
+Oh my God don’t be a martyr.
+---
 ## DEV:
 I’m not.
+---
 ## YAEL:
 So help me!
-## VALERIA: grunts.
+---
+## VALERIA: 
+[grunts]
+---
 ## DEV:
-We don’t need to do this anymore. No one’s gonna / raid our
+We don’t have to do this anymore. 
+---
+template: overlap
+I mean, No one’s gonna raid our
+
 ## YAEL:
-I have two daughters, ## DEV:. You know I can’t be found with this / [stuff]
+I have two daughters, Dev. 
+---
+You know I can’t be found with this
+---
 ## DEV:
 Yes, that’s clear.
-More knocking.
+---
+template: noise
+More knocking
+---
 ## YAEL:
 You didn’t put the Mezuzah back on the door, did you?
-DeV
-Of course I did! 
+---
+template: overlap
+## DEV:
+Of course I did!
+
 ## YAEL:
-Seriously? Even after they ransacked your house?
+Seriously? 
+---
+Even after they ransacked your house?
+---
 ## DEV:
-Yes. I should answer. Just [leave it be].
-## DEV: exits the room to answer the door. ## YAEL: continues to cover up the Jewish items. 
-## VALERIA: grunts.
-YaeL
-I’m sure it’s nothing. Don’t worry.
-After a moment, ## DEV: returns.
+Yes. 
+---
+I should answer. 
+---
+Just 
+---
+## VALERIA: 
+[grunts]
+---
+## YAEL:
+I’m sure it’s nothing. 
+---
+Don’t worry.
+---
+---
 ## DEV:
-Just a package. Mom’s meds.
+Just a package. 
+---
+Mom’s meds.
+---
 ## YAEL:
 Oh.
-## YAEL: breathes a sigh of relief. 
+---
+---
+template: noise
+## YAEL: 
+breathes a sigh of relief.
+---
 ## YAEL:
-Sorry. I didn’t mean to [freak out]. Habit.
-## VALERIA: sticks out her tongue and waves it around.
+Sorry. I didn’t mean to
+---
+Habit.
+---
+## VALERIA:
+[grunts]
+---
+template: overlap
 ## YAEL:
-What is she / doing?
+What is she doing?
+
 ## DEV:
 More?
-## VALERIA: gives a thumbs up.
-## DEV: grabs a can of Diet Coke and feeds it to ## VALERIA: through a straw.
+---
 ## YAEL:
 Seriously?
+---
 ## DEV:
 That’s what the tongue means.
+---
 ## YAEL:
-Testa dura. It’s going to rot / her teeth
+Testa dura. 
+---
+It’s going to rot her teeth
+---
 ## DEV:
 Really?
+---
 ## YAEL:
 You’re right. Sorry.
-## YAEL: feeds the diet coke to ## VALERIA: and strokes her hair. ## DEV: wipes ## VALERIA:’s bib. A tender moment. They calm down.
+---
+---
 ## YAEL:
-That brisket was mmm so good. I’m stuffed.
-dev
-I was trying Mom’s old recipe. I remember she made it in 2019, you know, before the... It was Nonno and Nonna’s last...
+That brisket was mmm so good. 
+---
+I’m stuffed.
+---
+## DEV:
+I was trying Mom’s old recipe. 
+---
+I remember she made it in 2019, 
+---
+you know, before the... 
+---
+It was Nonno and Nonna’s last...
+---
 ## YAEL:
 Right, I loved that brisket.
+---
 ## DEV:
 You didn’t eat that brisket.
+---
 ## YAEL:
 What? Yes I did.
-## VALERIA: grunts.
+---
+## VALERIA: 
+[grunts]
+---
 ## DEV:
-Weren’t you a vegan or like a pescatarian or something like / that
+Weren’t you a vegan 
+---
+or like a pescatarian or something like that
+---
 ## YAEL:
 No I wasn’t.
+---
 ## DEV:
-Oh. I thought/
+Oh. I thought
+---
 ## YAEL:
-No. That was my partner in college. Nate Moore.
+No. That was my partner in college. 
+---
+Nate Moore.
+---
 ## DEV:
-Oh right. Nate Moore.
+Oh right. 
+---
+Nate Moore.
+---
 I didn’t like him.
+---
 ## YAEL:
 You never liked my partners.
+---
 ## DEV:
-Yeah well Miguel, can you blame me?
+Yeah well Miguel, 
+---
+can you blame me?
+---
 ## YAEL:
 Well.
-## VALERIA: grunts.
+---
 ## DEV:
 You never liked mine either.
+---
 ## YAEL:
-Yes I did. I liked Rachel.
+Yes I did. 
+---
+I liked Rachel.
+---
 ## DEV:
 Rachel was like seven years ago, Yaya.
+---
 And she cheated on me.
+---
+## VALERIA:
+[grunts]
+---
 ## YAEL:
-Oh. I didn’t-
+Oh. I didn’t...
+---
 Sorry.
+---
 ## DEV:
-It’s fine. It was a long time ago.
+It’s fine. 
+---
+It was a long time ago.
+---
 ## YAEL:
-Well. Is there someone I should not like now?
+Well. 
+---
+Is there someone I should not like now?
+---
 ## DEV:
 Nope. No one.
+---
 Between Mom and the synagogue, it’s like...
+---
 ## YAEL:
 Yeah.
+---
 ## DEV:
 There are 50 new families this year.
+---
 ## YAEL:
-Wow. You would think after...
+Oh! Wow. You would think after...
+---
 ## DEV:
-I know, but when Temple Sinai and Wilshire Boulevard folded, we got most of their congregants.
+I know, 
+---
+but when Temple Sinai and Wilshire Boulevard folded, 
+---
+we got most of their congregants.
+---
 ## YAEL:
 It’s because you’re Head Rabbi.
+---
 ## DEV:
-I’m sure that’s / not
+I’m sure that’s not
+---
 ## YAEL:
 Nonno would be so proud.
+---
 ## DEV:
 You think?
-## VALERIA: gives a thumbs up.
+---
+template: overlap
+## VALERIA:
+[grunts]
+
 ## YAEL:
 Yeah.
-A beat.
+---
 ## DEV:
-He would want his great-granddaughter to have a Bat-/ Mitzvah
+He would want his great-granddaughter 
+---
+to have a Bat-Mitzvah
+---
 ## YAEL:
-Seriously? I thought you were gonna drop it.
+Seriously? 
+---
+I thought you were gonna drop it.
+---
 ## DEV:
 I know, I am.
-I’m just saying, Zoey and Maya will probably be the only/
+---
+I’m just saying, 
+---
+template: overlap
+Zoey and Maya will probably be the only
+
 ## YAEL:
-Don’t say that. 
+Don’t say that.
+---
 You could get off the adoption waitlist soon.
+---
 ## DEV:
 Ha!
+---
 ## YAEL:
-Stephanie, another doctor at the hospital, she waited for six years.
+Stephanie, another doctor at the hospital, 
+---
+she waited for six years.
+---
 ## DEV:
-Is Stephanie a Chinese Jewish lesbian Rabbi? I had no idea there was another one! 
+Is Stephanie a Chinese Jewish lesbian Rabbi? 
+---
+I had no idea there was another one! 
+---
 ## YAEL:
-The ban lifted two years ago.
+The ban was lifted two years ago.
+---
 ## DEV:
 No I know.
-Anyway, I reserved Zoey a slot. March 2052.
-## YAEL:
-I don’t know. We’ll see.
-## DEV:
-She needs to have a Bat-Mitzvah, Yaya.
-## VALERIA: grunts.
+---
+Anyway, I reserved Maya a slot. 
+---
+March 2052.
+---
+
 ## YAEL:
 You know she can’t speak Hebrew.
+---
+## VALERIA: 
+[grunts]
+---
 ## DEV:
 I’ll teach her!
+---
 ## YAEL:
 I’d need to talk to Miguel.
+---
 ## DEV:
 Screw Miguel.
+---
 ## YAEL:
-He’s scared. After what he’s been through, he has a right to be/
+He’s scared. 
+---
+After what he’s been through, 
+---
+he has a right to be
+---
 ## DEV:
-The synagogue is a fortress. There’s a huge wall covered in barbed wire, face recognition security at every entrance, and armed guards and metal detectors lining the Sanctuary and Social Hall.
+The synagogue is a fortress. 
+---
+There’s a huge wall covered in barbed wire, 
+---
+face recognition security at every entrance, 
+---
+and armed guards and metal detectors 
+---
+lining the Sanctuary and Social Hall.
+---
 ## YAEL:
-Exactly! I don’t want a 12-year-old having to go through all that just to learn some stupid language.
+Exactly! 
+---
+I don’t want a 12-year-old 
+---
+having to go through all that 
+---
+just to learn some stupid language.
+---
 ## DEV:
 Stupid? Really?
+---
 ## YAEL:
-I didn’t mean / that
+I didn’t mean that
+---
+template: overlap
 ## DEV:
 Yes you did. 
-## VALERIA: grunts.
+
+## VALERIA: 
+[grunts]
+---
 ## YAEL:
-Look. It’s one thing if you want to have [Jewish] stuff all over your house, but/
+Look. 
+---
+It’s one thing if you want to 
+---
+have stuff all over your house, but
+---
 ## DEV:
-You can say “Jewish.” It’s not like Voldemort. It’s not a bad word.
+You can say “Jewish.” 
+---
+It’s not like Voldemort. 
+---
+It’s not a bad word.
+---
 ## YAEL:
-Ohmygod that’s not what I was/
+Ohmygod that’s not what I was saying.
+---
 ## DEV:
 You used to think you were such an activist.
+---
+template: overlap
 ## YAEL:
-I’m still an/
+I’m still an
+
 ## DEV:
 How?
+---
 ## YAEL:
 What?
+---
 ## DEV:
-Tell me. How are you still an activist? 
+Tell me. 
+---
+How are you still an activist? 
+---
 ## YAEL:
 Do we have to do this right now?
+---
 ## DEV:
 I’m just asking.
+---
 ## YAEL:
-I’m keeping my children alive. Protecting them is my / activism.
+I’m keeping my children alive. 
+---
+Protecting them is my activism.
+---
 ## DEV:
-You don’t hide who you are. That’s what being an activist is. You don’t disappear. 
-I can’t! I can’t just... pass. So you are supposed to stand up for/ 
+You don’t hide who you are. 
+---
+That’s what being an activist is. 
+---
+You don’t disappear. 
+---
+I can’t! 
+---
+I can’t just... pass. 
+---
+template: overlap
+So you are supposed to stand up for
+
 ## YAEL:
-OK so I’m a bad Jew. Sue me.
-## VALERIA: grunts.
+OK so I’m a bad Jew. 
+---
+Sue me.
+---
+## VALERIA:
+[grunts]
+---
 ## DEV:
-Are you even listening to me? That’s not what I was saying. It’s not about whether you’re a good Jew or a bad / Jew
+Are you even listening to me? 
+---
+That’s not what I was saying. 
+---
+It’s not about whether you’re a good Jew 
+---
+template: overlap
+or a bad Jew
+
 ## YAEL:
-Yes it is. You’re this like super Jew/
+Yes it is. 
+---
+You’re this like super Jew
+---
+template: overlap
 ## DEV:
-Oh / come on
+Oh come on
+
 ## YAEL:
-You’re this super Jew and I’m like this outsider. You’re in, I’m out. And fine, whatever. / I’m allowed
+You’re this super Jew 
+---
+and I’m like this outsider. 
+---
+You’re in, I’m out. 
+---
+And fine, whatever. 
+---
+I’m allowed
 ## DEV:
-There’s literally thousands of years of Judaism in your literal blood.
+There’s literally thousands of years 
+---
+of Judaism in your literal blood.
+---
+template: overlap
 ## YAEL:
-Don’t make this about/
+Don’t make this about
+
 ## DEV:
-You can’t call yourself an outsider. You can’t.
+You can’t call yourself an outsider. 
+---
+You can’t.
+---
 ## YAEL:
-Ok. Whatever. I’m not an outsider, but I’m not like, like Moses.
+Ok. Fine. 
+---
+I’m not an outsider, 
+---
+but I’m not like, 
+---
+like Moses.
+---
 ## DEV:
 What?
+---
 ## YAEL:
-Leading our people out of shootings and cross burnings and University quotas into some like better world.
+Leading our people out of shootings 
+---
+and cross burnings 
+---
+and University quotas 
+---
+into some like better world.
+---
 ## DEV:
 You think that’s what I’m doing?
+---
 ## YAEL:
-And that’s good. Really. I’m proud of you. But that’s not the life I chose.
+And that’s good. 
+---
+Really. 
+---
+I’m proud of you. 
+---
+But that’s not the life I chose.
+---
 ## DEV:
-I’m just trying to give hope, like help people survive this, so that their children don’t have to freak out whenever there’s a knock on the door. So they can have a Bat-Mitzvah.
-## VALERIA: grunts.
+I’m just trying to give hope, 
+---
+like help people survive this, 
+---
+so that their children don’t have to freak out 
+---
+whenever there’s a knock on the door. 
+---
+So they can have a Bat-Mitzvah.
+---
 ## YAEL:
-You sound like Dad: “today I helped bring people closer to God, ## YAEL:, what did you do with your day?”
+You sound like Dad: 
+---
+“today I helped bring people closer to God, Yael, 
+---
+what did you do with your day?”
+---
+template: overlap
 ## DEV:
-Don’t make this about/
+Don’t make this about
+
 ## YAEL:
-I’m just saying like being super Jew always came first, before Mom, before us, and this was before he ran off with what’s-her-name, president of the sisterhood/
+I’m just saying 
+---
+being super Jew always came first, 
+---
+before Mom, 
+---
+before us, 
+---
+and this was before he ran off 
+---
+with what’s-her-name, 
+---
+president of the sisterhood
+---
 ## DEV:
-So you’re abandoning your people because our father left us?
+So you’re abandoning your people 
+---
+because our father left us?
+---
 ## YAEL:
-Don’t exaggerate! I am NOT “abandoning” / our
+Don’t exaggerate! 
+---
+template: overlap
+I am NOT “abandoning” 
+
 ## DEV:
-Even Mom started to daven again after she lost her job.
-## VALERIA: grunts.
+Even Mom started to daven again 
+---
+after she lost her job.
+---
+template: overlap
+## VALERIA: 
+[grunts]
+
 ## YAEL:
 And whose fault is that?
+---
 ## DEV:
 What are you saying?
+---
 ## YAEL:
-You don’t think your “activism” is the reason she was fired?
+You don’t think your “activism” 
+---
+is the reason she was fired?
+---
 ## DEV:
-They fired Jewish professors all over the country, Yaya.
+They fired Jewish professors 
+---
+all over the country, Yaya.
+---
 ## YAEL:
 Ok. Then what about my daughter?
+---
 ## DEV:
 I thought we weren’t going to get into this.
+---
 ## YAEL:
-I just... you haven’t changed. Even after you put Zoey in danger/
+I just... 
+---
+you haven’t changed.
+---
+Even after you put Zoey in danger
+---
 ## DEV:
-I would never put my niece in / danger
+I would never put my niece in  danger
+---
 ## YAEL:
-They knew she was Jewish because of the picture of the two of you online. You know that.
-And I thought after all these years, you would have understood. 
+They knew she was Jewish 
+---
+because of the picture of the two of you online. 
+---
+You know that.
+---
+And I thought after all these years, 
+---
+you would have understood.
+---
 ## DEV:
-I do understand! I told you a million times. I understand why you were scared. That’s human. I said I wouldn’t be with the girls in public anymore.
+I do understand! 
+---
+I told you a million times. 
+---
+I understand why you were scared. 
+---
+That’s human. 
+---
+I said I wouldn’t be with the girls in public anymore.
+---
+template: overlap
 ## YAEL:
-That’s not / what I was
-dev
-I wasn’t the one that cut off all communication after that, Yaya. You did the same thing with Dad. When things get tough, you just BAM, shut people out of your life.
+That’s not what I was
+
+## DEV:
+I'm not the one 
+---
+that cut off all communication after that, Yaya. 
+---
+You did the same thing with Dad. 
+---
+When things get hard, 
+
+you just BAM, 
+---
+shut people out of your life.
+---
+template: overlap
 ## YAEL:
 To protect my family! 
+
 ## DEV:
-Oh come on. I’m not the bad guy here.
+Oh come on. 
+---
+template: overlap
+I’m not the bad guy here.
+
 ## YAEL:
 No. Just the martyr.
-## VALERIA: grunts.
+---
+## VALERIA: 
+[grunts]
+---
 ## DEV:
-In Auschwitz, Nonno gave his food to the younger boys. 
+In Auschwitz, 
+---
+Nonno gave his food to the younger boys.
+---
 It’s the least we can do.
+---
 ## YAEL:
-I’m not Nonno! I can’t be Nonno!
+I’m not Nonno! 
+---
+I can’t be Nonno!
+---
 ## DEV:
-But you can. That’s what I’m saying! It’s a choice.
+But you can. 
+---
+That’s what I’m saying! 
+---
+It’s a choice.
+---
 ## YAEL:
-I have kids, ## DEV:. I don’t get a choice.
+I have kids, Dev. 
+---
+I don’t get a choice.
+---
 ## DEV:
 Yes you do.
+---
 ## YAEL:
-What would you / know about 
+What would you know about 
+---
 ## DEV:
-I choose to put on this Kippah, Yaya, when I walk outside. But even if I didn’t, everyone still sees-
-(she motions at herself)
+I choose to put on this Kippah, Yaya, 
+---
+when I walk outside. 
+---
+But even if I didn’t, 
+---
+everyone still sees
+---
 I don’t get a choice.
+---
 ## YAEL:
-You’re right. / I’m sorry. That’s not what
+OK. You’re right. 
+
+I’m sorry. 
+---
+template: overlap
+That’s not what
+
 ## DEV:
-And you don’t have to think twice about holding your partner’s hand in public. I do. I have to. But I still choose to do it. And I still choose to put on a Kippah. Because this is who I am.
+And you don’t have to think twice 
+---
+about holding your partner’s hand in public. 
+---
+I do. 
+---
+I have to. 
+---
+But I still choose to do it. 
+---
+And I still choose to put on a Kippah. 
+---
+Because this is who I am.
+---
 ## YAEL:
-You’re a better person than me, ok? Is that what you want me to say?
+You’re a better person than me, ok? 
+---
+Is that what you want me to say?
+---
+template: overlap
 ## DEV:
-No! I just want / you to
+No! I just want you to
+
 ## YAEL:
-Stop. Can we please just.
-The girls were so happy we were talking again. Mom was so happy we were talking again.
+Stop. 
+---
+Just stop please.
+---
+The girls were so happy we were talking again. 
+---
+Mom was so happy we were talking again.
+---
 ## DEV:
 So am I!
+---
 ## YAEL:
 Really?
+---
 ## DEV:
 Of course! 
+---
 ## YAEL:
-Because we’re together again or because I’m the one taking Mom to the hospital so you can go off and lead another synagogue vigil?
+Because we’re together again 
+---
+or because I’m the one taking Mom to the hospital 
+---
+so you can go off and lead another synagogue vigil?
+---
+## VALERIA: 
+[grunts]
+---
 ## DEV:
 That is so unfair. 
+---
 You only started talking to me again when Mom got sick.
-## VALERIA: grunts.
+---
 ## DEV:
-And those vigils are important. Our community needs healing.
+And those vigils are important. 
+---
+Our community needs healing.
+---
+template: overlap
 ## YAEL:
-I know, that’s not / what I was-
+I know
+
 ## DEV:
 Most of our people either moved to Israel or 
-(indicating ## YAEL:)
+---
 Erased any semblance of who they are.
+---
 ## YAEL:
-/ Seriously?
-## VALERIA: grunts.
+Seriously?
+---
 ## DEV:
 We have to survive this somehow.
+---
 ## YAEL:
-Stop. Just stop, please. 
+Stop. 
+---
+Just stop, please. 
+---
 ## DEV:
-And things are finally getting back to normal. Your children have a real chance to grow up with all the joyful parts of Judaism, without fear / and hate
+And things are finally getting back to normal. 
+---
+Your children have a real chance of growing up 
+---
+with all the joyful parts of Judaism, 
+---
+without fear and hate
+---
 ## YAEL:
-I’m their mother! You’re not their... 
-You could have kids and raise them your own way.
+I’m their mother! 
+---
+You’re not their mother 
+---
+You could have kids 
+---
+and raise them your own way.
+---
 ## DEV:
 Well I’m not going to.
+---
 ## YAEL:
 What?
+---
 ## DEV:
-I took my name off the adoption list.
-## VALERIA: grunts.
-YaeL
+I took my name off the list.
+---
+## VALERIA: 
+[grunts]
+---
+## YAEL:
 Wait what?
+---
 ## DEV:
-Yeah. A few weeks ago. 
-At Dad’s funeral, I was just like thinking about our life growing up, how much he missed, and/
+Yeah. 
+---
+A few weeks ago. 
+---
+At Dad’s funeral, 
+---
+I was just like thinking about our life growing up, 
+---
+template: overlap
+how much he missed, and
+
 ## YAEL:
-You wouldn’t be like him/
+You wouldn’t be like him
+---
 ## DEV:
-You don’t know that. Plus all the death threats, it was just too...
+You don’t know that. 
+---
+Plus all the death threats, 
+---
+it was just too...
+---
 ## YAEL:
-Oh ## DEV:.
+Oh Dev.
+---
 ## DEV:
-But now you have a responsibility to raise your children/
+But now you have a responsibility 
+---
+template: overlap
+to raise your children
+
 ## YAEL:
-I’m sorry ## DEV:, but you can’t use my children as if they’re the last hope of the Jewish people, that’s completely / and ridiculously out of line!
+I’m sorry Dev, 
+---
+but you can’t use my children 
+---
+as if they’re the last hope 
+---
+of the Jewish people, 
+---
+template: overlap
+that’s completely and ridiculously out of line!
+
 ## DEV:
-But you have to face reality, Yaya! You can’t just la di da hide your head under the sand and hope / that
-## VALERIA: bangs her hands on the table in anger. 
-Everyone shuts up. Silence.
-## VALERIA: grunts again.
+But you have to face reality, Yaya! 
+---
+template: noise
+## VALERIA: 
+desperate grunts and banging 
+---
+## VALERIA: 
+[grunts]
+---
 ## YAEL:
-Shoot, we didn’t check Ma’s thingy. The thought-to-text / thingy.
+Shoot, we didn’t check Ma’s thingy. 
+---
+The thought-to-text thingy.
+---
 ## DEV:
-Where’s the screen? I thought it was right here.
+Where’s the screen? 
+---
+I thought it was right here.
+---
 ## YAEL:
-Oh God, I think I hid it with the Seder stuff.
-## YAEL: takes back out the screen with the though-to-text app. 
+Oh God, 
+---
+I think I hid it with the Seder stuff.
+---
 ## YAEL:
-Sorry, Ma. We didn’t see. 
-Here, we can look. What did you say?
-They look at the screen. We see all of what ## VALERIA: was trying to communicate:
+I'm sorry, Ma. 
+---
+We didn’t see. 
+---
+Here, we can look. 
+---
+What did you say?
+---
+## VALERIA: 
 “I want the Diet Coke.” 
+---
 “Miguel è un bastardo.” 
+---
 “Rachel è una bastarda.” 
+---
 “Girls!” 
+---
 “Girls, please!” 
+---
 “Seriously, stop!” 
+---
 “Oh, don’t drag me into this!” 
+---
 “Girls, please, stop it.” 
+---
 “Seriously, girls, enough.” 
-Next slide:
-“Pretty soon, it will just be you girls. That’s it. You have to take care of each other. Please take care of each other.”
-A long, long silence.
+---
+“Pretty soon, it will just be you girls. 
+---
+That’s it. 
+---
+You have to take care of each other. 
+---
+Please take care of each other.”
+---
+---
 ## DEV:
-I’m sorry. I didn’t mean to/
+I’m sorry. 
+---
+template: overlap
+I didn’t mean to
 ## YAEL:
-No. Me too. You know I....
+
+No. Me too. 
+---
+template: overlap
+You know I
+
 ## DEV:
 I know.
+---
 ## YAEL:
 I don’t want to go another five years without...
+---
 ## DEV:
-Me neither. Really.
-A long beat.
+Me neither. 
+---
+Really.
+---
+---
 ## DEV:
 Should we finish the Seder?
+---
 ## YAEL:
-## DEV:, it’s getting late and/
-## VALERIA: grunts (Please. I want to finish.)
+Dev, it’s getting late and
+---
+## VALERIA: 
+[grunts] 
+
+(Please. I want to finish.)
+---
 ## YAEL:
-Ok, Ma. Let’s do it. What’s left?
+Ok, Ma. 
+---
+Let’s do it. 
+---
+What’s left?
+---
 ## DEV:
-Elijah. I’ll get the door. 
-## DEV: gets up to the open the front door. She looks outside just to make sure no one’s listening. 
+Elijah. 
+---
+I’ll get the door. 
+---
 ## YAEL:
-(holding up Elijah’s cup)
-Remember Nonno used to sneakily drink the cup of wine and then say, “Guess Elijah was thirsty?”
-## VALERIA: grunts and gives a thumbs up (Yes! That was my favorite part of the Seder.)
-## DEV: returns to the table.
+You remember Nonno used to sneakily drink 
+---
+the cup of wine and then say, 
+---
+“Guess Elijah was thirsty?”
+---
+## VALERIA: 
+[grunts]
+
+(Yes! That was my favorite part of the Seder.)
+---
+---
 ## DEV:
 Ready?
-## YAEL: nods, but doesn’t sing along. ## VALERIA: bobs her head along and the lyrics to the prayer float up on the screen. 
-## DEV:
-(singing)
+---
+template: song
 Eliyahu ha-navee
 Eliyahu ha-Tish-bee
 Eliyahu Eliyahu Eliyahu ha-Giladee
+---
+template: song
 Beem-hei-ra b’ya-mei-nu
 Yavo ei-leinu
+---
+template: song
 Eem ma-shee-ach ben David
 Eem ma-shee-ach ben David
 Eliyahu ha-navee
 Eliyahu ha-Tish-bee
 Eliyahu Eliyahu Eliyahu ha-Giladee
-## VALERIA: gives a thumbs up (Thank you.)
+---
+## VALERIA:
+[grunts]
+
+(Thank you.)
+---
 ## YAEL:
-Yeah, that was beautiful sis. Ok, I should really get going.
+Yeah, that was beautiful sis. 
+---
+Ok, I should really get going.
+---
 ## DEV:
 Give the girls a big kiss from me.
+---
 ## YAEL:
 I will.
+---
 ## DEV:
-I wanted to let you know. I’m leading a mission trip to Auschwitz next Spring.
+I wanted you to know. 
+---
+I’m leading a mission trip to Auschwitz next Spring.
+---
 ## YAEL:
 Oh. Wow.
+---
 ## DEV:
-Yeah, it’s the first trip to the Camps since the travel ban was lifted. 
+Yeah, it’s the first trip to the Camps 
+---
+since the travel ban was lifted.
+---
 If you want, you should bring the girls.
+---
 ## YAEL:
 I’ll think about it.
+---
 ## DEV:
-This isn’t me pushing. But for Maya and Zoey/
+This isn’t me pushing. 
+---
+But for Maya and Zoey
+---
 ## YAEL:
-Please, ## DEV:. 
+Please, Dev. 
+---
 ## DEV:
-It’s dangerous, not knowing where your family comes from. 
+It’s dangerous, 
+---
+not knowing where your family comes from. 
+---
+template: overlap
 ## YAEL:
-## DEV:, it’s not the/
+Dev, it’s not the
+
 ## DEV:
 No I know.
+---
 But for your kids, for me, not knowing...
-I’m not saying it’s worse than shootings and all this, but... I think it’s a kind of trauma too.
-A beat. 
+---
+I’m not saying it’s worse 
+---
+than shootings and all this, but... 
+---
+I think it’s a kind of trauma too.
+---
 ## YAEL:
-When we were in China that summer and we went to the orphanage where you... you said it felt like a a dream. Like you got there and you were expecting it to, I don’t know... but it didn’t feel like home.
+When we were in China 
+---
+and we visited the orphanage where you... 
+---
+you said it felt like a a dream. 
+---
+Like you got there and you were expecting it to, 
+---
+I don’t know... 
+---
+but it didn’t feel like home.
+---
 ## DEV:
-I was angry. I was 23 years old!
+I was angry. 
+---
+I was 23 years old!
+---
 ## YAEL:
-Saying these prayers tonight, like Mah Nishtana, Eliyahu...
-it’s like I know all the words, they’re so engrained-
+Saying these prayers tonight, 
+---
+like Mah Nishtana, 
+Eliyahu...
+---
+it’s like I know all the words, 
+---
+they’re so engrained-
+---
 But it’s just a foreign language.
+---
 ## DEV:
-Our people survived horrible, horrible things to be able to say those words.
+Our people survived horrible, 
+---
+horrible things to be able to say those words.
+---
 ## YAEL:
 You sound like Nonna.
+---
 ## DEV:
 Well we did.
-A beat.
+---
 ## YAEL:
-I’ll think about the trip. I will. 
-Love you, Ma. I’ll see you tomorrow.
-## YAEL: kisses ## VALERIA: on the cheek. 
+I’ll think about the trip. 
+---
+I will. 
+---
+Love you, Ma. 
+---
+I’ll see you tomorrow.
+---
 ## YAEL:
 I didn’t think we would have to go through this again.
+---
 ## DEV:
 È la vita. 
+---
 ## YAEL:
-It’s nice Nonno and Nonna went together, you know? Just hours apart. I keep thinking about Mom... 
+It’s nice Nonno and Nonna went together, you know? 
+---
+I keep thinking about Mom...
+---
 ## DEV:
 Yeah. I know.
+---
 ## YAEL:
-It just seems like every time we get a second to breathe...
+It just seems like 
+---
+every time we get a second to breathe...
+---
 ## DEV:
-It’s when we’re the most tired that God does her work.
+It’s when we’re the most tired 
+---
+that God does her work.
+---
 ## YAEL:
-No ‘Rabbi ## DEV:’, / please.
+No ‘Rabbi Dev, please.
+---
 ## DEV:
 I’m not trying to go all ‘sermon’ on you. 
+---
 But there were flowers in the desert!
-It’s when we’re the most tired, just getting through to the next day, just surviving, that we can see the miracle. 
+---
+It’s when we’re the most tired, 
+---
+just surviving, just getting through to the next day, 
+---
+that we can see the miracle. 
+---
 I’m trying to make a miracle.
+---
 ## YAEL:
-(## YAEL: points to ## VALERIA:)
 What’s the miracle in this?
+---
 I’m trying to turn off my science brain. 
+---
 But tell me. 
-What’s the miracle in this, ## DEV:?
-A beat.
+What’s the miracle in this, Dev?
+---
 ## DEV:
 I don’t know yet.
-## VALERIA: grunts (You are the miracle. You are my miracles.)
-## YAEL: hugs ## DEV:.
+---
+## VALERIA: 
+[grunts] 
+
+(You are the miracle. You are my miracles.)
+---
+---
 ## DEV:
-Hey sis. L’shanah ha-ba-ah bee-Yeru-sha-layim. 
+Hey sis. 
+---
+L’shanah ha-ba-ah bee-Yeru-sha-layim.
+---
 Next year in Jerusalem.
+---
 ## YAEL:
 Next year in Jerusalem.
-## YAEL: exits. ## DEV: goes to clean up the table. She sees that somehow (magically?) Elijah’s cup of wine is empty. 
-From faraway: the sound of a timbrel.
-## DEV: holds the cup up to the light. ## VALERIA: smiles.
+---
+---
+template: music
+---
+template: title
 END OF PART THREE.
+---
+template: music
+---
 part 4: chag ha-pesach (the festival of passover)
-Hundreds or thousands or tens of thousands of years ago. 40 years since the Exodus. Maybe 1406 BCE? 
-The stage explodes. We’re suddenly in the desert of Sinai. We’re in a sacred time, a Biblical time. A time of miracles. 
-Another warm evening in April. Another Passover Seder. 
-Projection: April ~1406 BCE, 15th of Nissan ~2344. 40 years since the Exodus. Sinai Desert.
-A group of Israelites [## PAOLA:, ## DAVIDE:, ## VALERIA:, ## DEV:, and ## YAEL:] sit on the floor in the desert of Sinai. 
-Though they share the same names and the resemblance is uncanny, ## PAOLA:, ## DAVIDE:, ## VALERIA:, ## DEV:, and ## YAEL: are not themselves in the present. They are Israelites in the Sinai Desert. ## PAOLA: and ## DAVIDE: speak in unaccented English.
-(This scene is spoken in English, but it’s really in Hebrew. Hebrew subtitles should be shown. Some of the text in this scene is taken directly from the Torah.)
-Manna falls from the sky. ## DEV: gathers it in a basket. 
+---
+April ~1406 BCE, 15th of Nissan ~2344. Sinai Desert.
+---
 ## DEV:
 Hineni. Here I am.
-## DEV: enters the tent, carrying a basket of Manna.
+---
 ## YAEL:
 Finally! I’m so hungry.
+---
 ## DEV:
 You’re always hungry.
+---
 ## YAEL:
-You’re always / mean.
-davide
-Girls, please! Be nice to each other.
+You’re always mean.
+---
+## DAVIDE:
+Girls, please! 
+---
+Be nice to each other.
+---
+template: overlap
 ## YAEL:
 Sorry.
+
 ## DEV:
 Sorry, Saba.
-## VALERIA: gives everyone a portion of Manna.
+---
 ## VALERIA:
 B’tay-a-vone.
-They begin eating.
+---
 ## YAEL:
 Ughhh I’m so sick of Manna.
-paola
+---
+## PAOLA:
 Well, it’s your last night.
+---
 ## YAEL:
 Yes!
-(chanting)
+---
 Last night of Manna!
-## YAEL: and dEV
+---
+## YAEL & DEV:
 (chanting)
-Last night of Manna! Last night of Manna!
-## DAVIDE: takes ## PAOLA:’s hand.
+Last night of Manna! 
+---
+Last night of Manna!
+---
 ## DEV:
 What’s wrong, Safta?
+---
 ## PAOLA:
 Nothing, my joy.
+---
 ## YAEL:
-What kind of food will there be in the Promised Land?
-davide
-Oh, watermelon and pomegranates and grapes and olives and milk and honey. Up to your ears!
-yael
+What kind of food 
+---
+will there be in the Promised Land?
+---
+## DAVIDE:
+Oh, watermelon and pomegranates 
+---
+and grapes and olives 
+---
+and milk and honey. 
+---
+Up to your ears!
+---
+## YAEL:
 What does watermelon taste like?
-davide
+---
+## DAVIDE:
 Like dancing naked on a hot day.
+---
 ## PAOLA:
-/ Ooh!
-yael
+Ooh!
+---
+## YAEL:
 What does dancing naked on a hot day taste like?
-davide
+---
+## DAVIDE:
 Like the memory of a memory.
-
+---
 ## DEV:
-I can’t believe we’re going to be in Jerusalem tomorrow.
+I can’t believe 
+---
+we’re going to be in Jerusalem tomorrow.
+---
 ## VALERIA:
-Probably not tomorrow, hon. It might take a little while for Joshua and the army to get through Jericho. 
+Probably not tomorrow, hon. 
+---
+It might take a little while 
+---
+for Joshua and the army to get through Jericho. 
+---
 ## DEV:
 Fine, well then by next year.
+---
 ## YAEL:
 Next year in Jerusalem!
+---
 ## DEV:
 Next year in Jerusalem!
-## DAVIDE: takes ## PAOLA:’s hand.
+---
 ## DEV:
 Is it true the people are the size of giants?
+---
 ## YAEL:
 Giants?
+---
 ## DEV:
-Joshua said we’re grasshoppers compared to them!
-paola
+Joshua said we’re grasshoppers 
+---
+compared to them!
+---
+## PAOLA:
 Oh, Joshua’s handsome.
+---
 ## DAVIDE:
 And a Rabbi!
-valeria
-Abba! Joshua’s too old for / her.
-yael
+---
+## VALERIA:
+Abba! 
+---
+Joshua’s too old for her.
+---
+## YAEL:
 I want to marry Moses’ son.
-paola
-Moses’ son? You should marry a Jew.
+---
+## PAOLA:
+Moses’ son? 
+---
+You should marry a Jew.
+---
 ## DEV:
 He is Jewish!
-paola
-His mother is a Midianite.
-valeria
-Eema!
+---
 ## PAOLA:
-What? She is. Tzipporah. What kind of a goyischa name / is that?
-dev
-Safta, Shhhhhhh. You’ll get leprosy. Like God gave Miriam.
-paola
-It’s ok. God doesn’t listen to me anyway.
-dev
+His mother is a Midianite.
+---
+## VALERIA:
+Eema!
+---
+## PAOLA:
+What? She is. 
+---
+Tzipporah. 
+---
+What kind of a goyischa name is that?
+---
+## DEV:
+Safta, Shhhhhhh. 
+---
+You’ll get leprosy. 
+---
+Like God gave Miriam.
+---
+## PAOLA:
+It’s ok. 
+---
+God doesn’t listen to me anyway.
+---
+## DEV:
 God listens to everyone.
-paola
+---
+## PAOLA:
 Oh, to be young and forgetful.
+---
 ## YAEL:
-What’s the first thing you’re going to do in Canaan, Safta?
-A beat.
-## PAOLA: looks at ## VALERIA: and ## DAVIDE:.
+What’s the first thing 
+you’re going to do in Canaan, Safta?
+---
 ## DEV:
 What’s going on?
-## PAOLA:
-Nothing, my treasures. 
+---
 ## DEV:
 Then what’s the first thing you’re going to do in Canaan?
-No response.
+---
 ## DEV:
-See? What’s going / on?
+See? What’s going on?
+---
 ## VALERIA:
 We have to tell them.
+---
 ## PAOLA:
-## VALERIA:!
+Valeria!
+---
 ## YAEL:
 Tell us what?
+---
 ## DEV:
 You’re coming with us, right?
-A beat.
+---
 ## DAVIDE:
 No, carina. We’re not.
+---
 ## YAEL:
 What? You have to come! 
+---
 ## DEV:
 Yes, we won’t go without you!
-## PAOLA: and ## DAVIDE: speak once again in their accents. The accents should start out light and grow heavier as the scene progresses.
-davide
-Even if we could, gioia, we’re not allowed. Neither is Moses.
+---
+## DAVIDE:
+Even if we could, 
+---
+we’re not allowed. 
+---
+Neither is Moses.
+---
 ## DEV:
 Why?
+---
 ## PAOLA:
-We were born in Egypt. Freedom is for the young, not the old.
+We were born in Egypt. 
+---
+Freedom is for the young, not the old.
+---
 ## YAEL:
 What do you mean? We’re free now.
+---
 ## PAOLA:
 We’re wandering, that’s not free.
-yael
+---
+## YAEL:
 I don’t understand.
+---
 ## PAOLA:
-Do we look like we can fight off the Amalekites? The Hittites? The Jebusites? The Amorites? The Giants? 
-yael
-But don’t you want to have a watermelon, Nonno?
-davide
-I have de memory. Dayeinu.
+Do we look like we can fight off the Amalekites? 
+---
+The Hittites? 
+---
+The Jebusites? 
+---
+The Amorites? 
+---
+The Giants? 
+---
 ## YAEL:
 Mom, you have to talk to them.
-## VALERIA: looks at her parents. 
-yael
-What?
-## VALERIA:
-I was born in Egypt too. 
-I can’t come to the Promised Land either.
-dev
-What? No! You have to come!
+---
 ## YAEL:
-Yes, we’ll sneak you in! 
+What?
+---
 ## VALERIA:
-Hon, I can’t. You don’t think I want to watch you girls grow up? Of course I do. More than...
+I was born in Egypt too.
+---
+I can’t come to the Promised Land either.
+---
+## DEV:
+What? No! 
+---
+You have to come!
+---
+## YAEL:
+Yes, we’ll sneak you in!
+---
+## VALERIA:
+Hon, I can’t. 
+---
+You don’t think I want to watch you girls grow up? 
+---
+Of course I do. 
+---
+More than...
+---
 But I can’t.
+---
 ## YAEL:
 But it’s not fair!
+---
 ## VALERIA:
-Sometimes people leave you, hon. And it’s not fair. Sometimes it’s just about making it through the day, getting out of bed. 
+Sometimes people leave you.
+---
+And it’s not fair. 
+---
+Sometimes it’s just about making it through the day, 
+---
+getting up in the morning. 
+---
 ## YAEL:
-But I want to stay with you! I don’t want to go anymore.
-valeria
-## YAEL:/
+But I want to stay with you! 
+---
+I don’t want to go anymore.
+---
+## VALERIA:
+Yael.
+---
 ## YAEL:
-What? We’re probably not going to make it there anyway. 
+What? 
+---
+We’re probably not going to make it there anyway. 
+---
+template: overlap
 ## PAOLA:
-Non fare la noiosa/
+Non fare la noiosa
+
 ## YAEL:
-And even if we do, the Amalekites don’t want us. They’ll kill us off or burn down our houses or fire us from our jobs or give our children black eyes / or 
-dev
+And even if we do, 
+---
+the Amalekites don’t want us. 
+---
+They’ll kill us off 
+---
+or burn down our houses 
+---
+or fire us from our jobs 
+---
+or give our children black eyes 
+---
+template: overlap
+or 
+ 
+## DEV:
 But Yaya, we have to try.
+---
 ## YAEL:
 Why?
+---
 ## DEV:
 Where else are we going to go?
-## VALERIA: wraps her daughters in a hug.
+---
 ## VALERIA:
-You’re ready. You don’t need us to take care of you anymore. 
+You’re ready. 
+---
+You don’t need us to take care of you anymore. 
+---
 ## YAEL:
-At least we won’t be alone.
+At least we're not alone.
+---
 ## VALERIA:
-That’s right. It’s time for you to take care of each other. 
+That’s right. 
+---
+It’s time for you to take care of each other. 
+---
 Please take care of each other. 
-A beat.
+---
 ## YAEL:
-What are we supposed to do?
+Then what are we supposed to do?
+---
 ## DAVIDE:
-You tell the story of how we got here. You remember. 
-So when you are free, you can tell your children and your children’s children and deir children. So dey will remember de story. So dey will remember us. Dat’s how you keep going, gioia.
-
+You tell the story of how we got here. 
+---
+You remember.
+--- 
+So when you are free, 
+---
+you can tell your children 
+---
+and your children’s children and deir children. 
+---
+So dey will remember de story. 
+---
+So dey will remember us. 
+---
+Dat’s how you keep going, gioia.
+---
 ## DEV:
-(taking her sister’s hand)
-Then tell us the story. From the beginning.
+Then tell us the story. 
+---
+From the beginning.
+---
 ## PAOLA:
 Ok.
-Well as you know, we were slaves in Egypt for a long time. It was a hard, bitter life.
-## DEV: pulls Maror out of the sand. 
+---
+Well as you know, 
+---
+we were slaves in Egypt for a long time. 
+---
+It was a hard, bitter life.
+---
 ## VALERIA:
 What’s that?
+---
 ## DEV:
-Maror. So we can remember the bitterness of slavery.
-## DEV: draws a circle in the sand (the shape of a Seder plate) and places the Maror on the Seder Plate.
+Maror. 
+---
+So we can remember the bitterness of slavery.
+---
 ## YAEL:
 What are you doing?
+---
 ## DEV:
 I’m trying to make a miracle.
+---
 What happened next?
+---
 ## PAOLA:
-Well, one day, after Moses talked to God at de burning bush/
+Well, one day, 
+---
+after Moses talked to God at de burning bush
+---
 ## DEV:
 (I want to talk to God.)
+---
 ## DAVIDE:
 Ah, la nostra piccola Rabbina!
+---
 ## PAOLA:
-So Moses saw bush burning/
-davide
-Wait. We have to tell dem about de boy we lost. Before we got here. Before ## VALERIA:.
-## PAOLA:
-## DAVIDE:/
+So Moses saw bush burning
+---
 ## DAVIDE:
-We need to tell all parts, gioia. Good and bad.
-(back to the story)
-Pharaoh told all of us we had to kill de baby boys. Throw dem in the Nile.
+Wait. 
+---
+We have to tell dem about de boy we lost. 
+---
+Before we got here. 
+---
+Before Valeria.
+---
+## PAOLA:
+Davide.
+---
+## DAVIDE:
+We need to tell all parts, gioia. 
+---
+Good and bad.
+---
+Pharaoh told all of us 
+---
+we had to kill de baby boys. Throw dem in the Nile.
+---
 ## PAOLA:
 Doctor say he no have chance.
-## DAVIDE: takes ## PAOLA:’s hand.
+---
 ## VALERIA:
-But after a long time, Moses came back to Egypt to save us. And he said to Pharaoh: Let my people go! But Pharaoh said no.
+But after a long time, 
+---
+Moses came back to Egypt to save us. 
+---
+And he said to Pharaoh: 
+---
+Let my people go! 
+---
+But Pharaoh said no.
+---
 ## PAOLA:
 So God brought down de ten plagues. 
-## PAOLA:, davide, and valeria
-Blood, frogs, / lice
-yael and dev
+---
+## PAOLA, DAVIDE, VALERIA:
+Blood, frogs, lice
+---
+## YAEL & DEV:
 Lice. We know.
-## VALERIA: opens a can of diet coke and drinks it from a straw.
+---
 ## PAOLA:
 De final plague was de Death of the firstborn.
+---
 ## DAVIDE:
-We sacrificed a lamb and took de blood to put on our doors. 
-## DEV: pulls a shankbone out of the sand and places it on the Seder plate.
+We sacrificed a lamb 
+---
+and took de blood to put on our doors. 
+---
 ## DAVIDE:
-So dat God would not kill us. Only kill de oders. And Pharaoh’s son Judel died.
-dev
+So dat God would not kill us. 
+---
+Only kill de oders. 
+---
+And Pharaoh’s son Judel died.
+---
+## DEV:
 Judel?
+---
 ## PAOLA:
 It was Ramses, tesoro mio.
+---
 ## DAVIDE:
 Oh, right. Ramses.
+---
 ## YAEL:
 Who was Judel?
+---
 ## PAOLA:
-Is ok. You no need to tell, gioia. We make nice story.
+Is ok. 
+---
+You no need to tell, gioia. 
+---
+We make nice story.
+---
 ## DAVIDE:
-No. Dey need to know. Is only way to be free.
-## DAVIDE: pulls an egg out of the sand and places it on the Seder plate.
+No. Dey need to know. 
+---
+Is only way to be free.
+---
 ## DAVIDE:
-For Judel. May his memory be a blessing.
-They all look at ## DAVIDE:. Recognition.
-dev
+For Judel. 
+---
+May his memory be a blessing.
+---
+## DEV:
 What happened next?
+---
 ## VALERIA:
-After the tenth plague, Pharaoh told us we could finally leave. But quickly!
+After the tenth plague, 
+---
+Pharaoh told us we could finally leave. 
+---
+But quickly!
+---
 ## YAEL:
-Wait. I want to record this. One sec. So we can remember.
-## YAEL: takes out some kind of modern anachronistic voice recording device (the one we saw her use in Part One). She starts recording.
+Wait. 
+---
+I want to record this. 
+---
+One sec. So we can remember.
+---
 ## PAOLA:
-We gathered all of our stuff in a hurry and den we hurried down to de Sea. We didn’t even have enough time for our bread to rise. So we took it as it was. 
-dev
+We gathered all of our stuff in a hurry 
+---
+and den we hurried down to de Sea. 
+---
+We didn’t even have enough time for our bread to rise. 
+---
+So we took it as it was. 
+---
+## DEV:
 Matzah!
-## DEV: pulls a piece of Matzah out of the sand and places it on the Seder plate.
+---
 ## PAOLA:
 Esattamente.
-Now at dis point, Pharaoh had change of heart. Il bastardo. So an army of Germans-
+---
+Now at dis point, Pharaoh had change of heart. 
+---
+Il bastardo. 
+---
+So an army of Germans
+---
 ## YAEL:
 Egyptians, Nonna.
+---
 ## PAOLA:
 Right, Egyptians. 
-Dey followed us down to de water. We no know what to do. But your Nonno was brave man, he starts walking into de water.
+---
+Dey followed us down to de water. 
+---
+We no know what to do. 
+---
+But your Nonno was brave man, 
+---
+he starts walking into de water.
+---
 ## DAVIDE:
 No, no brave.
+---
 ## PAOLA:
 Yes brave, gioia. 
-You are best person I ever know, ## DAVIDE:.
+---
+You are best person I ever know, Davide.
+---
 ## DAVIDE:
 Tesoro mio.
+---
 ## PAOLA:
 Sempre e per sempre.
-So de water came up to his ankles, den his knees, den his waist, his chest, his neck. Finally, his head. And at de very moment when he was about to drown, de seas split. And we walked right through. 
+---
+So de water came up to his ankles, 
+---
+den his knees, 
+---
+den his waist, 
+---
+his chest, his neck. 
+---
+Finally, his head. 
+---
+And at de very moment 
+---
+when he was about to drown, 
+---
+de seas split. 
+---
+And we walked right through. 
+---
 And de seas closed and de Egyptians drowned behind us.
+---
 And den Miriam starts singing. 
+---
 And dancing with a timbrel.
+---
 And we all join her. 
+---
 All de women. 
+---
 Singing and crying and dancing. 
+---
 Your Mama on my back. 
-(singing)
-Mi Chamocha-
-## PAOLA: tries to sing, but it’s too hard. 
+---
+template: song
+Mi Chamocha..
+---
 ## DEV:
-I can do it, Nonna. It’s our turn.
-(singing)
+I can do it, Nonna. 
+---
+It’s our turn.
+---
+tempkate: song
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
-Nora t’hilot/
-## YAEL: joins in.
-## DEV: and yael
+Nora t’hilot
+---
+tempkate: song
+## DEV & YAEL:
 Oseh feleh?
 Nora t’hilot, oseh feleh?
-~
-We break in reality. The Levi-Katz family starts singing and dancing with timbrels, which have now appeared. 
-It is the past and the present and the future.
-Slowly, over the course of the song and dance, flowers start blooming everywhere - seemingly out of thin air. They’re cherry blossoms. 
-all
-(singing)
+---
+template: song
+## ALL
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
-
+---
+template: song
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
-
+---
+template: song
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
-
+---
+template: song
 Mi Chamocha Ba’elim Adonai
-## DAVIDE: fades into the desert.
-paola, dev, yael, and valeria
-(singing)
+---
+template: song
 Mi Kamocha Ne’edar BaKodesh
-## PAOLA: fades into the desert.
-dev, yael, and valeria
-(singing)
+---
+template: song
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
-## VALERIA: fades into the desert.
-dev and yael
-(singing)
+---
+## DEV & YAEL
+.song[
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
 Nora t’hilot, oseh feleh?
-Nora t’hilot, oseh feleh?
-
-## DEV: and ## YAEL: stop singing. They smile at each other and perform their secret handshake. They look around. The stage is covered in cherry blossoms. 
-
+Nora t’hilot, oseh feleh?]
+---
+template: title
 END OF PLAY.
-
+---
 ---
 ---
 template: title
