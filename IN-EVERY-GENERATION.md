@@ -6,7 +6,7 @@ BEGIN SETTINGS
 title: TITLE
 author: Author
 
-[//]: # (color settings—replace "character-_____" with a character name)
+[//]: # (color settings—replace “character-_____” with a character name)
 plum-purple: valeria
 stiletto-red: dev
 st-tropaz-blue: paola
@@ -62,8 +62,7 @@ class: center, middle, smaller
 END SETTINGS
 ---
 template: title
-IN EVERY GENERATION
-
+IN EVERY GENERATION<br>
 by Ali Viterbi
 ---
 Benvenuti and ברוך הבא
@@ -88,17 +87,13 @@ In Every Generation by Ali Viterbi.
 ---
 template: music
 ---
-part 1: chag ha-matzot 
-(the festival of unleavened bread)
----
-April 2019, 15th of Nissan 5779. Los Angeles, CA.
 ---
 template: overlap
 ## YAEL:
 Hineni.
 
 ## DEV:
-Sorry
+Sorry.
 ---
 ## YAEL:
 No, go ahead.
@@ -202,7 +197,7 @@ We only get you for a week,
 I wanna do your laundry. 
 ---
 ## YAEL:
-Don't worry.
+Don’t worry.
 ---
 ## PAOLA:
 Allora, andiamo.
@@ -268,9 +263,11 @@ template: song
 Mah nishtanah halailah hazeh mikol haleilot?
 ---
 template: song
+## YAEL:
 Mikol haleilot?
 ---
 template: song
+## YAEL:
 Sheb’khol haleilot anu okhlin 
 hametz umatzah, hametz umatzah
 ---
@@ -279,6 +276,7 @@ template: song
 halailah hazeh, halailah hazeh, kuloh matzah.
 ---
 template: song
+## ALL:
 halailah hazeh, halailah hazeh, kuloh matzah.
 ---
 template: song
@@ -291,9 +289,11 @@ template: song
 halailah hazeh, halailah hazeh maror maror.
 ---
 template: song
+## ALL:
 halailah hazeh, halailah hazeh maror maror.
 ---
 template: song
+## ALL:
 Sheb’khol haleilot
 ---
 ## YAEL:
@@ -301,6 +301,7 @@ Uh....shoot.
 How does it...
 ---
 template: song
+## YAEL:
 Sheb’khol haleilot 
 da da da da
 ---
@@ -325,6 +326,7 @@ template: song
 Sheb’khol haleilot ein anu matbilin 
 ---
 template: song
+## YAEL:
 afilu pa’am ehat, afilu pa’am ehat
 ---
 template: song
@@ -332,29 +334,36 @@ template: song
 halailah hazeh, halailah hazeh, 
 ---
 template: song
+## ALL:
 shtei f’amim.
 ---
 template: song
+## ALL:
 halailah hazeh, halailah hazeh, 
 ---
 template: song
+## ALL:
 shtei f’amim.
 ---
 template: song
 ## YAEL:
-Sheb’khol haleilot anu okhlin 
+Sheb’khol haleilot anu okhlin
 ---
 template: song
-bein yoshvin uvein m’subin, 
----
-template: song
+## YAEL:
 bein yoshvin uvein m’subin,
 ---
 template: song
+## YAEL:
+bein yoshvin uvein m’subin,
+---
+template: song
+## YAEL:
 halailah hazeh, halailah hazeh, 
 kulanu m’subin.
 ---
 template: song
+## YAEL:
 halailah hazeh, halailah hazeh, kulanu m’subin.
 ---
 ## PAOLA:
@@ -370,7 +379,7 @@ Why not 50 or a hundred?
 Do you want to be here all night?
 ---
 ## PAOLA:
-No. I’m just saying 
+No. I’m just saying. 
 ---
 I have about a thousand questions I’d like to ask God, 
 ---
@@ -398,9 +407,8 @@ Ooh!
 ---
 We have a little Rabbi over here.
 ---
-template: noise 
 ## DAVIDE: 
-grunts
+[grunts]
 ---
 ## PAOLA:
 Come va?
@@ -427,7 +435,7 @@ template: overlap
 Too much Hebrew.
 
 ## YAEL:
-Yeah no
+Yeah no.
 ---
 ## VALERIA:
 Let’s sing “Go Down Moses”!
@@ -609,9 +617,7 @@ And the two synagogue SHOOTINGS.
 One was just two hours away, Yaya
 ---
 ## YAEL:
-Ok whatever, fine, 
-
-you’re right. 
+Ok whatever, fine, you’re right. 
 ---
 Not ‘free’ or whatever, 
 ---
@@ -621,7 +627,7 @@ like Egyptians are chasing after us,kind of danger.
 ---
 template: overlap
 ## DEV:
-Tell that to the people in Pittsburgh and Poway
+Tell that to the people in Pittsburgh and Poway.
 
 ## VALERIA:
 Girls, please!
@@ -640,7 +646,7 @@ Forgetful.
 ---
 template: overlap
 ## YAEL:
-I’m not being
+I’m not being…
 
 ## VALERIA:
 Let’s hit ‘pause’ until dinner, 
@@ -671,6 +677,7 @@ Sangue.]
 ## ALL:
 Tz’far-de-ah.]
 ---
+template: overlap
 .song[
 ## VALERIA:
 Frogs.
@@ -682,6 +689,7 @@ Rane.]
 ## ALL:
 Kee-neem.]
 ---
+template: overlap
 .song[
 ## VALERIA:
 Lice.
@@ -693,6 +701,7 @@ Pidocchi.]
 ## ALL:
 Ah-rov.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Wild beasts.
@@ -704,6 +713,7 @@ Bestie selvagge.]
 ## ALL:
 Deh-ver.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Cattle plague.
@@ -715,6 +725,7 @@ Pestilenza.]
 ## ALL:
 Sh’cheen.]
 ---
+template: overlap
 .song[
 ## VALERIA:
 Boils.
@@ -726,6 +737,7 @@ Foruncoli.]
 ## ALL:
 Ba-rad.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Hail.
@@ -737,6 +749,7 @@ Grandine.]
 ## ALL:
 Ar-beh.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Locust.
@@ -748,6 +761,7 @@ Locuste.]
 ## ALL:
 Cho-shech.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Darkness.
@@ -759,6 +773,7 @@ Oscurità.]
 ## ALL:
 Ma-kat B’cho-rot.] 
 ---
+template: overlap
 .song[
 ## VALERIA:
 Death of the Firstborn.
@@ -792,7 +807,7 @@ What? A giant blob pattern
 ---
 template: overlap
 ## YAEL:
-It’s a flower not a BLOB
+It’s a flower not a BLOB…
 
 ## VALERIA:
 Girls! Stop!
@@ -1025,9 +1040,7 @@ Yeah, we’ve been spending a lot of time together.
 ---
 Bro-ing out.
 ---
-Your know,
-
-“Bro-ing?”
+You know, “Bro-ing?”
 ---
 template: noise
 coughing
@@ -1336,7 +1349,7 @@ I would have invited you, Dev, I just thought
 You don’t need my DNA.
 ---
 ## VALERIA:
-Hon, that’s not
+Hon, that’s not…
 ---
 ## YAEL:
 Right, but that’s what I’m saying! 
@@ -1639,7 +1652,7 @@ Good.
 Mom tells me you’re kicking ass at the rock gym. 
 ---
 ## DEV:
-It's only a couple days a week.
+It’s only a couple days a week.
 ---
 ## YAEL:
 Still.
@@ -1664,7 +1677,7 @@ template: overlap
 I think of when you visited me at school and...
 
 ## DEV:
-Ohmygoddon’t remind me.
+Oh my god, don’t remind me.
 ---
 ## YAEL:
 I’m like hell yeah that’s my sister.
@@ -1675,10 +1688,10 @@ A very drunk version of your very square sister.
 ## YAEL:
 My square sister danced NAKED 
 ---
-on the Women’s
+on the Women’s…
 ---
 ## DEV:
-Shhhhhhdon’t tell Mom.
+Shhhhhh! don’t tell Mom.
 ---
 ## YAEL:
 My lips are sealed
@@ -2222,8 +2235,7 @@ I was thinking about...
 ---
 I mean, obviously I’ll wait to see how Nonno...
 ---
-but
-Uh...
+but…uh…
 ---
 I’ve kind of been saving up to go to China.
 ---
@@ -2344,7 +2356,7 @@ They were dying off.
 Why do they tell us these stories 
 ---
 template: overlap
-and just cover up all the bad stuff when there’s
+and just cover up all the bad stuff when there’s…
 
 ## DEV:
 Not everything’s about Dad.
@@ -2373,7 +2385,7 @@ with the extra bib?
 ---
 template: overlap
 ## DEV:
-Sorry. We can
+Sorry. We can…
 
 ## VALERIA:
 No. Go, go.
@@ -2604,7 +2616,7 @@ Did you change your mind about the...
 No.
 ---
 ## VALERIA:
-But if he’s in pain
+But if he’s in pain…
 ---
 ## YAEL:
 What are you talking about?
@@ -2803,7 +2815,7 @@ No!
 I’m just asking!
 ---
 ## DEV:
-Ohmygod I knew you were gonna react this way
+Oh my god, I knew you were gonna react this way…
 ---
 ## VALERIA:
 Well how should I react?
@@ -2813,7 +2825,7 @@ Like a Mom!
 ---
 I don’t know! 
 ---
-Like you haven’t been dreading 
+Like you haven’t been dreading
 ---
 what I want to do with my life
 ---
@@ -2840,17 +2852,17 @@ What’s in China?
 template: overlap
 ## DEV:
 No, it’s not a... 
-I’m not even going to get in so this is
+I’m not even going to get in, so this is—
 
 ## VALERIA:
 Dev’s going to China this summer.
 ---
 template: overlap
 ## YAEL:
-Ooh can I come?
+Ooh, can I come?
 
 ## DEV:
-I thought you were working in that lab
+I thought you were working in that lab?
 ---
 template: overlap
 ## YAEL:
@@ -2898,13 +2910,13 @@ So Rabbi.
 What does the Torah say about DNR?
 ---
 ## DEV:
-Well now I don’t want to
+Well now I don’t want to.
 ---
 ## YAEL:
 Oh come on.
 ---
 ## DEV:
-Not if you’re all gonna look at me 
+Not if you’re all gonna look at me!
 ---
 template: overlap
 like I’m the demon child
@@ -2955,7 +2967,7 @@ But...
 ---
 Halakha also recognizes that life is finite. 
 ---
-If there’s no... cure, uh, 
+If there’s no...cure, uh, 
 ---
 medication may be withdrawn. 
 ---
@@ -3153,7 +3165,7 @@ I’m just saying.
 Well, good luck dating when you’re a Rabbi. 
 ---
 ## DEV:
-Ohmygod
+Oh my god…
 ---
 ## YAEL:
 She’s right. 
@@ -3239,7 +3251,7 @@ with The Sound of Music.
 ## PAOLA:
 No, they taught us all sorts of Christian songs.
 ---
-And By the way, 
+And by the way, 
 ---
 that movie was total garbage, nonsense.
 ---
@@ -3262,6 +3274,7 @@ I love the music, though.
 Beautiful.
 ---
 template: song
+## PAOLA:
 “Edelweiss, edelweiss...”
 ---
 ## YAEL:
@@ -3301,6 +3314,7 @@ I’m sorry, Dev. Really.
 No you’re not. 
 ---
 template: overlap
+## DEV:
 This is fun for you.
 
 ## YAEL:
@@ -3540,6 +3554,7 @@ But we’re not the victims anymore.
 So what? We shouldn’t celebrate Passover, 
 ---
 template: overlap
+## DEV:
 the most important
 
 ## YAEL:
@@ -3562,8 +3577,10 @@ We were, what did you say,
 ---
 My father was a dentist, you know? 
 ---
+template: overlap
 ## YAEL:
 We know.
+
 ## DEV:
 We know.
 ---
@@ -3750,6 +3767,7 @@ They’re back in fashion.
 Dev, you of all people 
 ---
 template: overlap
+## YAEL:
 should know what I’m talking about
 
 ## DEV:
@@ -3765,6 +3783,7 @@ One minute you act like I’m not here
 and then all of a sudden 
 ---
 template: overlap
+## DEV:
 when I don’t take your side you 
 
 ## YAEL:
@@ -3870,7 +3889,7 @@ template: overlap
 beautiful and different strengths.
 
 ## YAEL:
-Yeah well 
+Yeah well…
 ---
 I want one that doesn’t make you 
 cringe every time I want to eat.
@@ -3887,7 +3906,7 @@ template: overlap
 Yes you were!
 
 DEV:
-Ohmygod stop!
+Oh my god stop!
 ---
 ## YAEL:
 What?
@@ -3903,7 +3922,7 @@ template: overlap
 about being Jewish so just
 
 ## YAEL:
-Yes I do! Why would
+Yes I do! Why would…
 ---
 ## DEV:
 So just stop complaining for like one second.
@@ -3913,7 +3932,7 @@ You realize that, like,
 ---
 this is a problem for me, right? 
 ---
-That I have body issues 
+That I have body issues
 ---
 template: overlap
 and you’re like triggering them right now?
@@ -3923,7 +3942,7 @@ You should have another piece of cake, Yaya. I’m sorry.
 ---
 template: overlap
 ## DEV:
-Ohmygod how am I “triggering” them?
+Oh my god how am I “triggering” them?
 
 ## YAEL:
 Do you even weigh 100 pounds?
@@ -4025,7 +4044,7 @@ all the time to make you feel like a part of this family
 and you still complain that we
 ---
 template: noise
-bangs hand on table
+loud bang on table
 ---
 ---
 ## VALERIA:
@@ -4034,7 +4053,7 @@ Yael, apologize to your sister.
 ## YAEL:
 What? She’s the one that
 ---
-what did I ???
+what did I???
 ---
 ## VALERIA:
 Now!
@@ -4159,11 +4178,9 @@ and then you can go be a crazy person.
 ## DEV:
 Blah blah blah next year in freaking Jerusalem!
 ---
-[INTERMISSION]
+template: title
+INTERMISSION
 ---
-part 2: Chag ha-cheirut (the festival of freedom),California. 
----
-April 1954, 15th of Nissan 5719. Los Angeles, California.
 ---
 ## DAVIDE:
 Hineni. 
@@ -4176,13 +4193,11 @@ of retelling de story of de Exodus from Egypt.
 Brava. 
 ---
 Possiamo mangiare adesso?
-
-(Good. Can we eat now?)
+_(Good. Can we eat now?)_
 ---
 ## DAVIDE:
 Ah ah, in inglese, tesoro mio.
-
-(Ah, ah, in English, my treasure.)
+_(Ah, ah, in English, my treasure.)_
 ---
 ## PAOLA:
 I’m hungry. 
@@ -4204,19 +4219,16 @@ That is what de book is for.
 ---
 ## PAOLA:
 Non riesco a leggere l’Inglese o l’ebraico, Davide. 
-
-(I can’t read English or Hebrew, Davide.)
+_(I can’t read English or Hebrew, Davide.)_
 ---
 Lo sai che non riesco. Perché tu 
-
-(You know I can’t. Why are you trying)
+_(You know I can’t. Why are you trying)_
 ---
 ## DAVIDE:
 OK. I’m sorry, gioia.
 ---
 Tu vuoi?
-
-(Do you want?)
+_(Do you want?)_
 ---
 ## PAOLA:
 Just a little.
@@ -4282,12 +4294,10 @@ Rosa is Mexican.
 She speak Spanish, 
 ---
 io parlo l’italiano 
-
-(I speak Italian), 
+_(I speak Italian)_, 
 ---
 we quasi 
-
-(kind of) 
+_(kind of)_ 
 ---
 understand each other.
 ---
@@ -4319,8 +4329,7 @@ Rabbi find us people.
 
 ## PAOLA:
 Non di nuovo.
-
-(Not again)
+_(Not again)_
 ---
 ## DAVIDE:
 What?
@@ -4415,8 +4424,7 @@ She hear on radio he save Zolli.
 ---
 ## DAVIDE:
 Zolli è un traditore.
-
-(Zolli is a traitor)
+_(Zolli is a traitor)_
 ---
 ## PAOLA:
 Dis what I say! 
@@ -4424,13 +4432,11 @@ Dis what I say!
 He become Catholic to save 
 ---
 il suo culo
-
-(his ass)
+_(his ass)_
 ---
 ## DAVIDE:
 Esattamente!
-
-(Exactly!)
+_(Exactly!)_
 ---
 ## PAOLA:
 See? We no be friends.
@@ -4443,7 +4449,7 @@ She still give wine.
 She is good woman.
 ---
 She sends i soldi 
-(money)
+_(money)_
 ---
 back to her family back in Mexico.
 ---
@@ -4452,8 +4458,7 @@ Fa troppo caldo.
 ---
 ## DAVIDE:
 Inglese, gioia.
-
-(English, my joy)
+_(English, my joy)_
 ---
 ## PAOLA:
 Is too hot.
@@ -4497,8 +4502,7 @@ You talk to him?
 ---
 ## PAOLA:
 Oh finiscila.
-
-(Oh stop it)
+_(Oh stop it)_
 ---
 ## DAVIDE:
 He like you.
@@ -4553,22 +4557,18 @@ They would want us to make Seder.
 ---
 ## PAOLA:
 Non ero a Auschwitz,
-
-(I wasn’t in Auschwitz,)
+_(I wasn’t in Auschwitz,)_
 ---
 ma ho perso anche io la mia famiglia
-
-(but I lost my family too.)
+_(but I lost my family too.)_
 ---
 ## DAVIDE:
 Lo so. Perdonami.
-
-(I know. Forgive me.)
+_(I know. Forgive me.)_
 ---
 template: noise
 knocking
 ---
-template: noise
 ## Paola:
 Shhhh Shhh Shhhh
 ---
@@ -4609,8 +4609,7 @@ No.
 You know Mah Nishtana. 
 ---
 You know ten piaghe.
-
-(ten plagues)
+_(ten plagues)_
 ---
 ## PAOLA:
 No.
@@ -4624,8 +4623,9 @@ Mi Chamocha?
 ---
 You know...
 ---
-.song[
-Mi Chamocha Ba...]
+template: song
+## DAVIDE:
+Mi Chamocha Ba...
 ---
 Gioia?
 ---
@@ -4656,8 +4656,7 @@ she come in and she tell me to say prayer before bed.
 And I remember all of 
 ---
 “Pater noster qui es in caelis” 
-
-(Our father, who art in heaven)
+_(Our father, who art in heaven)_
 ---
 I still remember 
 ---
@@ -4674,8 +4673,7 @@ You had eight years old, gioia.
 ---
 ## PAOLA:
 Lo so, ma ancora... 
-
-(I know, but still...)
+_(I know, but still...)_
 ---
 is hard for me when you try make us be Jewish.
 ---
@@ -4695,8 +4693,7 @@ No,is not same.
 Did you make a seder in the War?
 ---
 Parla con me, tesoro mio.
-
-(Talk to me, my treasure.)
+_(Talk to me, my treasure.)_
 ---
 ## DAVIDE:
 What you want me to say?
@@ -4764,18 +4761,16 @@ Is ten years.
 ---
 ## DAVIDE:
 Pasqua mi fa triste, OK? 
-
-(Passover makes me sad, ok?)
+_(Passover makes me sad, ok?)_
 ---
-Mama make il petto di manzo (brisket), 
+Mama make il petto di manzo _(brisket)_, 
 ---
-Nonna make la minestra (soup). 
+Nonna make la minestra _(soup)_. 
 ---
-Piccolo (little) Alberto say Mah Nishtana. 
+Piccolo _(little)_ Alberto say Mah Nishtana. 
 ---
 Mi fa triste, Paola. 
-
-(It makes me sad, Paola.)
+_(It makes me sad, Paola.)_
 ---
 ## PAOLA:
 Ok.
@@ -4802,14 +4797,13 @@ Yes.
 ---
 I will make more easy. 
 ---
-I make petto di manzo (brisket) like your Mama. 
+I make petto di manzo _(brisket)_ like your Mama. 
 ---
-And you make la minestra (soup) like my Nonna.
+And you make la minestra _(soup)_ like my Nonna.
 ---
 ## DAVIDE:
 And piccola Valeria say Mah Nishtana.
-
-(And little Valeria say the Four Questions.)
+_(And little Valeria say the Four Questions.)_
 ---
 ## PAOLA:
 Piccola Valeria?
@@ -4821,8 +4815,7 @@ I thought we could name her after your Mama.
 Valeria, mmmm.
 ---
 Forse piccolo Yosef. Come tuo padre.
-
-(Maybe little Yosef. Like your father.)
+_(Maybe little Yosef. Like your father.)_
 ---
 ## DAVIDE:
 We make hundred babies 
@@ -4837,8 +4830,7 @@ Twenty boys, eighty girls.
 ---
 ## PAOLA:
 E li spingerai tutti fuori dalla tua vagina?
-
-(And you will push them all out of your vagina?)
+_(And you will push them all out of your vagina?)_
 ---
 ## DAVIDE:
 If I have to.
@@ -4855,14 +4847,12 @@ With garden.
 With hundreds of flowers.
 ---
 ## DAVIDE:
-Fiori di ciliegio.
-
-(Cherry blossoms.)
+Fiori di ciliegio
+_(Cherry blossoms.)_
 ---
 ## PAOLA:
-Ma non abbiamo soldi to make hundred babies.
-
-(But we don’t have money to...)
+Ma non abbiamo soldi to make hundred babies
+_(But we don’t have money to...)_
 ---
 ## DAVIDE:
 So start with one, yes?
@@ -5008,9 +4998,8 @@ No cleaners.
 ---
 ## PAOLA:
 No. Doctors. 
-Maybe dentista 
-
-(dentist)
+Maybe dentista
+_(dentist)_
 ---
 like my Papà.
 ---
@@ -5023,9 +5012,8 @@ Or professore like my Papà.
 Your Papà was un professore?
 ---
 ## DAVIDE:
-Sì. All’università di Roma.
-
-(At the University in Rome)
+Sì. All’università di Roma
+_(At the University in Rome)_
 ---
 ## PAOLA:
 Of what?
@@ -5036,9 +5024,8 @@ History.
 Art history.
 ---
 ## PAOLA:
-Sì. Forse un professore.
-
-(Yes. Maybe a professor).
+Sì. Forse un professore
+_(Yes. Maybe a professor)_.
 ---
 But I is scared.
 ---
@@ -5056,7 +5043,7 @@ Dat was in DP camp.
 You better now.
 ---
 ## PAOLA:
-We don't know dat.
+We don’t know dat.
 ---
 ## DAVIDE:
 Ah, We were starving. 
@@ -5133,9 +5120,8 @@ Dere is nothing you cannot tell me.
 I am your wife. 
 ---
 ## DAVIDE:
-Lo so.
-
-(I know.)
+Lo so
+_(I know.)_
 ---
 ## PAOLA:
 I tell you everything about my family. 
@@ -5167,9 +5153,8 @@ I was in church and I was fine.
 In camp is survivor. 
 ---
 ## DAVIDE:
-Non é una gara.
-
-(It’s not a competition)
+Non é una gara
+_(It’s not a competition)_
 ---
 ## PAOLA:
 It feel like one. 
@@ -5218,41 +5203,33 @@ I no want to fight no more.
 ## PAOLA:
 I no want to fight no more too, 
 ---
-ma è importante!
-
-(...but It’s important!)
+ma è importante
+_(...but It’s important!)_
 ---
 ## DAVIDE:
-È importante che tutti quelli che amavo siano morti? 
-
-(It’s important that everyone I love died?)
+È importante che tutti quelli che amavo siano morti?
+_(It’s important that everyone I love died?)_
 ---
-No, non è importante! 
-
-(No, it’s not important!) 
+No, non è importante!
+_(No, it’s not important!)_ 
 ---
-È il passato! 
-
-(It’s the past!)
+È il passato!
+_(It’s the past!)_
 ---
 ## PAOLA:
-Anche tutti quelli che io amavo sono morti, Davide.
-
-(Everyone I love died too,Davide)
+Anche tutti quelli che io amavo sono morti, Davide
+_(Everyone I love died too,Davide)_
 ---
 ## DAVIDE:
-Hai scavato le tombe dei tuoi genitori? 
-
-(Did you dig your parents’ graves?)
+Hai scavato le tombe dei tuoi genitori?
+_(Did you dig your parents’ graves?)_
 ---
-Hai sentito puzza di capelli bruciati quando ti sei svegliata?
-
-(Did you smell burnt hair when you woke up?)
+Hai sentito puzza di capelli bruciati quando ti sei svegliata
+_(Did you smell burnt hair when you woke up?)_
 ---
 ## PAOLA:
-L’hai fatto?
-
-(You did that?)
+L’hai fatto
+_(You did that?)_
 ---
 ## DAVIDE:
 See? 
@@ -5301,9 +5278,8 @@ How you be good person when you almost dead?
 Gioia
 ---
 ## DAVIDE:
-Era il giorno della Selezione.
-
-(It was the day of the Selection.)
+Era il giorno della Selezione
+_(It was the day of the Selection.)_
 ---
 I knew dey were going to send me to de showers. 
 ---
@@ -5325,7 +5301,9 @@ Is no miracle.
 ## DAVIDE:
 Paola?
 ---
+## DAVIDE:
 Tesoro mio?
+--
 
 ## PAOLA:
 [shhhhh]
@@ -5347,16 +5325,14 @@ You are best person I ever know, Davide.
 ---
 ## DAVIDE:
 Mi sento così...
-
-(I feel so...)
+_(I feel so...)_
 ---
 ## PAOLA:
 Lo so.
-
-(I know.)
+_(I know.)_
 ---
 template: noise
-shhhh
+hushing
 ---
 ## PAOLA:
 Davide, we no need to tell. 
@@ -5384,8 +5360,7 @@ What your favorite part of Seder.
 ---
 ## DAVIDE:
 Il petto di manzo.
-
-(The brisket.)
+_(The brisket.)_
 ---
 ## PAOLA:
 No, favorite prayer part.
@@ -5413,10 +5388,10 @@ We sing Il Dayeinu and den we make our bones strong.
 ## DAVIDE:
 Ok.
 ---
+template: song
 ## DAVIDE:
-.song[
 Ilu hotzi, hotzianu 
-Hotzianu mimi-]
+Hotzianu mimi-
 ---
 Just take off your clothes, gioia.
 ---
@@ -5436,8 +5411,7 @@ Who?
 I don’t know. 
 ---
 I vicini o...
-
-(The neighbors, or....)
+_(The neighbors, or....)_
 ---
 ## DAVIDE:
 Paola, we’re free!
@@ -5481,13 +5455,14 @@ three!
 ## DAVIDE:
 Look at my sexy American wife!
 ---
+template: song
 ## DAVIDE:
-.song[
 Ilu hotzi, hotzianu 
-Hotzianu mimitzrayim,]
+Hotzianu mimitzrayim,
 ---
-.song[
-Hotzianu mimitzrayim Dayeinu!]
+template: song
+## DAVIDE:
+Hotzianu mimitzrayim Dayeinu!
 ---
 template: song
 ## DAVIDE & PAOLA:
@@ -5495,11 +5470,16 @@ Day, day-einu! Day, day-einu
 Day, day-einu, Dayeinu Dayeinu!
 ---
 template: song
+## DAVIDE & PAOLA:
 Ilu natan, natan lanu,
 natan lanu et hashabbat,
+---
+template: song
+## DAVIDE & PAOLA:
 natan lanu et hashabbat Dayeinu!
 ---
 template: song
+## DAVIDE & PAOLA:
 Day, day-einu! Day, day-einu
 Day, day-einu, Dayeinu Dayeinu!
 ---
@@ -5547,24 +5527,16 @@ No. You never can die.
 ---
 ## DAVIDE:
 Non fare la noiosa, gioia.
-
-(Don’t be morbid, my joy)
+_(Don’t be morbid, my joy)_
 ---
 ## PAOLA:
 No. You never can die.
 ---
 Ok? 
 ---
-template: title
-END OF PART TWO.
 ---
 template: music
 ---
-Part 3: chag ha-aviv (the festival of spring)
----
-The future: 31 years after Part One.
----
-April 2050, 15th of Nissan 5810. Los Angeles, California.
 ---
 ## DEV:
 Hineni, 
@@ -5638,28 +5610,24 @@ What is she getting?
 ---
 ## VALERIA:
 [grunts]
-
-(You’ll have to see.)
+_(You’ll have to see.)_
 ---
 ## YAEL:
 Ugh fine.
 ---
 Come ti senti?
-
-(How are you feeling, Ma?)
+_(How are you feeling, Ma?)_
 ---
 ## VALERIA: 
 [grunts]
-
-(My two girls under the same roof? I couldn’t be happier.)
+_(My two girls under the same roof? I couldn’t be happier.)_
 ---
 ## YAEL:
 Me too, Ma.
 ---
 ## VALERIA: 
 [grunts]
-
-(She missed you.)
+_(She missed you.)_
 ---
 ## YAEL:
 You know I missed her too.
@@ -5674,14 +5642,13 @@ It looks amazing.
 ---
 ## VALERIA: 
 [grunts]
-
-(Yeah, it looks beautiful, hon.). 
+_(Yeah, it looks beautiful, hon.)_. 
 ---
 ## DEV:
 Thanks, Ma.
 ---
 template: noise
-eating
+loud slurping
 ---
 ## YAEL:
 It was a really nice service last week.
@@ -5713,8 +5680,7 @@ I can’t believe Zoey starts middle school in the fall.
 ---
 ## VALERIA: 
 [grunts] 
-
-(They grow up so fast.)
+_(They grow up so fast.)_
 ---
 ## YAEL:
 I know, right?
@@ -5759,8 +5725,7 @@ like Aunt Dev and I did!
 ---
 ## VALERIA: 
 [grunts]
-
-(I wasn’t as bad as your Nonna!).
+_(I wasn’t as bad as your Nonna!)_.
 ---
 ## DEV:
 Remember? 
@@ -5781,9 +5746,9 @@ We’d be learning like the Mi Chamocha or something
 ---
 and everyone would be like 
 ---
-“look Jewlan lost her boobies!" 
+“look Jewlan lost her boobies!” 
 ---
-"Jewlan lost her boobies!”
+“Jewlan lost her boobies!”
 ---
 ## YAEL:
 Jewlan?
@@ -5818,8 +5783,7 @@ but she’s still Jewish.
 ---
 ## VALERIA: 
 [grunts] 
-
-(Of course she is!)
+_(Of course she is!)_
 ---
 ## YAEL:
 I know, Ma. 
@@ -5842,8 +5806,7 @@ They called her a
 ---
 ## VALERIA: 
 [grunts] 
-
-(I thought you weren’t going to talk about this.)
+_(I thought you weren’t going to talk about this.)_
 ---
 ## DEV:
 You’re right. 
@@ -5877,8 +5840,7 @@ Did that ever happen to you?
 ---
 ## VALERIA: 
 [grunts] 
-
-(I used to have to go in the shower with her.)
+_(I used to have to go in the shower with her.)_
 ---
 ## YAEL:
 Oh my gosh, right.
@@ -5940,10 +5902,8 @@ and we had to dig his grave to shoot him into.
 ---
 ## VALERIA: 
 [grunts] 
-
-(Non fatte le noiose, girls!)
-
-(Don't be morbid, girls!)
+_(Non fatte le noiose, girls!)_
+_(Don’t be morbid, girls!)_
 ---
 ## YAEL:
 Did you ever have the one 
@@ -6058,7 +6018,7 @@ You know I can’t be found with this
 Yes, that’s clear.
 ---
 template: noise
-More knocking
+more knocking
 ---
 ## YAEL:
 You didn’t put the Mezuzah back on the door, did you?
@@ -6098,8 +6058,7 @@ Oh.
 ---
 ---
 template: noise
-## YAEL: 
-breathes a sigh of relief.
+sigh of relief
 ---
 ## YAEL:
 Sorry. I didn’t mean to
@@ -6443,7 +6402,7 @@ That’s not what I was saying.
 It’s not about whether you’re a good Jew 
 ---
 template: overlap
-or a bad Jew
+or a bad Jew.
 
 ## YAEL:
 Yes it is. 
@@ -6627,7 +6586,7 @@ template: overlap
 That’s not what I was
 
 ## DEV:
-I'm not the one 
+I’m not the one 
 ---
 that cut off all communication after that, Yaya. 
 ---
@@ -6866,7 +6825,6 @@ that’s completely and ridiculously out of line!
 But you have to face reality, Yaya! 
 ---
 template: noise
-## VALERIA: 
 desperate grunts and banging 
 ---
 ## VALERIA: 
@@ -6888,7 +6846,7 @@ Oh God,
 I think I hid it with the Seder stuff.
 ---
 ## YAEL:
-I'm sorry, Ma. 
+I’m sorry, Ma. 
 ---
 We didn’t see. 
 ---
@@ -6956,8 +6914,7 @@ Dev, it’s getting late and
 ---
 ## VALERIA: 
 [grunts] 
-
-(Please. I want to finish.)
+_(Please. I want to finish.)_
 ---
 ## YAEL:
 Ok, Ma. 
@@ -6980,33 +6937,43 @@ the cup of wine and then say,
 ---
 ## VALERIA: 
 [grunts]
-
-(Yes! That was my favorite part of the Seder.)
+_(Yes! That was my favorite part of the Seder.)_
 ---
 ---
 ## DEV:
 Ready?
 ---
 template: song
+## DEV:
 Eliyahu ha-navee
 Eliyahu ha-Tish-bee
+---
+template: song
+## DEV:
 Eliyahu Eliyahu Eliyahu ha-Giladee
 ---
 template: song
+## DEV:
 Beem-hei-ra b’ya-mei-nu
 Yavo ei-leinu
 ---
 template: song
+## DEV:
 Eem ma-shee-ach ben David
 Eem ma-shee-ach ben David
+---
+template: song
+## DEV:
 Eliyahu ha-navee
 Eliyahu ha-Tish-bee
+---
+template: song
+## DEV:
 Eliyahu Eliyahu Eliyahu ha-Giladee
 ---
 ## VALERIA:
 [grunts]
-
-(Thank you.)
+_(Thank you.)_
 ---
 ## YAEL:
 Yeah, that was beautiful sis. 
@@ -7169,7 +7136,7 @@ I don’t know yet.
 ## VALERIA: 
 [grunts] 
 
-(You are the miracle. You are my miracles.)
+_(You are the miracle. You are my miracles.)_
 ---
 ---
 ## DEV:
@@ -7185,14 +7152,6 @@ Next year in Jerusalem.
 ---
 template: music
 ---
-template: title
-END OF PART THREE.
----
-template: music
----
-part 4: chag ha-pesach (the festival of passover)
----
-April ~1406 BCE, 15th of Nissan ~2344. Sinai Desert.
 ---
 ## DEV:
 Hineni. Here I am.
@@ -7233,7 +7192,7 @@ Yes!
 Last night of Manna!
 ---
 ## YAEL & DEV:
-(chanting)
+_(chanting)_
 Last night of Manna! 
 ---
 Last night of Manna!
@@ -7517,7 +7476,7 @@ You’re ready.
 You don’t need us to take care of you anymore. 
 ---
 ## YAEL:
-At least we're not alone.
+At least we’re not alone.
 ---
 ## VALERIA:
 That’s right. 
@@ -7582,7 +7541,7 @@ Well, one day,
 after Moses talked to God at de burning bush
 ---
 ## DEV:
-(I want to talk to God.)
+I want to talk to God.
 ---
 ## DAVIDE:
 Ah, la nostra piccola Rabbina!
@@ -7777,19 +7736,24 @@ Singing and crying and dancing.
 Your Mama on my back. 
 ---
 template: song
-Mi Chamocha..
+## PAOLA:
+Mi Chamocha…
 ---
 ## DEV:
 I can do it, Nonna. 
 ---
 It’s our turn.
 ---
-tempkate: song
+template: song
+## DEV:
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
+---
+template: song
+## DEV:
 Nora t’hilot
 ---
-tempkate: song
+template: song
 ## DEV & YAEL:
 Oseh feleh?
 Nora t’hilot, oseh feleh?
@@ -7798,46 +7762,55 @@ template: song
 ## ALL
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
+---
+template: song
+## DEV:
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
 ---
 template: song
+## DEV:
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
+---
+template: song
+## DEV:
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
 ---
 template: song
+## DEV:
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
+---
+template: song
+## DEV:
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
 ---
 template: song
+## DEV:
 Mi Chamocha Ba’elim Adonai
 ---
 template: song
+## DEV:
 Mi Kamocha Ne’edar BaKodesh
 ---
 template: song
+## DEV:
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?
 ---
+template: song
 ## DEV & YAEL
-.song[
 Mi Chamocha Ba’elim Adonai
 Mi Kamocha Ne’edar BaKodesh
+---
+template: song
+## DEV & YAEL
 Nora t’hilot, oseh feleh?
 Nora t’hilot, oseh feleh?]
 ---
-template: title
-END OF PLAY.
----
----
----
-template: title
-class: smaller
-Open Captioning for this performance was made possible through loan of equipment from the Chicago Cultural Accessibility Consortium Accessible Equipment Loan Program and by CaptionPoint.
 ---
 template: title
 class: smaller
