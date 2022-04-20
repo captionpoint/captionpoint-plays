@@ -66,6 +66,26 @@ IN EVERY GENERATION
 
 by Ali Viterbi
 ---
+Benvenuti and ברוך הבא
+---
+Welcome to Victory Gardens Theater.  
+---
+Please be a mensch 
+---
+and make sure your mask covers your mouth 
+---
+and nose at all times. 
+---
+Take a moment to locate the exits 
+---
+and turn off your phones. 
+---
+Grazi & תודה, 
+---
+and enjoy the world premire of 
+---
+In Every Generation by Ali Viterbi.
+---
 template: music
 ---
 part 1: chag ha-matzot 
