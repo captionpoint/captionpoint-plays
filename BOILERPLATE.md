@@ -67,10 +67,6 @@ INSERT SCRIPT
 ---
 template: title
 class: smaller
-Open Captioning for this performance was made possible through loan of equipment from the Chicago Cultural Accessibility Consortium Accessible Equipment Loan Program and by CaptionPoint.
----
-template: title
-class: smaller
 Open Captioning for this performance was made possible by CaptionPoint.
 ---
 ---
