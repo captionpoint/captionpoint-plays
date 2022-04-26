@@ -62,13 +62,16 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
-I.
+1.
 (The kitchen.)
-(SHARONfinishes helping ROBIN.
-carry boxes in. So many boxes/ One contains weird veg-etables from a CSA. Some vegetables are just odd,but others look actively dangerous.)
+(SHARONfinishes helping ROBYN carry boxes
+in. So many boxes! One contains weird veg-
+etables from a GSA. Some vegetables are just
+odd, but others look actively dangerous.)
 ---
 ## SHARON:
-(A little out of breath.) And this is the kitchen I'm a big cook, I love to cook
+(A little out of breath.) And this is the kitchen
+I'm a big cook, I love to cook
 You said you cooked?
 ---
 ## ROBYN:
@@ -77,7 +80,8 @@ I cook, sure.
 ## SHARON:
 Okay! Okay
 Well
-we can divide up the refrigerator or the pantry shelves depending on
+we can divide up the refrigerator or the pantry shelves
+depending on
 sort of what and when you cook
 ---
 ## ROBYN:
@@ -107,10 +111,11 @@ Sure! Sure it would
 Uh...but like, carrots
 ---
 ## ROBYN:
-Yes carrots are fine
+Ye s carrots are fine
 ---
 ## SHARON:
-I mean, clearly carrots are [fine] ...but for example, using pans or pots or
+I mean, clearly carrots are [fine]
+...but for example, using pans or pots or
 knives or
 9
 you know, that I've used for meat...
@@ -132,19 +137,20 @@ this seems very spacious
 ---
 ## SHARON:
 I mean there's space
-it's notpalatial but
+it's not palatial but
 I mean, Iowa, it specializes in
 corn and space
-(She laughs, ---
-## ROBYN:
-doesn't•Awkward.)
-If you want you can leave stuff on the porch 'til you're all unpacked
+(She laughs, ROBYN doesn't. Awkward.)
+If you want you can leave stuff on the porch
+'til you're all unpacked
 ---
 ## ROBYN:
-Oh no no, I don't want to take up your ---
+Oh no no, I don't want to take up your
+---
 ## SHARON:
 No no! That's fine
-I don't use the side porch that much anyway it's nice in the summer I guess but
+I don't use the side porch that much anyway
+it's nice in the summer I guess but
 (Picking up a weird vegetable:)
 What's this?
 ---
@@ -160,18 +166,21 @@ A bitter gourd.
 ---
 ## SHARON:
 Okay! Yes. Yes. Wow. Well. I see I am going to
-learn a lot from having you os a roommate.
-(She laughs. ---
-## ROBYN:
-doesn't really.)
+learn a lot from having you as a roommate.
+(She laughs. ROBYN doesn't really.)
 (Beat.)
-You must be tired. Driving all the way from... New York, you said?
----
+You must be tired. Driving all the way from... New
+Yo r k , you said?
+c- 11
+
+o 
+---
 ## ROBYN:
 The Bronx.
 ---
 ## SHARON:
 The -! The Bronx!
+
 ---
 ## ROBYN:
 Took about two days, by car.
@@ -189,48 +198,56 @@ somewhere Upstate
 I didn't think...
 Isn't the Bronx...
 dangerous?
+o
 ---
 ## ROBYN:
 "Dangerous."
+o 
 ---
 ## SHARON:
-And you're - I mean. You're a woman. I mean. I don't know.
-I've never lived in New York.
+And you're - I mean. You're a woman.
+I mean. I don't know.
+o I've never lived in New York.
 ---
 ## ROBYN:
 It's okay. I mean. There's parts. Parts where you
 don't wanna
 late at night, you don't wanna
-but it's fine. I stayed there for a little while and nothing ever
+but it's fine. I stayed there for a little while and nothing
+ever
 ---
 ## SHARON:
 (With relief) Oh you aren'tfrom the Bronx!
 (A slight pause.)
+
 ---
 ## ROBYN:
 Everywhere has parts like that.
 ---
 ## SHARON:
 Oh it's mostly pretty safe here.
-Except for the tornados.
----
+o Except for the tornados.
+o ---
 ## ROBYN:
 (Alarmed.) Tornados?
 ---
 ## SHARON:
 Oh yeah, in the spring mostly
 early summer
-you just go on down to the basement 'til they pass. It's fine.
+you just go on down to the basement 'til they pass. It's
+fine.
 ---
 ## ROBYN:
-(Even more alarmed.) There are a lot of tornados here?
+(Even more alarmed.) There are a lot of tornados
+here?
 ---
 ## SHARON:
 Not as bad as some places.
 ---
 ## ROBYN:
 Like how many tornados would you say, on average?
----
+12 
+---
 ## SHARON:
 It's fine! If you hear that big old siren
 you just go down to the basement.
@@ -284,7 +301,7 @@ That's great. In the Bronx?
 No! No no
 He lives
 "Park Slope" do you know where [that is?]
-He lives in "Park Slope."
+He lives in "Park Slope."CC
 ---
 ## ROBYN:
 Oh yeah, that's great.
@@ -294,7 +311,7 @@ He pays way too much for [rent]
 I tell him that all the time, I say
 In Iowa you could have a house for the money you
 spend on [rent]
-(Laughs alittle, stops.)
+(Laughs a little, stops.)
 He doesn't like it when I say that.
 He didn't like Iowa.
 ---
@@ -303,8 +320,9 @@ The tornados?
 ---
 ## SHARON:
 No he just didn't like it.
-(Beat. Have they run out of conversation? SHARON hastens.)
-He's a designet
+(Beat. Have they run out of conversation?
+SHARON hastens.)
+He's a designer.
 ---
 ## ROBYN:
 Oh! That's great!
@@ -316,36 +334,41 @@ He's very good, everybody thinks he's very good.
 What does he design?
 ---
 ## SHARON:
-(Doesn't really know.) Clothes, he mostly designs clothes. For women?
+(Doesn't really know.) Clothes, he mostly designs
+clothes. For women?
 ---
 ## ROBYN:
 Oh!
 ---
 ## SHARON:
 Everybody thinks he's a homosexual, but he's not.
-(Where did this come from? SHARON has surprised herself A beat.)
+(Where did this come from? SHARON has
+surprised herself A beat.)
 ---
 ## ROBYN:
 I'm gay.
 ---
 ## SHARON:
 Oh!
-You're -?
+You ' r e -?
 Oh!!
-You're -??
+You ' r e -??
 (Beat.)
-I mean, I don't have any problem with homose‚mals. ---
+I mean, I don't have any problem with homosexuals.
+---
 ## ROBYN:
 Oh good.
 ---
 ## SHARON:
-Nope. Not at all. I think, you know, gay rights! Let them marry!
+Nope. Not at all. I think, you know, gay rights!
+Let them marry!
 ---
 ## ROBYN:
 Thank you.
 ---
 ## SHARON:
-Some of my son's friends are homose2mal people. Probably most of them.
+Some of my son's friends are homosexual people.
+Probably most of them.
 ---
 ## ROBYN:
 Oh.
@@ -354,24 +377,30 @@ Oh.
 I think most New Yorkers are.
 ---
 ## ROBYN:
-I think actually there are a lot of straight people in New York.
+I think actually there are a lot of straight people in
+New York.
 ---
 ## SHARON:
-I ldssed a girl once in college.
+I kissed a girl once in college.
 (Beat.)
 I'm sorry. I'm nervous.
----
+
+14 
+
+
+---
 ## ROBYN:
 Why are you nervous?
 ---
 ## SHARON:
 I mean. A roommate! I've never had a roommate.
-(This is an admission offailure:)
+(This is an admission offailure.9
 I'm fifty-four years old.
 A roommate!
 ---
 ## ROBYN:
 It's okay. You'll save money.
+
 ---
 ## SHARON:
 No, I know! I know. I definitely
@@ -383,42 +412,49 @@ You - did you have a lot more boxes in the car?
 I've got it.
 ---
 ## SHARON:
-(Really doesn't want to keep carrying boxes.) Well if you're sure.
+(Really doesn't want to keep carrying boxes.) Well
+if you're sure.
 ---
 ## ROBYN:
 Be right back.
+
 (She exits back out to the car.)
-(SHARON sits alone in her kitchen with all these new, weird vegetables. She takes a deep breath. Okay. It's okay.)
+(SHARON sits alone in her kitchen with all
+these new, weird vegetables. She takes a deep
+breath. Okay. It's okay.)
 ---
 ## SHARON:
-(Calling after ---
-## ROBYN:
-) Today is my reading group! ---
+(Calling after ROBYN.) To d a y is my reading group!
+---
 ## ROBYN:
 (Offstage.) What did you say?
 ---
 ## SHARON:
-Oh, I said: today is my reading group. If you want to come with me.
-(---
-## ROBYN:
-returns. She's carrying a heavy box.) ---
+Oh, I said: today is my reading group.
+If you want to come with me.
+
+(ROBYN returns. She's carrying a heavy box.)
+---
 ## ROBYN:
 Your "reading group"?
 ---
 ## SHARON:
-You know, a book club. Only Tanya calls it a reading group -
-(She jumps up to help ---
-## ROBYN:
-set the box on the table. ---
-## ROBYN:
-pulls away.)
+You know, a book club. Only Tanya calls it a
+reading group -
+(She jumps up to help ROBYN set the box on
+the table. ROBYN pulls away.)
 ---
 ## ROBYN:
 I've got it!
 ---
 ## SHARON:
-- Tanya's the one who runs it, she says everything just a little bit wrong, it's because she's from Idaho and there wasn't any culture there, so she didn't get exposed to things until much later in life.
-(Beat.)
+- Tanya's the one who runs it, she says everything
+just a little bit wrong, it's because she's from Idaho
+and there wasn't any culture there, so she didn't get
+exposed to things until much later in life.
+
+
+(Beat.)
 Is that more vegetables?
 ---
 ## ROBYN:
@@ -428,13 +464,13 @@ A reading group...
 Isn't that. Kind of. For old people?
 ---
 ## SHARON:
-(Amazed) We are old people.
+(Amazed.) We are old people.
 ---
 ## ROBYN:
 (Amazed.) We are?
-(A beat. They study each other. Each is kind of bajjled by the other. Then ---
-## ROBYN:
-turns away.)
+(A beat. They study each other. Each is kind
+of baffled by the other. Then ROBYN turns
+away.)
 I'll just take this upstairs. But thanks for the invitation.
 ---
 ## SHARON:
@@ -447,16 +483,16 @@ Literally.
 ## ROBYN:
 Okay then.
 (She picks up the box and almost drops it.)
-(A ceramic doll falls out and smashes.) (The box is full of ceramic dolls.)
+(A ceramic doll falls out and smashes.)
+(The box is full of ceramic dolls.)
 ---
 ## SHARON:
 Oh no!
 ---
 ## ROBYN:
 Stay there!
-(---
-## ROBYN:
-moves quickly between SHARON and the shards.)
+(ROBYN moves quickly between SHARON and
+the shards.)
 ---
 ## SHARON:
 Are you okay? Do you need help?
@@ -472,11 +508,12 @@ Do you want me to...?
 ---
 ## ROBYN:
 No no
----
+16 
+---
 ## ROBYN:
 I've got it.
 (As she sweeps - calmer.)
-Sorry. I didn't mean to [snap]
+Sorry I didn't mean to [snap]
 I just didn't want you to get cut.
 ---
 ## SHARON:
@@ -497,7 +534,7 @@ I made them. I used to be a potter.
 You were?
 ---
 ## ROBYN:
-They're patterned atter these antique South
+They're patterned after these antique South
 American dolls.
 ---
 ## SHARON:
@@ -546,7 +583,9 @@ Why did you stop?
 ---
 ## ROBYN:
 I stopped because
-uh
+n
+ 17
+uh
 it wasn't the sort of lifestyle
 that...
 Being a potter can be very
@@ -597,11 +636,9 @@ Sure.
 A Bronx thing?
 ---
 ## ROBYN:
-A ---
-## ROBYN:
-thing.
+A Robyn thing.
 (Re: the doll box.)
-I'II just take this up to my room...
+I'll just take this up to my room...
 ---
 ## SHARON:
 Oh! Just up the stairs
@@ -611,15 +648,20 @@ would you like me to show you?
 ## ROBYN:
 I've got it.
 Here we go, take two.
-(She hoists the box with the dolls and exits upstairs.)
-2.
-(Morning. Küchen.)
+(She hoists the box with the dolls and exits
+upstairs.)
+18 
+2.
+(Morning. Kitchen.)
 (SHARON on the phone with her son.)
 ---
 ## SHARON:
-(Excited, sotto voce.) And here's the other thing! She's a homosexuan
+(Excited, sotto voce.) And here's the other thing!
+She's a homosexual!
 (Beat.)
-Well I don't care OF COURSE, but you asked if anything interesting happened, and I thought that was interesting.
+Well I don't care OF COURSE, but you asked if
+anything interesting happened, and I thought that
+was interesting.
 (Beat.)
 Also she used to be a potter
 she said she made voodoo dolls but
@@ -632,46 +674,53 @@ No, forget it, maybe over the summer.
 (Beat.)
 Maybe I should come visit you.
 (Beat - he's trying to get out of this.)
-We always have such fun when I visit you! I love staying with you, your roommate is so lovely, the tau l one, what's his name... Do you know what he did last time, he did the funniest thing, did I tell you this? He was -
-(Beat - her son is saying that she has told him this so many times.)
+We always have such fun when I visit you! I love staying
+with you, your roommate is so lovely, the tall one,
+what's his name... Do you know what he did last
+time, he did the funniest thing, did I tell you this?
+He was
+(Beat - her son is saying that she has told
+him this so many times.)
 Oh. Oh yes. I guess I did, didn't I.
 (Beat.)
 She's joined a...local farm. And she just got here! She
-just picked up some boxes of vegetables on her way here. I mean that's very healthy, she seems very healthy. And she just bought a folding bicycle, like a...like sort of a folding chair, but it's a bicycle.
+just picked up some boxes of vegetables on her way
+here. I mean that's very healthy, she seems very
+healthy. And she just bought a folding bicycle, like
+a...like sort of a folding chair, but it's a bicycle.
 (Her son isn't as impressed as she is.)
-Anyway, she seems like a very healthy person with a very sort of healthy lifestyle, and I just think this is all going to just be very healthy for me.
-(---
-## ROBYN:
-wanders in. She's smoking.)
-(SHARON coughs. She coughs pointedly.) (---
-## ROBYN:
-glances of her.)
+Anyway, she seems like a very healthy person with a
+very sort of healthy lifestyle, and I just think this is
+all going to just be very healthy for me.
+(ROBYN wanders in. She's smoking.)
+(SHARON coughs. She coughs pointedly.)
+(ROBYN glances at her.)
 ---
 ## ROBYN:
 Oh! Sorry!
-(SHARON coughs and fons the air.)
+(SHARON coughs and fans the air.)
 Sorry!
-(---
-## ROBYN:
-goes out onto the porch and chain-smokes.)
+(ROBYN goes out onto the porch and chain-
+smokes.)
 (Back to the phone:)
 ---
 ## SHARON:
 (Intense whisper.) SHE. IS. SMOKING.
 (Beat.)
-Well I thought I was fairly clear about that when I said I was looldng for a woman in her fifties.
+Well I thought I was fairly clear about that when I said
+I was looking for a woman in her fifties.
 (Beat.)
 Are you LAUGHING at me?
 (Beat.)
 I have to go.
-(Beat - he's apologizing, but she won't be mollified.)
+(Beat - he's apologizing, but she won't be
+mollified.)
 No, no it's okay. I have to go. I know how busy you are.
 (She hangs up.)
 (A beat.)
-(---
-## ROBYN:
-comes back in.)
----
+(ROBYN comes back in.)
+2
+---
 ## ROBYN:
 Morning.
 ---
@@ -701,7 +750,7 @@ Oh.
 New places stress me out.
 ---
 ## SHARON:
-You weren't stressed out in the Brom but you're
+You weren't stressed out in the Bronx but you're
 stressed out in Iowa?
 ---
 ## ROBYN:
@@ -713,22 +762,22 @@ Even though I quit.
 I am re-quitting.
 ---
 ## SHARON:
-They have nicotine grum at the gas station.
+They have nicotine gum at the gas station.
 They didn't used to, but now it's become popular.
 ---
 ## ROBYN:
-The gum is no good, I get hooked on the grum.
+The gum is no good, I get hooked on the gum.
 I just need to quit cold turkey.
-Ever3rthing that I do, I just need to DO it, no half-
-
+Everything that I do, I just need to DO it, no half-
 measures. Just jump.
 ---
 ## SHARON:
-(Impressed despite hers4) Like moving to Iowa?
+(Impressed despite herself) Like moving to Iowa?
 ---
 ## ROBYN:
 Like moving to Iowa.
-(A warmer beat between the women: a shared humor.)
+(A warmer beat between the women: a shared
+humor.)
 ---
 ## SHARON:
 Do you want some eggs? I was gonna make eggs.
@@ -743,13 +792,15 @@ Vegan!
 ---
 ## ROBYN:
 Vegan.
+flOrOrnnnCCr-Mn
+ 21
 ---
 ## SHARON:
 Vegan.
 Coffee? Without milk?
 ---
 ## ROBYN:
-I'd love some coffee. With almond milk. 
+I'd love some coffee. With almond milk.
 ---
 ## SHARON:
 I don't have almond milk.
@@ -757,14 +808,15 @@ I don't have almond milk.
 ## ROBYN:
 I got it from the co-op yesterday.
 You can try it.
-(She gets out the almond milk.) (SHARON thinks it's very strange, but:)
+(She gets out the almond milk.)
+(SHARON thinks it's very strange, but:)
 ---
 ## SHARON:
 (Very determined.) Okay yes.
-Yes, I will.
-(She lets ROBYN:
-put almond milk in her coffee. They drink coffee together.)
-les...
+Ye s , I will.
+(She lets ROBYN put almond milk in her
+coffee. They drink coffee together.)
+It's...
 ---
 ## ROBYN:
 Weird?
@@ -779,7 +831,6 @@ Bad?
 Not bad.
 (Beat.)
 (The warmth between them becomes awk-
-
 ward again.)
 So what do you do?
 ---
@@ -791,9 +842,8 @@ Uh. You.
 ---
 ## ROBYN:
 Well. I do a lot of things.
-(SHARON waits. ---
-## ROBYN:
-drin/es more almond-milk coffee.)
+(SHARON waits. ROBYN drinks more almond-
+milk coffee.)
 ---
 ## SHARON:
 Oh.
@@ -804,7 +854,11 @@ For example.
 ## ROBYN:
 Well.
 (Beat.)
----
+
+22 
+
+
+---
 ## ROBYN:
 I'm a poet.
 ---
@@ -818,11 +872,12 @@ Yes, I write poetry.
 ## SHARON:
 That's great!
 I love poetry!
+
 (Beat - honest.)
-I don't really understand poetry.
+I don't really understand poetry
 ---
 ## ROBYN:
-I write slam poetry.
+I write slam poetry
 ---
 ## SHARON:
 I don't know what that is.
@@ -832,6 +887,7 @@ I write poems and then I perform them.
 ---
 ## SHARON:
 And what do you write...about?
+
 (A pause.)
 ---
 ## ROBYN:
@@ -847,10 +903,11 @@ I grow things. I like to grow things.
 I never had much of a green thumb but
 that's wonderful!
 What do you grow?
+
 (A pause.)
 ---
 ## ROBYN:
-VVhat do you do?
+What do you do?
 ---
 ## SHARON:
 (Completely off-balanced.) Me?
@@ -862,6 +919,7 @@ Yeah...
 ---
 ## SHARON:
 I'm a mother...
+
 ---
 ## ROBYN:
 Right.
@@ -874,25 +932,30 @@ From what?
 (Beat.)
 ---
 ## SHARON:
-My maniage.
+My marriage.
 ---
 ## ROBYN:
 Oh.
----
+
+
+
+
+CT 23
+---
 ## SHARON:
-Yeah. So.
+Ye a h . So.
 ---
 ## ROBYN:
 I'm sorry?
 ---
 ## SHARON:
 Don't be.
----
+CI---
 ## ROBYN:
 Then I'm not.
-(Beat, ---
-## ROBYN:
-smiles, then SHARON does.) (A shared moment.)
+(Beat, ROBYN smiles, then SHARON does.)
+Cr
+(A shared moment.)
 ---
 ## SHARON:
 I'd love to hear some of your poems.
@@ -908,14 +971,16 @@ Poetry can't really...be explained.
 ---
 ## SHARON:
 That's probably why I don't like it.
-Oh! Sorry! I didn't mean...
+CIOh! Sorry! I didn't mean...
 ---
 ## ROBYN:
 No. No no. It's okay.
 I don't like poetry either.
+
 ---
 ## SHARON:
 You don't?
+
 ---
 ## ROBYN:
 I like mine. But I don't have a lot of patience for
@@ -933,6 +998,7 @@ So...why Iowa?
 ---
 ## ROBYN:
 Why not Iowa?
+
 ---
 ## SHARON:
 Do you know anybody here?
@@ -946,21 +1012,21 @@ Me?
 ## ROBYN:
 You now.
 Now I know you.
-(This pleases ---
-## SHARON:
-)
+C.(This pleases SHARON.)
 ---
 ## SHARON:
 Well
 what would you like to do
+
 here?
 There's the University, there's adult classes
 (there's poetry!)
-or
+24 
+or
 hot yoga
 on North Clinton
 Which I've never taken but I see everybody through the
-vvindow
+window
 when I go by, and they all look so
 Healthy and Happy, you sort of want to injure them
 but yeah, so, there's yoga...
@@ -968,7 +1034,7 @@ My son thinks Iowa City is boring but
 if he just visited me more often he'd see that
 now it's very cultural here, Iowa City is actually very
 [cultural]
-I mean / sort of haven't [been involved]
+I mean I sort of haven't [been involved]
 but you might want to [be involved]
 ---
 ## ROBYN:
@@ -983,26 +1049,25 @@ a cow or
 something.
 ---
 ## SHARON:
-A...sheep.
+A.. .sheep.
 ---
 ## ROBYN:
 I don't know, I imagined
 wide open skies, I think and
 rising at dawn...
-A sort of_restorative manual labor...
+A sort of... restorative manual labor...
 ---
 ## SHARON:
-OII...hmm...
+O11...hmm...
 We could have a garden...?
 ---
 ## ROBYN:
-My grrandmother was from Iowa.
+My grandmother was from Iowa.
 ---
 ## SHARON:
 She was?
-(---
-## ROBYN:
-has surprised them both with this revelation. A moment.)
+(ROBYN has surprised them both with this
+revelation. A moment.)
 ---
 ## ROBYN:
 I didn't know her.
@@ -1010,9 +1075,11 @@ But.
 I heard she was from Iowa.
 ---
 ## SHARON:
-(Beat - a Utile wisffidly.) I guess everybody wants
-to start over. Just bum it all down and start over.
----
+(Beat - a little wistfully.) I guess everybody wants
+to start over. Just burn it all down and start over.
+nn1=flnnnn
+ 25
+---
 ## ROBYN:
 (A genuine question.) Do you?
 ---
@@ -1026,12 +1093,13 @@ You said "everybody." So...don't you?
 I guess I do. Sometimes.
 ---
 ## ROBYN:
-Maybe you already did. When you...retired...from your marriage.
+Maybe you already did. When you...retired...from
+your marriage.
 ---
 ## SHARON:
-No, that didn't feel like a...glorious blaze. lt just
+No, that didn't feel like a...glorious blaze. It just
 feels -
-felt
+flit
 very sad. And cold.
 And then there was nobody to talk to in the mornings.
 (Beat.)
@@ -1052,7 +1120,7 @@ and he'd spend all his time with those mini-things
 instead of with me, in our normal-sized life.
 (Beat.)
 Ha!
-Maybe I'II write a..."slam" poem about that
+Maybe I'll write a..."slam" poem about that
 and you can perform it.
 (Beat.)
 ---
@@ -1063,25 +1131,29 @@ But you should do it anyway.
 ## SHARON:
 I've never written a slam poem before.
 (Beat.)
-If you're II0 longer a poet
-or a potter
+If you're no longer a poet
+26 
+or a potter
 what are you?
 (A beat.)
-(---
-## ROBYN:
-gets up.)
+(ROBYN gets up.)
 ---
 ## ROBYN:
-It'll probably be bad, all first poems are bad poems. There's a great liberty in being bad.
+It'll probably be bad, all first poems are bad poems.
+There's a great liberty in being bad.
 (She leaves the kitchen.)
-(SHARON stares after her, struck to the heart by this wisdom.)
-3.
+(SHARON stares after her, struck to the heart
+by this wisdom.)
+
+OUUOUDOCUOUUOUCJUOUULJO
+ 27
+3.
 (Night. A week later.)
-(---
-## ROBYN:
-at the kitchen table, done.)
+(ROBYN at the kitchen table, alone.)
 (Her pot plants are set on the window-sill.)
-(Very carefully, with immense precision, she rolls ajoint. SHARON comes in, phone in hand.)
+(Very carefully, with immense precision,
+she rolls a joint. SHARON comes in, phone in
+hand.)
 ---
 ## ROBYN:
 Hey!
@@ -1097,9 +1169,7 @@ It's not tobacco.
 ## SHARON:
 (Not kidding.) Then what is it?
 (A beat.)
-(---
-## ROBYN:
-looks at her like.• Seriously?)
+(ROBYN looks at her like: Seriously?)
 (A beat.)
 (SHARON gets it.)
 OH.
@@ -1108,9 +1178,7 @@ Are those —?
 Are those drugs?
 ---
 ## ROBYN:
----
-## SHARON:
-
+Sharon.
 ---
 ## SHARON:
 What!
@@ -1123,30 +1191,36 @@ Medicinal herbs.
 I thought it was drugs?
 ---
 ## ROBYN:
-Herbs only become drugs when a capitalist economy gets involved.
+Herbs only become drugs when a capitalist
+economy gets involved.
 ---
 ## SHARON:
 Oh.
 (A beat. She sits at the kitchen table.)
 (She can't help her curiosity.)
----
+
+28 
+
+
+---
 ## SHARON:
-Is there some - place - here? VVhere you go? And buy...herbs?
+Is there some - place - here? Where you go? And
+buy...herbs?
 ---
 ## ROBYN:
-You mean like a long sticky alley, and a guy with a ski mask is waiting at the end of it?
+You mean like a long sticky alley, and a guy with a
+ski mask is waiting at the end of it?
 ---
 ## SHARON:
 Is that...?
-Is that —!
+Is that -!
 ---
 ## ROBYN:
 No!
 I grew these.
 (Gestures to the plants.)
-I grow my own medicinal herbs, ---
-## SHARON:
 
+I grow my own medicinal herbs, Sharon.
 ---
 ## SHARON:
 Those are...?
@@ -1155,12 +1229,14 @@ Those are...?
 I thought you knew. You said you liked them!
 ---
 ## SHARON:
-I did Eike them! I thought they were just...weird... plants.
+I did like them! I thought they were just.. .weird...
+plants.
 ---
 ## ROBYN:
 Oh man, Okay. Well.
 (Finishes rolling the joint.)
 Outside. Right?
+
 ---
 ## SHARON:
 Right.
@@ -1168,10 +1244,11 @@ Right.
 ## ROBYN:
 Right.
 (She gets up.)
-(But SHARON isn't ready to be left done.)
+(But SHARON isn't ready to be left alone.)
 ---
 ## SHARON:
 I can't get ahold of my son.
+
 ---
 ## ROBYN:
 You called him?
@@ -1183,7 +1260,7 @@ I've called. I've been calling.
 It's a Friday night.
 ---
 ## SHARON:
-I lulow.
+I know.
 ---
 ## ROBYN:
 So he's probably out.
@@ -1198,27 +1275,31 @@ Is something the matter?
 What do you mean?
 ---
 ## ROBYN:
-Well if it's a Friday night and you're texting him and you're calling him, is something the matter?
+Well if it's a Friday night and you're texting him
+and you're calling him, is something the matter?
+
 (A beat.)
----
+
+nnnn
+ 29
+---
 ## SHARON:
 I just think it's a good thing for us to stay in touch.
 For a mother and a son to stay in touch.
 Don't you?
 ---
 ## ROBYN:
-Yeah. Yes. I do.
-But it might be heiter to stay in touch on a Thursday.
-Or in the moming.
+Ye a h . Yes. I do.
+But it might be better to stay in touch on a Thursday.
+Or in the morning.
 You know?
 (A beat.)
 ---
 ## SHARON:
-(Completely unconvineed and kind of upset.) No, sure, of course.
+(Completely unconvinced and kind of upset.) No,
+sure, of course.
 (A beat.)
-(---
-## ROBYN:
-sits back down.)
+(ROBYN sits back down.)
 ---
 ## ROBYN:
 Is he dating someone?
@@ -1226,7 +1307,7 @@ Is he dating someone?
 ## SHARON:
 Yeah.
 I think so?
-He doesn't reale
+He doesn't really
 communicate
 about that kind of thing.
 ---
@@ -1237,20 +1318,20 @@ Maybe he's out with his boyfriend.
 Girlfriend.
 ---
 ## ROBYN:
-Right, sorry. Straight. You said that.
+Right, sorry Straight. You said that.
 ---
 ## SHARON:
 Just because he's a designer doesn't mean
 ---
 ## ROBYN:
-You're right, I forgot.
+You ' r e right, I forgot.
 Maybe he's out with his girlfriend, at a nice dinner.
 ---
 ## SHARON:
 I met her once.
 ---
 ## ROBYN:
-Thafs nice.
+That's nice.
 ---
 ## SHARON:
 She's a lesbian.
@@ -1268,7 +1349,8 @@ How long have they been dating?
 A few years.
 She's got that short hair.
 You know.
-We went to brunch and she mentioned an ex-girlfriend.
+3
+We went to brunch and she mentioned an ex-girlfriend.
 Apparently they're friends with her ex-girlfriend.
 It's all very confusing.
 (A beat.)
@@ -1280,7 +1362,7 @@ I was married to a man.
 You were??
 ---
 ## ROBYN:
-Yeah.
+Ye a h .
 ---
 ## SHARON:
 I didn't know that.
@@ -1298,7 +1380,7 @@ No, we were in love. And it ended badly. But we
 loved each other.
 ---
 ## SHARON:
-(Amazed and alittle scared.) Are you...a bisexual?
+(Amazed and a little scared.) Are you...a bisexual?
 ---
 ## ROBYN:
 No. I'm just saying
@@ -1314,14 +1396,17 @@ Which means, your son probably has lots of people
 who love him.
 Which is a good thing.
 He's probably out right now with people who love him.
-And if you call him in the morning, maybe hell tell you
+And if you call him in the morning, maybe he'll tell you
 about it.
 (A beat.)
-(SHARON gets up. She goes to the cupboard, gets out some Johnnie Walker.)
+(SHARON gets up. She goes to the cupboard,
+gets out some Johnnie Walker.)
 ---
 ## ROBYN:
 Ohhh-kay.
----
+nrM2nCCCQrDCIOC.1
+ 31
+---
 ## SHARON:
 You want some?
 ---
@@ -1329,24 +1414,26 @@ You want some?
 I'm okay.
 ---
 ## SHARON:
-Just a little nighteap.
+Just a little nightcap.
 ---
 ## ROBYN:
 I'm sober. But you go ahead.
 ---
 ## SHARON:
-(Factztally, not mean.) You do drugs.
+(Factually, not mean.) You do drugs.
 ---
 ## ROBYN:
-I medieate myself with medieinal herbs. But my days with aleohol are over.
-(SHARON sits down but doesn'tpour herseif a drink. She studies the joint carefully. ---
-## ROBYN:
+I medicate myself with medicinal herbs.
+But my days with alcohol are over.
+(SHARON sits down but doesn't pour herself a
+drink. She studies the joint carefully. ROBYN
 gets up.)
-I'm gonna have a smoke on your poreh and then eall it
-a -
+I'm gonna have a smoke on your porch and then call it
+a-
 ---
 ## SHARON:
-(Doesn't want to be left done.) I've never. Smoked that.
+(Doesn't want to be left alone.) I've never.
+Smoked that.
 ---
 ## ROBYN:
 ...No?
@@ -1354,14 +1441,15 @@ a -
 ## SHARON:
 No.
 Not even in college.
-I ldssed a -
+I kissed a -
 I told you that.
 But drugs? I never.
 ---
 ## ROBYN:
-Please stop ealling it that. ---
+Please stop calling it that.
+---
 ## SHARON:
-Sony.
+Sorry.
 (Beat.)
 ---
 ## ROBYN:
@@ -1369,22 +1457,24 @@ Would you like some?
 ---
 ## SHARON:
 Yes.
-Yes please.
+Ye s please.
 ---
 ## ROBYN:
 Okay.
-(She hesitates, then sits back down. Lights it up. Takes a long drag, then hands it to
----
-## SHARON:
-)
+(She hesitates, then sits back down. Lights
+it up. Takes a long drag, then hands it to
+SHARON.)
 ---
 ## SHARON:
 How do you...?
 ---
 ## ROBYN:
-You just...like a eigarette.
+You just...like a cigarette.
 Have you ever...?
----
+32 
+
+
+---
 ## SHARON:
 Once.
 ---
@@ -1401,14 +1491,17 @@ Nope. No cancer.
 ## SHARON:
 Okay.
 (She takes a deep drag.)
-(Lets it out, coughing a little, bitt...)
+
+(Lets it out, coughing a little, but...)
 ---
 ## ROBYN:
 Yeah! Nice.
 ---
 ## SHARON:
 I don't feel anything.
-ROMS. Give it a second.
+---
+## ROBYN:
+Give it a second.
 ---
 ## SHARON:
 What am I going to feel?
@@ -1424,15 +1517,16 @@ No! No. You'll just feel relaxed.
 ---
 ## SHARON:
 (Getting more tense.) I never feel relaxed. I'm not
-a relaxed person. What if I don't feel relaxed? ---
+a relaxed person. What if I don't feel relaxed?
+---
 ## ROBYN:
 You will one hundred percent feel relaxed.
-(SHARON takes another drag, just in case.) (Then gives the joint back to ---
-## ROBYN:
-)
+(SHARON takes another drag, just in case.)
+(Then gives the joint back to ROBYN.)
 ---
 ## SHARON:
 I think my son doesn't like me.
+
 ---
 ## ROBYN:
 I'm sure that's not
@@ -1442,44 +1536,44 @@ He loves me. I know he loves me.
 But I think he doesn't like me very much.
 ---
 ## ROBYN:
-Our ldds don't have to like us, they just have to
+Our kids don't have to like us, they just have to
 survive long enough to become us.
 ---
 ## SHARON:
 Do you have kids?!
 (Beat.)
-(---
-## ROBYN:
-passes the joint back to ---
-## SHARON:
-)
+(ROBYN passes the joint back to SHARON.)
+
 ---
 ## ROBYN:
 Your turn.
 (Beat. SHARON takes another drag.)
----
-## SHARON:
-You didn't tell me you --
 
+
+
+
+OnC)nnn
+ 33
+---
+## SHARON:
+You didn't tell me you -
 ---
 ## ROBYN:
----
-## SHARON:
-
+Sharon.
 ---
 ## SHARON:
 Yeah?
-(A halfbeat. In heu of saying "shut up":)
+(A half-beat. In lieu of saying "shut up":)
 ---
 ## ROBYN:
-tell me more about your son.
+Tell me more about your son.
 (Half-beat.)
 ---
 ## SHARON:
 He's very smart.
-He's very good-looldng.
+He's very good-looking.
 I know it's strange for a mother to say that about her
-own -
+OW11 -
 but it's true. He's a very attractive boy.
 And I don't know where he gets that from because his
 father
@@ -1494,7 +1588,7 @@ Me?
 No!
 Me?
 (Beat.)
-Do you think I'm good-looldng?
+Do you think I'm good-looking?
 ---
 ## ROBYN:
 I think you're pretty, yeah.
@@ -1502,20 +1596,22 @@ I think you're pretty, yeah.
 ## SHARON:
 Do you mean that in a factual way, or a lesbian
 way?
-(Halfbeat.)
+(Half-beat.)
 ---
 ## ROBYN:
 I think I need you to make the distinction for me.
 ---
 ## SHARON:
-Sony. I'm sorry. I said it all wrong.
+Sorry I'm sorry I said it all wrong.
 I just meant
 Like, there's a way a man would say to me: you're pretty.
 And that would mean I was actually pretty.
 And there's a way a woman - a straight woman, I guess
 - would say that to me.
-And it would mean that she felt sorry for me.
-And I don't really know what it means when a lesbian person says that to me because I haven't ever really
+34 
+And it would mean that she felt sorry for me.
+And I don't really know what it means when a lesbian
+person says that to me because I haven't ever really
 known any lesbian people before, except for -
 ---
 ## ROBYN:
@@ -1530,20 +1626,22 @@ Right.
 ## SHARON:
 And she didn't like me.
 I think she thought I was boring.
-And possibly judgmental but I don't think I was judgmental
-I didn't feel judgmental I just felt confused. Am I high?
+And possibly judgmental but I don't think I was
+judgmental
+I didn't feel judgmental I just felt confused.
+Am I high?
 Maybe I think I'm high?
 ---
 ## ROBYN:
 I think you're just getting relaxed.
 Okay. Well.
-I said it like: factually, I think you are factually pretty.
+I said it like: factually, I think you are factually pretty
 And I don't feel sorry for you.
 But I'm not hitting on you.
 ---
 ## SHARON:
 Oh! Thank you.
-That's very clean
+That's very clear.
 ---
 ## ROBYN:
 Good.
@@ -1555,10 +1653,10 @@ But nuanced.
 Yes.
 ---
 ## SHARON:
-But now it's clean Thank you.
+But now it's clear. Thank you.
 ---
 ## ROBYN:
-You're welcome.
+You ' r e welcome.OCCCC
 (A beat. They smoke.)
 We should turn some music on.
 ---
@@ -1566,17 +1664,19 @@ We should turn some music on.
 Music?
 ---
 ## ROBYN:
-Yeah.
+Ye a h .
 No?
 ---
 ## SHARON:
 I don't really listen to music?
 (Beat.)
 I have this CD...
-My son sent it to me
+nrCMCMCOOrinnOrnfln
+ 35
+My son sent it to me
 for Christmas one year
 he couldn't come home so
-in the mornings rd make breakfast
+in the mornings I'd make breakfast
 and just play that CD.
 ---
 ## ROBYN:
@@ -1585,7 +1685,12 @@ Let's hear it.
 ## SHARON:
 Okay.
 Okay!
-(She presses "play" on an old CD player nestled on a shelf. Her CD plays - a sentimental song that's SO TERRIBLE, but also, it kind of moves us, in a way we will never admit to later. Possibly Mary Chapin Carpenter.)
+(She presses "play" on an old CD player
+nestled on a shelf Her CD plays - a
+sentimental song that's SO TERRIBLE, but
+also, it kind of moves us, in a way we will
+never admit to later. Possibly Mary Chapin
+Carpenter.)
 (They listen to the CD and get high.)
 I've never
 you know [smoked pot]
@@ -1593,14 +1698,14 @@ with anyone
 I mean obviously because I've never [smoked pot]
 but
 this is really nice.
-No wonder all the ldds do dmgs.
+No wonder all the kids do drugs.
 Oops.
 Sorry.
 Medicinal...
 drugs.
 ---
 ## ROBYN:
-(Laughing.) "All the ldds" don't
+(Laughing.) "All the kids" don't
 ---
 ## SHARON:
 Don't they?
@@ -1618,16 +1723,19 @@ A band!
 ---
 ## SHARON:
 Were you ever in a band?
-I bet you were in a band.
+36 
+I bet you were in a band.
 ---
 ## ROBYN:
 Sort of, when I was in college.
 ---
 ## SHARON:
-anew it!!
+I lmew it!!
 ---
 ## ROBYN:
-I told this girl that I was in a band to impress her. Then she asked me out, and I actually had to be in a band.
+I told this girl that I was in a band to impress her.
+Then she asked me out, and I actually had to be in a
+band.
 (They're laughing together. Then:)
 ---
 ## SHARON:
@@ -1638,13 +1746,14 @@ What?
 ---
 ## SHARON:
 Or children.
-(A beat. ---
-## ROBYN:
-could say anything. Then she gets up, decisively.)
+(A beat. ROBYN could say anything. Then she
+gets up, decisively.)
 ---
 ## ROBYN:
 We need new music.
-(She gets her iPhone. She plays some kind of faste; grittier music. Maybe Patti Smith's "Dancing Barefoot.'9
+(She gets her iPhone. She plays some kind of
+faster, grittier music. Maybe Patti Smith's
+"Dancing Barefoot.,
 ---
 ## SHARON:
 ...What is that?
@@ -1653,9 +1762,14 @@ We need new music.
 New music.
 (She starts to dance.)
 (A beat. SHARON gets up too. She dances.)
-(Both women dance in the kitchen, by them-selves, but together.)
-4.
-(Next day. Küchen.)
+(Both women dance in the kitchen, by them-
+selves, but together.)
+
+C 37
+
+
+4.
+(Next day. Kitchen.)
 (---
 ## ROBYN:
 on the landline.)
@@ -1664,11 +1778,11 @@ on the landline.)
 (She takes a deep breath.)
 ---
 ## ROBYN:
-Halo!
-Yes, uh
+Hello!
+Ye s , uh
 yes I'm calling for Amanda.
 Well
-when will she be back?
+C.when will she be back?
 Oh.
 Well.
 Did she give you any sort of
@@ -1678,19 +1792,20 @@ that's okay
 I'll just
 I'll try again.
 (She hangs up. A beat.)
-(A deep breath. Resolvel)
-(She picks up the phone again. Dias.)
-IE. Yes. I'm calling back.
-Yes, for Amanda.
-Yes I know you said that
+(A deep breath. Resolve!)
+(She picks up the phone again. Dials.)
+Hi. Yes. I'm calling back.
+Ye s , for Amanda.
+C.Ye s I know you said that
 but we both know she told you to say that
-and right nm she's there
+and right now she's there
 standing behind you
 and you're darting her kind of wide-eyed looks
-like WHAT DO I DO ABOUT THIS
+C.like WHAT DO I DO ABOUT THIS
 and she's shaking her head
-and biting her fingemails
-so you know what
+and biting her fingernails
+38 
+so you know what
 I do want to leave a message.
 You tell my daughter that I'm doing it.
 She thinks I can't do it but I'm doing it.
@@ -1699,20 +1814,20 @@ of all places
 so.
 That's all.
 I'm going to hang up now.
-(---
-## ROBYN:
-hangs up.)
-(A beat. Another deep breath.) (She goes out on the porch.) (SHARON enters the kitchen.) (She doesn't see ---
-## ROBYN:
-at first.) (She calls her son.)
-(lt goes to voicemail.)
+(ROBYN hangs up.)
+(A beat. Another deep breath.)
+(She goes out on the porch.)
+(SHARON enters the kitchen.)
+(She doesn't see ROBYN at first.)
+(She calls her son.)
+(It goes to voicemaild
 ---
 ## SHARON:
 Hiii
 it's me
 your mother
 um
-it's Saturday moming
+it's Saturday morning
 I just wanted to make sure you got home okay
 from wherever you were
 whatever you were doing
@@ -1724,7 +1839,9 @@ It's okay if you are
 (Beat.)
 You should visit me!
 (Beat.)
-Also, I just have been thinking
+9r,OrC)
+ 39
+Also, I just have been thinking
 maybe you don't tell me enough things
 about your life
 and
@@ -1733,16 +1850,14 @@ maybe you don't want to tell me
 (although I don't know why you wouldn't.)
 but I do want to know.
 Because
-care.
+I care.
 So.
 (Beat - this comes bursting out of her.)
-smoked marijuana last night.
+I smoked marijuana last night.
 (A frozen moment; she's shocked at herself)
 Goodbye.
 (She hangs up. A beat.)
-(---
-## ROBYN:
-comes in from the porch.)
+(ROBYN comes in from the porch.)
 (Startled.) Oh!
 ---
 ## ROBYN:
@@ -1770,16 +1885,16 @@ I'd love some.
 ---
 ## SHARON:
 Okay!
-(The phone rings. They both freeze. Then both move to it.)
+(The phone rings. They both freeze. Then both
+move to it.)
 ---
 ## ROBYN:
-Fes / for me.
+It's / for me.
 ---
 ## SHARON:
 Oh god.
-(Beat - ---
-## ROBYN:
-is quizzicak)
+4
+(Beat - ROBYN is quizzical:)
 ---
 ## SHARON:
 I mean, go on.
@@ -1788,15 +1903,13 @@ I mean, go on.
 (Answers the phone.) Hello?
 (It's Sharon's son.)
 Oh!
-Uh. Hello. IE.
-Oh, this is ---
-## ROBYN:
-your mother's roommate.
+Uh. Hello. Hi.
+Oh, this is Robyn, your mother's roommate.
 Yeah, nice to meet you as well.
 Yeah, your mom is -
-(On a sudden whim, SHARON starts shaking her head frantically. ---
-## ROBYN:
-pauses, startled. Head-shaking continues.)
+(On a sudden whim, SHARON starts shaking
+her head frantically. ROBYN pauses, startled.
+Head-shaking continues.)
 Your mom is not
 available
 right now.
@@ -1807,26 +1920,27 @@ No, I don't know what she's doing, I just know she's...
 (SHARON gestures emphatically: OUT.)
 OUT. She. Is OUT. Right now.
 What?
-Well I guess she must've stepped out right after she called you.
+Well I guess she must've stepped out right after she
+called you.
 (Beat - he's asking her something.)
 Marijuana?
 Your mother?
 I have no idea.
-You'll have to ask her that.
+You ' l l have to ask her that.
 Okay.
 Okay.
 You too.
-(---
-## ROBYN:
-hangs up.)
+rCCMn3nOnfln
+ 41
+(ROBYN hangs up.)
 (A beat. Co-conspirators. Then:)
 You told him you smoked pot?
 ---
 ## SHARON:
 I didn't mean to
-I meant to say something eise
+I meant to say something else
 some bullshit Mom thing
-stay safe, be eareful, don't ride the subway at night
+stay safe, be careful, don't ride the subway at night
 and then I said that. Instead.
 (Beat.)
 ---
@@ -1837,7 +1951,7 @@ He sounds nice.
 He does?
 ---
 ## ROBYN:
-Yeah.
+Ye a h .
 He had a nice voice.
 (Beat.)
 ---
@@ -1852,7 +1966,7 @@ He's going to ask where I was.
 I don't really go out.
 ---
 ## ROBYN:
-(Teasing her.) But I hear there's poetry elasses and
+(Teasing her.) But I hear there's poetry classes and
 hot yoga and
 ---
 ## SHARON:
@@ -1862,7 +1976,7 @@ hot yoga and
 Cultural [things]
 ---
 ## SHARON:
-I go to the book elub.
+I go to the book club.
 And the store. On Thursdays.
 ---
 ## ROBYN:
@@ -1873,19 +1987,20 @@ I work at a gift shop. Just on Thursdays. It's nice.
 Maybe I'll say I went in today as well. Early.
 ---
 ## ROBYN:
-tell him you were on a date.
+Tell him you were on a date.
 ---
 ## SHARON:
-Wh,at?
+What?
 ---
 ## ROBYN:
-Yeah. A date.
+Ye a h . A date.
 ---
 ## SHARON:
-N0000
+N
 A-!
 On a Saturday morning?
----
+42 
+---
 ## ROBYN:
 Breakfast date.
 ---
@@ -1893,7 +2008,8 @@ Breakfast date.
 Oh man.
 ---
 ## ROBYN:
-You met him online. He asked you to breakfast. What.
+You met him online. He asked you to breakfast.
+What.
 ---
 ## SHARON:
 Online?
@@ -1909,7 +2025,7 @@ There are serial killers online.
 ## ROBYN:
 Oh my god.
 Time-out. Time.
-You have never been on an intemet date.
+You have never been on an internet date.
 ---
 ## SHARON:
 No!! Have you??
@@ -1920,13 +2036,15 @@ Yes!
 ## SHARON:
 Oh!
 (Beat.)
-There aren't any women serial killers though. So that's different.
+There aren't any women serial killers though. So that's
+different.
 ---
 ## ROBYN:
 When was the last time you were on a date?
 ---
 ## SHARON:
-When I got married! And we all saw how well that turned out!
+When I got married! And we all saw how well
+that turned out!
 ---
 ## ROBYN:
 Okay.
@@ -1937,21 +2055,23 @@ We have to remedy this.
 No we don't. Nope.
 ---
 ## ROBYN:
----
-## SHARON:
-You have to stop thinking about yourself
-as basieally dead.
-You are aetually younger than most U.S. presidents.
-You are young enough that, if you were a president, you would be a young president.
+Sharon. You have to stop thinking about yourself
+as basically dead.
+You are actually younger than most U.S. presidents.
+You are young enough that, if you were a president, you
+would be a young president.
 Okay?
 So just. Stop mummifying yourself.
-(A beat. This strikes SHARON all the way to the heart. After a moment:)
----
+(A beat. This strikes SHARON all the way to
+the heart. After a moment:)
+nnnnrrrn
+ 43
+---
 ## SHARON:
 I'd go on a date if you went.
 ---
 ## ROBYN:
-VVhat! Oh no no no
+What! Oh no no no
 ---
 ## SHARON:
 Like a double
@@ -1963,7 +2083,8 @@ I am not going on your date with you!
 Like a double-date, what
 ---
 ## ROBYN:
-Awkward! That shit was awkward in college, it's awkward now!
+Awkward! That shit was awkward in college, it's
+awkward now!
 ---
 ## SHARON:
 Someone with a sister
@@ -1975,21 +2096,27 @@ No! No no
 We could all get coffee together
 ---
 ## ROBYN:
-No! I will help screen the applicants so that you do not find yourself sitting across from a seHal Idller, but I'm not gonna come along and have coffee with his sister!
+No! I will help screen the applicants so that you do
+not find yourself sitting across from a serial killer,
+but I'm not gonna come along and have coffee with
+his sister!
 ---
 ## SHARON:
-You'd help me screen them?
-'WEM. Yeah I could do that.
+You ' d help me screen them?
+---
+## ROBYN:
+Ye a h I could do that.
 ---
 ## SHARON:
-I don't know how to set up a...page. A home page.
+I don't know how to set up a.. .page. A home page.
 ---
 ## ROBYN:
 A profile.
 I could help you do that.
 ---
 ## SHARON:
-How come you know all these things? (A beat.)
+How come you know all these things?
+(A beat.)
 ---
 ## ROBYN:
 I used to run a lot of businesses.
@@ -1998,7 +2125,7 @@ I used to run a lot of businesses.
 You did?
 ---
 ## ROBYN:
-Yeah.
+Ye a h .
 ---
 ## SHARON:
 What kind of businesses?
@@ -2010,21 +2137,21 @@ Businesses that helped people with personal things.
 I didn't know that.
 ---
 ## ROBYN:
-We're just getting to know each other. There's a lot you don't know.
+We're just getting to know each other. There's a lot
+you don't know.
 ---
 ## SHARON:
-(Doesn't mean to say this.) I'm glad you're here, ---
-## ROBYN:
-
-(---
-## ROBYN:
-is moved, and this makes her awkward. A beat. Then:)
+(Doesn't mean to say this.) I'm glad you're here,
+Robyn.
+(ROBYN is moved, and this makes her
+awkward. A beat. Then:)
 ---
 ## ROBYN:
 I'll just...
-I forgot my glasses.
-(She leaves the ?vom.)
-(A beat. SHARON drinks ceree.)
+44 
+I forgot my glasses.
+(She leaves the room.)
+(A beat. SHARON drinks coffee.)
 (The phone rings. SHARON considers.)
 (She considers. She sighs.)
 (SHARON picks it up.)
@@ -2033,9 +2160,7 @@ I'll just...
 Hi.
 (Beat; it's not her son.)
 Excuse me?
-No, this is ---
-## SHARON:
-Who's calling please?
+No, this is Sharon. Who's calling please?
 Amanda, I think you have the wrong number.
 No, there isn't anyone here by that name.
 Victoria, there's no Victoria -
@@ -2052,18 +2177,18 @@ I have to go.
 (She opens her mouth.)
 (She closes it.)
 (A beat.)
-(---
-## ROBYN:
-returns.)
+(ROBYN returns.)
 ---
 ## ROBYN:
 Did I hear the phone?
 ---
 ## SHARON:
-lt was
+It was
 just
 my son.
-Calling back.
+flnrrnn17)nC-1nOn
+ 45
+Calling back.
 ---
 ## ROBYN:
 You picked up?
@@ -2072,17 +2197,17 @@ You picked up?
 I told him
 I couldn't talk.
 I was going on a date.
-5.
+46 
+5.
 (Later that morning.)
-(The porch. ---
-## ROBYN:
-s boxes still stacked.)
+(The porch. Robyn's boxes still stacked.)
 (SHARON goes through her things.)
 (She doesn't know exactly what she's looking
 for, but she knows there's something.)
 ---
 ## SHARON:
-(Reading the box labeis.) Kitchen supplies odds and ends
+(Reading the box labels.) Kitchen supplies
+odds and ends
 books
 okay
 cook books
@@ -2095,59 +2220,59 @@ Antiques
 I like Antiques
 clothes
 (She opens the clothing box.)
-(Looks at ---
-## ROBYN:
-s clothes. Takes them out.)
+(Looks at Robyn's clothes. Takes them out.)
 (Beat.)
 (Beat.)
 (Puts on a hat.)
 (Beat.)
-(Puts on ajacket.)
+(Puts on a jacket.)
 (Models.)
-(She tries on ---
-## ROBYN:
-s clothes. She feels power-ful in them.)
+(She tries on Robyn's clothes. She feels power-
+ful in them.)
 (She moves around the porch in them.)
-(Clears her throat. Sort of as Robym)
-I'm a poet.
+(Clears her throat. Sort of as Robyn:)
+nnr,nrrinoconnoccococncooncnonno
+47
+I'm a poet.
 I write poems.
 Here's a poem.
-(Silently pretends to recite The Best Poem That Has Ever Been Written.)
+(Silently pretends to recite The Best Poem
+That Has Ever Been Written.)
 Thank you.
 Thank you.
-An autogTaph?
+An autograph?
 Oh my.
 I suppose I could.
-(SHARON keeps going through the clothing box. Then: she double-takes.)
+(SHARON keeps going through the clothing
+box. Then: she double-takes.)
 Oh.
-(She reaches in. She pulls out a fistful of driver's licenses. Beat. Anotherfistful. She reads the names, dropping them back into the box.)
+(She reaches in. She pulls out a fistful of
+driver's licenses. Beat. Another fistful. She
+reads the names, dropping them back into the
+box.)
 Claire Jones.
 Claire Doyle.
 Sarah Lucas.
 Victoria Lucas.
----
-## ROBYN:
-Doyle.
+Robyn Doyle.
 Victoria Jones.
-(Beat. More fisuls of driver's licenses, she drops them back without reading them, beat.)
+(Beat. More fisffiLls of driver's licenses, she
+drops them back without reading them, beat.)
 Oh.
-6.
+48 
+6.
 (Evening.)
 (SHARON sits at the kitchen table.)
-(She waits for ---
-## ROBYN:
-to get home.)
+(She waits for Robyn to get home.)
 (Key in the lock.)
-(---
-## ROBYN:
-enters.)
+(ROBYN enters.)
 ---
 ## ROBYN:
 Oh!
 Hey!
 ---
 ## SHARON:
-IE.
+Hi.
 ---
 ## ROBYN:
 How was your day?
@@ -2159,20 +2284,23 @@ how was yours?
 ## ROBYN:
 I went to the Farmer's Market on
 what is that street
-the one with the parldng garage
+the one with the parking garage
 ---
 ## SHARON:
 Gilbert
 ---
 ## ROBYN:
-Yeah, Gilbert! I bought a necklace
+Ye a h , Gilbert! I bought a necklace
 there was this woman selling these necklaces she'd
 made
-out of hemp I think, she grew it herseif, and these clay beads,
-do you know who I'm talldng about? Is she maybe in your book club or something?
+out of hemp I think, she grew it herself, and these clay
+beads,
+do you know who I'm talking about? Is she maybe in
+your book club or something?
 ---
 ## SHARON:
-How come you have so many driver's licenses? (A real beat.)
+How come you have so many driver's licenses?
+(A real beat.)
 ---
 ## ROBYN:
 Excuse me?
@@ -2184,7 +2312,7 @@ I asked how come -?
 Did you go through my stuff??
 ---
 ## SHARON:
-I was looldng for
+I was looking for
 a hat
 ---
 ## ROBYN:
@@ -2192,16 +2320,16 @@ A hat?
 ---
 ## SHARON:
 My head was
-cold.
+nnnnnCCnOnOnnflnn
+ 49
+cold.
 ---
 ## ROBYN:
-A hat in my stuffl
+A hat in my stuff?
 ---
 ## SHARON:
-lt said "clothes."
-I thought, maybe ---
-## ROBYN:
-hos a hat.
+It said "clothes."
+I thought, maybe Robyn has a hat.
 ---
 ## ROBYN:
 Okay.
@@ -2248,8 +2376,7 @@ roommate get-to-know-you thing, or is this twenty
 questions, or is this an interrogation?
 ---
 ## SHARON:
-I'm not interrogating --
-
+I'm not interrogating -
 ---
 ## ROBYN:
 Do you want me to leave?
@@ -2257,12 +2384,13 @@ Do you want me to leave?
 ## SHARON:
 I'm not asking you to leave!
 (Beat.)
-Should I be asldng you to leave?
+Should I be asking you to leave?
 (Beat.)
 ---
 ## ROBYN:
 No.
-(Beat.)
+5
+(Beat.)
 ---
 ## SHARON:
 Then I'm not.
@@ -2273,7 +2401,7 @@ Are you hungry?
 Am I...?
 ---
 ## SHARON:
-No dairy. No meat. I made vegetables.
+No dairy No meat. I made vegetables.
 ---
 ## ROBYN:
 What did you make?
@@ -2285,7 +2413,8 @@ You don't have to...
 ---
 ## ROBYN:
 I'll try some.
-(Beat. SHARON gets her a bowl of vegetables.) (They sit. Eventually)
+(Beat. SHARON gets her a bowl of vegetables.)
+(They sit. Eventually)
 Have you talked to anyone about this?
 ---
 ## SHARON:
@@ -2298,7 +2427,7 @@ this
 ---
 ## SHARON:
 No!
-VVho would I -?
+Who would I -?
 No
 ---
 ## ROBYN:
@@ -2315,16 +2444,19 @@ I came here for some peace and quiet.
 Look, I'm not trying to
 I don't mean to
 I like you
-(This surprises them both, greatly.) (A beat.)
+(This surprises them both, greatly.)
+(A beat.)
 What I mean is
 it's nice
 to have a friend.
----
+flninnrinrOrnnnnOnnn
+ 51
+---
 ## ROBYN:
 Are we friends?
 ---
 ## SHARON:
-Aren% we?
+Aren't we?
 ---
 ## ROBYN:
 I thought we were roommates.
@@ -2352,7 +2484,7 @@ don't go through my shit.
 I didn't mean to
 ---
 ## ROBYN:
-Yeah I know you wanted a hat
+Ye a h I know you wanted a hat
 if you want a hat, buy a damn hat
 ---
 ## SHARON:
@@ -2365,7 +2497,7 @@ Jesus Christ.
 ---
 ## SHARON:
 I'm very nosy and I'm very persistent
-it's something that hos always irritated my son
+it's something that has always irritated my son
 but inescapable, in our line of work
 ---
 ## ROBYN:
@@ -2386,28 +2518,28 @@ Yes.
 You are correct.
 Amanda is my daughter.
 Yes.
----
+52 
+---
 ## SHARON:
 Oh.
 (Beat.)
 What's your name actually?
 ---
 ## ROBYN:
----
-## ROBYN:
-
+Robyn.
 ---
 ## SHARON:
 But... Victoria? And Clare? And...?
 ---
 ## ROBYN:
-Those were also my names, actually, when they were actually my names.
+Those were also my names, actually, when they
+were actually my names.
 ---
 ## SHARON:
 But what were you born as?
 ---
 ## ROBYN:
-I was born os a malleable, changeable template.
+I was born as a malleable, changeable template.
 (Beat.)
 ---
 ## SHARON:
@@ -2418,52 +2550,51 @@ No.
 (Beat.)
 ---
 ## SHARON:
-I guess what I'm asldng is,
+I guess what I'm asking is,
 Are you doing something illegal?
 ---
 ## ROBYN:
 Right now?
 ---
 ## SHARON:
-Or like...recently.
+Or like. ..recently.
 Or...ongoingly.
 Or like...were you?
 (A beat.)
 ---
 ## ROBYN:
 Yes.
-Yes I was, ---
-## SHARON:
-
+Yes I was, Sharon.
 ---
 ## SHARON:
 Oh!
-(A beat.)
+(A beat.)OCC
 What was it?
 ---
 ## ROBYN:
 If you ask me that
 and I tell you
 it makes you an accomplice
-So.
+so.
 (Beat.)
 ---
 ## SHARON:
 (Trying the word out.) An accomplice.
 (Beat.)
-What did you do?
+OrnCrOCCOOnOnC)fl
+ 53
+What did you do?
 ---
 ## ROBYN:
----
-## SHARON:
-
+Sharon.
 ---
 ## SHARON:
 Yeah?
 ---
 ## ROBYN:
 I'm going to go outside and have a cigarette.
-And you think about whether or not you want me to answer that.
+And you think about whether or not you want me to
+answer that.
 And when I come back, you can ask it again.
 Or
 we can finish dinner
@@ -2474,31 +2605,29 @@ in which this question does not exist.
 (She gets up and starts to leave to the porch.)
 ---
 ## SHARON:
-Are you really gonna quit smoldng, or is that like
+Are you really gonna quit smoking, or is that like
 part of this whole
 multiple personality thing?
 ---
 ## ROBYN:
 I, as me, as myself, am going to quit
-as soon os I have this next, last,
+as soon as I have this next, last,
 cigarette.
-(---
-## ROBYN:
-goes outside.)
+(ROBYN goes outside.)
 (A beat.)
-(SHARON wants to do so many things0
+(SHARON wants to do so many things!)
 (She gets up she sits down she gets up she
 opens her mouth she sits down she goes to the
 phone checking nervously over her shoulder.)
-(---
-## ROBYN:
-isn't looking.)
+(ROBYN isn't looking.)
 (She calls her son.)
-(Voicemail0
+(Voicemail!)
 (She has no idea what she's going to say.)
-(She SOrt of listens to herself stumble through
-the usual set of communications, while wondering ifshe's going to tell him what's
-happening:)
+(She sort of listens to herself stumble through
+the usual set of communications, while
+wondering if she's going to tell him what's
+54 
+happening:)
 ---
 ## SHARON:
 Hi
@@ -2512,12 +2641,12 @@ I think you should visit.
 I think we should visit each other.
 When I told you I smoked marijuana?
 I was kidding.
-• •
+•••
 I went on a date.
 Actually, I wasn't kidding.
-I did smoke marijuana•
-But I'm not smoldng it right now.
-• •
+I did smoke marijuana.
+But I'm not smoking it right now.
+•••
 I didn't go on a date.
 I did go on a date.
 •••
@@ -2526,45 +2655,43 @@ she's very
 there's something very
 about her
 the thing is
-• •
+•••
 she's an interesting person.
-(SHARON is so surprised! She didn't expeet to say thisl But it's true.)
+(SHARON is so surprised! She didn't expect to
+say this! But it's true.)
 She knows things.
 She does things.
 Everybody always told me not to do things.
 Your father never [understood me]
-And my mother! She always said Don't.
+nnr1nnOnCMOn
+ 55
+And my mother! She always said Don't.
 Is that how you feel about me?
 Am I a person who says to you: Don't?
-(Beat - maybe she doesn't want that answered.) ---
-## ROBYN:
-just says: Do. And then she does.
+(Beat - maybe she doesn't want that answered.)
+Robyn just says: Do. And then she does.
 (The voicemail cuts her off)
 Are you there?
 Are you...?
 Oh.
-(She calls back, voicemaild
+(She calls back, voicemail.)
 Your machine cut me off.
-won't keep you too long.
-just wanted to say that
+I won't keep you too long.
+I just wanted to say that
 I'm very
 happy
 and
 that's all.
 Goodbye.
 (She hangs up.)
-(---
-## ROBYN:
-is standing in the doorway.)
+(ROBYN is standing in the doorway.)
 (A beat between them.)
 ---
 ## ROBYN:
-I finished my eigarette.
+I finished my cigarette.
 ---
 ## SHARON:
-(With real resolve.) What do you do, ---
-## ROBYN:
-
+(With real resolve.) What do you do, Robyn?
 ---
 ## ROBYN:
 Did.
@@ -2586,15 +2713,17 @@ Yes.
 You mugged them?
 ---
 ## ROBYN:
-No. I convinced them to grive me their money.
+No. I convinced them to give me their money.
 ---
 ## SHARON:
 That doesn't sound illegal.
----
+56 
+---
 ## ROBYN:
 Under false pretenses.
 I called them up. Old people. Mostly.
-They could donate to save the whales or the orphans or the ozone layer. Whatever.
+They could donate to save the whales or the orphans or
+the ozone layer. Whatever.
 And they did.
 And it all went to me.
 ---
@@ -2605,8 +2734,10 @@ And it all went to me.
 Yeah.
 But that wasn't enough money.
 So then I started telling people they'd won things.
-People are a lot more willing to risk when there's tangible reward.
-And to collect the prize, they'd have to provide information.
+People are a lot more willing to risk when there's
+tangible reward.
+And to collect the prize, they'd have to provide
+information.
 ---
 ## SHARON:
 Are you the Nigerians?
@@ -2615,11 +2746,13 @@ Are you the Nigerians?
 Sorry?
 ---
 ## SHARON:
-All those emails from Princess what'sit trying to store her millions in my whatever -
+All those emails from Princess whaesit
+trying to store her millions in my whatever -
 were those actually from you?
 ---
 ## ROBYN:
-Oh! No. I'm much more detail-oriented. Precise. Grammatic.
+Oh! No. I'm much more detail-oriented. Precise.
+Grammatic.
 ---
 ## SHARON:
 But that's the general idea.
@@ -2638,27 +2771,32 @@ go on.
 And it was actually substantially lucrative.
 ---
 ## SHARON:
-VVhat about your daughter??
+What about your daughter??
 Did she know?
 ---
 ## ROBYN:
-We teach our children whatever sldll-sets we have, ---
-## SHARON:
-Didn't you?
+We teach our children whatever skill-sets we have,
+Sharon. Didn't you?
 ---
 ## SHARON:
-You taught your daughter how to seam people?
----
+You taught your daughter how to scam people?
+ 57
+
+
+---
 ## ROBYN:
-She's the one who came up with the driver's license thing.
-We started manufacturing fake IDs, and then she'd seil them at school.
+She's the one who came up with the driver's license
+thing.
+We started manufacturing fake IDs, and then she'd sell
+them at school.
 But that wasn't until college.
 ---
 ## SHARON:
 Your daughter is a con-artist?
 ---
 ## ROBYN:
-My daughter is an intelligent and resourceful young woman.
+My daughter is an intelligent and resourceful
+young woman.
 (A beat.)
 ---
 ## SHARON:
@@ -2668,36 +2806,43 @@ I don't know.
 What.
 ---
 ## SHARON:
-What you said...before.
+What you said.. .before.
 I don't know if I gave my son any kind of...
-sIdll-set.
+skill-set.
 ---
 ## ROBYN:
 He sounds successful.
 ---
 ## SHARON:
-I think he might have done that on his own. Or, worse, in spite of me.
-We're not dose.
-Why aren't we dose?
+I think he might have done that on his own.
+Or, worse, in spite of me.
+We're not close.
+Why aren't we close?
 ---
 ## ROBYN:
-Well. Amanda and I aren't dose either.
+Well. Amanda and I aren't close either.
+
 ---
 ## SHARON:
 You scammed people together.
 You were con-artists together.
-You were like Bonnie and Clyde, but mother and daughter.
+You were like Bonnie and Clyde, but mother and
+daughter.
 That's so... I don't know! Close!
 ---
 ## ROBYN:
-We have to give our ldds things, and they have to
+We have to give our kids things, and they have to
 reject those things.
 At some point.
-Amanda temps at a law firm now and she wears these little power-suits
-and she tells everybody that her mother lives in another country
+Amanda temps at a law firm now and she wears these
+little power-suits
+and she tells everybody that her mother lives in another
+country
 so all of her boyfriends bring her home for the holidays
-and their mothers are extra sympathetic because her own is
-so far away.
+and their mothers are extra sympathetic because her
+own is
+58 
+so far away.
 So.
 (A beat.)
 ---
@@ -2712,13 +2857,17 @@ It's not fine.
 (Beat.)
 ---
 ## ROBYN:
-She doesn't think I can give it up. The lifestyle. She doesn't want to talk to me anymore, but if she talked to me, she'd see that I can give it up. I mean, I'm in Iowa. Talk about giving up.
+She doesn't think I can give it up. The lifestyle.
+She doesn't want to talk to me anymore, but if she
+talked to me, she'd see that I can give it up. I mean,
+I'm in Iowa. Ta l k about giving up.
 ---
 ## SHARON:
 (Hey.)
 ---
 ## ROBYN:
-Also, I sold pot. But you probably figured that out already.
+Also, I sold pot. But you probably figured that out
+already.
 ---
 ## SHARON:
 (Wide-eyed.) No, I didn't.
@@ -2727,10 +2876,11 @@ Also, I sold pot. But you probably figured that out already.
 You didn't?
 ---
 ## SHARON:
-No! How would I figrure that out??
+No! How would I figure that out??
 ---
 ## ROBYN:
-(Genuinely impressed.) Wow. What planet are you from?
+(Genuinely impressed.) Wow. What planet are you
+from?
 ---
 ## SHARON:
 Iowa?
@@ -2745,57 +2895,71 @@ Actually Illinois, though.
 Right. I remember.
 ---
 ## SHARON:
-Not (rillte the Land of Giving Up.
+Not quite the Land of Giving Up.
 ---
 ## ROBYN:
 I was
-talldng about me, not you
+talking about me, not you
 maybe also you, but mostly me.
 ---
 ## SHARON:
 You sold pot?
 ---
 ## ROBYN:
-Not too often. Just because I don't really have a grow-house or anything.
-And growing pot for real, that's a commitment, it requires a lot of specifics.
-But I have definitely sold it. And that has also, sporadically, definitely been lucrative.
----
+Not too often. Just because I don't really have a
+grow-house or anything.
+And growing pot for real, that's a commitment, it
+requires a lot of specifics.
+But I have definitely sold it. And that has also,
+sporadically, definitely been lucrative.
+ 59
+C.
+C.---
 ## SHARON:
-Did Amanda seil pot?
+Did Amanda sell pot?
 ---
 ## ROBYN:
-(With some pride.) She paid her way through college.
+(With some pride.) She paid her way through
+college.
 ---
 ## SHARON:
 Wow.
 ---
 ## ROBYN:
-(Reallyproucl.) And she has a green thumb, I mean I'm not bad with plants but she's got a real talent. Yeah.
+(Really proud.) And she has a green thumb, I mean
+I'm not bad with plants but she's got a real talent.
+Ye a h .
 ---
 ## SHARON:
 (Impressed.) That's great.
 ---
 ## ROBYN:
-lt is.
+It is.
 (Beat.)
 She refuses to talk about any of that now.
-VVhen we talk, which is not often, she wants to keep things "present-tense."
+When we talk, which is not often, she wants to keep
+things "present-tense
 She says her therapist told her to do that.
-And I'm like, what kind of a therapist refuses to speak in the past tense?
-Things happened. They accumulated. We became. Or the future, for that matter. We will become.
-But no. Amanda says, "Today I am eating a sandwich. I am grrocery shopping."
-She says, "We are avoiding conflict."
+And I'm like, what kind of a therapist refuses to speak
+in the past tense?
+Things happened. They accumulated. We became.
+Or the future, for that matter. We will become.
+But no. Amanda says, "Today I am eating a sandwich. I
+am grocery shopping."
+She says, "We are avoiding conflict:'
 (Half-beat.)
+
 I don't think conflict is a bad thing.
 ---
 ## SHARON:
 You know my son does that too
 the present-tense thing
 I don't know if anybody told him to do it
-But III be like, "Remember when I visited you and we had fun?"
-And hell be like, "It's sunny today. It's cloudy today."
+But I'll be like, "Remember when I visited you and we
+had fun?"
+And he'll be like, "It's sunny today. It's cloudy today."
 (A contemplative beat, then:)
-What eise did you do?
+What else did you do?
 ---
 ## ROBYN:
 I mean, I did just a little bit of auto-theft, but
@@ -2804,14 +2968,17 @@ I mean, I did just a little bit of auto-theft, but
 YOU WHAT.
 ---
 ## ROBYN:
-(With growingpride.) But it's a lot of work
-high risk
+(With growing pride.) But it's a lot of work
+6
+
+
+high risk
 you have to be really really good at it
 and that takes time
 like a real commitment to craft
 ---
 ## SHARON:
-Okay yeah I mean yeah I imagrine
+Okay yeah I mean yeah I imagine
 ---
 ## ROBYN:
 And you have to spend real time building the right
@@ -2826,9 +2993,11 @@ Sure okay
 ## ROBYN:
 And I was good
 buyers trusted me
-and you might not know this from looldng of me but
+and you might not know this from looking at me but
+
 I'm very very good with cars
-both jacldng them and stripping them down
+both jacking them and stripping them down
+
 some people don't do well under pressure and
 I don't want to brag, but I would say that I sort of
 thrive
@@ -2840,7 +3009,7 @@ You know?
 ---
 ## SHARON:
 Right!
-...Why not?
+..Why not?
 ---
 ## ROBYN:
 ...Well
@@ -2848,7 +3017,8 @@ because we moved a lot, we had to move a lot
 so you build a network of buyers and then you abandon
 it,
 sort of before you've closed the deal.
-lt becomes wasteful. And ultimately too risky•
+It becomes wasteful. And ultimately too risky
+
 ---
 ## SHARON:
 Are people chasing you?
@@ -2857,8 +3027,10 @@ Are people chasing you?
 Right now?
 ---
 ## SHARON:
-Yes, Hght now!
----
+Yes, right now!!
+nn
+ 61
+---
 ## ROBYN:
 I don't think they are right now, no.
 ---
@@ -2904,7 +3076,7 @@ Do you feel like I'm scamming you?
 ---
 ## SHARON:
 I mean I don't know
-Maybe my jewefry is missing or
+Maybe my jewelry is missing or
 maybe you've photocopied my credit cards or something
 Have you?
 I don't know
@@ -2925,17 +3097,18 @@ Promise?
 ## ROBYN:
 I mean, I promise but
 do you believe me?
-(Beat. SHARON looks at her. Then0
+(Beat. SHARON looks at her. Then:)
 ---
 ## SHARON:
 Yeah.
 ---
 ## ROBYN:
-Yeah?
+Ye a h ?
 ---
 ## SHARON:
 I do believe you. Yes.
-(Beat between them.)
+62 
+(Beat between them.)
 ---
 ## ROBYN:
 So that's me.
@@ -2971,9 +3144,7 @@ Because I'm done with all that.
 ## SHARON:
 I'm not asking you to do it, just to show me how.
 (A real beat.)
-(---
-## ROBYN:
-takes her in. Then:)
+(ROBYN takes her in. Then:)
 ---
 ## ROBYN:
 Show you how what, exactly?
@@ -2985,31 +3156,34 @@ The phone thing.
 I don't do the phone thing anymore.
 ---
 ## SHARON:
-I bet rd be good, talldng to somebody on the phone.
+I bet I'd be good, talking to somebody on the phone.
 ---
 ## ROBYN:
 I don't do any of this anymore.
 ---
 ## SHARON:
 Like you don't smoke anymore?
+
 (Beat.)
 ---
 ## ROBYN:
 That's not fair.
 ---
 ## SHARON:
-I'm sorry.
+I'm sorry
 ---
 ## ROBYN:
 Those are entirely different things.
 ---
 ## SHARON:
 I know.
-You're right, I know.
+You ' r e right, I know.
 Look. All I'm saying is
 how
 exactly
-did you do it -
+rMn'n
+63
+did you do it -
 when you did it
 (which you no longer do)?
 (Beat.)
@@ -3027,15 +3201,18 @@ Okay...
 Like, maybe you're telling them that something
 they value is about to expire.
 Auto insurance. Home insurance. Their cable. Whatever.
-And you have a deal, and it's kind of an amazing one-time deal, but it's ending in twenty-four hours. You
+And you have a deal, and it's kind of an amazing one-
+time deal, but it's ending in twenty-four hours. You
 just caught them at the tail end of this deal.
 ---
 ## SHARON:
 Right.
 ---
 ## ROBYN:
-So they better decide fast if they want to save sixty percent on their phone bill.
-Or upgrade to a new twice-as-fast high-speed internet connection.
+So they better decide fast if they want to save sixty
+percent on their phone bill.
+Or upgrade to a new twice-as-fast high-speed internet
+connection.
 ---
 ## SHARON:
 That sounds easy. I could do that.
@@ -3052,12 +3229,12 @@ I'm personable.
 It's harder than you think.
 ---
 ## SHARON:
-lt doesn't sound that hard.
+It doesn't sound that hard.
 ---
 ## ROBYN:
 Oh really!
 Ring ring. I'm gonna pick up.
-(She “pieks up.")
+(She "picks up.")
 Hello?
 ---
 ## SHARON:
@@ -3066,11 +3243,10 @@ Wait, are we pretending?
 ## ROBYN:
 (We're seeing how good you are)
 Hello, who is this?
----
+64 
+---
 ## SHARON:
-This is ---
-## SHARON:
-
+This is Sharon.
 ---
 ## ROBYN:
 I don't know any Sharons.
@@ -3083,14 +3259,14 @@ life insurance.
 Which is about to expire.
 ---
 ## ROBYN:
-lt is?
+It is?
 ---
 ## SHARON:
 (Helpfully.) You are about to expire.
 ---
 ## ROBYN:
 Let's start with something easier.
-You're calling me about my cable bill. Isn't it high?
+You ' r e calling me about my cable bill. Isn't it high?
 Wouldn't I like it to be lower?
 ---
 ## SHARON:
@@ -3103,9 +3279,9 @@ I guess it is a little...
 Wouldn't you like it to be lower?
 ---
 ## ROBYN:
-Are you trying to seil me something?
+Are you trying to sell me something?
 (They get suspicious.)
-Are you trying to seil me something I don't want,
+Are you trying to sell me something I don't want,
 Sharon?
 ---
 ## SHARON:
@@ -3114,39 +3290,43 @@ there's a deal and it's about to end
 and you're lucky, you are a lucky person
 because first of all, there aren't that many deals in life
 life is mostly about being charged the full amount
-and second of all, timing is ever3rthing.
+and second of all, timing is everything.
 A bullet is a bullet and your head is your head and
 if two seconds separate those things
 well
 those two seconds saved your life.
 So.
 How would you like to pay less for your cable?
-(A beat. ---
-## ROBYN:
-is actually impressed.)
+(A beat. ROBYN is actually impressed.)
 ---
 ## ROBYN:
-rd like that a lot.
+I'd like that a lot.
 ---
 ## SHARON:
 Okay!
-Well that's good.
+
+ 65
+
+
+Well that's good.
 I'd like that too.
 Give me your credit card.
 ---
 ## ROBYN:
-(Make that sound more official. Anything about money has to sound official, so they feel safe.)
+(Make that sound more official. Anything about
+money has to sound official, so they feel safe.)
 ---
 ## SHARON:
 Please give me your credit card.
 ---
 ## ROBYN:
-(Breaks the "call.'9 "The next step requires your
+(Breaks the "call.") "The next step requires your
 date of birth and your credit card information."
 You don't need it, it is required.
 ---
 ## SHARON:
 You are good at this.
+
 ---
 ## ROBYN:
 Yeah, I am, I'm very good at it.
@@ -3162,7 +3342,7 @@ Okay?
 ---
 ## ROBYN:
 You did pretty okay.
----
+C---
 ## SHARON:
 I was good.
 You know I was good.
@@ -3171,7 +3351,9 @@ You know I was good.
 You were pretty good.
 ---
 ## SHARON:
-I was personable. And you liked me. (Half-beat.)
+I was personable. And you liked me.
+
+(Half-beat.)
 ---
 ## ROBYN:
 Yeah.
@@ -3183,7 +3365,9 @@ You did, didn't you.
 ## ROBYN:
 Yeah, I liked you.
 (A moment between them.)
-(The air has sheed suddenly and they both suddenly frei it, and neither is sure what the
+
+(The air has shifted suddenly and they both
+suddenly feel it, and neither is sure what the
 shift is. They're both suddenly uneasy.)
 So. That was that.
 ---
@@ -3191,16 +3375,19 @@ So. That was that.
 I want to do it for real.
 ---
 ## ROBYN:
----
-## SHARON:
-..
----
+Sharon...
+C---
 ## SHARON:
 I could do it for real, couldn't I.
 (A beat.)
----
+
+C
+C
+
+66 
+---
 ## ROBYN:
-I...can't.
+I.. .can't.
 Not anymore.
 ---
 ## SHARON:
@@ -3214,10 +3401,10 @@ So.
 ---
 ## SHARON:
 Look.
-Tomorrow I make one phone can.
+To m o r r o w I make one phone call.
 Okay? Just one. With you.
 And if it doesn't go well, then forget it!
-I wasn't cut out for it! Well forget it!
+I wasn't cut out for it! We'll forget it!
 It'll be like it never happened.
 But if it goes well
 then
@@ -3225,9 +3412,7 @@ you see how you feel about that.
 (A beat.)
 ---
 ## ROBYN:
----
-## SHARON:
-..
+Sharon...
 ---
 ## SHARON:
 One foot in the grave, who would I even tell.
@@ -3240,23 +3425,25 @@ I didn't feel old. Just now.
 I felt like
 I was thriving
 and I bet you did too.
+
 (A beat.)
 ---
 ## ROBYN:
 Good night.
 (She leaves.)
-7.
+nnnn
+ 67
+7.
 (Morning. The kitchen.)
-(Cojfee. Light. French.)
+(Coffee. Light. French.)
 (...French?)
-(Yes, SHARON is listening to a French lan-guage tape as she makes coffee.)
-FRENCH TAPE. (Recording.) Ithp6tez s'il vous platt.
+(Yes, SHARON is listening to a French lan-
+guage tape as she makes coffee.)
+FRENCH TAPE. (Recording.) Repetez s'il vous plait.
 Je m'appelle...
 ---
 ## SHARON:
-Je m'appelle ---
-## SHARON:
-
+Je m'appelle Sharon.
 FRENCH TAPE. (Recording.) Comment-allez vous?
 ---
 ## SHARON:
@@ -3265,19 +3452,17 @@ FRENCH TAPE. (Recording.) J'aime Paris.
 ---
 ## SHARON:
 J'aime Paris.
-(---
-## ROBYN:
-in the doorway.)
+(ROBYN in the doorway.)
 ---
 ## ROBYN:
-Wh,at are you doing.
+What are you doing.
 ---
 ## SHARON:
-Parlez-vous Frainais?
+Parlez-vous Francais?
 ---
 ## ROBYN:
 Not to any functional degree, non.
-Why are you parlez-ing Frainais?
+Why are you parlez-ing Francais?
 ---
 ## SHARON:
 I always wanted to learn.
@@ -3292,10 +3477,8 @@ In college I was a member of the French club.
 I didn't know that.
 ---
 ## SHARON:
-I was going to be a spy. La Femme ---
-## SHARON:
-
-Or a baket
+I was going to be a spy. La Femme Sharon.
+Or a baker.
 ...Coffee?
 ---
 ## ROBYN:
@@ -3312,9 +3495,10 @@ Yeah?
 Have you
 you know.
 thought about it?
----
+68 
+---
 ## ROBYN:
-"Je_
+"It"...
 ---
 ## SHARON:
 You know...
@@ -3330,10 +3514,8 @@ So give it a minute, okay?
 ---
 ## SHARON:
 Okay.
-(She sits and watches ---
-## ROBYN:
-drink her coffee.)
-(With balefulfocus.)
+(She sits and watches ROBYN drink her coffee.)
+(With baleful focus.)
 (Like an iguana.)
 ---
 ## ROBYN:
@@ -3349,12 +3531,11 @@ You're watching me.
 I'm drinking my coffee.
 ---
 ## ROBYN:
-You are not drinidng your coffee
+You are not drinking your coffee
 you are watching me.
-(SHARON lifis her coffee cup to her mouth.)
-(She gives ---
-## ROBYN:
-an iguana-stare over the lip of the mug.)
+(SHARON lifts her coffee cup to her mouth.)
+(She gives ROBYN an iguana-stare over the lip
+of the mug.)
 Did you sleep?
 ---
 ## SHARON:
@@ -3363,39 +3544,41 @@ Yeah I slept
 ## ROBYN:
 Because I heard
 French
-around five a.m ?
-
+around five a.m 7
 ---
 ## SHARON:
 How did you know who to target?
 ---
 ## ROBYN:
-"Targee I don't use that word "target”
+"Target" I don't use that word "target"
 ---
 ## SHARON:
 Okay...
 ---
 ## ROBYN:
-"Identify," I took some time to identify my dient base
+"Identify," I took some time to identify my client base
 ---
 ## SHARON:
 Okay...
 So like...
 ---
 ## ROBYN:
-Northemers are mean and paranoid
-Southemers are nice but suspicious
+Northerners are mean and paranoid
+Southerners are nice but suspicious
 The west coast is in a state of anarchy
 ---
 ## SHARON:
 And Iowa?
----
+ 69
+
+---
 ## ROBYN:
 The Midwest is always good.
 (Beat.)
+
 ---
 ## SHARON:
-We could can Tanya.
+We could call Tanya.
 ---
 ## ROBYN:
 Tanya.
@@ -3413,32 +3596,38 @@ She's an acquaintance.
 You want to target Tanya.
 ---
 ## SHARON:
-I am identifying our best dient base.
-(---
+I am identifying our best client base.
+(ROBYN really takes SHARON in. Really in.)
+
+---
 ## ROBYN:
-really takes SHARON in. Really in.) ---
-## ROBYN:
-You're a quick study.
+You ' r e a quick study.
 ---
 ## SHARON:
-(This compliment means a lot to her.) My mother always said I was slow.
+(This compliment means a lot to her.) My mother
+Oalways said I was slow.
 ---
 ## ROBYN:
-(Not meanly.) Your mother was a bitch, I think. ---
+(Not meanly.) Your mother was a bitch, I think.
+---
 ## SHARON:
 (Startled, not upset.) Excuse me?
 ---
 ## ROBYN:
-(Still not mean.) I mean it's hard to tell, it was an earlier time,
-sometimes you think: that's just how women were taught to be
+(Still not mean.) I mean it's hard to tell, it was an
+earlier time,
+sometimes you think: that's just how women were
+Otaught to be
 but it sounds like your mother was kind of a bitch.
 ---
 ## SHARON:
-I don't feel comfortable saying that myself but I really appreciate that you said it.
-beat.)
+I don't feel comfortable saying that myself but I
+really appreciate that you said it.
+(A beat.)
+
 ---
 ## ROBYN:
-You'd have to disguise your voice.
+You ' d have to disguise your voice.
 An accent of some kind.
 ---
 ## SHARON:
@@ -3448,35 +3637,37 @@ I think I could do French.
 Convincingly?
 ---
 ## SHARON:
-Tanya is from _Nah°.
+Ta n y a is from Idaho.
 ---
 ## ROBYN:
 If this goes badly, I never agreed to it.
 ---
 ## SHARON:
 Understood.
+
 (She goes to the phone. She dials Tanya.)
-(---
-## ROBYN:
-sits, armsfolded, a commanding gen-eral surveying the troops. SHARON blossoms
-under her undivided attention. In the follow-ing sequence, we see SHARON come fully alive. In a French accent:)
+(ROBYN sits, arms folded, a commanding gen-
+eral surveying the troops. SHARON blossoms
+7
+under her undivided attention. In the follow-
+ing sequence, we see SHARON come fully alive.
+In a French accent:)
 ---
 ## SHARON:
 Hello?
-Yes, is this Tanya?
-Tanya, hello, this is
+Ye s , is this Tanya?
+Ta n y a , hello, this is
 Juliette
 DuBois
 from The Franco-Global Association for International
 Orphans
 based in Normandy, France
-Yes
+Ye s
 Normandy is a lovely city
 there are stone walls and it is right next to the ocean
-and long ago people stormed the beaches with great passion
-(---
-## ROBYN:
-clears her throat.)
+and long ago people stormed the beaches with great
+passion
+(ROBYN clears her throat.)
 which is all to say
 I wonder if you are interested in saving the lives of
 starving children
@@ -3490,20 +3681,25 @@ yes, Senegal is a place of music and motion and hats
 and children without parents
 - What?
 Well
-what we do is, we provide orphans with things they generally lack
+what we do is, we provide orphans with things they
+generally lack
 like pain au chocolat
 and bicycles
 and vegetables
-and small hats
-and the right Idnds of love.
+nrrnnnOOCM
+ 71
+and small hats
+and the right kinds of love.
 And love requires money.
-All kinds of love, but especially the right Idnds.
-There can be no love of any Idnds
+All kinds of love, but especially the right kinds.
+There can be no love of any kinds
 without money.
-(Beat - this comes from a personalplace.)
-(SHARON thinks about her life as she speaks, and she gets emotional, and it's actually weirdly honest and raw.)
+(Beat - this comes from a personal place.)
+(SHARON thinks about her life as she speaks,
+and she gets emotional, and it's actually
+weirdly honest and raw.)
 Think about what it is to be alone.
-lt is a late night somewhere
+It is a late night somewhere
 wherever you are
 and you are alone.
 Think about the objects you arrange around you.
@@ -3511,25 +3707,40 @@ But everything is cold under your hand.
 And then someone comes into your life.
 And you become different.
 You find yourself to be...truly...alive.
-Think about how one person can change an entire lifetime
+Think about how one person can change an entire
+lifetime
 of accumulated coldness and objects and silence.
-(Beat - Tanya is ajfected by this and wants to SHARON makes direct eye contact with ---
+(Beat - Tanya is affected by this and wants to
+help. SHARON makes direct eye contact with
+---
 ## ROBYN:
-speaking with a quiet and inarguable victory)
+speaking with a quiet and inarguable
+victory)
 Thank you Tanya.
-It's people like you who make the difference. The next step requires your date of birth and your credit card information.
-8.
-(The kucken, two weeks Wer.)
-(The table is cluttered, piled high with French guidebooks, a stack of new clothes with labels still on, scattered cash, cigarettes. And...a record player. lt looks like the kitchen of high-rolling and sophisticated college kids with money to bum.)
+It's people like you who make the difference.
+The next step requires your date of birth
+and your credit card information.
+72 
+8.
+(The kitchen, two weeks later.)
+(The table is cluttered, piled high with French
+guidebooks, a stack of new clothes with labels
+still on, scattered cash, cigarettes. And...a
+record player. It looks like the kitchen ofhigh-
+rolling and sophisticated college kids with
+money to burn.)
 (---
 ## ROBYN:
 at the table, bagging weed.)
-(SHARON is on the cordless phone with a book-club lady. She looks younger, somehow, more buoyant.)
+(SHARON is on the cordless phone with a
+book-club lady. She looks younger, somehow,
+more buoyant.)
 ---
 ## SHARON:
-(To the phone.) Yes, how much would you like?
+(To the phone.) Ye s , how much would you like?
 Now, was that the herbal mix or the baked goods?
-Okay dear, I'll bring it to book club tomorrow. Bye bye now.
+Okay dear, I'll bring it to book club tomorrow.
+Bye bye now.
 (She hangs up.)
 That's another order.
 ---
@@ -3541,7 +3752,8 @@ Of the brownies, or...?
 The herbal mix.
 ---
 ## ROBYN:
-(Makes a note in a notebook.) Got it. They're being discreet?
+(Makes a note in a notebook.) Got it.
+They're being discreet?
 ---
 ## SHARON:
 Like little mice
@@ -3558,13 +3770,15 @@ giggled her way through that.
 ---
 ## SHARON:
 I told you -
----
+nnDOCM
+ 73
+---
 ## ROBYN:
-You're not from here.
+You ' r e not from here.
 ---
 ## SHARON:
-/ played the claHnet os a child.
-Tanya refers to her book club os a -
+/ played the clarinet as a child.
+Ta n y a refers to her book club as a -
 SHARON & ---
 ## ROBYN:
 - Reading group.
@@ -3574,7 +3788,7 @@ I seem Iowan, but I'm not Iowan, it's my secret
 weapon.
 ---
 ## ROBYN:
-Yeah I'm learning that about you.
+Ye a h I'm learning that about you.
 ---
 ## SHARON:
 What?
@@ -3584,19 +3798,19 @@ Your secret weapons.
 (A beat between them.)
 ---
 ## SHARON:
-(Pleased.) You're the one who came home yesterday
+(Pleased.) You ' r e the one who came home yesterday
 with a record player.
 ---
 ## ROBYN:
-You're the one who never listens to music
-lt was an act of mercy on my part
+You ' r e the one who never listens to music
+It was an act of mercy on my part
 ---
 ## SHARON:
 I like it.
 The record player.
 ---
 ## ROBYN:
-(Shy.) Yeah?
+(Shy.) Ye a h ?
 ---
 ## SHARON:
 Yeah.
@@ -3606,12 +3820,10 @@ Cool.
 (Beat.)
 ---
 ## SHARON:
+Robyn?
 ---
 ## ROBYN:
-
----
-## ROBYN:
-Yeah?
+Ye a h ?
 ---
 ## SHARON:
 I was gonna ask you...
@@ -3633,15 +3845,15 @@ Yes...?
 I just have been thinking
 that
 the book-club ladies have been really really
-receptive
+74 
+receptive
 to medicinal herbs
 ---
 ## ROBYN:
 Sure seems like it.
 ---
 ## SHARON:
-I was talking to Betty --
-
+I was talking to Betty -
 ---
 ## ROBYN:
 The one with the hair-net?
@@ -3669,7 +3881,7 @@ OH my god
 ## SHARON:
 (It's fine!) and it occurred to me
 you know
-those ldds have a whole demographic available to them
+those kids have a whole demographic available to them
 that we don't
 and I thought
 what if we gave Betty's goddaughter some
@@ -3680,7 +3892,7 @@ to off-load
 Hold up.
 Hold up.
 You want Betty's twelve-year-old goddaughter
-to seil pot brownies for us
+to sell pot brownies for us
 to her friends.
 ---
 ## SHARON:
@@ -3698,10 +3910,12 @@ Her classmates?
 ## SHARON:
 (Helpfully.) She might not have many actual
 friends
-she's a little strange-looldng
+she's a little strange-looking
 (her teeth, and...)
-but uh, classmates and
-you know, ldds she knows from places.
+nnr,Qn
+ 75
+but uh, classmates and
+you know, kids she knows from places.
 ---
 ## ROBYN:
 Okay
@@ -3710,7 +3924,7 @@ Okay
 listen
 ---
 ## SHARON:
-And I know you might have concems
+And I know you might have concerns
 ---
 ## ROBYN:
 "Concerns"
@@ -3726,13 +3940,13 @@ So. Let's consider.
 ---
 ## ROBYN:
 "Expansion is progress"
-VVhere did you even...?
+Where did you even...?
 ---
 ## SHARON:
 I read that.
 ---
 ## ROBYN:
-You read it.
+Youread it.
 ---
 ## SHARON:
 I was reading this article in Harvard Business
@@ -3756,20 +3970,24 @@ I want to know what's going on.
 ---
 ## ROBYN:
 ...By reading Harvard Business Review?
----
+76 
+---
 ## SHARON:
 What!
-(Pause - refocusing.9
+(Pause - refocusing:)
 ---
 ## ROBYN:
----
-## SHARON:
-.. I don't think off-loading pot brownies to Betty's adoleseent buek-toothed goddaughter is going to provide progress, entrepreneurial or otherwise. And you Imow, low profile, Sharon
+Sharon... I don't think off-loading pot brownies
+to Betty's adolescent buck-toothed goddaughter
+is going to provide progress, entrepreneurial or
+otherwise. And you know, low profile, Sharon
 we are keeping a low profile
 we are not expanding a business.
 Sustaining and expanding are two different activities
-and it's great that now you read Harvard Business Review
-but expanding is no longer an interest of mine. (Beat.)
+and it's great that now you read Harvard Business
+Review
+but expanding is no longer an interest of mine.
+(Beat.)
 ---
 ## SHARON:
 And then there's this other thing.
@@ -3785,33 +4003,36 @@ I got us something.
 What?
 ---
 ## SHARON:
-And it's sort ofjust in ease.
+And it's sort of just in case.
 We don't need it now
 so I don't think we should think that we need it now
-but I just thought, it's good to be prepared. ---
+but I just thought, it's good to be prepared.
+---
 ## ROBYN:
 What did you buy.
 (SHARON goes to a large shopping bag.)
 (She takes out a large gun.)
----
-## SHARON:
-
+Sharon.
 ---
 ## SHARON:
 I went to the Walmart in Cedar Rapids
 ---
 ## ROBYN:
-WHAT THE PUCK!
+WHAT THE FUCK!
 ---
 ## SHARON:
-And there was a nice young man who [sold me this]
+And there was a nice young man who [sold me
+this]
 ---
 ## ROBYN:
 Do you even know how to use a gun??
 ---
 ## SHARON:
-I've been watehing videos on YouTube it doesn't look hard.
----
+I've been watching videos on YouTube
+it doesn't look hard.
+nnn
+ 77
+---
 ## ROBYN:
 Sharon!
 We cannot own a gun.
@@ -3844,22 +4065,21 @@ Sharon!
 What?
 ---
 ## ROBYN:
-Take it back.
+Ta k e it back.
 ---
 ## SHARON:
 What??
 ---
 ## ROBYN:
 Do you have the receipt?
-Take it back.
+Ta k e it back.
 ---
 ## SHARON:
-(Canny.) Hold it and I'lllook for the receipt.
+(Canny.) Hold it and I'll look for the receipt.
 (A beat.)
-(---
-## ROBYN:
-holds the gun.)
-(SHARON knows exactly where her receipt is and takes her sweet time looking for it.)
+(ROBYN holds the gun.)
+(SHARON knows exactly where her receipt is
+and takes her sweet time looking for it.)
 What's it feel like?
 ---
 ## ROBYN:
@@ -3873,21 +4093,22 @@ Dangerous.
 ---
 ## SHARON:
 But doesn't it feel good?
-(Pause.)
+78 
+(Pause.)
 ---
 ## SHARON:
 I walked out of that Walmart
-and I lmew that everybody who looked at me
+and I knew that everybody who looked at me
 was looking through me
 but I knew what they weren't seeing.
-I lmew what I had.
+I knew what I had.
 (Beat.)
 ---
 ## ROBYN:
 Find your receipt?
 ---
 ## SHARON:
-Still looldng.
+Still looking.
 ---
 ## ROBYN:
 We're not gonna shoot anybody.
@@ -3915,9 +4136,7 @@ Promise?
 ## SHARON:
 I said okay.
 I will.
----
-## ROBYN:
-I will.
+Robyn, I will.
 ---
 ## ROBYN:
 Okay and just
@@ -3938,33 +4157,41 @@ No bigger.
 No smaller?
 ---
 ## ROBYN:
-Just os we are.
+Just as we are.
 ---
 ## SHARON:
 I like how we are.
-(Beat.)
-Found it. ---
+nnnnOnC
+79
+(Beat.)
+Found it.
+---
 ## ROBYN:
-Yeah? ---
+Ye a h ?
+---
 ## SHARON:
-Right here. ---
+Right here.
+---
 ## ROBYN:
-Okay. ---
+Okay.
+---
 ## SHARON:
-Are we good? ---
+Are we good?
+---
 ## ROBYN:
 We're good.
-9.
+8
+9.
 (Evening, one week later.)
 (The kitchen.)
 (Music on the record player.)
-(---
-## ROBYN:
-stands with the box of dolls. She has a large garbage bag. She seems to be about to throw them out, and then...)
-(The sound of SHARON approaching.) (---
-## ROBYN:
-quickly hides the box.)
-(SHARON comes into the kitchen from the out-side.)
+(ROBYN stands with the box of dolls. She has
+a large garbage bag. She seems to be about to
+throw them out, and then...)
+(The sound of SHARON approaching.)
+(ROBYN quickly hides the box.)
+(SHARON comes into the kitchen from the out-
+side.)
 (She is Dressed. Up.)
 (And a teeny little bit drunk.)
 (And it's pretty hot.)
@@ -3976,33 +4203,38 @@ Oh hey look who's home!
 There you are!
 ---
 ## ROBYN:
-(Taking in the ouffit.) Whoa. Whoa mama. Look at you.
+(Taking in the ouffit.) Whoa. Whoa mama.
+Look at you.
 ---
 ## SHARON:
 Right? Whaddayou think?
 ---
 ## ROBYN:
-Bold. Bold ehoice.
+Bold. Bold choice.
 ---
 ## SHARON:
 Right?!
 (Beat.)
-Bold good or hold bad?
-(She grabs ajoint off the table, lights it.)
+Bold good or bold bad?
+(She grabs a joint off the table, lights it.)
 ---
 ## ROBYN:
-Bold is...bold. lt e3dsts above the dietates of good and evil.
+Bold is.. .bold. It exists above the dictates of good
+and evil.
 (Beat.)
-That's for your book elub, you know we don't smoke that.
+That's for your book club, you know we don't smoke
+that.
 ---
 ## SHARON:
 It's just a little bit.
 Do you want me to put this out?
----
+C.
+CI 81
+---
 ## ROBYN:
 No, just - next time -
 (Beat.)
-so.
+SO.
 ---
 ## SHARON:
 (Can't wait to be asked.) Yeeeees?
@@ -4023,7 +4255,7 @@ Eyes, that's eyes.
 He knows about eyes.
 ---
 ## ROBYN:
-Yeah okay, eyes.
+Ye a h okay, eyes.
 ---
 ## SHARON:
 (This is not a good thing...) He's going bald...
@@ -4032,7 +4264,8 @@ Yeah okay, eyes.
 Bald, okay.
 ---
 ## SHARON:
-(Not sure how shefeels about this.) He was a child star?
+(Not sure how she feels about this.) He was a child
+star?
 ---
 ## ROBYN:
 What kind?
@@ -4044,27 +4277,33 @@ Gerber food commercial.
 Hmm.
 ---
 ## SHARON:
-His experiences with fame haunted him. To this day.
+His experiences with fame haunted him. To this
+day.
 ---
 ## ROBYN:
-Farne! Okay!
+Fame! Okay!
 Overall verdict?
 (Beat.)
 ---
 ## SHARON:
-And he ldssed me.
+And he kissed me.
 ---
 ## ROBYN:
-You mean like an end-of-night ldss
+You mean like an end-of-night kiss
 or like a Kiss?
 ---
 ## SHARON:
-Well we ldssed on the cheek when I first arrived
+Well we kissed on the cheek when I first arrived
 at the restaurant
 but those don't count
-(I mean in Paris everybody ldsses each other on the cheek all the time.)
+(I mean in Paris everybody kisses each other on the
+cheek all the time.)
 but after dinner
-we mode out.
+C.
+
+82 
+
+we made out.
 In the car.
 And he was very passionate
 he kept bumping me into things
@@ -4074,14 +4313,16 @@ like the gear shift because he drives stick.
 Well done!
 ---
 ## SHARON:
-I don't think I ever really did that os a teenager.
-Like, forty years lote, I mode out in a car.
+I don't think I ever really did that as a teenager.
+Like, forty years late, I made out in a car.
+
 (Beat.)
 And he put his
 hand
 on my
 (Breasts.)
 you know
+
 ---
 ## ROBYN:
 Oh-kay, I don't think we need to
@@ -4100,37 +4341,45 @@ is this what all the fuss is about?
 ...What?
 ---
 ## SHARON:
-I just. I don't Imow. I was bored.
+I just. I don't know. I was bored.
 ---
 ## ROBYN:
-You were maldng out in a car!
+You were making out in a car!
 You were banging into the gear shift!
 He was squeezing various parts of you!
 How were you bored?
+
 ---
 ## SHARON:
-lt just felt like
+It just felt like
 I don't know
 he was so.. .normal.
 He told me I was pretty.
-lt was very unambiguous.
-He had ldds, he showed me pictures of them.
+It was very unambiguous.
+He had kids, he showed me pictures of them.
 They looked like kids.
 ---
 ## ROBYN:
 Sharon! You went on a nice date
-with a man who was NOT a serial killer --
 
+
+
+OnnOnr 9
+ 83
+with a man who was NOT a serial killer -
 ---
 ## SHARON:
-I sort ofjust started entertaining myself aller a time.
+I sort of just started entertaining myself
+after a time.
 ---
 ## ROBYN:
 What does that mean?
-(SHARON takes a series of objects out of her pocket: cigarettes, a fancy lighter.)
+(SHARON takes a series of objects out of her
+pocket: cigarettes, a fancy lighter.)
 ---
 ## SHARON:
-I took these out of his pocket while we were Idssing.
+I took these out of his pocket while we were
+kissing.
 ---
 ## ROBYN:
 You -!
@@ -4139,7 +4388,7 @@ You -!
 (With pride.) He didn't even notice.
 ---
 ## ROBYN:
-You robbed him
+Yourobbed him
 while he was kissing you.
 ---
 ## SHARON:
@@ -4153,7 +4402,7 @@ And a nice lighter!
 A lighter is a lighter.
 ---
 ## ROBYN:
-That's not the point and you Imow it.
+That's not the point and you know it.
 ---
 ## SHARON:
 When I was a girl I stole a penny candy from the
@@ -4162,17 +4411,16 @@ and my mother slapped me across the face.
 She said, "Little girls don't take what isn't theirs."
 And you know what?
 She was right.
-lt takes a grown lady to do that.
-(Despite herself ---
-## ROBYN:
-is laughing.) ---
+It takes a grown lady to do that.
+(Despite herself; ROBYN is laughing.)
+---
 ## ROBYN:
 Sharon!!
 ---
 ## SHARON:
 (Takes out a watch, sets it on the table.) Right off
 his wrist, and he didn't notice.
-Turns out, I'm good. Who Imew!
+Turns out, I'm good. Who knew!
 ---
 ## ROBYN:
 Sharon!
@@ -4183,7 +4431,8 @@ What!
 ## ROBYN:
 Sharon you cannot just
 go on dates with people and
-mug them
+84 
+mug them
 ---
 ## SHARON:
 He wasn't complaining.
@@ -4195,7 +4444,7 @@ The point is -
 ## SHARON:
 The point is, if you'd been on a date with me
 I wouldn't have mugged you.
-(Beat. The air ehanges just a &de.)
+(Beat. The air changes just a little.)
 ---
 ## ROBYN:
 What does that mean.
@@ -4210,9 +4459,7 @@ Are you mad at me?
 (Beat.)
 He's just a guy
 you don't even know him.
-(Beat. ---
-## ROBYN:
-is sober now.)
+(Beat. ROBYN is sober now.)
 ---
 ## ROBYN:
 Careful. With that.
@@ -4221,12 +4468,12 @@ Careful. With that.
 What!
 ---
 ## ROBYN:
-"Just a guy.”
+"Just a guy."
 ---
 ## SHARON:
 I mean I didn't kill him.
 I didn't like, poison him.
-You Imow?
+You know?
 Everything's fine.
 ---
 ## ROBYN:
@@ -4241,7 +4488,8 @@ Don't you think you're overreacting?
 ## ROBYN:
 I meant to give this up.
 I really did.
-Until you, I did.
+ 85
+Until you, I did.
 ---
 ## SHARON:
 Oh...
@@ -4249,7 +4497,7 @@ Oh...
 ## ROBYN:
 Until you
 and how it was so
-fall
+fun
 and how you
 surprised me
 (you always surprise me.)
@@ -4274,34 +4522,33 @@ I'm doing this for fun.
 Or you want it so bad it feels like you need it.
 ---
 ## SHARON:
-I don't need it, ---
-## ROBYN:
-
+I don't need it, Robyn.
 ---
 ## ROBYN:
 Are you sure?
 (Beat. SHARON is not sure.)
 ---
 ## SHARON:
-(Quiet.) I'm not a Idd who doesn't know right
+(Quiet.) I'm not a kid who doesn't know right
 from wrong.
 You aren't raising me. Somebody already raised me,
-and they did a shittyjob
-and then I raised somebody and I did a shittyjob
+and they did a shitty job
+and then I raised somebody and I did a shitty job
 and you, generally, all you've done is be a really
-really
+Creally
 great
 roommate.
+
 (Beat.)
-(---
-## ROBYN:
-almost laughs, but also she's too sad to laugh. She takes SHARON's joint. She
-smokes, and SHARON tries to make out her expression.)
+(ROBYN almost laughs, but also she's too
+sad to laugh. She takes SHARON's joint. She
+r--
+86 
+smokes, and SHARON tries to make out her
+expression.)
 ---
 ## SHARON:
----
-## ROBYN:
-
+Robyn.
 ---
 ## ROBYN:
 What.
@@ -4315,13 +4562,11 @@ Don't be sad.
 (Means it.) I'm glad you had a good date.
 ---
 ## SHARON:
-Dick that.
+Fuck that.
 I don't care about that.
 ---
 ## ROBYN:
----
-## SHARON:
-..
+Sharon...
 ---
 ## SHARON:
 I've had a good month. With you.
@@ -4332,16 +4577,14 @@ but actually, it's not the money, it's the making.
 Making something with you.
 ---
 ## ROBYN:
----
-## SHARON:
-..
+Sharon...
 ---
 ## SHARON:
 I look forward to waking up in the morning.
 Everything is a Yes.
 I'm smarter and faster and
 younger
-than I Imew I could be.
+than I knew I could be.
 Don't be sad. I can't remember ever having been this
 happy.
 (A beat, and then SHARON gets up, decisively.)
@@ -4355,8 +4598,11 @@ No
 No
 We are gonna dance.
 You can't go to bed sad.
-(She puts on a record. lt might be Sydney Bechet's "Si Tu Vois Ma Mire.")
----
+(She puts on a record. It might be Sydney
+Bechet's "Si Tu Vois Ma Mere.")
+
+ 87
+---
 ## ROBYN:
 What is that.
 ---
@@ -4368,36 +4614,35 @@ The whole world has been bombed.
 London?
 ---
 ## SHARON:
-We're the only two people left, in the mins of a
+We're the only two people left, in the ruins of a
 building
-that hos also been bombed but still, oddly, is standing.
-You're a pickpocket. And I'm a soldier.
-Or maybe I'm a pickpocket and you're a sonor.
+that has also been bombed but still, oddly, is standing.
+You ' r e a pickpocket. And I'm a soldier.
+Or maybe I'm a pickpocket and you're a sailor.
 I don't know.
 ---
 ## ROBYN:
 (But laughing.) You're crazy.
 ---
 ## SHARON:
-We're sheltering. From the cold cold English wind. And then suddenly
+We're sheltering. From the cold cold English wind.
+And then suddenly
 from somewhere far away
 a lone apartment somewhere high off the street
 we hear music.
-It dlifts.
-lt comes to us.
-lt catches us.
+It drifts.
+It comes to us.
+It catches us.
 ---
 ## ROBYN:
 And then what?
-(SHARON takes ---
-## ROBYN:
-s hand. They dance.)
-(Old School World War H Bombed-Out London Dance. It's playful and funny at first, and then it's quiete7; and then it's tender and sweet and kind of shy, and then it heats up. And then SHARON kisses ---
-## ROBYN:
-)
-(A beat. ---
-## ROBYN:
-pulls away. Wide-eyed.)
+(SHARON takes ROBYN's hand. They dance.)
+(Old School World War II Bombed-Out
+London Dance. It's playful and funny at
+first, and then it's quieter, and then it's tender
+and sweet and kind of shy, and then it heats
+up. And then SHARON kisses ROBYN.)
+(A beat. ROBYN pulls away. Wide-eyed.)
 (A moment between them.)
 ---
 ## SHARON:
@@ -4406,64 +4651,68 @@ I'm sorry.
 I'm so sorry.
 (Silence.)
 Should I be sorry?
----
-## ROBYN:
-I have to go to bed. ---
-## SHARON:
-Are you mad at me? ---
-## ROBYN:
-I have to go to bed.
-(Beat.)
-I'm not mad at you. ---
-## SHARON:
+88 
 ---
 ## ROBYN:
-.. ---
+I have to go to bed.
+---
+## SHARON:
+Are you mad at me?
+---
+## ROBYN:
+I have to go to bed.
+(Beat)
+I'm not mad at you.
+---
+## SHARON:
+Robyn...
+---
 ## ROBYN:
 Good night.
-I0.
-(Lute morning. Sunlight slants in.)
+
+Li
+ 89
+1.
+
+o (Late morning. Sunlight slants in.)
 (The kitchen, as they left it: a mess.)
-(SHARON comes downstairs in her bathrobe, groggy, a little hungover.)
+(SHARON comes downstairs in her bathrobe,
+groggy, a little hungover.)
+
 (She puts the coffee on.)
-(Starts to clean up a little.)
-(She's waiting for ---
-## ROBYN:
-)
-(She goes to the stairs a few times, listens to see if ---
-## ROBYN:
-is awake yet.)
-(She starts making a little extra noise to see if ---
-## ROBYN:
-will wake up.)
-(Dropping things "accidentally.'9
+o (Starts to clean up a little.)
+o (She's waiting for Robyn.)
+o (She goes to the stairs a few times, listens to
+o see i f Robyn is awake yet.)
+(She starts making a little extra noise to see if
+Robyn will wake up.)
+
+(Dropping things "accidentally.")
 (And then she sees a note.)
 (She picks it up.)
 (Reads it.)
+
 (Can't quite wrap her mind around it.)
-(She opens the cabinets. ---
-## ROBYN:
-s things are gone. Out to the porch. ---
-## ROBYN:
-s boxes are gone. She rushes to look out onto the drive-way. ---
-## ROBYN:
-s car is gone. She comes back inside.)
+(She opens the cabinets. Robyn's things are
+gone. Out to the porch. Robyn's boxes are
+gone. She rushes to look out onto the drive-
+way. Robyn's car is gone. She comes back
+inside.)
 (A beat.)
 (She sits down heavily at the kitchen table.)
 (A beat.)
 (She picks the note back up.)
 (Reads it.)
-(Crumples it.)
-(She makes a phone call. _lt goes to voicemail.)
----
-## SHARON:
----
-## ROBYN:
-hi.
-This is ---
-## SHARON:
 
-Obviously.
+(Crumples it.)
+(She makes a phone call. It goes to voicemail.)
+o ---
+## SHARON:
+Robyn, hi.
+o This is Sharon.
+
+9
+Obviously.
 I just woke up and I saw your things are all gone and
 did we get robbed in the night? I just got worried
 so
@@ -4486,20 +4735,20 @@ you don't have to worry about that!
 There's lots of other women I'd date
 if I was going to date a woman
 so...
-(Beat, disentangling herse(f)
+(Beat, disentangling herself)
 Call me.
 Okay?
 (She hangs up.)
 (Beat.)
-(She calls ---
-## ROBYN:
-again. Voicemail.)
-Hi ---
-## ROBYN:
-it's me again
+(She calls Robyn again. Voicemail.)
+Hi Robyn it's me again
 clearly
-you probably aren't checldng your phone
-and you're probably going to check it sometime soon
+you probably aren't checking your phone
+
+ 91
+
+
+and you're probably going to check it sometime soon
 sometime later
 but soon
 and then you'll see I've been trying to reach you
@@ -4508,20 +4757,20 @@ but
 it's pretty
 empty.
 The house.
+
 Is empty.
 And I just.
 I think you should call me?
 So.
 (This is raw.)
 I miss you.
+
 (Attempting to recover.)
 Okay.
 Bye.
 (She hangs up.)
-(She calls ---
-## ROBYN:
-again. Voicemail.)
-If you're going to leave because I ldssed you?
+(She calls Robyn again. Voicemail.)
+If you're going to leave because I kissed you?
 That's bullshit.
 And if you're leaving for some other reason?
 That's also bullshit.
@@ -4529,12 +4778,13 @@ I am a grown-ass adult.
 Okay.
 If you just don't want to be responsible for me,
 then don't worry!
-You're not responsible!
+You ' r e not responsible!
 I absolve you!
 And if you don't want to do the things we were doing
 the phone calls and the book-club weed-ring and
 whatever
-that's fine!
+92 
+that's fine!
 Don't do it!
 I won't do it!
 I don't care, I'm done anyway.
@@ -4544,31 +4794,42 @@ Nobody wants you.
 Amanda doesn't want you!
 So come back!
 (She hangs up.)
-(Shefinds a small box under things.)
-(---
-## ROBYN:
-s ceramic dolls.)
+(She finds a small box under things.)
+(Robyn's ceramic dolls.)
 (She takes one out.)
 (Emotion surges in her.)
 (She smashes the doll.)
 (That felt good. Another one. Another one.)
 (Then freezes.)
-(Inside the third doll is a smallplastic bag.)
+(Inside the third doll is a small plastic bag.)
 (The ceramic doll was stuffed with coke.)
-(Another one of ---
-## ROBYN:
-s businesses.)
+(Another one of Robyn's businesses.)
 (She smashes more dolls. More bags of coke.)
 (Coke and doll shards everywhere,)
-(Sharon is frozen in this moment of discov-ery.)
-I I
+(Sharon is frozen in this moment of discov-
+ery.)
+nnr/Cr,nOCC
+ 93
+11 .
 (The kitchen.)
 (Morning.)
 (A week later.)
-(SHARON sleeps in her kitchen. Filth has accumulated. Dishes are unwashed, maybe take-out cartons litter the floor, clothes strewn. The WWH London record has been playing on loop, but now the record spins and the needle scratches.)
-(The phone rings. SHARON jolts awake. She looks terrible. Not entirely sober. lt goes to the answering machine. Sharon's recorded voice on the machine is perky and bright.)
-ANSWERING MACHINE. (Recording.) Hiii, you've reached Sharon, I'm so sorry I can't come to the phone right now but leave me a message at the beep! Have a great day!
-SHARON'S SON. (Recording.) Mom. Hey. It's me. You home?
+(SHARON sleeps in her kitchen. Filth has
+accumulated. Dishes are unwashed, maybe
+take-out cartons litter the floor, clothes
+strewn. The WWII London record has been
+playing on loop, but now the record spins
+and the needle scratches.)
+(The phone rings. SHARON jolts awake. She
+looks terrible. Not entirely sober. It goes to the
+answering machine. Sharon's recorded voice
+on the machine is perky and bright.)
+ANSWERING MACHINE. (Recording.) Hili, you've reached
+Sharon, I'm so sorry I can't come to the phone right
+now but leave me a message at the beep! Have a
+great day!
+SHARON'S SON. (Recording.) Mom. Hey. It's me.
+You home?
 (SHARON makes no move to answer it.)
 Haven't heard from you in a while.
 I mean that's cool, you must be
@@ -4576,14 +4837,16 @@ Doing Things so
 that's awesome!
 But
 Your roommate called me.
-(Will she pick up? But...no. He can't help her right now.)
+(Will she pick up? But.. .no. He can't help her
+right now.)
 She said she had to leave for business
 and she wanted me to check in on you
 and I realized, we hadn't talked in a bit
 like a little bit
-and uh
+94 
+and uh
 you left me some messages?
-That, franldy, were kind of
+That, frankly, were kind of
 crazy messages?
 so I thought...
 I'd call you
@@ -4596,37 +4859,46 @@ Bye Mom.
 (This time, she answers it.)
 ---
 ## SHARON:
-...Heike...?
+...Hello...?
 (And we see ---
 ## ROBYN:
-Perhaps by the side of a highway. Perhaps somewhere shadowy and too far to reach. Either way, her voicefills the entire space, soft and close.)
+Perhaps by the side of a
+highway. Perhaps somewhere shadowy and
+too far to reach. Either way, her voice fills the
+entire space, soft and close.)
 ---
 ## ROBYN:
-Hell°. This is Victoria Jones from the Franco--Global Society of International Orphans. Is this Sharon?
+Hello. This is Victoria Jones from the Franco-
+Global Society of International Orphans. Is this
+Sharon?
 (A beat.)
 ---
 ## SHARON:
-This is ---
-## SHARON:
-
+This is Sharon.
 ---
 ## ROBYN:
-Hi ---
-## SHARON:
-
-I'm calling you because we want to thank you.
+Hi Sharon.
+I'm calling you because we want to thank you.O
 For your hard work.
-Your...donations. Your...support.
+Your. . .donations. Your.. .support.
 ---
 ## SHARON:
 My...?
 ---
 ## ROBYN:
-We recognize that it is hard to...care for strangers. People who maybe
-their lives have taken place on the other side of the world from you
-and their lives will continue to take place on the other side of the world
-and someone with a less...developed...heart might think: what does that have to do with me? But you cared. You are a caring person.
-And the Franco-Global Society of International Orphans just wants to thank you for that.
+We recognize that it is hard to...care for strangers.
+People who maybe
+their lives have taken place on the other side of the
+world from you
+and their lives will continue to take place on the other
+side of the world
+nrnrCn
+ 95
+and someone with a less...developed...heart
+might think: what does that have to do with me?
+But you cared. You are a caring person.
+And the Franco-Global Society of International
+Orphans just wants to thank you for that.
 (A beat.)
 ---
 ## SHARON:
@@ -4654,7 +4926,8 @@ to those they have come to care for
 by returning.
 ---
 ## SHARON:
-Or maybe sometimes they forget and move on and don't care anymore.
+Or maybe sometimes they forget and move on
+and don't care anymore.
 ---
 ## ROBYN:
 No. That's not it.
@@ -4667,8 +4940,8 @@ Are you with Amanda?
 ---
 ## ROBYN:
 I have to go now, Sharon, but
-on behalf of all of us here at FGSTO
-please take care of yoursel£
+on behalf of all of us here at FGSIO
+please take care of yourself.
 ---
 ## SHARON:
 Wait!
@@ -4682,15 +4955,20 @@ Will I ever hear from you again?
 ---
 ## ROBYN:
 We might occasionally make a courtesy call,
-to check in on some of our most helpful donors. (A beat.)
+96 
+to check in on some of our most helpful donors.
+(A beat.)
 ---
 ## SHARON:
 Bye Victoria Jones.
-IMSYN. Goodbye.
+---
+## ROBYN:
+Goodbye.
 (She hangs up. A beat.)
 (SHARON looks around her kitchen.
 (She starts to wake up in a new way.)
-(This is a prayer. Or a poem. lt is raw and fragile and nem)
+(This is a prayer. Or a poem. It is raw and
+fragile and new.)
 ---
 ## SHARON:
 I'm standing in my kitchen.
@@ -4701,31 +4979,39 @@ those words are not always right and
 I think I don't have the right words, anymore.
 Sharon doesn't feel [right].
 Wife is no longer [right]
-and for some time now, Mother hos not been
+and for some time now, Mother has not been
 right.
 (Pause.)
 "Roommate" was good.
-That was a good word.
+That was a good word.COCC
 But now it's no longer
 right.
 (Beat - a burst of anger.)
 I just think
-that there is a heiter way to do things than the one where we live a certain life and then we lose it completely!
-(Pause.)
-I slept in the Idtchen for a week.
+that there is a better way to do things
+than the one where we live a certain life
+and then we lose it completely!
+c.onfl
+ 97
+(Pause.)
+I slept in the kitchen for a week.
 And now I'm awake.
-And this house is very empty.
+And this house is very empty
 And I don't know where to start.
 Except over. Again.
-(She gathers up the doll shards and coke bag-gies. We might think she's going to throw them out.
+(She gathers up the doll shards and coke bag-
+gies. We might think she's going to throw
+them out.
 (And then...)
-(She sets the bags of coke on the table in a long row.)
+(She sets the bags of coke on the table in a
+long row.)
 All first poems are bad poems...
 but there's a great liberty in being bad.
-(As she considers her bot, and a glorious future of illegal activity...)
+(As she considers her loot, and a glorious
+future of illegal activity...)
 (Blackout.)
-
 End of Play
+
 ---
 ---
 template: title
