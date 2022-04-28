@@ -62,7 +62,7 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
-INSERT SCRIPT
+PLEASE ENTER CAPTIONS HERE
 ---
 ---
 template: title
