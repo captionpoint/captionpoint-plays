@@ -61,6 +61,9 @@ template: overlap
 class: center, middle, smaller
 END SETTINGS
 ---
+template: title
+An Example of Using CaptionPoint<br>
+by Matthew Bivins
 ---
 template: noise
 automatically puts brackets around a sound description
@@ -88,10 +91,6 @@ Waassap?
 ---
 
 <!-- keeps the first speaker from "fading" when the second one starts…overlapping! -->
----
-template: title
-class: smaller
-Open Captioning for this performance was made possible through loan of equipment from the Chicago Cultural Accessibility Consortium Accessible Equipment Loan Program and by CaptionPoint.
 ---
 template: title
 class: smaller
