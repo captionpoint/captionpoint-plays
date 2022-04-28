@@ -70,13 +70,15 @@ automatically puts brackets around a sound description
 ---
 template: song
 wraps lyrics in musical notes!
+
+<!-- wraps any text in musical notes -->
 ---
 template: music
 
 <!-- adds two musical notes to the center of slide -->
 ---
 ## SALLY:
-You are sweet!
+You are sweet! Right? Yes!
 --
 
 ## BETTY:
