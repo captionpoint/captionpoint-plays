@@ -81,7 +81,7 @@ I think so too!
 ---
 template: overlap
 ## CHUCK:
-Hey, dude!
+Hey, friend!
 
 ## bert:
 Waassap?
