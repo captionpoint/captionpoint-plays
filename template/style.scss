@@ -115,19 +115,19 @@ blockquote {
 .remark-container { background: lighten($dark, 10%); }
 .remark-slide-scaler { box-shadow: none; background: $dark; }
 // uncomment this to remove notes area
-.remark-notes-area,
-.remark-notes { display: none!important; }
+// .remark-notes-area,
+// .remark-notes { display: none!important; }
 
 // uncomment this to remove notes area
-.remark-slides-area,
-.remark-preview-area {
-  width: 100%!important;
-}
+// .remark-slides-area,
+// .remark-preview-area {
+//   width: 100%!important;
+// }
 
 // uncomment this to remove notes area
-.remark-container.remark-presenter-mode .remark-slides-area {
-  width: 100%;
-}
+// .remark-container.remark-presenter-mode .remark-slides-area {
+//   width: 100%;
+// }
 
 .remark-slide-container.remark-fading .remark-slide-content {
   opacity: .3;
