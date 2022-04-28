@@ -2,6 +2,7 @@
 .tmp/
 test/
 dist/
+captions/
 example/
 _archives/
 node_modules/
