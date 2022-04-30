@@ -3013,16 +3013,35 @@ He say he loves me.
 And do you love him?
 ---
 ## ESTHER:
-As much as you can love a man you ain't seen. I'm
-thirty-five, Mayme, and he wants to many me. And there ain't
-gonna be no more opportunities I'm afraid. I've told him yes.
+As much as you can 
+---
+love a man you ain't seen. 
+---
+I'm thirty-five, 
+---
+Mayme, and he wants to many me. 
+---
+And there ain't gonna be 
+---
+no more opportunities 
+---
+I'm afraid. 
+---
+I've told him yes.
 ---
 ## MAYME:
-Well, goddamn. I'm sure he's a fine man.
+Well, goddamn. 
+---
+I'm sure he's a fine man.
 ---
 ## ESTHER:
-Yes, I suppose. Any man go through this much trouble
-to court a woman must have his virtues.
+Yes, I suppose. 
+---
+Any man go through this much 
+---
+trouble to court a woman 
+---
+must have his virtues.
 ---
 ## MAYME:
 I reckon.
@@ -3031,321 +3050,678 @@ I reckon.
 He write that he arriving next month.
 ---
 ## MAYME:
-That soon you hardly ready.
+So soon, you hardly ready.
 ---
 ## ESTHER:
-I know. I'm getting married! Oh God, will you come to
-witness the ceremony?
+I know. 
+---
+I'm getting married! 
+---
+Oh God, will you come 
+and witness the ceremony?
 ---
 ## MAYME:
-Me? You want to bring me around your new husband?
+Me? 
+---
+You want to bring me 
+---
+around your new husband?
 ---
 ## ESTHER:
 It would be nice to have a friend witness.
 ---
 ## MAYME:
-No, I ain't been to church since I was seventeen. It ain't
-about you, it's just a promise I made to myself years ago. I ain't got
-nothing to say to God, and it don't seem right to go up into some-
-body's home and you ain't on speaking terms.
+No, I ain't been to church 
+---
+since I was seventeen. 
+---
+It ain't about you, 
+---
+it's just a promise I made to myself sometime ago. 
+---
+I ain't got nothing to say to God, 
+---
+and I don't think it's right 
+---
+to go up into some-body's home 
+---
+and you ain't on speaking terms.
 ---
 ## ESTHER:
 It just a building.
 ---
 ## MAYME:
-Just the same, I'd rather not be reminded. But thank
-you, my dear, it's a long time since I been invited anyplace proper.
+Just the same, 
+---
+I'd rather not be reminded. 
+---
+But thank you, 
+---
+it's a long time since I been 
+---
+invited anyplace proper.
 ---
 ## ESTHER:
-Me too. (Mayme laughs and grabs a bottle of liquor.)
+Me too. 
 ---
 ## MAYME:
-Hell, we ought to celebrate. Somebody give me this gin.
-It look expensive. Whatcha think? Should I open it?
+Hell, we ought to celebrate. 
+---
+Somebody give me this gin.
+---
+It look expensive. 
+---
+Whatcha think? 
+---
+Should I open it?
 ---
 ## ESTHER:
-Sure. Why not. (While speaking, Mayme pours them each
-a glass of gin)
+Sure. Why not. 
 ---
 ## MAYME:
-We gonna toast to one less spinster in New York.
+We gonna toast 
+---
+to one less spinster in New York.
 ---
 ## ESTHER:
-Oh God, I hope I ain't making a mistake.
+Oh God, 
+---
+I hope I ain't making a mistake.
 ---
 ## MAYME:
-You'll be fine. You're about the most sensible gal I know.
-Enjoy this, honey. k's a splendid feeling. Yes, indeed. I was engaged
-once. You won't tell nobody. A mortician's apprentice who hated
-music. Need I say more.
+Oh, You'll be fine. 
+---
+You're about the most sensible 
+---
+gal I know.
+---
+Enjoy this feeling, honey. 
+---
+It's a splendid,
+Yes, indeed. 
+---
+template: noise
+glasses clink
+---
+I was engaged once. 
+---
+You won't tell nobody. 
+---
+A mortician's apprentice 
+---
+who hated music. 
+---
+Need I say more.
+---
+template: noise
+laughter
 ---
 ## ESTHER:
 Do you regret not marrying him?
 ---
 ## MAYME:
-Some days. No, some evenings, honey. (Mayme thrusts
-30
-her glass into the air.) But here's to Esther, you will be a beautiful
-bride, and may happiness follow. (They toast anel drink. Mayme sits
-at the piano.) My dear, you're gonna go to socials and other ridiculous
-functions that married folk attend. Drink lots of lemonade, God
-forbid, and become an awful gossip. And you know, it won't be
-appropriate to visit a place like this.
+Some days. 
+---
+No, some nights, honey. 
+---
+But here's to Esther, 
+---
+you will be a beautiful bride, 
+---
+and may happiness follow.   
+---
+You're gonna go to socials 
+---
+and other ridiculous functions 
+---
+that married folk attend. 
+---
+Drink lots of lemonade, 
+---
+God forbid, and become an awful gossip. 
+---
+And you know, 
+---
+it won't be appropriate to visit 
+---
+a place like this.
 ---
 ## ESTHER:
 Who say?
 ---
 ## MAYME:
-(Snaps.) I say. (A moment.)
+I say.
 ---
 ## ESTHER:
-We friends, ain't no Panama man gonna change that.
+We friends, 
+---
+ain't no Panama man 
+---
+gonna change that.
 ---
 ## MAYME:
-Well, I hope he is wonderful. (Mayme starts to play piano.)
-GIVE ME A MAN THAT'LL COME AND BAKE ME A
-CAKE. PUT IN SOME SUGAR AND SPICE.
-YES, HE CAN PUT IT IN MY OVEN ANY OE TIME
-AND WATCH IT RISE ON UP.
-GIVE ME A MAN THAT'LL COME AND MOW MY
-LAWN FROM THE FRONT TO THE BACK
-(Esther joins in.)
-YES, HE CAN TEND MY GARDEN ANY OE TIME
-AND WATCH IT RISE ON UP.
-A WOMAN NEEDS A HANDYMAN TO TAKE CARE
-OF HER HOME.
-A WOMAN NEEDS A CANDYMAN WHO'LL FIGHT
-THE BEES FOR THE COMB.
-(Esther stops singing, she silently contemplates her decision, uncertain.)
-GIVE ME A MAN THAT'LL COME AND BAKE ME A
-CAKE.
+Well, I hope he is wonderful.
+---
+template: noise
+glasses clink 
+---
+template: song
+## MAYME:
+GIVE ME A MAN THAT'LL 
+COME AND BAKE ME A CAKE. 
+---
+template: song
+PUT IN SOME SUGAR AND SPICE.
+---
+template: song
+YES, HE CAN PUT IT IN MY OVEN ANY OLD TIME AND WATCH IT RISE ON UP.
+---
+template: song
+GIVE ME A MAN THAT'LL COME AND MOW MY LAWN MOW IT FROM THE FRONT TO THE BACK
+---
+template: song
+## MAYME & ESTHER:
+YES, HE CAN TEND MY GARDEN ANY OLD TIME AND WATCH IT RISE ON UP.
+---
+template: song
+A WOMAN NEEDS A HANDYMAN TO TAKE CARE OF HER HOME.
+---
+template: song
+A WOMAN NEEDS A CANDYMAN WHO'LL FIGHT THE BEES FOR THE COMB.
+---
+template: song
+## MAYME:
+GIVE ME A MAN THAT'LL COME AND BAKE ME A CAKE.
+---
+template: song
 LOAD IT WITH SOME SUGAR AND SPICE.
-YES, HE CAN PUT IT IN MY OVEN ANY OE TIME
-AND WATCH IT RISE ON UP.
-(Lights crossfade. Esther's boudoir. Mrs. Dickson is packing Esther's
-suitcase. Eft/9er crosses into her boudoir.)
+---
+template: song
+YES, HE CAN PUT IT IN MY OVEN ANY OLD TIME AND WATCH IT RISE ON UP.
 ---
 ## MRS. DICKSON:
-Who is going to sit next to me at the table?
-There is Bertha, but she has no conversation. Oh, I could move Erma
-down closer, but she and Bertha don't speak. It'll be an absolute mess
-at the dinner table without you. That's for certain. Oh, it's gonna be
-a shame to let this room to anybody else. It has so many of your sweet
-touches. Yes.
+Oh, Who is going to sit next to me 
+at the table?
+---
+Well, there is Bertha, 
+---
+but she has no conversation. 
+---
+Oh, I could move Erma down close,  
+---
+but she and Bertha don't speak. 
+---
+It's gonna be a mess at that dinner table
+---
+That's for sure.
 ---
 ## ESTHER:
-You wasn't always pleased with my conversation if I recall.
+You wasn't always pleased 
+---
+with my conversation if I recall.
 ---
 ## MRS. DICKSON:
-Who told you that? Well, they lie. (Mrs. Dickson
-holds up a dress.) Oh no. Not this little frumpy thing, really Esther.
-31
-My grandmother wouldn't even wear a collar like so and she was a
-right proud Christian soldier. Yes.
+Who said that? 
+---
+Well, they lie.  
+---
+Oh no. 
+---
+What?
+---
+Really Esther?
+---
+My grandmother wouldn't even wear 
+---
+a collar like this
+---
+and she's a right proud Christian soldier. 
+---
+Yes.
 ---
 ## ESTHER:
-Well, I like it. It's the most refined thing I own. I paid
-five whole dollars for it.
+Well, I like it. 
+---
+It's the most refined thing I own. 
+---
+I paid five whole dollars for it.
 ---
 ## MRS. DICKSON:
-You'll scare off your gentleman, and it ain't worth
-five dollars of misery. You needn't be a prude. Trust me, your man'll
-have needs, and it's your duty to keep his member firmly at home. Yes.
+You gonna scare your gentleman, 
+---
+and it ain't worth five dollars of misery. 
+---
+You needn't be so prude. 
+---
+Your man'll have needs, 
+---
+and it'll be your duty to keep his 
+---
+member firmly at home. 
+---
+Yes.
 ---
 ## ESTHER:
 Excuse me?
 ---
 ## MRS. DICKSON:
-I shan't repeat it. But there ain't no greater
-disappointment than a husband without much vigor. Believe
-me, I know. And sometime he gotta be pleasured to ensure your
-own satisfaction. You understand. I ain't an expert, but I do have
-some experience. And I'll tell you, give and take make for the best
-of partnerships. Never mind what the minister tells you about
-decency, what go on between a man and wife be their own business.
-He will test you and he will try you, but don't let him beat on you,
-don't take no shit from him, understand.
+I shan't repeat it. 
+---
+You see, the thing is, is that sometimes he need pleasure in order for you to ensure your satisfaction.
+---
+Esther, sometimes a man needs a little help. Now it's a shame and a disappointment to have a husband with very little vigor. Yes.
+---
+You know, the way I see it. Now, I'm not an expert but the best of friends come together and they uh match it up well, but now listen, you can understand that um sometimes, you need to just understand that a man will test you and he'll try you, but don't let him beat on you.  Don't take no shit off of him, understand?
+
+But there ain't no greater
+disappointment 
+---
+than a husband without much vigor. 
+---
+Believe me, I know. 
+---
+And sometime he gotta be pleasured to ensure your
+---
+own satisfaction. 
+---
+You understand. 
+---
+I ain't an expert, 
+---
+but I do have some experience. 
+---
+And I'll tell you, 
+---
+give and take make for the best
+of partnerships. 
+---
+Never mind what the minister tells you about decency, 
+---
+what go on between a man and wife 
+---
+be their own business.
+---
+He will test you 
+---
+and he will try you, 
+---
+but don't let him beat on you,
+---
+don't take no shit from him, 
+---
+understand.
 ---
 ## ESTHER:
 Mrs. Dickson.
 ---
 ## MRS. DICKSON:
-Excuse me for saying, but if he raises his hand
-once, he'll do it again. I thought we should have this conversation
-before you go off. I don't mean to scare you, but I know you come
-as an innocent and we're friends so I feel I can speak plainly.
+Excuse me for saying, 
+---
+but if he raises his hand
+once, 
+---
+he'll do it again. 
+---
+Now, I thought we should have this conversation 
+---
+but you come as an innocent 
+---
+and I'm a friend
+---
+I just wanted to talk to you plainly.
 ---
 ## ESTHER:
-Thank you, but I do believe I'm old enough to handle
-things for myself.
+Well,Thank you, 
+---
+but I do believe I'm old enough 
+---
+to handle things myself.
 ---
 ## MRS. DICKSON:
-Just the same, I thought I'd say it. Now whatcha
-want me to do with this dress?
+Yeah, well, 
+---
+I just thought it should be said. 
+---
+Now whatcha want me to do with this dress?
 ---
 ## ESTHER:
 It that bad?
 ---
 ## MRS. DICKSON:
-Let's just say we'll give it to Deacon Wynn and
-let the church ladies fight over it. Yes. (Mrs. Dickson sits on the bed.)
-Yo u redly going to do this, ain't you?
+Let's just say 
+---
+we'll give it to Deacon Wynn 
+---
+to let the church ladies fight over it. 
+---
+Yes. 
+---
+You really going to do this, 
+---
+aren't you?
 ---
 ## ESTHER:
 You didn't expect me to be here for the rest of my life?
 ---
 ## MRS. DICKSON:
-I guess I sort of did. I'm so used to hearing
-your sewing machine and foot tapping up here. Yes, I reckon I'm
-going to miss it.
+I sort of did. 
+---
+I got used to your sewing machine 
+---
+and your foot tapping round here.
 ---
 ## ESTHER:
-Another gal will move into this room, and by supper
-you'll be fussing about something new.
+Another gal will move into this room, 
+---
+and by supper you'll be fussing about something new.
 ---
 ## MRS. DICKSON:
-You say that with such certainty. You hurt my
-feelings, Miss Esther Mills. (Mn. Dickson dabs her eyes with a
-handkerchhf) Eighteen years is a long time. Yes. I don't reckon I've
-known anyone else that long. It'll be lonely.
-32
+Well, you say that with much certainty. 
+---
+You hurt my feelings, Miss Esther Mills. 
+---
+Eighteen years is a long time. 
+---
+I don't reckon I've known anybody else quite that long. 
+---
+It'll be lonesome.
 ---
 ## ESTHER:
 You have plenty of suitors to keep you busy.
 ---
 ## MRS. DICKSON:
-But ain't a working man amongst them. (A
-moment.) Yo u know you don't have to do this.
+But not a working one of them.
+---
+---
+You sure you want to do this.
 ---
 ## ESTHER:
-Yes, I do. stay on here, I'll turn to dust one day, get
-swept up and released into the garden without notice. I've finally
-found someone. Just as you found Mr. Dickson.
+Yes, I am. 
+---
+I stay on here, 
+---
+I'll turn into dust one day, 
+---
+get swept up and released 
+---
+into the garden without notice. 
+---
+I've finally found someone. 
+---
+Just as you found Mr. Dickson.
 ---
 ## MRS. DICKSON:
-I married him, because I was thirty-seven years
-old, I had no profession and there wasn't a decent colored fella in
-New York City that would have me.
+I married him, 
+---
+because I was thirty-seven years
+old, 
+---
+no profession and there wasn't a 
+---
+decent colored man in New York City 
+that would have me.
 ---
 ## ESTHER:
 But you come to love each other.
 ---
 ## MRS. DICKSON:
-I suppose. He give me some laughs. But you
-see, my mother wanted me to marry up. She was a washerwoman,
-and my father was the very married minister of our mission. He
-couldn't even look out at her there in the church pews, but she'd sit
-there proudly every Sunday, determined to gain God's favor. Marry
-good. She didn't ever want me to be embarrassed of my fingers the
-way she was of hers. I'd watch her put witch hazel and hot oil on
-her delicate hands, but they remained raw and chapped and she
-kept them hidden inside gray wool gloves. In the winter they'd
-bleed so bad sometimes, but she'd plunge her hands into the hot
-water without flinching, knead and scrub the clothing clean. Fold
-and press for hours and hours, the linen, the bedding, the stockings
-and the britches, sometimes wearing the frayed gloves so as not to
-leave bloodstains on her precious laundry. She wouldn't even let me
-help her, she didn't want my hands to show the markings of labor.
-I was going to marry up. Love was an entirely impractical thing for
-a woman in her position. "Look what love done to me," Mama used
-to say. "Look what love done to me." (A moment.) So I did what was
-necessary to gain favor. I allowed myself to be flattered by gentlemen.
-Yo u understand? Yes, this "pretty" gal done things, un-pretty things,
-for this marble mantle, gaslights in every room, a player piano and an
-indoor toilet.
+I suppose. 
+---
+He give me some laughs. 
+---
+But you see, 
+---
+my mother wanted me to marry up. 
+---
+She was a washerwoman,
+---
+and my father was the very married minister of our mission. 
+---
+He couldn't even look into the church pews and see her, 
+---
+but she'd sit
+there proudly 
+---
+every Sunday, hoping to gain God's favor. 
+---
+Marry
+good. 
+---
+She didn't want me to be embarrassed of my fingers 
+---
+the way she was of hers. 
+---
+I'd watch her put witch hazel and hot oil on her delicate hands, 
+---
+but they remained raw and chapped 
+---
+and she put her hands and hide them in gray gloves.
+---
+In the winter they'd
+bleed so bad sometimes, 
+---
+but she'd plunge her hands 
+---
+into the hot water 
+---
+without flinching, 
+---
+knead and scrub the clothing clean. 
+---
+Fold and press for hours and hours, 
+---
+the linen, the bedding, 
+---
+the stockings
+---
+and the britches, 
+---
+sometimes wearing the frayed gloves 
+---
+so as not to leave bloodstains 
+---
+on her precious laundry. 
+---
+She wouldn't even let me
+help her, 
+---
+she didn't want my hands to show 
+---
+the markings of labor.
+---
+I was going to marry up. 
+---
+Love was an entirely impractical thing 
+---
+for a woman in her position. 
+---
+"Look what love done to me," Mama used to say. 
+---
+"Look what love done to me." 
+---
+So I did what was necessary to gain favor. 
+---
+I allowed myself to be flattered by gentlemen.
+---
+You understand? 
+---
+Yes, 
+---
+this "pretty" gal done things, un-pretty things,
+---
+for this marble mantle, 
+---
+gaslights in every room, 
+---
+a player piano 
+---
+and an indoor toilet.
 ---
 ## ESTHER:
 But Mr. Dickson was a good man.
 ---
 ## MRS. DICKSON:
-Bless his broken-down soul. He had fine suits
-and perfect diction, and was too high on opium to notice char he
-was married. But I would not be a washerwoman if it killed me.
-And I have absolutely marvelous hands to prove it. (Airs. Dickson
-laughs, displaying her hands.) But you have godly fingers and a
-means, and you deserve a gentleman. Why gamble it all away for a
+Bless his broken-down soul. 
+---
+He had fine suits and perfect diction, 
+---
+and was too high on opium to notice that he was married. 
+---
+But I would not be a washerwoman if it killed me.
+---
+And I have absolutely marvelous hands to prove it. 
+---
+But you have godly fingers and a
+means, 
+---
+and you deserve a gentleman. 
+---
+Why gamble it all away for a
 common laborer?
-33
 ---
 ## ESTHER:
 Love.
 ---
 ## MRS. DICKSON:
-Dort you let a man have no part of your heart
-without getting a piece of his. (Lights cros(ade to George.)
+Don't you let a man 
+---
+have no part of your heart 
+---
+without getting a piece of his. 
 ---
 ## GEORGE:
-Dear Esther, I held in the port of Havana, Cuba,
-awaiting passage to New York City. A passenger come down with
-cholera. So here I wait, fighting patience. We sail tomorrow —
-(Crossfide to Mr. Marks' boudoir, where Mr. Marks has just finished
-preparing a cup of tea. Esther hesitantly enters.)
+Dear Esther, 
+---
+I held in the port of Havana, Cuba,
+---
+awaiting passage to New York City. 
+---
+A passenger come down with
+cholera. 
+---
+So here I wait, 
+---
+fighting patience. 
+---
+We sail tomorrow 
 ---
 ## MARKS:
-Miss Mills, where have you been? I thought I'd lost you
-to a competitor. (A moment.)I keep looking out the window at Mr.
-Friedlander's shop, he's giving away thread with each purchase.
-Ye s t e r d a y, stress tonic. Tomorrow, who knows? I saw this morning
-Mrs. Simons, Mrs. Simons my cousin's wife, go into Mr. Friedlander's.
-His fabric is inferior, I tell her this. But she wants the stress tonic
-then go to the pharmacy I say. Where have you been? I've been
-going crazy. I couldn't bear to lose you to Friedlander.
+Miss Mills, 
+---
+where have you been? 
+---
+I thought I'd lost you
+to a competitor. 
+---
+I keep looking out the window 
+---
+at Mr. Friedlander's shop, 
+---
+he's giving away thread with each purchase.
+---
+Yesterday, stress tonic. 
+---
+Tomorrow, who knows? 
+---
+I saw this morning
+Mrs. Simons, 
+---
+Mrs. Simons my cousin's wife, 
+---
+go into Mr. Friedlander's.
+---
+His fabric is inferior, 
+---
+I tell her this. 
+---
+But she wants the stress tonic
+---
+then go to the pharmacy I say. 
+---
+Where have you been? 
+---
+I've been going crazy. 
+---
+I couldn't bear to lose you to Friedlander.
 ---
 ## ESTHER:
-I'm sorry, I —
+I'm sorry, I 
 ---
 ## MARKS:
-No, I'm sorry. You've been busy, of course. I thought
-something might have happened to you.
+No, I'm sorry. 
+
+You've been busy, of course. 
+
+I thought something might have 
+happened to you.
 ---
 ## ESTHER:
 Don't tell me you were worried about me.
 ---
 ## MARKS:
-Well, yes. I didn't have your address, otherwise I would
-have inquired about your health.
+Well, yes. 
+---
+I didn't have your address, 
+---
+otherwise I would have inquired 
+---
+about your health.
 ---
 ## ESTHER:
-I'm very well, thank you. (A moment. Esther smiles. Mr.
-Marks shyly looks away.)
+I'm very well, 
+---
+thank you.
 ---
 ## MARKS:
-I found something I think you'll love. (Excited.) Do you
-have a moment?
+I found something I think you'll love.  
+---
+Do you have a moment?
 ---
 ## ESTHER:
 Yes.
 ---
 ## MARKS:
-ru get it. (He fingers through the bolts offitbric, but suddenly
-stops himself He struggles fir 4 moment with whether to broach a
-question.) I just made tea, would you have a cup of tea with me?
+You get it.  
+---
+I just made tea, 
+---
+would you have a cup of tea with me?
 ---
 ## ESTHER:
-Thank you, that would be nice. (Mr. Marks clears a chair
-for Esther. She sits, a bit disarmed by the invitation. Mr. Marks pours
-her a cup of tea, then one for himself He sits down on a chair across
-fivm het: A moment. He touches the spot when, the button if missing.)
+Thank you, that would be nice. 
 ---
 ## MARKS:
-Is the tea hot enough? Milk? Would you like sugar, of
+Is the tea hot enough? 
+
+Milk? 
+
+Would you like sugar, of
 course?
 ---
 ## ESTHER:
-No, thank you, it's fine. (Esther smiles.)
+No, thank you, it's fine. 
 ---
 ## MARKS:
-You have a lovely smile. (Esther stops smiling. Mr. Marks
-stands up, embarrassed by his candor.) Let me show you the fabric.
+You have a lovely smile.  
+---
+Let me show you the fabric.
 ---
 ## ESTHER:
-Actually, I have a special request. I'll need fabric for a
-34
-wedding gown, something simple, Mr. Marks. The bride don't got
-a lot of money to throw away.
+Actually, I have a special request. 
+---
+I'll need fabric for a
+wedding gown, 
+---
+something simple, Mr. Marks. 
+---
+The bride don't got a lot of money 
+---
+to throw away.
 ---
 ## MARKS:
-Satin? Chiffon? Cotton? Silk? Yes. Tulle?
+Satin? Chiffon? Cotton? Silk? 
+---
+Yes. Tulle?
 ---
 ## ESTHER:
 Satin, I think.
@@ -3354,81 +3730,110 @@ Satin, I think.
 She hasn't told you?
 ---
 ## ESTHER:
-Silk. (Mr. Marks pulls down several bolts offabric. Esther
-examines each one, her excitement muted.)
+Silk. 
 ---
 ## MARKS:
-That one you're touching is very popular. And the price
-will please you. Thirty cents a yard.
+That one you're touching is very popular. 
+---
+And the price
+will please you. 
+---
+Thirty cents a yard.
 ---
 ## ESTHER:
 Twenty?
 ---
 ## MARKS:
-Twenty-five cents. The bride will like.
+Twenty-five cents. 
+---
+The bride will like.
 ---
 ## ESTHER:
-It's too much. Something less expensive, dress it up
-with lace and ribbons. (Esther points to a faded old roll.) How about
-this one?
+It's too much. 
+---
+Something less expensive, 
+---
+dress it up with lace and ribbons. 
+---
+How about this one?
 ---
 ## MARKS:
-It's a wedding. This is for an older woman ---
+It's a wedding. 
+---
+This is for an older woman ---
 ---
 ## ESTHER:
 I ain't so young.
 ---
 ## MARKS:
-— the bride's mother perhaps. (A moment.) Yo u are getting
-married?
+the bride's mother perhaps. 
+---
+You are gettingmarried?
 ---
 ## ESTHER:
-(A moment.) Yes. You seem surprised.
+Yes. 
+---
+You seem surprised.
 ---
 ## MARKS:
-(He is.) No, no. Not at all. My congratulations. (Mr.
-Marks pulls out his finest wedding fibrin) Please. I'm sure the rich
-lady who ordered this didn't appreciate the delicacy of the fabric.
-She gave no thought to who crafted this perfection, the labor that
-went into making it. How many hands touched it. Look. Beautiful.
-Yo u deserve to wear it on your wedding day.
+No, no. Not at all. 
+---
+My congratulations.  
+---
+Please. 
+---
+I'm sure the rich lady who ordered this 
+---
+didn't appreciate the delicacy of the fabric.
+---
+She gave no thought to who crafted this perfection, 
+---
+the labor that went into making it. 
+---
+How many hands touched it. 
+---
+Look. 
+---
+Beautiful.
+---
+You deserve to wear it on your wedding day.
 ---
 ## ESTHER:
-Its so beautiful, it looks like little fairy hands made it.
+Its so beautiful, 
+
+it looks like little fairy hands made it.
+
 It's too fine for me.
 ---
 ## MARKS:
-Come, touch it and then refuse. Please. Touch. (Marks
-watches Esther run her fingers across the fabric. He also touches it,
-sensually. She closes her eyes. He continues to watch her, savoring the
-moment.) It is exquisite. Miss Mills, many fine ladies have worn it
-against their skin, but it was made for you. I know this (Esther
-holds the fabric to her face and begins to weep.) May it be your first
-gift. (He wants to offir conOrt, but he cannot touch her.)
+Come, touch it and then refuse. 
+---
+Please. Touch.  
+---
+It is exquisite. 
+---
+Miss Mills, many fine ladies 
+---
+have worn it against their skin, 
+---
+but it was made for you. 
+---
+I know this. 
+---
+May it be your first
+gift. 
 ---
 ## ESTHER:
 I won't let you.
 ---
 ## MARKS:
-It would be my pleasure. (Esther accepts the length of
-fizbric. They gaze at each other, neither able to articulate the depth of
-their feelings. A moment. Esther and Marks exit the stage, as the lights
-rise on Mayme seated at the piano. She plays a rag. Mrs. Van Buren
-enters, smoking a cigarette and nursing a glass of brandy. She studies her
-35
-image in the vanity mirron Marks reenters, fiddling with the buttons
-on his jacket. He takes out a needle and thread and contenzplates
-whether to sew on a new button. Mrs. Dickson enters, canyinga wedding
-veg she toys with the delicate fibrin George enters in an ill-fitted suit,
-his best. He moves downstage with the uncertainty of a new arrival.
-Esther; dressed in a .weddinggown, nervously enters. Mrs. Dickson places
-the veil on Esther 's head. Evoyone but George and Esther exit. Esther
-joins George doumstage, each of them in a stparate pool of light. George
-and Esther look at each other, fir the first time, then look out into the
-world. There is a flash as from an old-fitshioned flash camera. The
-sepia-tone image is captured. A projected title cad appears above their
-heads: "Unidentified Negro Couple ca. 1905."Blackout.)
-End of Act One
+It would be my pleasure. 
+---
+"Unidentified Negro Couple ca. 1905."Blackout.)
+---
+template: title
+Intermission
+---
 36
 ACT TWO
 Scene 1
