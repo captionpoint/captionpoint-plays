@@ -7,11 +7,11 @@ title: TITLE
 author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-orange-zest: character-four
-lavender-purple: character-five
+plum-purple: esther
+stiletto-red: mrs van buren
+st-tropaz-blue: mrs dickson
+orange-zest: george
+lavender-purple: mr marks
 green-goblin: character-six
 shocking-pink: character-seven
 brown-clay: character-eight
@@ -3245,11 +3245,11 @@ at the table?
 ---
 Well, there is Bertha, 
 ---
-but she has no conversation. 
+but she don't have no conversation. 
 ---
 Oh, I could move Erma down close,  
 ---
-but she and Bertha don't speak. 
+but her and Bertha don't speak. 
 ---
 It's gonna be a mess at that dinner table
 ---
@@ -3307,49 +3307,55 @@ Excuse me?
 ## MRS. DICKSON:
 I shan't repeat it. 
 ---
-You see, the thing is, is that sometimes he need pleasure in order for you to ensure your satisfaction.
+You see, the thing is, 
 ---
-Esther, sometimes a man needs a little help. Now it's a shame and a disappointment to have a husband with very little vigor. Yes.
+is that sometimes 
 ---
-You know, the way I see it. Now, I'm not an expert but the best of friends come together and they uh match it up well, but now listen, you can understand that um sometimes, you need to just understand that a man will test you and he'll try you, but don't let him beat on you.  Don't take no shit off of him, understand?
-
-But there ain't no greater
-disappointment 
+he need pleasure 
 ---
-than a husband without much vigor. 
+in order for you to ensure 
 ---
-Believe me, I know. 
+your satisfaction.
 ---
-And sometime he gotta be pleasured to ensure your
+Esther, 
 ---
-own satisfaction. 
+sometimes a man needs a little help. 
 ---
-You understand. 
+Now it's a shame 
 ---
-I ain't an expert, 
+and a disappointment to have a husband 
 ---
-but I do have some experience. 
+with very little vigor. 
 ---
-And I'll tell you, 
+Yes.
 ---
-give and take make for the best
-of partnerships. 
+You know, 
 ---
-Never mind what the minister tells you about decency, 
+the way I see it. 
 ---
-what go on between a man and wife 
+Now, I'm not an expert 
 ---
-be their own business.
+but the best of friends 
 ---
-He will test you 
+come together 
 ---
-and he will try you, 
+and they uh match it up well, 
 ---
-but don't let him beat on you,
+but now listen, 
 ---
-don't take no shit from him, 
+you can understand that um sometimes, 
 ---
-understand.
+you need to just understand 
+---
+that a man will test you 
+---
+and he'll try you, 
+---
+but don't let him beat on you.  
+---
+Don't take no shit off of him, 
+---
+you understand?
 ---
 ## ESTHER:
 Mrs. Dickson.
@@ -3368,7 +3374,9 @@ but you come as an innocent
 ---
 and I'm a friend
 ---
-I just wanted to talk to you plainly.
+I just wanted to 
+---
+to be able to talk to you plainly.
 ---
 ## ESTHER:
 Well,Thank you, 
@@ -3422,7 +3430,9 @@ You hurt my feelings, Miss Esther Mills.
 ---
 Eighteen years is a long time. 
 ---
-I don't reckon I've known anybody else quite that long. 
+I don't reckon I've known anybody else 
+---
+quite that long. 
 ---
 It'll be lonesome.
 ---
@@ -3431,7 +3441,6 @@ You have plenty of suitors to keep you busy.
 ---
 ## MRS. DICKSON:
 But not a working one of them.
----
 ---
 You sure you want to do this.
 ---
@@ -3458,7 +3467,9 @@ old,
 ---
 no profession and there wasn't a 
 ---
-decent colored man in New York City 
+decent colored man 
+---
+in New York City 
 that would have me.
 ---
 ## ESTHER:
@@ -3484,74 +3495,79 @@ there proudly
 ---
 every Sunday, hoping to gain God's favor. 
 ---
-Marry
-good. 
+Marry good. 
 ---
 She didn't want me to be embarrassed of my fingers 
 ---
 the way she was of hers. 
 ---
-I'd watch her put witch hazel and hot oil on her delicate hands, 
+I'd watched her put witch hazel 
+---
+and hot oil on her delicate hands, 
 ---
 but they remained raw and chapped 
 ---
-and she put her hands and hide them in gray gloves.
+and she would put her hands 
 ---
-In the winter they'd
-bleed so bad sometimes, 
+and hide them in these gray gloves.
 ---
-but she'd plunge her hands 
+so no one could see em
 ---
-into the hot water 
+when it was cold
 ---
-without flinching, 
+her hands would bleed so bad 
 ---
-knead and scrub the clothing clean. 
+but she'd just put them in hot water 
 ---
-Fold and press for hours and hours, 
+and she never flinched, 
 ---
-the linen, the bedding, 
+kneading and scrubing the clothing clean. 
 ---
-the stockings
+Folding and pressing for hours and hours, 
 ---
-and the britches, 
+She just,
 ---
-sometimes wearing the frayed gloves 
+She just had a hard time
 ---
-so as not to leave bloodstains 
+She'd keep the frayed gloves 
 ---
-on her precious laundry. 
+off of her clean clothes 
 ---
-She wouldn't even let me
-help her, 
+just to keep from getting bloodstains on em. 
 ---
-she didn't want my hands to show 
+She wouldn't even let me help.  
 ---
-the markings of labor.
+She didn't want my hands 
 ---
-I was going to marry up. 
+to have the mark of a laborer.
 ---
-Love was an entirely impractical thing 
+Marry up.
 ---
-for a woman in her position. 
+She didn't have any intention 
 ---
-"Look what love done to me," Mama used to say. 
+of entering her situation with love.
 ---
-"Look what love done to me." 
+She said, "Look what love done to me".
 ---
-So I did what was necessary to gain favor. 
+That's what mother said. 
 ---
-I allowed myself to be flattered by gentlemen.
+"Look what love done to me".
 ---
-You understand? 
+So I did what was necessary to gain. 
 ---
-Yes, 
+And I did. 
 ---
-this "pretty" gal done things, un-pretty things,
+And I let them flatter me.  
+---
+I let these gentlemen flatter me, 
+---
+and I did things.
+---
+Not such pretty things.
 ---
 for this marble mantle, 
 ---
-gaslights in every room, 
+and this gas stove in every room
 ---
 a player piano 
 ---
@@ -3561,33 +3577,45 @@ and an indoor toilet.
 But Mr. Dickson was a good man.
 ---
 ## MRS. DICKSON:
-Bless his broken-down soul. 
+Bless his broke-down soul. 
 ---
-He had fine suits and perfect diction, 
+He had fine suits 
 ---
-and was too high on opium to notice that he was married. 
+and perfect diction, 
 ---
-But I would not be a washerwoman if it killed me.
+and was too high on opium 
 ---
-And I have absolutely marvelous hands to prove it. 
+to even notice he was married. 
 ---
-But you have godly fingers and a
+But I would not be a washerwoman 
+---
+if it killed me.
+---
+And I have perfectly 
+---
+marvelous hands to prove it. 
+---
+But you 
+---
+you have godly fingers and a
 means, 
 ---
 and you deserve a gentleman. 
 ---
-Why gamble it all away for a
+Why gamble it all away on some
 common laborer?
 ---
 ## ESTHER:
 Love.
 ---
 ## MRS. DICKSON:
-Don't you let a man 
+Don't let no man 
 ---
-have no part of your heart 
+have a part of your heart 
 ---
 without getting a piece of his. 
+---
+template: music
 ---
 ## GEORGE:
 Dear Esther, 
@@ -3604,6 +3632,9 @@ So here I wait,
 fighting patience. 
 ---
 We sail tomorrow 
+---
+template: noise
+tea kettle whistling
 ---
 ## MARKS:
 Miss Mills, 
@@ -3649,9 +3680,9 @@ I'm sorry, I
 ---
 ## MARKS:
 No, I'm sorry. 
-
+---
 You've been busy, of course. 
-
+---
 I thought something might have 
 happened to you.
 ---
@@ -3681,20 +3712,21 @@ Do you have a moment?
 Yes.
 ---
 ## MARKS:
-You get it.  
+I'll get it.  
 ---
 I just made tea, 
 ---
 would you have a cup of tea with me?
 ---
 ## ESTHER:
-Thank you, that would be nice. 
+That would be nice. Thank you.
+---
 ---
 ## MARKS:
 Is the tea hot enough? 
-
+---
 Milk? 
-
+---
 Would you like sugar, of
 course?
 ---
@@ -3714,8 +3746,7 @@ wedding gown,
 ---
 something simple, Mr. Marks. 
 ---
-The bride don't got a lot of money 
----
+The bride ain't got a lot of money 
 to throw away.
 ---
 ## MARKS:
@@ -3735,8 +3766,7 @@ Silk.
 ## MARKS:
 That one you're touching is very popular. 
 ---
-And the price
-will please you. 
+And the price will please you. 
 ---
 Thirty cents a yard.
 ---
@@ -3745,30 +3775,30 @@ Twenty?
 ---
 ## MARKS:
 Twenty-five cents. 
----
 The bride will like.
 ---
 ## ESTHER:
 It's too much. 
----
 Something less expensive, 
 ---
-dress it up with lace and ribbons. 
+I'll dress it up with lace and ribbons. 
 ---
 How about this one?
 ---
 ## MARKS:
 It's a wedding. 
 ---
-This is for an older woman ---
----
+template: overlap
+## MARKS:
+This is for an older woman 
+
 ## ESTHER:
 I ain't so young.
 ---
 ## MARKS:
 the bride's mother perhaps. 
 ---
-You are gettingmarried?
+Wait, you are getting married?
 ---
 ## ESTHER:
 Yes. 
@@ -3781,6 +3811,7 @@ No, no. Not at all.
 My congratulations.  
 ---
 Please. 
+---
 ---
 I'm sure the rich lady who ordered this 
 ---
@@ -3799,16 +3830,17 @@ Beautiful.
 You deserve to wear it on your wedding day.
 ---
 ## ESTHER:
-Its so beautiful, 
-
+Beautiful, 
+---
 it looks like little fairy hands made it.
-
+---
 It's too fine for me.
 ---
 ## MARKS:
 Come, touch it and then refuse. 
 ---
-Please. Touch.  
+Please. Touch.
+---
 ---
 It is exquisite. 
 ---
@@ -3829,106 +3861,164 @@ I won't let you.
 ## MARKS:
 It would be my pleasure. 
 ---
-"Unidentified Negro Couple ca. 1905."Blackout.)
+---
+template: music
+---
 ---
 template: title
 Intermission
 ---
-36
-ACT TWO
-Scene 1
-The Wedding Corset —White Satin
-Embroidered with Orange Blossoms
-Esther stands in a pool of light, she wears a spectacular white
-wedding gown. Another pool elk& engsgfi George, he wears
-a worn gray dress suit frayed around the sleeves, certainly his
-best. Lights the. A spare studio fiat, an iron bed dominates the
-room. George and Esther stand on either side of the bah
-which is covered with the crazy quilt A silence divides them.
-Finally Esther speaks.
+template: noise
+New York City street sounds
 ---
 ## ESTHER:
-Don't really feel much different. I guess I expected
-somethin' to be different. It was a nice ceremony. Didn't you think?
-I wish my family coulda witnessed it all. My mother in particular.
-When the minister said man and wife I nearly fainted, I did. I been
-waiting to hear those words, since they nearly took my breath
-away. Man and wife, and the truth is we barely know each other.
-I've written you near everything there is to know about me, and
-here we is and I fear I ain't got no more to say. (Note: George's accent
-is a touch heavier and snore distinctly Barbadian than in the first act.)
+Don't really feel much different. 
+---
+I guess I was expectung somethin' to be different. 
+---
+It was a nice ceremony. 
+---
+Didn't you think?
+---
+I wish my family coulda witnessed it. 
+---
+My mother, in particular.
+---
+When the minister said man and wife 
+---
+I nearly fainted, I did. 
+---
+I been waiting to hear those words, 
+---
+since they nearly took my breath
+away. 
+---
+Man and wife, 
+---
+and the truth is we barely know each other.
+---
+I've written you near everything there is to know about me, 
+---
+and here we is and I fear 
+---
+I ain't got no more to say.
 ---
 ## GEORGE:
-We ain't need to say nothin' now. We got plenty of
-rime for that. It late. (George takes off his jacket and tosses it across the
-bed. He loosens his top button. Esther picks up thejacket, quickly surveys
-the label, then neatly folds it, placing it at the bottom oft& bed.)
+We ain't need to say nothin' now. 
+---
+We got plenty of time for that. 
+---
+It late. 
 ---
 ## ESTHER:
-Do you wish to bathe? I'll fetch the basin. (George kneels
-on the bed and extends his hand to Esther.)
+Do you wish to bathe? 
+---
+I'll fetch the basin. 
 ---
 ## GEORGE:
-Why don't yuh come sit by me. Let me see yuh. (Esther
-sinks on the bed with her back to George. He gently strokes her cheek.
-Esther trembles.) Are yuh afraid of me? Yuh shaking.
+Why don't yuh come sit by me. 
+---
+Let me see yuh.
+---  
+---
+Are yuh afraid of me? 
+---
+Yuh shaking.
 ---
 ## ESTHER:
-Am I? None of this be familiar.
+Am I? 
+---
+None of this be familiar.
+---
 ---
 ## GEORGE:
-Give yuh hand 'erc. (Esther gingerly passes her hand to
-George. He sits next to ben kissing each of her fingers, then places her hand
-37
-on his crotch.) See. It ain't scary at all. (Esther leaves her band resting on
-his crotch, anconOrtable. A moment.) I expected yuh to be —
+Give yuh hand here.  
+---
+---
+See. 
+---
+It ain't scary at all.  
+---
+I expected yuh to be more
 ---
 ## ESTHER:
 Prettier.
 ---
 ## GEORGE:
-No, I was gonna say —
+No, I was gonna say 
 ---
 ## ESTHER:
-It's okay, I lived with this face all my life, ain't no surprises.
-We should say what we think now and get it out of the way.
+It's okay, 
+---
+I lived with this face all my life, 
+---
+ain't no surprises.
+---
+We should say what we think now 
+---
+and get it out of the way.
 ---
 ## GEORGE:
-I suppose from yuh letters —
+I suppose from yuh letters
 ---
 ## ESTHER:
-I described my character. And I think you'll find me
-truthful. (George begins to unbutton Esther's dress. She stiffens at his
-touch.) Yo u ' r e very handsome. More than I thought and I must say
-it do make me a little uncomfortable. (Esther withdraws her hand
-from his crotch.) And the other thing I think you must know, I ain't
-been with a man before. I been kissed and done some kissing, but
-you know what I'm saying. And it might be awkward on this first
-night, even if we man and wife —
+I described my character. 
+---
+And I think you'll find me
+truthful. 
+---
+You're very handsome. 
+---
+More than I thought 
+and I must say 
+---
+it do make me a little uncomfortable.  
+---
+And the other thing I think you must know, 
+---
+I ain't been with a man before. 
+---
+I been kissed and done some kissing, 
+---
+but you know what I'm saying. 
+---
+And it may be awkward on this first night, 
+---
+even if we man and wife 
 ---
 ## GEORGE:
-Then we'll make it less awkward. (George slips Esther's
-thrss shoultlen and plants a kiss on her bare back. She's wearing
-a stunning wedding corset of white satin embroidered with orange
-blossoms.) Real nice, Pretty. I like it. (He runs his fingers across the
-delicate lace covering her breasts.)
+Then we'll make it less awkward. 
+---
+---
+Real nice, 
+---
+Pretty. I like it. 
 ---
 ## ESTHER:
-Wait. I made something for you. (Esther stands up and
-quickly fetches the smoking jacket.) Here.
+Oh, uh. Wait. 
+---
+I made something for you. 
+---
+---
+Here.
 ---
 ## GEORGE:
 What it?
 ---
 ## ESTHER:
-It's Japanese silk. Put it on. (George clumsily pulls the
-smoking jacket around his muscular body. He clearly isn't comfortable
-with the delicacy of the garment.) Careful. (Gene explores the jacket
-with his weather-wom fingers.) It ain't too small?
+Japanese silk. 
+---
+Put it on. 
+---
+Ooo, Careful. 
+---
+It ain't too small?
 ---
 ## GEORGE:
-Nab.. But I afraid, I soil it. (George ?moves the jacket
-and tosses it on the bed. He pulls Esther into his arms.)
+Nah.. 
+---
+But I afraid, 
+I soil it. 
 ---
 ## ESTHER:
 Not yet.
@@ -3943,95 +4033,185 @@ Couldn't we wait a bit?
 Minister say man and wife.
 ---
 ## ESTHER:
-Please, I'd like to know about your mother or about
-your birthplace, Bar-ba-dos. Somethingl don'r know. 'That wasn't
-in the letters. Something for us, right now. (A moment.)
+Please, 
+---
+I'd want to know more about your mother 
+---
+or about your birthplace, Bar-ba-dos. 
+---
+Something I don't know. 
+---
+'That wasn't in the letters. 
+---
+Something for us, right now. 
 ---
 ## GEORGE:
-Like what? (Esther pulls away and picks up the smoking
-jacket.)
+Like what? 
 ---
 ## ESTHER:
-I come here from North Carolina at seventeen after my
-mother died of influenza, God bless her loving spirit. My father
-38
-died two years later, he was a slave you see and didn't rnke to life as
-a freeman. He'd lost his tongue during a nasty fight over a chicken
-when I was a baby, so I never heard him speak, no complaints, no
-praise, no gentle words, no goodbye. He was silent. Broken
-really. I come to this city by myself, worked my way North little by
-little, picking berries in every state until I get here. An old woman
-in the rooming house reach me to sew intimate apparel, saying
-folks'll pay you good money for your discretion. It was just about
-the best gift anybody give me. It was as though God kissed my
-hands when I first pulled the fabric through the sewing machine
-and held up a finished garment. I discovered all I need in these
-fingers. (A moment.) I wanted you to know that about me.
+I come here from North Carolina at seventeen 
+---
+after my mother died of influenza, 
+---
+God bless her loving spirit. 
+---
+My father died two years later, 
+---
+he was a slave you see 
+---
+and didn't take to life as a freeman. 
+---
+He'd lost his tongue 
+---
+during a nasty fight over a chicken
+---
+when I was a baby, 
+---
+so I never heard him speak, 
+---
+no complaints, no praise, 
+---
+no gentle words, no goodbye. 
+---
+He was silent. 
+---
+Broken really. 
+---
+I come to this city by myself, 
+---
+worked my way North little by
+little, 
+---
+picking berries in every state until I get here. 
+---
+An old woman in the rooming house 
+---
+teach me to sew intimate apparel, 
+---
+say folks'll pay you good money 
+---
+for your discretion. 
+---
+It was just about the best gift anybody give me. 
+---
+It was as though God kissed my
+hands 
+---
+when I first pulled the fabric through the sewing machine
+---
+and held up a finished garment. 
+---
+I discovered everything I need in these hands. 
+---
+I wanted you to know that about me.
 ---
 ## GEORGE:
-My parents were chattel born to children of chattel.
-(George takes off his shirt.) We cut sugar cane and die and that our
-tale for as long as anybody could say. Nothin' worthy of a retelling,
-really. I come here so the swry'll be different, that I hopin'. Now if yuh
-don' mind, I spent many nights on a hard wood floor, a bed be long
-overdue. (Esther gives him her hand) We married. I am' gonna commit
-no crime 'ere, a man and wife don't 'ave no quarrel in the bedroom.
-(George gently pulls her onto the bed. The lights slowly fade as Esther
-succumbs to his embrace. Ragtime piano. Mayme and Mrs. Van Buren
-elite?; dressed in their twin corsets. They stand over the wedding bed.)
+My parents were chattel 
+---
+born to children of chattel.
+---
+We cut sugar cane and die 
+---
+and that our tale 
+---
+for as long as anybody could say. 
+---
+Nothin' worthy of a retelling,
+really. 
+---
+I come here so the story'll be different, that I hopin'. 
+---
+Now if yuh don't mind, 
+---
+I spent many nights on a hard wood floor, 
+---
+a bed be long overdue.  
+---
+We married. 
+---
+I ain't gonna commit no crime 'ere, 
+---
+[laughing]
+a man and wife 
+---
+ain't got no quarrel in the bedroom.
+---
+---
+template: music
 ---
 ## MAYME:
-What is he like? (George climbs out of bed, he stands in a
-pool of light and slowly goes through the ritual of dressing. Esther kneels
-on her bed wrapped in the crazy quilt.)
+What is he like? 
 ---
 ## ESTHER:
 He handsome enough.
 ---
 ## MRS. VAN BUREN:
 Come, what did he say when he saw you?
-(Esther climbs out of bed. As they speak, ifnecessaly, _Mayne and Mrs.
-Va n Buren may help Esther dress.)
 ---
 ## ESTHER:
-He ain't say much of nothing. He just stood there for a
-moment regarding me with his eyes. Yellow, cotton and cane eyes.
+He ain't say much of nothing.
+---
+He just stood there for a moment 
+---
+regarding me with his eyes. 
+---
+Yellow, cotton and cane eyes.
+---
 I didn't have no tongue.
 ---
 ## MRS. VAN BUREN:
-He must be something of a romantic. He
-traveled halfway across the world because of some promise on a paper.
+He must be something of a romantic. 
+---
+He traveled halfway across the world 
+---
+for some promise on a paper.
 ---
 ## ESTHER:
-And he still smell of salt and ground nuts. It make me
-sick and it make me excited.
+And he still smell of salt 
+---
+and ground nuts. 
+---
+It make me sick and it make me excited.
 ---
 ## MRS. VAN BUREN:
-I was tipsy on my wedding night. I recall
-being in love with the notion of love, and everything took on a rosy
-glow. Harry was foolish and confident and I was frightened to death.
+I was tipsy on my wedding night. 
+---
+I recall being in love with the notion of love, 
+---
+and everything took on a rosy
+glow. 
+---
+Harry was foolish and confident 
+---
+and I was frightened to death.
 ---
 ## MAYME:
 Is he as we imagined?
-39
 ---
 ## ESTHER:
-Yes, he is sturdy enough and quite a pleasure to behold.
-His hands thick, stained dark from work. North Carolina field
-hands. But he got a melodious voice, each word a song unto itself.
-(Mayne and Airs. Van Buren reluctantly retreat into the darkness.
-Ertber and George button their shirts.)And when he finally fell asleep
-I placed my head on his chest, and listened for the song of cicadas
-at dusk, and imagined the sweet aroma of the mango trees and the
-giant flamboyant with its crimson tears. (Esther and George stand On
-either side of the bed, dressed.)
-Scene 2
-Valenciennes Lace
-GeorgelEsther's boudoir. A rag plays. George smoothes down
-his overgrown hain pleased with himseq.. His clothing is worn
-but that doesn't seem to trouble him. Esther takes in George
-from the corner °Per tye, quickly averting her gaze when be
-glances over. He smiles to himself
+Yes, 
+he is sturdy enough 
+---
+and quite a pleasure to behold.
+---
+His hands thick, stained dark from work. 
+---
+North Carolina field hands. 
+---
+But he got a melodious voice, 
+---
+each word a song unto itself.
+---
+And when he finally fell asleep
+---
+I placed my head on his chest, 
+---
+and listened for the song of cicadas
+at dusk, 
+---
+and imagined the sweet aroma of the mango trees 
+---
+and the giant flamboyant with its crimson tears. 
 ---
 ## ESTHER:
 Do you want me to fix you something?
@@ -4040,40 +4220,63 @@ Do you want me to fix you something?
 I ain't really hungry, you know.
 ---
 ## ESTHER:
-Where are you going? It Sunday. I promised Mrs.
-Dickson we'd dine with her this afternoon after the church social,
+Where are you going? 
+---
+It Sunday. 
+---
+I promised Mrs. Dickson we'd dine with her 
+---
+this afternoon after the church social,
 ---
 ## GEORGE:
 That woman ask too many questions for me liking.
 ---
 ## ESTHER:
-That's what ladies do. She's just being attentive. (George
-grabs his hat and toys with it for a moment. He ventures to speak, but
-stops himself
+That's what ladies do. 
+---
+She's just being attentive. 
+---
 ---
 ## GEORGE:
-Say Mrs. Armstrong, you got two dollars?
+Say Mrs. Armstrong, 
+---
+you got two dollars?
 ---
 ## ESTHER:
 What for?
 ---
 ## GEORGE:
-I need a proper hat if yuh want me to took for real
-work. It near three months now, and this a farmer's hat I tot', The
-rag man wouldn' even give me a penny for it.
+I need a proper hat 
+---
+if yuh want me to took for real
+work. 
+---
+It near three months now, and this a farmer's hat I tot', 
+---
+The rag man wouldn't even give me a penny for it.
 ---
 ## ESTHER:
-Two dollars. That's a lot of money. I tor you I'd make
-you a worsted suit. Right smart. (Gaye gently tolithes Esther 's hand)
+Two dollars. 
+---
+That's a lot of money. 
+---
+I told you I'd make
+you a worsted suit. 
+---
+Right smart. 
 ---
 ## GEORGE:
-Clmon, Mrs. Armstrong. Just two dollars.
-40
+C'mon, Mrs. Armstrong. 
+---
+Just two dollars.
 ---
 ## ESTHER:
-But this is the last time. Hear? (Esther, reluctant, goes
-over to the quilt and opens the seam with her scissors. She digs in and
-pulls out two dollars.) There.
+But this is the last time. 
+---
+Hear? 
+---
+---
+There.
 ---
 ## GEORGE:
 That all you got?
@@ -4082,175 +4285,340 @@ That all you got?
 Yes. Why do you need to go out?
 ---
 ## GEORGE:
-I tell some fellas I stop off for a quick ale, be back 'fore
-yuh know.
+I tell some fellas I stop off for a quick ale, 
+---
+I be back 'fore yuh know.
 ---
 ## ESTHER:
-But it Sunday. I'll put on some tea, and sit, let me mend
-your shirt. You can't go out with a hole in your shirt. (Esther touches
-the hole in his shirt.) What will they say about your wife? I won't hear
-the end of it from Mrs. Dickson.
+But it Sunday. 
+---
+I'll put on some tea, 
+---
+and sit, let me mend your shirt. 
+---
+You can't go out with a hole in your shirt. 
+---
+What will they say about your wife? 
+---
+I won't hear the end of it from Mrs. Dickson.
 ---
 ## GEORGE:
-She a real madam. "Yuh working, George?" "Oh,
-null?" (Chupses.) I air? been this idle since a boy in St. Lucy. But
-that busylickum air? 'ear nothing. (Chupses again.) I got me pats on
-the back from white engineers, and a letter of recommendation
-from the Yankee crew chief heselE But 'ere, I got to watch buildings
-going up left and right, steel girders as thick as tamarind trees, ten,
-twelve stories high. Thursday last I stood all day, it cold too, waidn'
-for the chief, waiting to interview. Do yuh have tools, boy? Yes! Do
-yuh know how to operate a machine, boy? Yes. But 'e point just so
-to the Irishman, the German, and the tall Norwegian who's at least
-fifty years plus five. And I got more experience than the lot. I tell 'e
-so. Next time, 'e say. Next time, George. Can you believe? And
-when everyone gone, 'e pass me this damn note like it money.
-(Gewge takes a leiterfrom his pocket and u;?folds it) Look. (He hands
-the note to Esther. She examines it, pretending to read.) What do you
-t'ink? (George watches her ever so•cartfidly • )
+She a real madam. 
+---
+"Yuh working, George?" 
+---
+"Oh, null?"
+---
+I ain't been this idle since a boy in St. Lucy. 
+---
+But that busylickum air? 
+'ear nothing.  
+---
+I got me pats on the back from white engineers, 
+---
+and a letter of recommendation
+---
+from the Yankee crew chief heself.
+---
+But 'ere, I got to watch buildings
+---
+going up left and right, 
+---
+steel girders as thick as tamarind trees, 
+---
+ten,twelve stories high. 
+---
+Thursday last I stood all day, 
+---
+it cold too, waidn' for the chief, 
+---
+waiting to interview. 
+---
+Do yuh have tools, boy? 
+---
+Yes! 
+---
+Do yuh know how to operate a machine, boy? 
+---
+Yes. 
+---
+But 'e point just so to the Irishman, the German, 
+---
+and the tall Norwegian who's at least 
+---
+fifty years plus five.
+---
+And I got more experience than the lot. 
+---
+I tell 'e so. 
+---
+Next time, 'e say. 
+---
+Next time, George. 
+---
+Can you believe? 
+---
+Then, when everyone gone, 
+---
+he pass me this damn note 
+---
+like it money.
+---
+Look.  
+What do you think? 
+---
 ---
 ## ESTHER:
-I don't know what to say. I suppose he mean what he
-say. (She anxiously places the letter on the bed.)
+I don't know what to say. 
+---
+I suppose he mean what he
+say. 
 ---
 ## GEORGE:
-But what do you t'ink? You t'ink what he say true?
+Yeah, but what do you think? 
+---
+You think what he say true?
 ---
 ## ESTHER:
-Why wouldn't he be truthful? (Frustrated, George takes off
-his shirt and tosses it to Esther. He then throws hintselfacToss the bed and
-lights a cigarette. Esther goes about mending Geotge's shirt by hand) Did
-you try oVer at that butcher's? Like I asked. I know they could use p
-extra man 'cause it's always crowded in there. Especially on Friday.
+Why wouldn't he be truthful?  
+---
+Did you try over at that butcher's? 
+---
+Like I asked. 
+---
+I know they could use an extra man 
+---
+'cause it's always crowded in there. 
+---
+Especially on Friday.
 ---
 ## GEORGE:
 I don' know. We'll see.
 ---
 ## ESTHER:
-There are worse things you could do. And I thought
-maybe we could go to the church social before Mrs. Dickson's.
+There are worse things you could do. 
+---
+And I thought maybe 
+---
+we could go to the church social 
+---
+before Mrs. Dickson's.
 ---
 ## GEORGE:
-I am' a church man, really. (Esther stops sewing.)
+I ain't a church man, really. 
 ---
 ## ESTHER:
-You do believe, don't you? Why in letters you said —
-41
+You do believe, don't you? 
+---
+Why in letters you said 
 ---
 ## GEORGE:
-I say a lot of eings. (A moment. Esther returns to sewing.
-George fiels the quilt.)
+I say a lot of things. 
 ---
 ## ESTHER:
-Please, I ain't been to a social. I sat up in Saint Martin's
-for years, and didn't none of them church ladies bother with me
-until 1 walked in on your arm, and suddenly they want Mrs.
+Please, I ain't been to a social. 
+---
+I sat up in Saint Martin's
+for years, 
+---
+and didn't none of them church ladies bother with me
+---
+until I walked in on your arm, 
+---
+and now they want Mrs.
 Armstrong over for tea.
 ---
 ## GEORGE:
 Yuh and yuh monkey chaser yuh mean?
 ---
 ## ESTHER:
-Oh that ain't so. Most of them folks ain't been nowhere
-to speak of. But they are fine people, and who knows where help
-will come from?
+Oh no, that ain't so. 
+---
+Most of them folks ain't been nowhere to speak of. 
+---
+But they are fine people, 
+---
+and who knows where help will come from?
 ---
 ## GEORGE:
-I want to build eings, not polish silver or port luggage.
-Them fine jobs for yuh Yankee gentlemen, but not me. I am' come
-'ere for thad They'll have me a bootblack 'fore long, ler the damn
-Italians blacken their hands, I say. Mine been black long enough. A
-man at the saloon, smart looking fella, say the onliest way for a
-colored man in this country is for 'e to be 'e own man. Have 'e own
-business, otherwise 'e always be shining the white man nickel. You
-understand, no? And really, how it look to people. Me, sitting 'ere,
-waitin' on fortune, you out there courtin' it.
+I want to build things, 
+---
+not polish silver or port luggage.
+---
+Them fine jobs for yuh Yankee gentlemen, 
+---
+but not me. 
+---
+I ain't come here for that. 
+---
+They'll have me a bootblack before long, 
+---
+let the damn Italians blacken their hands, I say. 
+---
+Mine been black long enough. 
+---
+This man at the saloon, 
+---
+smart looking fella, 
+---
+say the onliest way 
+---
+for a colored man in this country 
+---
+is for 'e to be 'e own man. 
+---
+Have 'e own business, 
+---
+otherwise he always be shining 
+---
+the white man nickel. 
+---
+You understand, no? 
+---
+And really, 
+---
+how it look to people. 
+---
+Me, sitting 'ere, waitin' on fortune, 
+---
+you out there courtin' it.
 ---
 ## ESTHER:
-I am your wife, and whatever I got, yours. And George
-mind your smoking on the bed. The Chinaman two floors down
-bum up that way. (George puts out the cigarette.)
+I am your wife, 
+---
+and whatever I got, yours. 
+---
+And George mind your smoking on the bed. 
+---
+The Chinaman two floors down
+---
+burn up that way. 
 ---
 ## GEORGE:
-Listen, this fella at the saloon talk about a man sellin'
-a stable with a dozen strong draft horses. 'E in a bit of debt, and
-need money quick quick. A dozen horses for nothire. Did you 'ear
-what I say?
+Listen, 
+---
+this man at the saloon talk about a man 
+---
+sellin' a stable with a dozen strong draft horses. 
+---
+'E in a bit of debt, 
+---
+and need money quick quick. 
+---
+A dozen horses for nothing. 
+---
+Did you 'ear what I say?
 ---
 ## ESTHER:
-That saloon talk. That man'll take your money to
-Shanghai. It just a dream, it ain't gonna Feed you today.
+That saloon talk. 
+---
+That man'll take your money to
+Shanghai. 
+---
+It just a dream, 
+---
+it ain't gonna feed you today.
 ---
 ## GEORGE:
-You tlink I stupid?
+You think I stupid?
 ---
 ## ESTHER:
-No. But supposin' he honest, where would you get the
-money for twelve horses?
+No. 
+---
+But supposin' he honest, 
+---
+where would you get the
+money 
+---
+for twelve horses?
 ---
 ## GEORGE:
-Where, Mrs. Armstrong? (George gently strokes the
-quilt.) Am I wrong?
+Where, Mrs. Armstrong?  
+---
+Am I wrong?
 ---
 ## ESTHER:
-My quilt? Never mind with that money. It just there
-and it gonna stay there.
+My quilt? 
+---
+Never mind with that money. 
+---
+It just there and it gonna stay there.
 ---
 ## GEORGE:
-Yuh a squirrel, for true. That's what yuh call them city
+Yuh a squirrel, for true. 
+---
+That's what yuh call them city
 rats, no?
 ---
 ## ESTHER:
-A squirrel ain't a rat. That money for my beauty parlor,
+A squirrel ain't a rat. 
+---
+That money is for my beauty parlor,
+---
 I told you that.
 ---
 ## GEORGE:
-(Laughs.) That funny.
-42
+[Laughs] 
+
+That funny.
 ---
 ## ESTHER:
 Why's that funny to you?
 ---
 ## GEORGE:
 You ownin' a beauty parlor.
+[laughing]
 ---
 ## ESTHER:
-Yes. (George studies Esther. She self-consciously returns
-to sewing.)
+Yes. 
 ---
 ## GEORGE:
-Look at yuh. How yuh know pretty from the loolcin'
-glass? (A moment.)
+[laughing]
+Look at yuh. 
+---
+How yuh know pretty from the lookin' glass? 
+[laughing]
 ---
 ## ESTHER:
-(Wounded) I make pretty things. (George pops up off the
-bed and takes Esther in his arms.)
+I make pretty things. 
 ---
 ## GEORGE:
-I sorry, Mrs. Armstrong, 1 am' know what I say. Yuh be
-real sweet, if you done up yuh hair, nice. Put a little paint on yuh
-lips. (George runs his hand across Esther's mouth. He grabs her and
-tries to do a quick dance.)
+I sorry, Mrs. Armstrong, 
+---
+I ain't know what I say. 
+---
+Yuh be real sweet, 
+---
+if you done up yuh hair, nice. 
+---
+Put a little paint on yuh
+lips. 
 ---
 ## ESTHER:
 I ain't that kind of woman.
 ---
 ## GEORGE:
-No, yuh am'. (George lets go of Esther's arm. Gently.)
+No, yuh ain't. 
+---
 Please, Esther.
 ---
 ## ESTHER:
 No. That eighteen years there.
 ---
-## GEORGE:
-(Chupses.) Yuh vex me so. Where's me shirt?
+## GEORGE: 
+Yuh vex me so. 
+---
+Where's me shirt?
 ---
 ## ESTHER:
-It ain't finished. (Gene grabs the shirt from Esther and
-puts it on.) Be careful, you'll tear —
+It ain't finished.  
+---
+Be careful, you'll tear 
 ---
 ## GEORGE:
-I going o'er to the Empty Cup for an ale. I see yuh later.
+I going o'er to the Empty Cup for an ale. 
+---
+I see yuh later.
 ---
 ## ESTHER:
 That a notorious place.
@@ -4259,12 +4627,18 @@ That a notorious place.
 How yuh know?
 ---
 ## ESTHER:
-I know. (George chupses dismissively.) Why are you so
-cross with me? You got your ale money and enough for God knows
-what else. Ain't that so?
+I know. 
+---
+Why are you so cross with me? 
+---
+You got your ale money 
+---
+and enough for God knows what else. 
 ---
 ## GEORGE:
-Yes, it yuh nickel. How do t'ink that make me feel?
+Yes, it yuh nickel. 
+---
+How do t'ink that make me feel?
 ---
 ## ESTHER:
 I come here with nothing.
@@ -4273,145 +4647,264 @@ I come here with nothing.
 Don't look at me so.
 ---
 ## ESTHER:
-I slept in a cold church for nine days, and picked up
-breadcrumbs thrown to pigeons.
+I slept in a cold church 
+---
+for nine days, 
+and picked up breadcrumbs 
+---
+thrown to pigeons.
 ---
 ## GEORGE:
-Yes. Yuh done good, but five hundred days digging
-don' amount to nothing 'ere. It always gray, why it so gray? Work
-on the Isthmus, it hard, but at least the sun shine.
+Yes. Yuh done good, 
+---
+but five hundred days digging
+---
+don't amount to nothing 'ere. 
+---
+It always gray, 
+---
+why it so gray? 
+---
+Work on the Isthmus, it hard, 
+---
+but at least the sun shine.
 ---
 ## ESTHER:
-I know you here 'cause of me, and I want you to be happy.
-We stood in that church, and promised before God to cake care of
-each other. That means something, even if it gray. You listenin'?
+I know you here 'cause of me, 
+---
+and I want you to be happy.
+---
+We stood in that church, 
+---
+and and made a promise before God 
+---
+to cake care of each other. 
+---
+And that means something, 
+---
+even if it gray. 
+---
+You listenin'?
 ---
 ## GEORGE:
 I listenin'.
 ---
 ## ESTHER:
-You got a good arm George Armstrong, and I'd be
-proud to walk in on it whether it shining shoes or picking cotton.
+You got a good arm George Armstrong, 
+---
+and I'd be proud to walk in on it 
+---
+whether it shining shoes or picking cotton.
+---
 ---
 ## GEORGE:
-I just tired of comin' home to put me hand in yuh pocket.
-43
-(George grabs his hat and coat. Esther attempts to turn down his collar.
-He brushes her hand away.) I off.
+I just tired of comin' home 
+---
+to put me hand in yuh pocket.
+---
+I off.
 ---
 ## ESTHER:
 What about Mrs. Dickson and the social?
 ---
 ## GEORGE:
-I be back for supper. (George grabs his coat and exits.
-Esther picks up GeoTe's work letter and crumples it up, Crossfittle to
-Mr. Marks' boudoir. Mr. Marks hums a rag as he searches through the
-piles offabric. Esther enters.)
+I be back for supper. 
+---
 ---
 ## MARKS:
-Here it is. Scottish wool, it isn't as expensive as one
-would think. It is very good.
+[humming to himself]
+Here it is. 
+---
+Scottish wool, 
+---
+it isn't as expensive as one would think. 
+---
+It is very good.
 ---
 ## ESTHER:
+[chuckle]
 Are you humming a rag, Mr. Marks?
 ---
 ## MARKS:
-No, it's a Romanian song. I can't remember the words. It
-is driving me mad.
+No, it's a Romanian song. 
+---
+I can't remember the words. 
+---
+It is driving me mad.
 ---
 ## ESTHER:
-(Smiles.) I'm very happy to see that you replaced the
-button on your suit.
+[chuckles]
+---
+## ESTHER:
+I'm glad to see that you 
+---
+fixed the button on your suit.
 ---
 ## MARKS:
-(Proudly.) Yo u noticed. It was time, don't you think?
-(Mr. Marks dhplays the fabric.) Yo u wanted Scottish wool, yes?
+Yeah. 
+---
+It was time, don't you think? 
+---
+You wanted Scottish wool, yes?
 ---
 ## ESTHER:
-Scottish wool. Yes. (Esther feels the fabric.) It's so heavy.
+Scottish wool, yes. 
+---
+Oh, um. It's so heavy. 
+---
 Would you wear a suit made of this?
 ---
 ## MARKS:
-Well, yes. You see how soft it is. I bought it from a
-gentleman who said it came from his village. He had a wonderful
-story about his mother caring for the sheep like small children. He
-said every night she'd tell them a fairy tale, and each. morning give the
-creatures a kiss and a sprinkle of salt. The neighbors would watch and
-laugh. Watch and laugh. But come time to shear the animals, what
-wonderful wool they produced for his mother. Like no other. (Esther
-_leek the fabric, lovingly Mr. Marks melt in her delight) He could have
-been a thief for all I know, but the color is a lovely coffee, very subtle.
-Don't you think? So I pay too much, but not enough for the quality.
-All! Yes. I have something else to show you. It's here. Where is it?
-Where are you? Here we are. (Mr. Marks unfurls a roll of lace) I almost
-let it go last week, but I was waiting for you. I wanted you to see it.
+Well, yes. 
+---
+You see how soft it is. 
+---
+I bought it from a gentleman 
+---
+who said it came from his village. 
+---
+He had a wonderful story about his mother 
+---
+caring for the sheep like small children. 
+---
+He said every night she would tell them a fairy tale, 
+---
+and each morning she would give the creatures 
+---
+a kiss and a sprinkle of salt. 
+---
+The neighbors would watch and
+laugh. 
+---
+Watch and laugh. 
+---
+But when it came time to shear the animals, 
+---
+what wonderful wool they produced. 
+---
+Like no other.  
+---
+He could have been a thief for all I know, 
+---
+but the color is a lovely coffee, very subtle.
+---
+Don't you think? 
+---
+So I pay too much, 
+---
+but not enough for the quality.
+---
+Oh! Yes. 
+---
+I have something else to show you. 
+---
+It's here. 
+---
+Where is it?
+---
+Where are you? 
+---
+Ah, yes. Here we are.  
+---
+I almost let it go last week, 
+---
+but I was waiting for you. 
+---
+I wanted you to see it.
 ---
 ## ESTHER:
 Oh, yes.
 ---
 ## MARKS:
-I knew you'd like it. (Elated.) The wait was worth seeing
-your smile again. (Marks playfiilly drapes the lace around Esther
-neck. They find themselves standing dangerously close to each other.
-They are so close that they can inhale each other's wordy. A moment.)
-Miss Mills, if I may say —
+I knew you'd like it. 
+---
+The wait was worth seeing your smile again. 
+---
+Miss Mills, if I may say 
 ---
 ## ESTHER:
-Armstrong. (Esther removes the lace.)
+Armstrong. 
 ---
 ## MARKS:
-I apologize. I forget. I forget. (A moment. Mr. Marks takes
-the lace and places it on the cutting board.)
-44
+I apologize. 
+---
+I forget. 
+---
+I forget. 
 ---
 ## ESTHER:
-It is pretty, thank you, but today I've come for fabric for
-a gentleman's suit. Next time.
+It is pretty, thank you, 
+---
+but today I've come for fabric 
+---
+for a gentleman's suit. 
+---
+Next time.
 ---
 ## MARKS:
-Yes. Just a minute, I have some other wools, gabardine,
-if you'd like to see? I have no story for them, but they are sturdy and
-reliable, will give you no problems. (As Mr. Marks turns to search for
-another bolt offitbric. Esther gently runs her fingers across the lace. Mr.
-Marks turns with the dark drab suit fabrics. Mr. Marks slowly rolls the
-lace, his disappointment palpable.) Next time.
+Yes. Ah, Just a minute, 
+---
+Ah, I have some other wools, 
+---
+gabardine, if you'd like to see? 
+---
+I have no story for them, 
+---
+but they are sturdy and reliable, 
+---
+will give you no problems.  
+---
+Next time.
 ---
 ## ESTHER:
 Mr. Marks?
 ---
 ## MARKS:
-Yes? (Esther wants to say something, but she can't quite find
-the words.) Is there — ?
+Yes?  
+---
+Is there...?
 ---
 ## ESTHER:
-No. No I'm sorry I can't do this. (Distraught.) I
-thought I'd be able to, but I can't. I can't come here anymore. I —
+No. 
+---
+No I'm sorry I can't do this. 
+---
+I thought could, 
+---
+but I can't. 
+---
+I can't come here anymore.
 ---
 ## MARKS:
-Why do you say this? Did I do something to offend, tell
-me, did I —
+Why do you say this? 
 ---
+Did I do something to offend, 
+---
+tell me, did I...
+---
+template: overlap
 ## ESTHER:
 No.
----
+
 ## MARKS:
-Then —
+Then 
 ---
 ## ESTHER:
-Please, I think you know why. (A moment.)
+Please, I think you know why. 
 ---
 ## MARKS:
-How many yards will you need for the gentleman's suit?
+How many yards will you need 
+---
+for the gentleman's suit?
 ---
 ## ESTHER:
-Four yards. The Scottish wool and if you would,
-please wrap the Valenciennes lace. (Crossfade to Mrs. Van Buren's
-boudoir. Light pours into her room.)
-Scene 3
-Rose Chemise
-Mrs. Van Buren 's boudoin Mrs. Van Buren sits on the bed
-cradling a snifter of brandy. She's upbeat, almost cheerfid
-Howeven Esther is distracted, consumed by her own thoughts.
+Four yards. 
+---
+The Scottish wool 
+---
+and if you would,
+---
+please wrap the Valenciennes lace. 
 ---
 ## MRS. VAN BUREN:
 He's gone to Europe.
@@ -4420,67 +4913,122 @@ He's gone to Europe.
 I'm sorry to hear that.
 ---
 ## MRS. VAN BUREN:
-You needn't be. It's a relief actually. Some
-business obligation, I don't expect to see him for months. He'll find
-ways of prolonging his stay, no doubt. Anyway, I'm considering a
-45
-visit with friends in Lenox this summer. It'll be good to escape the
-city. Don't you think? You could come, of course, I'll recommend
-your services to several women.
+You needn't be. 
+---
+It's a relief actually. 
+---
+Some business obligation, 
+---
+I don't expect to see him for months. 
+---
+He'll find ways of prolonging his stay, no doubt. 
+---
+Anyway, I'm considering a visit with friends 
+---
+in Lenox this summer. 
+---
+It'll be good to escape the
+city. 
+---
+Don't you think? 
+---
+You could come, of course, 
+---
+I'd recommend your services to several women.
 ---
 ## ESTHER:
-I thank you, but I can't. (Esther drapes the Valenciennes
-Lace over the bedpost.) Here. I found a strand of lace for your rose
-chemise. I know it ain't exactly what you wanted, but —
+I thank you, but I can't.  
+---
+Here's a strand of lace for your rose chemise. 
+---
+I know it ain't exactly what you wanted, but
 ---
 ## MRS. VAN BUREN:
-I had all but forgotten. I ordered it over four
-weeks ago. Four whole weeks. It's not like you to —
+I had almost forgot. 
 ---
+I ordered it over four
+weeks ago. 
+---
+Four whole weeks. 
+---
+template: overlap
+## MRS. VAN BUREN:
+It isn't like you to 
+
 ## ESTHER:
 I been busy.
 ---
 ## MRS. VAN BUREN:
-Oh? Indeed. How is our Mr. Armstrong?
+Oh? Indeed. 
+---
+How is our Mr. Armstrong?
 ---
 ## ESTHER:
-Good. Well, he good. Work scarce, and he so par-
-ticular. He wanting, but his pride make him idle. And I try, I do,
+Good. 
+---
+Well, he....good. 
+---
+Work scarce, and 
+---
+he just get real restless 
+---
+He idle, but his pride...
+---
+I try, I do, 
+---
 but he ain't really take to this city.
 ---
 ## MRS. VAN BUREN:
-But he will. I am certain. Oh Esther, it must
-be wonderful to be in love.
+But he will. 
+---
+I am certain. 
+---
+Oh Esther, it must be wonderful 
+---
+to be in love.
 ---
 ## ESTHER:
-I suppose. (A moment. Mrs. Van Buren quickly examines
-the lace, indifferent, she tosses it onto the bed. Esther bristles at her
-employer's lack of interest.)
+I suppose. 
 ---
 ## MRS. VAN BUREN:
-Is everything all right? •
+Is everything all right? 
 ---
 ## ESTHER:
 Yes.
 ---
 ## MRS. VAN BUREN:
-Such a long face so early in the day. I won't
-allow it. (Esther doesn't smile.) Come.
+Such a long face so early in the day. 
+---
+I won't allow it. 
+---
+Come.
 ---
 ## ESTHER:
-I'd like to settle matters. Please. You ain't paid me in
-two months and I need the money.
+I'd like to settle matters. 
+Please. 
+---
+You ain't paid me in two months 
+---
+and I need the money.
 ---
 ## MRS. VAN BUREN:
-Of course, I hadn't realized. (Mrs. Van Buren sits
-at her drasing table. Smiling to herself) You !wow whati I miss wridng
-our letters. I do! I've been absolutely without purpose for months.
+Of course, I hadn't realized.
 ---
+You kwow what, 
+---
+I miss writing our letters. 
+---
+I do! 
+---
+template: overlap
+## MRS> VAN BUREN:
+I've been absolutely without purpose 
+
 ## ESTHER:
-(Snaps.) Let's not talk about the letters!
+Let's not talk about the letters!
 ---
 ## MRS. VAN BUREN:
-(Surprised.) Fine, we won't.
+Fine, we won't.
 ---
 ## ESTHER:
 I'm sorry, Mrs. Van Buren.
@@ -4489,29 +5037,32 @@ I'm sorry, Mrs. Van Buren.
 Something is wrong.
 ---
 ## ESTHER:
-No. Nothing. (Esther sits on the edge of Mrs. Van Buren's
-bed. She carefully refolds the lace, attempting to bold back tears, but
-they come anyway)
+No. Nothing. 
 ---
 ## MRS. VAN BUREN:
 Esther, what is it?
 ---
 ## ESTHER:
-The other day George asked me to read a letter. I took it
-in my hand and I lied. I lie every day. And I'm a Christian woman.
-(Mrs. Van Buren takes Esther's hand and sits down on the bed next to her.)
+The other day George asked me to read a letter. 
+---
+I took it in my hand and I lied. 
+---
+I lie every day. 
+---
+And I'm a Christian woman.
 ---
 ## MRS. VAN BUREN:
-We do what we must, no? We are ridiculous
-creatures sometimes. (A moment.)
-46
+We do what we must, no? 
+---
+We are ridiculous creatures sometimes. 
 ---
 ## ESTHER:
 Do you love Mr. Van Buren?
 ---
 ## MRS. VAN BUREN:
-I am a married women, such a question is
-romantic.
+I am a married women, 
+---
+such a question is romantic.
 ---
 ## ESTHER:
 But I fear my love belongs someplace else.
@@ -4520,70 +5071,122 @@ But I fear my love belongs someplace else.
 And why is that?
 ---
 ## ESTHER:
-I shouldn't say. No, I can't. Perhaps I'm wrong.
+I shouldn't say. 
+---
+No, I can't. 
+---
+Perhaps I'm wrong.
 ---
 ## MRS. VAN BUREN:
-Perhaps not. (Mrs. Van Buren pull r Ether
-close and plants a kiss on Esther's lips. Either for a moment gives in to
-the sensation ofbeing touched, then abruptly pulls away Shocked.) I'm
-sorry. I didn't mean to do that. I'm sorry. Please don't go. I just
--wanted to show you what it's like to be treated lovingly.
+Perhaps not. 
+---
+I'm sorry. 
+---
+I didn't mean to do that. 
+---
+I'm sorry. Please don't go. 
+---
+I just wanted to show you 
+---
+what it's like to be treated lovingly.
 ---
 ## ESTHER:
-Don't say that. You don't love me.
+Don't say that. 
+---
+You don't love me.
 ---
 ## MRS. VAN BUREN:
-How do you know? Please. We will forget
-this and continue to be friends.
+How do you know? 
+---
+Please. 
+---
+We will forget this 
+---
+and we'll continue to be friends.
 ---
 ## ESTHER:
-Friends? How we friends? -When I ain't never been
-through your front door. You love me? What of me do you love?
+Friends? 
+---
+How we friends? 
+---
+When I ain't never been through your front door. 
+---
+You love me? 
+---
+What of me do you love?
 ---
 ## MRS. VAN BUREN:
-Esther, you are the only one who's been in
-my boudoir in these months. And honestly, it's only in here with
-you, that I fed happy. Please, I want us to be friends?
+Esther, you are the only one 
+---
+who's been in my boudoir in all these months. 
+---
+And honestly, 
+---
+it's only in here with you, 
+---
+that I feel happy. 
+---
+Please, I want us to be friends?
 ---
 ## ESTHER:
 I'm sorry. I can't.
 ---
 ## MRS. VAN BUREN:
-(Screams.) Coward! (A moment.) I'm sorry.
-(Mrs. Van Buren digs into her dressing-table drawer and produces
-watt of money. She tosses the money on the bed.) There.
+Coward! 
+---
+I'm sorry.
+---
+template: noise
+drawer opening
+---
+There.
 ---
 ## ESTHER:
-I'm not the coward. (Esther picks up the money Cros9cade
-to Mayme's boudoir. Marne plays a slow, seductive rag. George enters,
-he watches Maynze gracefislly regard the instrument. He places money
-on top oft& piano, then stntddles the piano bench behind Mayne. He
-kisses her neck and cups her breasts in his hands. Crossfade to Esther's
-boudoir. Esther sits alone, waiting. Crossfizde to Mayme's boudoir.)
-47
-Scene 4
-Gentleman's Suit
-Mayme's boudoir. Esther enters. Mayme is dressed in a red
-flowing dressing gown and bubbles over with excitement.
+I'm not the coward. 
+---
+template: music
+piano playing
+---
+template: music
 ---
 ## MAYME:
-I've saved up every penny I have. It's been two months
-and I want something new, Esther. Simple, this time, without all
-the pronouncement. Something a young gal might wear on her
+I've saved up every penny I have. 
+---
+It's been two months 
+---
+and I want something new, Esther. 
+---
+Simple, this time, 
+---
+without all the pronouncement. 
+---
+Something a young gal might wear 
+on her 
+---
 wedding night.
 ---
 ## ESTHER:
-Wedding night? What ain't I heard? I don't believe those
-words got any place in your mouth.
+Wedding night? 
+---
+What ain't I heard? 
+---
+I don't believe those words 
+---
+got any place in your mouth.
 ---
 ## MAYME:
 Seriously.
+[laughing]
 ---
 ## ESTHER:
-What's going on? C'mon, are you gonna tell me?
+What's going on?
+---
+C'mon, are you gonna tell me?
 ---
 ## MAYME:
-It ain't nothing really. A fella, perhaps.
+It ain't nothing really. 
+---
+A fella, perhaps.
 ---
 ## ESTHER:
 I thought you didn't feel nothing for these fools.
@@ -4595,20 +5198,69 @@ Nothing ain't never felt so good.
 Who is he?
 ---
 ## MAYME:
-He ain't nobody really, but he real sweet. Like a schoolboy
-almost. We call him Songbird, 'cause he sing to speak. He come in
-like all them others. Hands crude and calloused, a week's wage in
-his pocket. But when we done I didn't want him to leave and I
-asked him to have a drink. Fool drunk up all my liquor, but it ain't
-bother me. In Fact I was &in' to run out and git some more, but he
-placed his hands around my waist, real gentle and pulled me close.
-I actually wanted him to kiss me, I didn't even mind his sour tongue
-in my mouth, I wanted him there, inside me. He ain't like a lot of
-the colored men who pass through here with anger about their
-touch. He a gentleman. Comes three times a week on schedule like
-the iceman. He was here last night until midnight, but he don't ever
-stay later. He just leaves his scent, which lingers until two A.M. or
-three, and I tie awake until it disappears.
+Well, he ain't nobody really, 
+---
+but he real sweet. 
+---
+Like a schoolboy almost. 
+---
+We call him Songbird, 'cause he sing to speak.
+---
+He come in like all them others. 
+---
+Hands crude and calloused, 
+---
+a week's wage in his pocket. 
+---
+But when we done I didn't want him to leave 
+---
+so I asked him to have a drink. 
+---
+Fool drunk up all my liquor, 
+---
+but it ain't bother me none. 
+---
+In fact, I was fixin' to run out and git some more, 
+---
+but he put his hands around my waist, 
+---
+real gentle and pulled me close.
+---
+I actually wanted him to kiss me,
+[laughing] 
+---
+I didn't even mind his sour tongue
+in my mouth, 
+---
+I wanted him there, 
+---
+inside me.
+[laughing] 
+---
+He ain't like a lot of the colored men 
+---
+who pass through here  
+---
+anger about their touch. 
+---
+Naw, he a gentleman. 
+---
+Comes three times a week 
+---
+on schedule like the iceman. 
+---
+He was just here last night until midnight, 
+---
+only he don't ever stay later. 
+---
+He just leaves his scent, 
+---
+which lingers until two A.M. or
+three, 
+---
+and just I lie awake 
+---
+until it disappears.
 ---
 ## ESTHER:
 He sounds wonderful.
@@ -4618,16 +5270,28 @@ Yeah, I reckon.
 ---
 ## ESTHER:
 What?
-48
 ---
 ## MAYME:
-Whatcha think? He got a wife. Yeah. A rich wife. But
-she troubles him, he say. Troubles him to no end. You should hear
-him go on about this poor gal. Made me feel bad for her.
+Whatcha think? 
+---
+He got a wife. 
+---
+Yeah. A rich one. 
+---
+Troubles him, he say. 
+---
+Troubles him to no end. 
+---
+You should hear him go on about this poor gal. 
+---
+Made me feel bad for her.
 ---
 ## ESTHER:
-She terrible, I'm sure. But just the same, you on uneasy
-ground.
+She terrible, I'm sure. 
+---
+But just the same, 
+---
+you on uneasy ground.
 ---
 ## MAYME:
 You find it shocking?
@@ -4636,11 +5300,26 @@ You find it shocking?
 Yes, I find it shocking.
 ---
 ## MAYME:
-Hush your mouth, you wouldn't understand. You want
-to see what my songbird give me? (Mayme pulls George's Japanese
-smoking jacket from beneath her pillow. She displays it proudly.) And
-you know me, I don't usually take gifts from men, but when he give
-me this, it took my breath away. It's so pretty. Look Esther. Feel it.
+Hush your mouth, 
+---
+you wouldn't understand. 
+---
+Oh, you want to see what my songbird give me? 
+---
+---
+And you know, 
+---
+I don't usually accept gifts from men,
+---
+but when he give me this, 
+---
+Wha, it took my breath away. 
+---
+It's so pretty. 
+---
+Look Esther. 
+---
+Feel it.
 ---
 ## ESTHER:
 He give you this?
@@ -4649,79 +5328,140 @@ He give you this?
 Yup.
 ---
 ## ESTHER:
-He must like you a bunch to give you something so fine.
+He must like you a bunch 
+---
+to give you something so fine.
 ---
 ## MAYME:
-What can I tell you, the man got taste, honey.
+What can say, 
+---
+the man got taste, honey.
 ---
 ## ESTHER:
-I've only seen fabric like this just once before. It's
-Japanese silk.
+I only seen fabric like this just once before. 
+---
+It's Japanese silk.
 ---
 ## MAYME:
-How'd you know?
+How you know?
 ---
 ## ESTHER:
-It's expensive fabric. Very hard to find. You see the
-pictures were embroidered by an imperial artist, he signed it there.
+It's expensive fabric. 
+---
+Very hard to find. 
+---
+You see the pictures were embroidered 
+---
+by an imperial artist, 
+---
+he signed it there.
+---
 He give you this?
 ---
 ## MAYME:
-He say I his gal. But this time a little part of me is hoping
-he telling the truth.
+He say I his gal. 
+---
+Only this time a little part of me 
+---
+is hoping he telling the truth.
 ---
 ## ESTHER:
-And what about his wife?
+What about his wife?
 ---
 ## MAYME:
-What about her? I'm sure she just a sorry gal.
+What about her? 
+---
+I'm sure she just a sorry gal.
 ---
 ## ESTHER:
-How you know she ain't a good person? And he just
-saying what you want to hear. That his words are a smooth tonic to
-make you give out what ain't free. How you know his wife ain't good?
+How you know she ain't good? 
+---
+That he just saying what you want to hear. 
+---
+That his words are a smooth tonic 
+---
+to make you give out what ain't free. 
+---
+How you know his wife ain't good?
 ---
 ## MAYME:
-I don't know. But do it matter?
+I don't know. 
+---
+But do it matter?
 ---
 ## ESTHER:
-Yeah it do. You ever think about where they go after
-they leave here? Who washes their britches after they been soiled in
-your bed?
+Yeah it do. 
+---
+You ever think about where they go 
+---
+after they leave here? 
+---
+Who washes their britches 
+---
+after they been soiled in your bed?
 ---
 ## MAYME:
-No, I don't actually. Why would I?
+No, I don't actually. 
+---
+Why would I?
 ---
 ## ESTHER:
 'Cause there's some poor woman out there waiting,
-getting up every five minutes, each time a carriage pass the window
-or a dog bark Who thinks a great deal of her husband, thinks so
-much of him that she don't bother to ask questions, she just know
-that there are places that he go that gentlewomen don't belong.
+---
+getting up every five minutes, 
+---
+each time a carriage pass the window
+---
+or a dog bark.
+---
+Who thinks a great deal of her husband, 
+---
+thinks so much of him 
+---
+that she don't bother to ask questions, 
+---
+she just know that there are places 
+---
+that he go that gentlewomen don't belong.
 ---
 ## MAYME:
 I don't want to hear it.
-49
 ---
 ## ESTHER:
-She thinks he's playing cards or simply restless. But still
-when the door opens and he lies down next to her, that poor stupid
-woman don't feel angry, because his body is warm and she ain't alone.
+She thinks he's playing cards or simply restless. 
+---
+But still when the door opens and he lies down next to her, 
+---
+that poor stupid woman don't feel angry, 
+---
+because his body is warm and she ain't alone.
 ---
 ## MAYME:
-What?! You troubled because he married? They all
-married. You ain't completely clean of this business. Truth. No, I
-don't care to think about those women. I don't care to think about '
-the kind of lives that keep them sitting in their windows, worrying
-while their husbands —
+What?! 
+---
+You troubled because he married? 
+---
+They all married. 
+---
+You ain't completely clean of this business. 
+---
+Truth. 
+---
+No, I don't care to think about them women. 
+---
+I don't care to think about the kind of lives 
+---
+that keep them sitting in their windows, 
+---
+worrying while their husbands 
 ---
 ## ESTHER:
-I pity your heart. You are the worst sort of scavenger.
-(Lights rise on George and Esther's boudoir. George stands in a
-brand-new suit.)
+I pity your heart. 
+---
+You are the worst sort of scavenger.
 ---
 ## MAYME:
-What's the matter with you?
+What's wrong wit you?
 ---
 ## ESTHER:
 I don't feel so good. That's all.
@@ -4730,53 +5470,119 @@ I don't feel so good. That's all.
 I thought you'd be happy for me.
 ---
 ## ESTHER:
-I think I'm gonna go home, if you don't mind. (Lights
-cross ide. Esther and George's  boudDir George stands in a new wool suit.)
+I think I'm gonna go home, 
 ---
+if you don't mind. 
+---
+template: noise
 ## GEORGE:
-Yuh t'ink I'd be taken for a Yankee gentleman? I do
-t'ink so, no? I'd like one them tall hats, whatcha call 'em? Like that
-fella across the way, yuh know, the one always be talkin' about 'e rich
-brother in Chicago. (Affecting an American accent.)Yes, sir my name
-George Armstrong and I from New York, yes sir, born here. (George
-laughs.) It fit real nice. But, it seem to me that the fellas be wearin'
-shorter jackets with. a touch of color. (Esther pins Geb;ge's pants.)
+whistle
+---
+## GEORGE: 
+Ooooo, Ah!
+---
+Yuh t'ink I'd be taken for a Yankee gentleman? 
+---
+I do think so, no? 
+---
+I'd like one them tall hats, 
+---
+whatcha call 'em? 
+---
+Like that fella across the way, 
+---
+yuh know, 
+---
+the one always be talkin' 
+---
+about 'e rich brother in Chicago. 
+---
+Yes, sir my name George Armstrong 
+---
+and I from New York, 
+[laughing]
+---
+oh, yes sir, born here. 
+---
+It fit real nice. 
+---
+But, it seem to me that 
+---
+the fellas be wearin' shorter jackets 
+---
+with a touch of color. 
 ---
 ## ESTHER:
-Sporting fellas, they ain't gentlemen. This Scottish
-wool. It white-folk quality and it'll keep you warm through the
-winter. There is a lovely story —
+Sporting fellas, 
+---
+ain't gentlemen. 
+---
+This Scottish wool. 
+---
+It white-folk quality 
+---
+it'll keep you warm through the
+winter. 
+---
+There is a lovely story 
 ---
 ## GEORGE:
-Yeah? I'm sure it excitin'. (Esther runs her hands down
-Gemge's legs, then adjusts the hem. He does not respond to her touch.)
+Yeah? 
+---
+I'm sure it excitin'. 
 ---
 ## ESTHER:
-Be that way, I won't tell it then. There. You look good,
-George. Really. Now take off the pants so I can hem them proper.
+Be that way, I won't tell it then. 
+---
+There. 
+---
+You look good. 
+---
+Really, George. 
+---
+Now take off the pants 
+---
+so I can hem them proper.
 ---
 ## GEORGE:
-Nah, don't bother. I need them for this evenin'.
+Nah, don't bother. 
+---
+I need them for this evenin'.
 ---
 ## ESTHER:
-This evening? Why? Don't go out. I bought fresh pork
-chops from Mrs. Franklin's son. I was gonna smother them in onions,
-the way you like. But it ain't worth the trouble if you ain't gonna
-eat. And and I have something for you, I was going to save it for
-later but (A moment.) Do you want to see?
+This evening? Why? 
+---
+Don't go out. 
+---
+I bought fresh pork chops from Mrs. Franklin's son. 
+---
+I was gonna smother them in onions,
+---
+the way you like. 
+---
+But it ain't worth the trouble 
+---
+if you ain't gonna eat. 
+---
+And and I have something for you, 
+---
+I was going to save it for later 
+---
+but do you want to see?
 ---
 ## GEORGE:
-(Excited.) Sure.
+Sure.
 ---
 ## ESTHER:
-Close your eyes. C'mon. And don't smile. (George closes
-his eyes. Esther puts a rose in her hair and a touch cf color on her lips.
-She nervously slips °fiber dress, revealing an elaborate coact similar to
-50
-Mayme's.) You can open your eyes. (Esther awkwardly poses, awaiting
-George's reaction. His disappointment is palpable. He clearly was
-expecting something else. George chuckles to himself with a mixture
-of amusement and disgust.)
+Close your eyes. 
+---
+C'mon. 
+---
+---
+Don't smile. 
+---
+---
+Open your eyes. 
 ---
 ## GEORGE:
 What yuh doing?
@@ -4785,140 +5591,277 @@ What yuh doing?
 Don't you like it?
 ---
 ## GEORGE:
-Come, put yuh dothin' on.
+Come, put yuh clothin' on.
 ---
 ## ESTHER:
-What's the matter? Ain't this to your liking? Ain't this
-what you want? (Esther places George's hands around her waist.) Feel
-it. It satin. See.
+What's the matter? 
+---
+Ain't this to your liking? 
+---
+Ain't this what you want? 
+---
+Feel it. 
+---
+It satin. See.
 ---
 ## GEORGE:
-No, don't do this Esther. C'mon, this aid yuh. 'Ear.
+No, don't do this Esther. 
+
+C'mon, this ain't yuh. 'Ear.
 ---
 ## ESTHER:
-(Timidly) If I ain't mistaken, a man has certain obliga-
-tions. (A moment.) Why won't you touch me? (A moment.)
+If I ain't mistaken, 
+---
+a man has certain obligations.  
+---
+Why won't you touch me? 
 ---
 ## GEORGE:
 You want me to touch yuh?
 ---
 ## ESTHER:
-Yes. (George grabs Ea-her around the waist. He plants a
-heavy hard kiss on her mouth. She nevertheless succumbs to his touch.)
+Yes. 
+---
 ---
 ## GEORGE:
-Like so? You want me to touch you. That all you want
-of George? You want me to bend and please, so you can feel mighty.
-No. (George pushes Esther away.) 'Least in Panama a man know
-where 'e stand. 'E know 'e chattel. That as long as 'e have a goat 'e
-happy. 'E know when 'e drunk, 'e drunk and there aid no judgment
-if so. But then 'e drink in words of this woman. She tell 'e about the
-pretty avenues, she tell 'e plentiful. She fill up 'e head so it 'ave no
-taste for goat milk. She offer 'e the city stroke by stroke. She tantalize
-'e with Yankee words. But 'e not find she. Only this woman 'ere, that
-say touch me, George. And ask 'e to lie down on what she promise,
-lie down on 'e stable with a dozen strong horses for the work sites,
-ask 'e to lie down as they haul lumber and steel. Strong sturdy
-beasts. They are. 'E lie down, but what 'e get? No, he ain't gonna lie
-down no more.
+Like so? 
+---
+You want me to touch you. 
+---
+That all you want of George? 
+---
+You want me to bend and please, 
+---
+so you can feel mighty.
+---
+No. 
+---
+'Least in Panama a man know
+where he stand. 
+---
+He know he chattel. 
+---
+That as long as he have a goat he
+happy. 
+---
+He know when he drunk, 
+---
+He drunk and there ain't no judgment
+if so. 
+---
+But then he drink the words of this woman. 
+---
+She tell him bout the pretty avenues, 
+---
+she tell him plentiful. 
+---
+She fill up he head so he have no
+taste for goat milk. 
+---
+She offer he the city stroke by stroke. 
+---
+She tantalize he with Yankee words. 
+---
+But he not find she. 
+---
+Only this woman here, 
+---
+that say touch me, George. 
+---
+And ask he to lie down on what she promise,
+---
+lie down on the stable 
+---
+with a dozen strong draft horses for the work sites,
+---
+ask he to lie down as they haul lumber and steel. 
+---
+Strong sturdy beasts. 
+They are. 
+---
+He lie down, but what he get? 
+---
+No, he ain't gonna lie down no more.
 ---
 ## ESTHER:
-Stop it. Why you talking this way?
+Stop it. 
+---
+Why you talking this way?
 ---
 ## GEORGE:
-I t'ink yuh know. (A moment. George eyes the quilt.)
+I t'ink yuh know.
 ---
 ## ESTHER:
 No. Please don't ask me again.
 ---
 ## GEORGE:
 But it there dreamin' a fine fine house wit it own yard.
-It taunt 'e so, 'e can't even show what kind of man 'e be. -What 'e
-hands can do.
+---
+It taunt he so, 
+---
+he can't even show what kind of man he be. 
+---
+What he hands can do.
 ---
 ## ESTHER:
-No. That half my life. Thousands of tiny stitches and
-yards of fabric passed through that old machine.
+No. That half my life. 
+---
+Thousands of tiny stitches 
+---
+and yards of fabric passed through that old machine.
 ---
 ## GEORGE:
-And for what, huh? For it sit?
+And for what, huh? 
+---
+For it sit?
 ---
 ## ESTHER:
 No.
-5 I
 ---
 ## GEORGE:
-Stop sayin' no! Ain't you see. If 'e own wife ain't
-to believe in 'e, who will? 'E stand in work lines that wind around
-city blocks. But 'e don't have to no more, 'cause 'e know a fella got
-twelve draft horses and want to sell them quick quick. And 'e buy
-them and in two years, they'll have enough money for a beauty parlor
-even. They'll have the finest stable in New York City. People'll tip
-their hats and pay tribute. They'll call them Mr. and Mrs. Armstrong.
-The Armstrongs. Them church ladies will clear the front row just for
-them. And 'e will —
+Stop sayin' no! 
+---
+---
+Ain't you see. 
+---
+If he own wife ain't willin' to believe in he, who will? 
+---
+He stand in work lines that wind around city blocks. 
+---
+But he don't have to no more, 
+---
+'cause he know a fella got
+twelve draft horses 
+---
+and want to sell them quick quick. 
+---
+And he buy them 
+---
+and in two years, 
+---
+they'll have enough money for a 
+---
+beauty parlor even. 
+---
+They'll have the finest stable in New York City. 
+---
+People'll tip their hats and pay tribute. 
+---
+They'll call them Mr. and Mrs. Armstrong.
+---
+The Armstrongs. 
+---
+Them church ladies will clear the front row just for them. 
+---
+And he will 
 ---
 ## ESTHER:
-(Wants to believe him.) He will what?
+He will what?
 ---
 ## GEORGE:
-'E will sit with she and nod graciously to the ladies. 'E
-will come home for supper every evenin'. (Seductively) 'E will lie
-with she.
+He will sit with she 
+---
+and nod graciously to the ladies. 
+---
+He will come home for supper every evenin'. 
+---
+He will lie with she.
 ---
 ## ESTHER:
-Only she? (George strokes Esther' back tenderly, she savors
-his touch. He kisses her neck, her back, her shoulders, her breasts. He
-embraces her, almost too much so. Esther nevertheless surrenders to the
-unexpected affection) Are you telling me the truth? Is this the truth?
+Only she? 
+---
+template: noise
+kissing sounds
+---
+Are you telling me the truth? 
+---
+Is this the truth?
 ---
 ## GEORGE:
-Yesb
+Yes
 ---
 ## ESTHER:
-Please, you're not just saying that. You're not laughing
-at me are you?
+Please, you're not just saying that. 
+---
+You're not laughing at me are you?
 ---
 ## GEORGE:
-No, I am' laughid. (Finally, Esther break the embrace.
-She hesitates, then tears into the quilt, wrenching it apart with her
-bare bands. She pulls the money out and examines it, before placing it
-in George's outstretched bands)
+No, I ain't laughin. 
+---
+---
+template: noise
+cutting and crumpling of money
 ---
 ## ESTHER:
-There. Mere. There. (She's almost relieved to be shedding
-the money. Swprised, George smiles and gathers the money into a pile.)
+There. 
+---
+There. 
+---
+There. 
 ---
 ## GEORGE:
-So much 'ere. Sweet mercy, look at it all. Good lord,
-that fella am' gonna believe it. I gonna place the money square in 'e
-hand, wipe that silly Yankee grin off 'e lips. I show 'e.
+[laughing]
+So much 'ere. 
+---
+Sweet mercy, 
+----
+look at it all. 
+---
+That fella ain't gonna believe it. 
+---
+I gonna place the money square in he
+hand, 
+---
+wipe that silly Yankee grin off he lips. 
+---
+I show he.
+[laughing]
 ---
 ## ESTHER:
-George, it's late, you ain't gotta do this now put it
-back. It'll still be there in the morning.
+George, it's late, 
+---
+you ain't gotta do this now 
+---
+put it back. 
+---
+It'll be there in the morning.
 ---
 ## GEORGE:
 Woman, how yuh get so much?
 ---
 ## ESTHER:
-Leave it. Come. George, I said put it.back, it'll be there
-in the morning! (Esther beckons him to the bed He looks at her
-pleading outstretched hand, but instead chooses to fetch a worn bagfor
-the wrinkled money Esthen humiliated, studies her husband with
-growing horror. Aghast, she slowly lowers her hand and pulls on her
-dress.) George? (Geoge continues to take unbridled delight in the
-money.) Geo rge?
+Leave it. 
+---
+Come. 
+---
+George, 
+---
+George, I said put it back, 
+---
+it'll be there in the morning! 
 ---
 ## GEORGE:
-(Snaps.) What?
-52
+[laughing]
 ---
 ## ESTHER:
-(Whi3pered.) Do you love me?
+George?  
+---
+George?
+---
+George?
+---
+George?
 ---
 ## GEORGE:
-What the matter wit' you? You look as though you
+What?
+---
+## ESTHER:
+Do you love me?
+---
+## GEORGE:
+What the matter wit' you? 
+---
+You look as though you
 seen a duppy.
 ---
 ## ESTHER:
@@ -4931,73 +5874,147 @@ Why yuh look at me strange?
 I asked you something.
 ---
 ## GEORGE:
-Yuh my wife, ain't
+Yuh my wife, ain't yuh.
 ---
 ## ESTHER:
-Am I? (Whispered.) I didn't write them letters.
+Am I?  
+---
+I didn't write them letters.
 ---
 ## GEORGE:
-I didn' hear what yuh said.
+I didn't hear what yuh said.
 ---
 ## ESTHER:
-(Louder, almost too much so.) I said I didn't write them
-letters. (George studies Esther with disbelief)  All this rime I was
-afraid that you'd find me out. This good noble man from Panama.
-(Esther retrieves a pile of letters tied with a satin ribbon.) I have all of
-your letters here. I look at them every day. I have one that looks as
-though it's weeping, because the words fade away into nothing, and
-another that looks as if it's been through a hard day, because there's
-a smudge of dirt at each corner, and it smells of kerosene and burnt
-sugar. But I can't tell you what it say, because I don't read. I can't tell
-whether there are any truths, but I keep them, 'cause George give me
-his heart, though it covered in mud and filthy, but he give it to me in
-one of these letters. And I believed him. I believed him! (A moment.)
-But you ain't the man in these letters, because that gentleman would
-have thanked me. 'Who wrote them letters, George? Tell me! (George
-considers.) YOU TELL ME!
+I said I didn't write them
+letters.  
+---
+All this time I was afraid that you'd find me out. 
+---
+This good noble man from Panama. 
+---
+I have all of your letters here. 
+---
+template: noise
+letters shuffling
+---
+I look at them every day. 
+---
+I have one that looks as though it's weeping, 
+---
+cause the words fade away into nothing,
+---
+and another that looks as if it's been through a hard day,
+---
+because there's a smudge of dirt at each corner, 
+---
+and it smells of kerosene 
+---
+and burnt sugar. 
+---
+But I can't tell you what it say, because I don't read. 
+---
+I can't tell whether there are any truths, 
+---
+but I keep them, 'cause George give me his heart, 
+---
+though it covered in mud and filthy, 
+---
+but he give it to me in one of these letters. 
+---
+And I believed him. 
+---
+I believed him! 
+---
+But you ain't the man in these letters, 
+---
+because that gentleman would have thanked me. 
+---
+'Who wrote them letters, George? 
+---
+Tell me!  
+---
+YOU TELL ME!
+---
 ---
 ## GEORGE:
-An old mulatto man. I paid him ten cents for each letter,
-ten cents extra for the fancy writing.
+An old mulatto man. 
+---
+I paid him ten cents for each letter,
+---
+and ten cents extra for the fancy writing.
 ---
 ## ESTHER:
-I ain't really Mrs. Armstrong, am I? I been holding on
-to that, and that woman ain't real. We more strangers now than on
-the eve of our wedding. At least I knew. who I was back then. But I
-ain't gonna let you hurt that woman. No! She's a good decent woman
-and worthy. Worthy!
+I ain't really Mrs. Armstrong, 
+---
+am I? 
+---
+I been holding on to that, 
+---
+and that woman ain't real. 
+---
+We more strangers now than on
+the eve of our wedding. 
+---
+At least I knew who I was back then. 
+---
+But I ain't gonna let you hurt that woman. 
+---
+No! She's a good decent woman
+and worthy. 
+---
+Worthy!
 ---
 ## GEORGE:
-Esther! (George reaches out to Esther)
+Esther! 
 ---
 ## ESTHER:
-No, don't touch me! (Esther backs away from George.)
+No, don't touch me! 
 ---
 ## GEORGE:
-Please. I am' a thief. No. They wam't my words, but
-that don't mean I ain't feel them eings. I go now, and I gonna bring
-yuh back them horses.
+Please. I ain't a thief. 
+---
+No. They weren't my words, 
+---
+but that don't mean I ain't feel them things. 
+---
+I go now, 
+---
+and I gonna bring yuh back them horses.
 ---
 ## ESTHER:
 I hope they real strong horses.
 ---
+---
 ## GEORGE:
-You'll see. And, we'll begin here. (Lights crossfide.
-Mayme's boudoir. Ragtime music plays, fast and fitrious.)
-53
-Scene 5
-Smoking Jacket
-Mayme's boudoir. Mayme is lying on the bed wrapped in the
-Japanese smoking jacket. She sits up, pours herself a shot of
-moonshine and slams it back. A knock sounds on the doon
+You'll see. 
+---
+And, we'll begin here. 
+---
+template: music
+---
+template: noise
+## MAYME:
+humming
+---
+template: noise
+knocking
 ---
 ## MAYME:
-Hold on, hold on. (Mayme opens the door. Esther, calm,
-enters. Mayme's unable to disguise her surprise.) Esther. What I got
-someone coming shortly. You can't stay. (Mayme nervously wraps the
-robe around her body.) I can't put him off. You understand. Come
-back later and we'll catch up. (Esther grabs Mayme's arm.) What's
-wrong? (Esther gathers her strength.)
+Hold on, hold on.  
+---
+Esther. 
+---
+What I got someone coming.
+---
+You can't stay. 
+---
+I can't put him off. 
+---
+You understand. 
+---
+Come back later and we'll catch up. 
+---
+What's wrong?
 ---
 ## ESTHER:
 He gone.
@@ -5015,13 +6032,15 @@ You ain't serious.
 He has another woman.
 ---
 ## MAYME:
-How do you know?
+How you know?
 ---
 ## ESTHER:
-She told me so.
+She told me.
 ---
 ## MAYME:
-She did? Well, she must be a cruel heartless heifer.
+She did? 
+---
+Well, she must be a cruel heartless heifer.
 ---
 ## ESTHER:
 You think so?
@@ -5030,11 +6049,23 @@ You think so?
 Yes.
 ---
 ## ESTHER:
-But, she ain't. When I left home this morning I intended
-to do harm to his whore. I was going to march into her room and
-scratch her face with my scissors. I was going to scar her. Make
-her ugly. Make her feel what I'm feeling. But, she gonna know
-soon enough.
+But, she ain't.
+---
+When I left home this morning 
+---
+I intended to do harm to his whore. 
+---
+I was going to march into her room 
+---
+and scratch her face with my scissors. 
+---
+I was going to scar her. 
+---
+Make her ugly. 
+---
+Make her feel what I'm feeling. 
+---
+But, she gonna know soon enough.
 ---
 ## MAYME:
 You gotta go now.
@@ -5043,242 +6074,401 @@ You gotta go now.
 No.
 ---
 ## MAYME:
-Please, we'll talk about it later. I got someone coming.
+Esther please, I got someone coming. 
+---
+we'll talk later.
 ---
 ## ESTHER:
-Do you know what I done? I tore a hole in my quilt and
-give him my beauty parlor. Half my life bent at the machine, and I
-give it to him, just like that.
+Do you know what I done? 
+---
+I tore a hole in my quilt 
+---
+and give him my beauty parlor. 
+---
+Half my life bent at the machine, 
+---
+and I give it to him, 
+---
+just like that.
 ---
 ## MAYME:
-Oh, Esther. Why?
-54
+Oh, Esther. 
+---
+Why?
 ---
 ## ESTHER:
-I wanted to be held. (Distracted.) I thought if He ain't
-come home last night. I sat at the sewing machine all night, trying
-to make something, I just kept sewing together anything I could
-find until I had a strip a mile long, so long it fill up the apartment.
-(A moment. Mayme runs herfingers along the fabric of the jacket.) Do
-you know where he is, Mayme?
+Because I wanted to be held. 
+---
+I thought if 
+[crying]
+---
+he did't come home last night. 
+---
+I sat at the sewing machine all night long, 
+---
+trying to make something, 
+---
+I just kept sewing together anything I could find 
+---
+until I had a strip a mile long, 
+---
+so long it fill up the apartment. 
+---
+Do you know where he is, Mayme?
 ---
 ## MAYME:
-Why would I know?
+How would I know?
 ---
 ## ESTHER:
-Because you're wearing the jacket I give him on our
-wedding night.
+Because you're wearing the jacket 
+---
+that I give him on our wedding night.
 ---
 ## MAYME:
-How come you ain't say nothing before? (Mayme, honfieeZ
-TipS off the jacket.)
+OH! How come you ain't say nothing before? 
 ---
 ## ESTHER:
 What am I gonna say?
 ---
+--
 ## MAYME:
-Yeah, yeah. Last night Songbird come around the saloon
-in a new suit with bottomless pockets, throwing dice all night, and
-boasting of easy money. I ask him where he got the money and he
-say his luck turn and he was gonna ride it out. If you can imagine
-that. He was gonna buy himself draft horses. The world changing
-and he wants big strong horses. He made me laugh. He promised
-to take me out someplace special, but I didn't have nothing nice to
-wear. And honestly it made me think about how long it been since
-I done something for myself. Gone someplace like you said, where
-a colored woman could go to put up her feet and get treated good
-for a change. And I see the dice rolling, and I think Lord, God,
-wouldn't a place like that be wonderful. But every time the dice
-roll, that place is a little further away. Until it all gone. And then I
-put my arms around this man, and I know who he is. He George.
-And maybe I known all along.
+Yeah, yeah. 
+---
+Last night Songbird come around the saloon 
+---
+in a new suit with bottomless pockets, 
+---
+throwing dice all around, 
+---
+boasting of easy money. 
+---
+I ask him where he get the money from
+---
+and he say his luck turn 
+---
+and he was gonna ride it out. 
+---
+If you can imagine that. 
+---
+He said he wanted draft horses. 
+---
+The world changing
+---
+and he wants big strong horses. 
+---
+He made me laugh. 
+---
+He promised to take me someplace special, 
+---
+and I ain't have nothing nice to
+wear. 
+---
+And honestly it made me think about
+---
+how long it been since I done something for myself. 
+---
+Gone someplace like you said, 
+---
+where a colored woman could 
+put up her feet 
+---
+and get treated good for a change. 
+---
+And I see the dice rolling, 
+---
+and I think Lord, God, 
+---
+wouldn't a place like that be wonderful. 
+---
+And the more those dice roll, 
+---
+that place get a little further away. 
+---
+Until it all gone. 
+---
+I put my arms around this man, 
+---
+and I know who he is. 
+---
+He George.
+---
+And uh maybe I known all along.
 ---
 ## ESTHER:
 Why didn't you stop him?
 ---
 ## MAYME:
-Because, he belong to me as well. (Mayme places it in
-Esther's hands.) But this yours.
+Because, he belong to me as well. 
+---
+But this yours.
 ---
 ## ESTHER:
 Foolish country gal.
 ---
 ## MAYME:
-No, you are grand, Esther. And I ain't worthy of your
-forgiveness, nor will forget what you done for me. You ain't never
-treat me like a whore. Ever. (George knocks on doon)
+No,Esther. You grand.
+---
+And I ain't worthy of your
+forgiveness, 
+---
+nor will forget what you done for me. 
+---
+You never treated me like a whore. 
+---
+Ever. 
+---
+template: noise
+knocking
 ---
 ## ESTHER:
-Please don't answer that door. (Gene rattles door and
-knocks.) Please don't, please don't answer.
+Please don't answer that door. 
+---
+Please don't, please don't answer.
 ---
 ## MAYME:
 He's going to leave.
 ---
 ## GEORGE:
-(Knocks and rattles door more urgently, shouts.) Mayme!
-(He rattles door again.)
+Mayme!
 ---
 ## ESTHER:
-LET HIM GO! (Mayme moves toward the door, Esther
-55
-grabs her arm.) Let him go. He ain't real, he a duppy, a spirit. We
-be chasing him forever. (George knocks and rattles door even more
-persistenv. Eventually he stops. Silence. Mayme sits on her bed. Esther
-exits with the smoking jacket. Crossfiide to Mr. Mark's boudoir, as
-Esther moves into Mr. Mark's boudoir.)
-Scene 6
-Japanese Silk
-Marks' boudoir. Mr. Marks unfurlc a roll of ocean-blue fabric.
-As he turns, he finds himseffacing Esther.
+LET HIM GO! 
+---
+Let him go. 
+---
+He ain't real, 
+---
+he a duppy, a spirit. 
+---
+We be chasing him forever.
+---
+template: noise
+knocking
+---
+template: noise
+door knob rattling
+---
+template: noise
+knocking
+---
+template: music
+---
 ---
 ## ESTHER:
 Hello, Mr. Marks.
 ---
 ## MARKS:
-(Surprised.) Miss Mills, I'm sorry, Mrs. Armstrong. How
-have you been?
+Miss Mills, 
+---
+I'm sorry, Mrs. Armstrong. 
+---
+How have you been?
 ---
 ## ESTHER:
-I seen worse days. And you?
+I seen worse days. 
+---
+And you?
 ---
 ## MARKS:
-I've seen better days. (He laughs.)
+I've seen better days.
 ---
 ## ESTHER:
-I've been meaning to stop in. I walked past here a half
-dozen times trying to get up the courage to come in. You remember
-you sold me a rather special length of fabric some time ago.
+I've been meaning to stop in. 
+---
+I past by a half dozen times 
+---
+trying to get up the courage to come in. 
+---
+You sold me a rather special 
+---
+length of fabric some time ago.
 ---
 ## MARKS:
 Please, remind me.
 ---
+template: overlap
 ## ESTHER:
-Japanese silk, with —
+Japanese silk, with the
+
+## MARKS:
+Yeah, of course, I remember it.
+---
+## ESTHER:
+Well, I made it into a man's smoking jacket, 
+---
+at your suggestion.
+---
 ---
 ## MARKS:
-Of course, I remember it.
+It is very nice, 
 ---
-## ESTHER:
-Well, I made it into a man's smoking jacket, at your
-suggestion. (She holds it up.)
----
-## MARKS:
-It is very nice, it will please your husband, I'm sure.
+it will please your husband, I'm sure.
 ---
 ## ESTHER:
 I want you to have it.
 ---
 ## MARKS:
-Me? I can't —
-tsTHER. Yes, you will. (Marks accepts the jacket, genuinely touched
-by the gesture.)
+Me? 
+---
+I can't
+---
+## ESTHER:
+Yes, 
+---
+you will. 
+---
 ---
 ## MARKS:
 Thank you.
 ---
 ## ESTHER:
-I can't stay. (Esther begins to leave.)
+I can't stay.
 ---
 ## MARKS:
-Wait, one moment. (He removes his outer jacket, revealing
-the fringes of his Tallit Katan. He carefidly puts on the silk jacket.)
+Wait, 
+---
+uh, one moment. 
+---
+---
 What do you think?
-56
 ---
 ## ESTHER:
-It fits wonderfully. (Esther takes a step toward Marks,
-hesitates, then takes another step forward. She raises her hands.) May I?
-(He nervously holdc his breath and nods yes. Esther reaches toward
-Marks, expecting him to move away. She smoothes the shoulders of the
-garment, then expertly runs her hands down the jacket's lapels,
-straightening the wrinkled material. Marks does not move. Silence.
-Their eyes are fixed upon one another, then Esther reluctantly walks
-away, exiting the boudoir without a word. Marks is left alone onstage
-to contemplate the moment. A gentle rag plays. Lights crossfade; we're
-in Esther's original boudoir.)
-Scene 7
-Patchwork Quilt
-Esther's boudoir. Mrs. Dickson's rooming house. Mrs. Dickson
-folds laundry, humming a ragtime tune. Esther enters.
+It fits wonderfully. 
+---
+May I?
+---
+---
+template: music
+---
+template: noise
+## MRS. DICKSON:
+humming
 ---
 ## ESTHER:
-The girl downstairs told me I could find you up here.
+The girl downstairs 
+---
+told me I could find you up here.
 ---
 ## MRS. DICKSON:
-My Lord, Mrs. Armstrong. I been telling every-
-one how you forgot us.
+My Lord, Mrs. Armstrong. 
+---
+I been telling everybody you forgot us.
 ---
 ## ESTHER:
 It ain't been that long.
 ---
 ## MRS. DICKSON:
-Feel so. (The women hug.) Look at you. I was
-about to take some tea, come on into the kitchen, I'm glad for the
-company. These new girls are always out and about. They trouble
-me so these days, but whatcha gonna do? And I want to hear about
-everything.
+Feel so. 
+---
+Look at you. 
+---
+## MRS. DICKSON:
+[laughing softly]
+---
+I was about to take some tea, 
+---
+come on to the kitchen, 
+---
+I'll be glad for the company. 
+---
+These girls now-a-days,
+---
+These new girls are always out and about. 
+---
+They worry me and trouble me so, 
+---
+but whatcha gonna do? 
+---
+Come on,
+---
+Tell me everything.
 ---
 ## ESTHER:
 Have you rented this room?
 ---
 ## MRS. DICKSON:
-Why do you ask?
+Why you wanna know?
 ---
 ## ESTHER:
-I don't much feel like saying why. If you please, just a
+I don't much feel like saying why. 
+---
+If you please, 
+---
 yes or no would suit me fine.
 ---
 ## MRS. DICKSON:
 No.
 ---
 ## ESTHER:
-Well then, you won't mind another person at supper
-this evening. It's Friday and you don't know how I been missing
-your carrot salad.
+Well then, 
+---
+you won't mind another person at dinner this evening. 
+---
+It's Friday and you don't know how 
+---
+I been missing your carrot salad.
 ---
 ## MRS. DICKSON:
-Of course. Esther —
-57
+Of course. Esther 
 ---
 ## ESTHER:
-I'm fine. (Esther takes Mrs. Dickson's hand) And I'd love
-that cup of tea.
+I'm fine. 
+---
+And I'd love that cup of tea.
 ---
 ## MRS. DICKSON:
-Come on downstairs and we'll catch up. I'll tell
-you about Corinna Mae, girl's as big as a house, I swear to God.
-(Etthei; barely listening takes in the room.) She didn't waste any time
-getting pregnant and already talking nonsense about her man.
-When they first was married he was good enough for her, but to
-hear it now you'd think the man didn't have no kind of sense.
+Well, Come on 
+---
+Come on, and we'll catch up on everything.
+---
+I'll tell you about Corinna Mae, 
+---
+Oh, She big as a house, 
+---
+I swear to God.
+---
+She didn't waste no time getting pregnant 
+---
+Now when they first was married 
+---
+he was good enough, 
+---
+but now you talk to her  
+---
+and he ain't go no sense 
+---
+to hear her tell it. 
 ---
 ## ESTHER:
 I don't care to hear about Corinna Mae.
 ---
 ## MRS. DICKSON:
-Oh, I just thought —
+Oh, I just thought 
 ---
 ## ESTHER:
-I'd like to sit here for a moment.
+I'd like to sit here a moment.
 ---
 ## MRS. DICKSON:
-Oh, yes. I gotta bring a few more things in off
-the line before the sunset, I'll see you downstairs shortly.
+Of course, yes. 
+---
+I gotta few more things 
+---
+I've need to get off the line 
+---
+before sunset, 
+---
+I'll see you downstairs.
 ---
 ## ESTHER:
-Of course. Mrs. Dickson, thank you for not asking.
-(Mrs. Dickson lovingly takes Esther's hand, giving it a supportive
-squeeze. Mrs. Dickson picks to the launehy basket and exits, Esther
-lightly touches her belly. A inoment. She walks over to the old sewing
-machine and begins to sew together pieces offabric, the beginnings ofa
-new quilt. Lights shift: sepia tone, the quality of an old photograph. A
-slow, gentle mg plays in the distance. As the lights fiide, projected title
-card: "Unidentified Negro Seamstress. ca. 1905" Blackout.)
-End of Play
-58
-
+And Mrs. Dickson, 
 ---
+thanks for not asking.
+---
+---
+template: noise
+camera snap
+---
+template: music
 ---
 template: title
 class: smaller
