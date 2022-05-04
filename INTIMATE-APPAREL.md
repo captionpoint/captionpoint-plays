@@ -8,11 +8,11 @@ author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
 plum-purple: esther
-stiletto-red: mrs van buren
-st-tropaz-blue: mrs dickson
+stiletto-red: mrs-van buren
+st-tropaz-blue: mrs-dickson
 orange-zest: george
-lavender-purple: mr marks
-green-goblin: character-six
+lavender-purple: mr-marks
+green-goblin: mayme
 shocking-pink: character-seven
 brown-clay: character-eight
 pelorous-aqua: character-nine
@@ -128,7 +128,9 @@ And did I mention that our own most available Mr.Charles
 has been promoted to head Bellman 
 ---
 at just about the finest
-hotel in New York? Yes.
+hotel in New York? 
+---
+Yes.
 ---
 ## ESTHER:
 Mmmm, but he still fetching luggage.
@@ -144,12 +146,16 @@ And is high-class luggage easier to carry?
 ## MRS. DICKSON:
 I reckon it is easier to haul silk than cotton, 
 ---
-if you know what I'm saying.  
+if you know what I'm saying. 
+---
+And he sporting a 
+---
+right smart suit this evening.
 ---
 Yes.
 ---
 ## ESTHER:
-I see that he is also wearing cashmere this evening.
+Yes, it's cashmere.
 ---
 ## MRS. DICKSON:
 Well now. 
@@ -198,8 +204,9 @@ straighten yourself up.
 ---
 There. 
 ---
-You gonna have a dance before
-this evening's out.
+You gonna have a dance 
+---
+before this evening's out.
 ---
 ## ESTHER:
 Please, Mrs. Dickson, 
@@ -207,6 +214,7 @@ Please, Mrs. Dickson,
 I can't, really. 
 ---
 I'll just stand there
+---
 like a wallflower.
 ---
 ## MRS. DICKSON:
@@ -222,15 +230,16 @@ a half a dozen times,
 and my feet are just about worn out.
 ---
 ## ESTHER:
-If I had your good looks I'd raise a bit of dust myself.
+If I had your good looks 
+---
+I'd raise a bit of dust myself.
 ---
 Ain't nobody down there interested in me.
 ---
 ## MRS. DICKSON:
 Oh, you're being silly now, Ester. 
 ---
-Now, you've been moping
-around here for days. 
+Now, you've been moping around here for days. 
 ---
 What's the matter?
 ---
@@ -244,7 +253,9 @@ Oh my Lord, I forgot,
 ---
 I sure did. 
 ---
-You know with all that going on with Corinna Mae 
+You know with all 
+---
+that going on with Corinna Mae 
 ---
 it slipped my mind. 
 ---
@@ -263,8 +274,9 @@ of furniture.
 ## MRS. DICKSON:
 Never. 
 ---
-You were a godsend when you come
-to me at seventeen. 
+You were a godsend 
+---
+when you come to me at seventeen. 
 ---
 Yes. 
 ---
@@ -285,7 +297,9 @@ if you count Lerleen.
 Lerleen.
 ---
 ## ESTHER:
-That's how many of these parties I have had to go to 
+That's how many of these parties 
+---
+I have had to go to 
 ---
 and play merry. 
 ---
@@ -295,7 +309,9 @@ I know, but each time I think
 ---
 why ain't it me. 
 ---
-Silly Corinna Mae, ain't got no brain at all, 
+Silly Corinna Mae, 
+---
+ain't got no brain at all, 
 ---
 and just as plain as flour.
 ---
@@ -325,7 +341,9 @@ she'll see it all over my face,
 and it's her day.
 ---
 ## MRS. DICKSON:
-There are a number of young men open to your smile. 
+There are a number of young men 
+---
+open to your smile. 
 ---
 But a sour face don't bring nothing but contempt. 
 ---
@@ -343,10 +361,14 @@ Nonsense, he weighs more then poor Jessup.
 ---
 Shhh. He is a good man, 
 ---
-and poised for success. Yes.
+and poised for success. 
+---
+Yes.
 ---
 ## ESTHER:
-But he's been coming to these parties for near two years
+But he's been coming to these parties 
+---
+for near two years
 ---
 and if he ain't met a woman, 
 ---
@@ -367,11 +389,29 @@ Good for you.
 But there are many a cautionary
 tale 
 ---
-bred of overconfidence. 
+bred of overconfidence.
+---
+When I met the late Mr. Dickson
+---
+he was near sixty
+---
+and I forgave him his 
+---
+infatuation with the opiates
+---
+because he come with this rooming house
+---
+and look how many good years it give me.
+---
+Sure, I cursed the damn pipe
+---
+and I cursed him for making me a widow
+---
+but sometimes we get to the point 
+---
+where we can't be so particular
 ---
 Yes. 
----
-But you shouldn't be so particular.
 ---
 ## ESTHER:
 Well, I ain't going down there 
@@ -393,23 +433,31 @@ It's tough to be a colored woman in this city.
 ---
 I know, you know that
 ---
-and Corinna Mae all she got is her
-honey-colored skin,
+and Corinna Mae all she got 
+---
+is her honey-colored skin,
 ---
 but you got nimble fingers
 ---
-And your smart and good
+And you're smart and good
 ---
-and you deserve all the attention in that room, 
+and you deserve 
+---
+all the attention in that room,
+--- 
+but today is her day and
 ---
 all I ask is that you
+---
 come and toast her 
 ---
 the way I know she'd toast you. 
 ---
 Put aside your feelings
 ---
-and don't say nothing about Sarah's music playing, 
+and don't say nothing 
+---
+about Sarah's music playing, 
 ---
 She trying.
 ---
@@ -1155,7 +1203,9 @@ I see you sitting at your sewing machine.
 I hear the sound of the wheel
 turning, 
 ---
-the tiny stitches drawing together the pieces of satin. 
+the tiny stitches 
+---
+drawing together the pieces of satin. 
 ---
 They got machines here 
 ---
@@ -1261,7 +1311,9 @@ I promise it is the very best quality.
 ---
 She don't know what she has, 
 ---
-she don't come down here to feel the fabric herself, 
+she don't come down here 
+---
+to feel the fabric herself, 
 ---
 to feel the difference, 
 ---
@@ -1332,7 +1384,9 @@ It is magnificent, yes.
 ---
 I can see from your hands 
 ---
-that you are blessed with the needle and the thread, 
+that you are blessed 
+---
+with the needle and the thread, 
 ---
 which means you'll never be without warmth.
 ---
@@ -2323,8 +2377,6 @@ nothing to come of this.
 And if I do?
 ---
 ## MRS. DICKSON:
-Mr. Charles 
----
 Mr. Charles has asked me twice about you this week. 
 ---
 I told him he was most welcome to call.
@@ -2379,7 +2431,7 @@ And believe me when I say
 ---
 that I was romanced 
 ---
-by many bright and willing young man. 
+by many bright and willing young men. 
 ---
 It's potent, I know, 
 ---
@@ -2391,7 +2443,9 @@ that it ultimately led
 ---
 to compromise. 
 ---
-And if you're not careful, then Esther 
+And if you're not careful, 
+---
+then Esther 
 ---
 ## ESTHER:
 DON'T! 
@@ -3255,6 +3309,12 @@ It's gonna be a mess at that dinner table
 ---
 That's for sure.
 ---
+It's gonna be a shame to let this room to anybody else.
+---
+It has so many of your sweet touches.
+---
+Yes.
+---
 ## ESTHER:
 You wasn't always pleased 
 ---
@@ -3339,7 +3399,7 @@ but the best of friends
 ---
 come together 
 ---
-and they uh match it up well, 
+and they match it up well, 
 ---
 but now listen, 
 ---
