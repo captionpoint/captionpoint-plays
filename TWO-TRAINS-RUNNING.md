@@ -7215,13 +7215,11 @@ Do anything you asked him.
 He didn't like you to half-work him. 
 ---
 If you gonna work him 
----
 he want you to work him. 
 ---
 Or else let him lay. 
 ---
 He didn't like no 
----
 stop-and-start work. 
 ---
 That wasn't to his suiting. 
@@ -7309,11 +7307,10 @@ and they had set fire to my crop.
 To get to my house 
 ---
 I'd have to walk through fire. 
-----
+---
 I wasn't ready to do that. 
 ---
 I turned around 
----
 and walked up the hill to Natchez. 
 ---
 Called it a draw. 
@@ -7321,13 +7318,11 @@ Called it a draw.
 Said I was going back. 
 ---
 Got up there 
----
 and got tied up with one of them 
 ---
 Mississippi gals 
 ---
 and one year 
----
 led to two 
 ---
 led to five. 
@@ -7340,7 +7335,6 @@ But I'm going back one of these days.
 Say, Mr. West, 
 ---
 I was thinking, 
----
 you know, 
 ---
 I ain't never driven me no Cadillac. 
@@ -7348,7 +7342,6 @@ I ain't never driven me no Cadillac.
 I figure everybody 
 ---
 supposed to drive a Cadillac 
----
 at least once 
 ---
 before they die. 
@@ -7360,7 +7353,7 @@ need somebody to drive them, right?
 You should see me drive. 
 ---
 Can't nobody beat me driving. 
-----
+---
 I drove a getaway car once. 
 ---
 We got away, too. 
@@ -7372,27 +7365,68 @@ No, I got everybody I need.
 ---
 ## STERLING:
 If you ever need anybody just let me know.
-Okay? I done been in the penitentiary. I'll tell you that
-up front. I don't want to go back. I figure everybody
-should work at what they like to do. So I asked myself,
-"Sterling, what you like to do?" The closest I could come
-up with was I like to drive a Cadillac. So if you ever
-need anybody you think of me. Do you have to wash
-the cars if you drive them? I don't want to wash them
-without driving them. But if I could wash them seven at
-a time every day for about five dollars apiece I might do
-that. How long you reckon it take to do that? I don't
-reckon it take more than three hours. If you do a good
-job. I could do that for you.
+---
+Okay? 
+---
+I done been in the penitentiary. 
+---
+I'll tell you that
+up front. 
+---
+I don't want to go back. 
+---
+I figure everybody should work at what they like to do. 
+---
+So I asked myself,
+---
+"Sterling, what you like to do?" 
+---
+The closest I could come up with 
+---
+was I like to drive a Cadillac. 
+---
+So if you ever need anybody 
+---
+you think of me. 
+---
+Do you have to wash the cars 
+if you drive them? 
+---
+I don't want to wash them
+without driving them. 
+---
+But if I could wash them seven at
+a time every day 
+---
+for about five dollars apiece I might do that. 
+---
+How long you reckon it take to do that? 
+---
+I don't reckon it take more than three hours. 
+---
+If you do a good job. 
+---
+I could do that for you.
 ---
 ## WEST:
 Naw, I got somebody to wash my cars.
 ---
 ## STERLING:
-I know. Every time I see them they be clean.
-Except for the grille. I could clean the grille better than
-that. You ought to tell them to get a little brush to scrub
-in them little spots with. It won't hurt the chrome none.
+I know. 
+---
+Every time I see them they be clean.
+---
+Except for the grille. 
+---
+I could clean the grille better than
+that. 
+---
+You ought to tell them to get a little brush 
+---
+to scrub in them little spots with. 
+---
+It won't hurt the chrome none.
+---
 Mr. Lewis taught me how to do that.
 ---
 ## WEST:
@@ -7402,225 +7436,432 @@ If I ever need anybody I'll let you know.
 Did you go back up there to see Aunt Ester?
 ---
 ## STERLING:
-I went back up there they told me she was
-asleep.
+I went back up there they told me she was asleep.
 ---
 ## HOLLOWAY:
-You give her a chance to get her rest, then
-you go on back up there. I'm going up and see her my-
-self. West been up there. He don't like to tell nobody,
+You give her a chance to get her rest, 
+---
+then you go on back up there. 
+---
+I'm going up and see her myself.
+---
+West been up there. 
+---
+He don't like to tell nobody,
 but he been up there.
 ---
 ## WEST:
-I don't care who know. Yeah, I been up there.
-
-
+I don't care who know. 
+---
+Yeah, I been up there.
 ---
 ## MEMPHIS:
 You been up there, West?
 ---
 ## WEST:
-Yeah, I went up there and saw her. I didn't take
-her to be no more than a hundred or so.
+Yeah, I went up there and saw her. 
+---
+I didn't take her to be no more than a hundred or so.
 ---
 ## HOLLOWAY:
-Tell him when that was. Tell him how long
-that's been.
+Tell him when that was. 
+---
+Tell him how long that's been.
 ---
 ## WEST:
-It's been twenty-two years. That don't mean she still
-alive. I ain't seen her in twenty-two years and she look
-like she was half-dead then. I can't imagine what she
-look like now.
+It's been twenty-two years. 
+---
+That don't mean she still
+alive. 
+---
+I ain't seen her in twenty-two years 
+---
+and she look like she was half-dead then. 
+---
+I can't imagine what she look like now.
 ---
 ## HOLLOWAY:
-She look like she looked then. She wasn't but
-three hundred years old then. I don't reckon them twenty-
-two years make that much difference to her.
+She look like she looked then. 
+---
+She wasn't but three hundred years old then. 
+---
+I don't reckon them twenty-two years 
+---
+make that much difference to her.
 ---
 ## WEST:
 The oldest person I buried was Miss Sarah Degree
-and she was a hundred and twelve. I don't think nobody
+---
+and she was a hundred and twelve. 
+---
+I don't think nobody
+---
 can live too much longer than that.
 ---
 ## HOLLOWAY:
-You can go on back up and see her. She still
-there.
+You can go on back up and see her. 
+---
+She still there.
 ---
 ## MEMPHIS:
 What you go up there for, West?
 ---
 ## WEST:
-I went up there to see if my wife was in heaven. I
-done buried a whole lot of people, but she the first one
-I ever wondered about. See, people don't understand
-about death, but if you ever hear one of them coffin
-sounds you'd know. There ain't nothing like it. That cof-
-fin get to talking and you know that this here this
-what we call life ain't nothing. You can blow it away
-with a blink of an eye. But death you can't blow
-away death. It lasts forever. I didn't understand about it
-till my wife died. Before that it was just a job. Then
-
-
-when she died I come to understand it. You can live to
-be a hundred and fifty and you'll never have a greater
-moment than when you breathe your last breath. Ain't
-nothing you can do in life compared to it. See, right then
-you done something. You became a part of everything
-that come before. And that's a great thing. Ain't nothing
-you can do in life compared to that. So I heard about
-Aunt Ester and went to see if my wife was in heaven. I
-figure if anybody know she would.
+I went up there to see if my wife was in heaven. 
+---
+I done buried a whole lot of people, 
+---
+but she the first one I ever wondered about. 
+---
+See, people don't understand
+about death, 
+---
+but if you ever hear one of them coffin sounds you'd know. 
+---
+There ain't nothing like it. 
+---
+That coffin get to talking 
+---
+and you know that this here 
+---
+this what we call life ain't nothing. 
+---
+You can blow it away with a blink of an eye. 
+---
+But death, you can't blow away death. 
+---
+It lasts forever. 
+---
+I didn't understand about it
+till my wife died. 
+---
+Before that it was just a job. 
+---
+Then when she died I come to understand it. 
+---
+You can live to be a hundred and fifty 
+---
+and you'll never have a greater
+moment 
+---
+than when you breathe your last breath. 
+---
+Ain't nothing you can do in life compared to it. 
+---
+See, right then you done something. 
+---
+You became a part of everything
+that come before. 
+---
+And that's a great thing. 
+---
+Ain't nothing you can do in life compared to that. 
+---
+So I heard about Aunt Ester 
+---
+and went to see if my wife was in heaven. 
+---
+I figure if anybody know she would.
 ---
 ## MEMPHIS:
 What she tell you?
 ---
 ## WEST:
-She told me to take and throw twenty dollars in the
-river and come back and see her. I thought she was
-crazy, to tell you the truth. I didn't pay her no mind. I
-knew she was old, but I figure she had gotten too old.
+She told me to take and throw twenty dollars 
+---
+in the river and come back and see her. 
+---
+I thought she was crazy, 
+---
+to tell you the truth. 
+---
+I didn't pay her no mind. 
+---
+I knew she was old, 
+---
+but I figure she had gotten too old.
 ---
 ## HOLLOWAY:
-That's what your problem is. You don't want
-to do nothing for yourself. You want somebody else to
-do it for you. Aunt Ester don't work that way. She say
-you got to pull your part of the load. But you didn't
-want to do that. That's why you don't know. And it
-didn't cost you but twenty dollars.
+That's what your problem is. 
+---
+You don't want to do nothing for yourself. 
+---
+You want somebody else to do it for you. 
+---
+Aunt Ester don't work that way. 
+---
+She say you got to pull your part of the load. 
+---
+But you didn't want to do that. 
+---
+That's why you don't know. 
+---
+And it didn't cost you but twenty dollars.
 ---
 ## WEST:
 I wasn't gonna throw my money in the river, nigger.
 ---
 ## HOLLOWAY:
-That's why you don't know. You don't know
-what might have happened if you did that. If you had
-gone on back up there she might have told you.
+That's why you don't know. 
+---
+You don't know what might have happened if you did that. 
+---
+If you had gone on back up there she might have told you.
 ---
 ## WEST:
-I offered to give her the twenty dollars just for her
-time but she wouldn't take it. Told me to throw it
-in the river. I'd rather see her with it than to see it at
-the bottom of the river. I just wasn't gonna do that with
+I offered to give her the twenty dollars 
+---
+just for her time but she wouldn't take it. 
+---
+Told me to throw it in the river. 
+---
+I'd rather see her with it 
+---
+than to see it at the bottom of the river. 
+---
+I just wasn't gonna do that with
 my money.
-
-
 ---
 ## HOLLOWAY:
 That's why you don't know.
 ---
 ## WEST:
-If it take throwing my money in the river to find
-out then I ain't never gonna know.
+If it take throwing my money in the river 
+---
+to find out then I ain't never gonna know.
 ---
 ## MEMPHIS:
 What you go up to see her about, Holloway?
+---
 What happened when you threw your twenty dollars in?
 ---
 ## HOLLOWAY:
-I went up there to see her cause I wanted to
-kill my grandfather. I went up there and got that feeling
-off me. I had to throw twenty dollars every week for a
-month. But I got it off me. He died from natural causes.
-Ask West he buried him. He died in his sleep. That's
-why I knew it worked. Cause he died of natural death.
+I went up there to see her 
+---
+cause I wanted to kill my grandfather. 
+---
+I went up there and got that feeling
+off me. 
+---
+I had to throw twenty dollars every week for a month. 
+---
+But I got it off me. 
+---
+He died from natural causes.
+---
+Ask West he buried him. 
+---
+He died in his sleep. 
+---
+That's why I knew it worked. 
+---
+Cause he died of natural death.
 ---
 ## MEMPHIS:
 What you wanna kill your grandfather for?
 ---
 ## HOLLOWAY:
-Now you getting in my business. Ask West if
-he ain't died a natural death. That's all you need to
-know.
+Now you getting in my business. 
+---
+Ask West if he ain't died a natural death. 
+---
+That's all you need to know.
 ---
 ## MEMPHIS:
-I don't care nothing about your business. You
-the one brought it up. I ain't even know you had a
+I don't care nothing about your business. 
+---
+You the one brought it up. 
+---
+I ain't even know you had a
 grandfather.
 ---
 ## HOLLOWAY:
-Had two of them. One on my mother's side
-and one on my father's side. One of them I never knew.
-The other one wasn't no good for nobody. That was the
-worse Negro I ever known. He think if it wasn't for
-white people there wouldn't be no daylight. If you let
-him tell it, God was a white man who had a big planta-
-tion in the sky and sat around drinking mint juleps and
-smoking Havana cigars. He couldn't wait to die to get
-up in heaven to pick cotton. If he overheard you might
-wanna go down and get you some extra meat out the
-white man's smokehouse he'd run and tell him. He
-
-
-see you put a rabbit in your sack to weigh up with the
-cotton, he'd run and tell. The white man would give him
-a couple pounds of bacon. He'd bring that home and my
-grandmother would throw it out with the garbage. That's
-the kind of woman she was. I don't know how she got
-tied up with him. She used to curse the day she laid
-down with him. That rubbed off on me. I got a little
-older to where I could see what kind of man he was
-I figure if he want to go to heaven to pick cotton, I'd
-help him. I got real serious about it. It stayed on me so
-didn't nobody want to be around me cause of the bad
-energy I was carrying. Couldn't keep me a woman.
-Seemed like nothing wouldn't work out for me. I went
-up to see Aunt Ester and got that bad energy off me.
-And it worked too. Ask West. He died in his sleep.
-Caught pneumonia and laid down and died. They
-wouldn't let him in the hospital cause he didn't have any
-insurance. He crawled up in the bed in my grandmother's
-house and laid there till he died. March 5, 1952. So can't
-nobody tell me nothing about Aunt, Ester. I know what
-she can do for you.
+Had two of them. 
+---
+One on my mother's side
+---
+and one on my father's side. 
+---
+One of them I never knew.
+---
+The other one wasn't no good for nobody. 
+---
+That was the worse Negro I ever known. 
+---
+He think if it wasn't for white people 
+---
+there wouldn't be no daylight. 
+---
+If you let him tell it, 
+---
+God was a white man 
+---
+who had a big plantation in the sky 
+---
+and sat around drinking mint juleps 
+---
+and smoking Havana cigars. 
+---
+He couldn't wait to die 
+---
+to get up in heaven to pick cotton. 
+---
+If he overheard you might wanna go down 
+---
+and get you some extra meat 
+---
+out the white man's smokehouse 
+---
+he'd run and tell him. 
+---
+He see you put a rabbit in your sack 
+---
+to weigh up with the cotton, 
+---
+he'd run and tell. 
+---
+The white man would give him
+a couple pounds of bacon.
+---
+He'd bring that home 
+---
+and my grandmother would throw it out with the garbage. 
+---
+That's the kind of woman she was. 
+---
+I don't know how she got tied up with him. 
+---
+She used to curse the day she laid
+down with him. 
+---
+That rubbed off on me. 
+---
+I got a little older to where I could see 
+---
+what kind of man he was
+---
+I figure if he want to go to heaven to pick cotton, 
+---
+I'd help him. 
+---
+I got real serious about it. 
+---
+It stayed on me so didn't nobody want to be around me 
+---
+cause of the bad energy I was carrying. 
+---
+Couldn't keep me a woman.
+---
+Seemed like nothing wouldn't work out for me. 
+---
+I went up to see Aunt Ester 
+---
+and got that bad energy off me.
+---
+And it worked too. 
+---
+Ask West. He died in his sleep.
+---
+Caught pneumonia and laid down and died. 
+---
+They wouldn't let him in the hospital 
+---
+cause he didn't have any insurance. 
+---
+He crawled up in the bed in my grandmother's house 
+---
+and laid there till he died. 
+---
+March 5, 1952. 
+---
+So can't nobody tell me nothing about Aunt, Ester. 
+---
+I know what she can do for you.
 ---
 ## WEST:
-Let me get on. Say, Memphis, if you change your
-mind about the building, let me know.
-(WEST exits.)
+Let me get on. 
+---
+Say, Memphis, 
+---
+if you change your mind about the building, let me know.
+---
+template: noise
+door opens and closes
 ---
 ## STERLING:
-I'm going back up there soon as I get some
-money. I'll throw twenty dollars in the river if it help
-me get a job.
+I'm going back up there soon as I get some money. 
+---
+I'll throw twenty dollars in the river 
+---
+if it help me get a job.
 ---
 ## HOLLOWAY:
 You go on back up there.
 ---
 ## STERLING:
-Say, Memphis you know how many people
-be down at the steel mill hanging around there at lunch
-
-
-time? You ever seen that? Must be five or six hundred,
-I figure we could make some money selling chicken sand-
-wiches. All you need is a little truck have Risa fry
-up the chicken and I go over there and sell them. You
-ever thought about that? We could go in business
-together.
+Say, Memphis you know how many people 
+---
+be down at the steel mill hanging around there 
+---
+at lunch time? 
+---
+You ever seen that? 
+---
+Must be five or six hundred,
+---
+I figure we could make some money 
+---
+selling chicken sandwiches. 
+---
+All you need is a little truck 
+---
+have Risa fry up the chicken 
+---
+and I go over there and sell them. 
+---
+You ever thought about that? 
+---
+We could go in business together.
 ---
 ## MEMPHIS:
-I'm in business already. You go on and get your
-truck and go on over there. Risa get these dishes
-cleaned up.
-STERLING (starting toward the door): That alright if
-that seven eighty-one come out I'll have me enough
-money I won't need to go in no business. If that seven
-eighty-one come out me and Risa gonna get married.
+I'm in business already. 
+---
+You go on and get your truck 
+---
+and go on over there. 
+---
+Risa get these dishes cleaned up.
+---
+## STERLING: 
+That alright if that seven eighty-one come out 
+---
+I'll have me enough money 
+---
+I won't need to go in no business. 
+---
+If that seven eighty-one come out 
+---
+me and Risa gonna get married.
+---
 Ain't that right, Risa?
-(RisA doesn't say anything.)
-She shy. She don't want to let everybody know. Hey,
-Memphis, if I find some more gas I'll bring it on around.
+---
+She shy. 
+---
+She don't want to let everybody know. 
+---
+Hey, Memphis, if I find some more gas 
+---
+I'll bring it on around.
+---
 Okay?
-(STERLING exits.)
+---
+template: noise
+door opening and closing
 ---
 ## MEMPHIS:
-I changed that, Holloway. I give him two weeks.
-(The lights go down on the scene.)
-SCENE 2
-(The lights come up on the restaurant. RISA sits on a
-stool, reading a magazine. HOLLOWAY enters.)
+I changed that, Holloway. 
+---
+template: music
 ---
 ## HOLLOWAY:
 Risa, you seen Hambone today?
@@ -7630,126 +7871,236 @@ Naw, he ain't been in here.
 ---
 ## HOLLOWAY:
 You know he wasn't over there this morning.
+---
 Lutz asked me about him.
 ---
 ## RISA:
-He ain't been in here. Anybody know where he stay
-at?
+He ain't been in here. 
+---
+Anybody know where he stay at?
 ---
 ## HOLLOWAY:
 He was staying up there on Arcena Street.
-He stayed up there for the longest time. He ain't up
-there no more. Nobody know where he stay at.
+---
+He stayed up there for the longest time. 
+---
+He ain't up there no more. 
+---
+Nobody know where he stay at.
 ---
 ## RISA:
-Maybe he just quit coming. He might have moved
-to Homewood or East Liberty. Got tired of waiting on
-Lutz to give him his ham.
+Maybe he just quit coming. 
+---
+He might have moved to Homewood 
+---
+or East Liberty. 
+---
+Got tired of waiting on Lutz to give him his ham.
 ---
 ## HOLLOWAY:
-I ain't known him to miss a day in nine and
-a half years. He come and stand there even on Sunday
-just in case Lutz show up. That don't sound like nobody
-got tired of waiting.
-(woLF enters.)
+I ain't known him to miss a day 
+---
+in nine and a half years. 
+---
+He come and stand there 
+---
+even on Sunday 
+---
+just in case Lutz show up. 
+---
+That don't sound like nobody got tired of waiting.
+---
+template: noise
+door opening and closing
 ---
 ## WOLF:
-Hey Holloway. Did you see that out there this
-morning? West was having a fit trying to bury Prophet
-Samuel.
+Hey Holloway. 
+---
+Did you see that out there this
+morning? 
+---
+West was having a fit trying to bury Prophet Samuel.
 ---
 ## HOLLOWAY:
-Yeah, I was out there. They say the hearse
-was at the cemetery and some of the cars hadn't even
-left from in front of the funeral home.
+Yeah, I was out there. 
+---
+They say the hearse was at the cemetery 
+---
+and some of the cars hadn't even
+left 
+---
+from in front of the funeral home.
 ---
 ## WOLF:
-They had the boulevard backed up two miles. Peo-
-ple's cars overheating. They tried to block off the street
-and let the cars go in two lanes, but the people was
-arguing with the police and wouldn't let them do it. They
-had helicopters flying all over the place.
-
-
+They had the boulevard backed up two miles. 
+---
+People's cars overheating. 
+---
+They tried to block off the street
+---
+and let the cars go in two lanes, 
+---
+but the people was arguing with the police 
+---
+and wouldn't let them do it. 
+---
+They had helicopters flying all over the place.
 ---
 ## RISA:
-Look like they had more people watching than was
-in the funeral. They was lined up on both sides of the
-street. Half of them was in here.
+Look like they had more people watching 
+---
+than was in the funeral. 
+---
+They was lined up on both sides of the street. 
+---
+Half of them was in here.
 ---
 ## WOLF:
-I know. I couldn't get near the door. That was the
-biggest funeral West ever had.
+I know. 
+---
+I couldn't get near the door. 
+---
+That was the biggest funeral West ever had.
 ---
 ## HOLLOWAY:
 It wasn't as big as Patchneck Red's funeral.
-This wasn't nothing but Pittsburgh niggers. For
-Patchneck Red's funeral they came from Detroit, Cleve-
-land, and all parts of Ohio and New Jersey. Youngstown
-. Newark Jersey City. Come from West Virginia.
-They had eleven Cadillacs full of women come all the
-way from Vegas. People didn't leave the cemetery till
-the next morning. They was out there pouring whiskey
-on the grave had two five-gallon buckets full of dice
-and fifty-eleven decks of cards they dumped in the grave
-with him. Prophet Samuel wasn't nothing like that. You
-find out anything about Hambone?
+---
+This wasn't nothing but Pittsburgh niggers. 
+---
+For Patchneck Red's funeral they came from Detroit, 
+---
+Cleveland, and all parts of Ohio and New Jersey. 
+---
+Youngstown, Newark, Jersey City. 
+---
+Come from West Virginia.
+---
+They had eleven Cadillacs full of women 
+---
+come all the way from Vegas. 
+---
+People didn't leave the cemetery till the next morning. 
+---
+They was out there pouring whiskey
+on the grave 
+---
+had two five-gallon buckets full of dice
+---
+and fifty-eleven decks of cards 
+---
+they dumped in the grave
+with him. 
+---
+Prophet Samuel wasn't nothing like that. 
+---
+You find out anything about Hambone?
 ---
 ## WOLF:
-I been asking around. Ain't nobody seen him. Last
-time anybody seen him was yesterday.
+I been asking around. 
+---
+Ain't nobody seen him. 
+---
+Last time anybody seen him was yesterday.
 ---
 ## HOLLOWAY:
 Lutz say he ain't seen him either.
 ---
 ## WOLF:
-How you doing, Risa? You lucky to see me today.
-If that six fifty-seven had come out I'd be in Atlanta
-right now.
+How you doing, Risa? 
+---
+You lucky to see me today.
+---
+If that six fifty-seven had come out 
+---
+I'd be in Atlanta right now.
 ---
 ## HOLLOWAY:
 Who you know in Atlanta, Wolf?
 ---
 ## WOLF:
-I got me a woman down there. Got two. Got one
-up on Jackson Hill and the other one stay on Lombard
-Street. One of them got four or five other men, but
-that's alright with me. All I got to do is call. All she got
-to do is hear my voice and she drop them other niggers.
-
-
-All she got to do is hear my voice and she come running.
+I got me a woman down there. 
+---
+Got two. 
+---
+Got one up on Jackson Hill 
+---
+and the other one stay on Lombard
+Street. 
+---
+One of them got four or five other men, 
+---
+but that's alright with me. 
+---
+All I got to do is call. 
+---
+All she got to do is hear my voice 
+---
+and she drop them other niggers.
+---
+All she got to do is hear my voice 
+---
+and she come running.
+---
 Any time of day or night.
 ---
 ## HOLLOWAY:
-Well, why ain't you down there, then? You
-walking around here without a woman talking about you
-got two in Atlanta. Why ain't you there?
+Well, why ain't you down there, then? 
+---
+You walking around here without a woman 
+---
+talking about you got two in Atlanta. 
+---
+Why ain't you there?
 ---
 ## WOLF:
 I can't go down there unless I got some money.
-One of them think I'm a rich man. Last time she seen
-me I had six or seven hundred dollars in my pocket.
-Spent two hundred of it on her. She think I got that kind
-of money all the time. If that six fifty-seven had come
-out I'd been right there sitting on her doorstep. I had
-ten dollars straight on it. That's Harvey's number. He
-hit on that two or three times a year. I figured today
-might have been his lucky day.
+---
+One of them think I'm a rich man. 
+---
+Last time she seen me 
+---
+I had six or seven hundred dollars in my pocket.
+---
+Spent two hundred of it on her. 
+---
+She think I got that kind of money all the time. 
+---
+If that six fifty-seven had come
+out 
+---
+I'd been right there sitting on her doorstep. 
+---
+I had ten dollars straight on it. 
+---
+That's Harvey's number. 
+---
+He hit on that two or three times a year. 
+---
+I figured today might have been his lucky day.
 ---
 ## HOLLOWAY:
-I see you and Memphis got in a little hassle
-yesterday.
+I see you and Memphis 
+---
+got in a little hassle yesterday.
 ---
 ## WOLF:
-We alright. Memphis gets beside himself sometimes.
-See, he don't know he lucky I understand him. Without
-that understanding it be a different thing.
-(MEMPHIS enters.)
+We alright. 
+---
+Memphis gets beside himself sometimes.
+---
+See, he don't know he lucky I understand him. 
+---
+Without that understanding it be a different thing.
+---
+template: noise
+door opening and closing
 ---
 ## HOLLOWAY:
-Hey, Memphis. You know Hambone didn't
-come today? You ain't seen him, have you?
+Hey, Memphis. 
+---
+You know Hambone didn't come today?
+---
+You ain't seen him, have you?
 ---
 ## MEMPHIS:
 Naw, I ain't seen him.
@@ -7759,327 +8110,646 @@ That ain't like him not to show up.
 ---
 ## MEMPHIS:
 Risa, get these dishes cleaned off the counter.
-(He and WOLF glare at each other.)
 ---
 ## HOLLOWAY:
-Hey, Wolf, give me a dime on nine sixty-
-eight. I'm gonna keep playing it till it come out.
-
-
+Hey, Wolf, give me a dime on nine sixty-eight. 
+---
+I'm gonna keep playing it till it come out.
 ---
 ## WOLF:
-I got to ask Memphis. Memphis, is it okay if I take
-Holloway's number? I mean, since this is a legitimate
+I got to ask Memphis. 
+---
+Memphis, is it okay if I take
+Holloway's number? 
+---
+I mean, since this is a legitimate
 business and all.
 ---
 ## MEMPHIS:
 I said I didn't want you using my phone, Wolf.
-Yo u can twist it all out of shape if you want. I can't have
-them running in here raiding my place. I don't take no
-numbers out of here. Seem like you be able to under-
-stand that.
+---
+You can twist it all out of shape if you want. 
+---
+I can't have them running in here raiding my place. 
+---
+I don't take no numbers out of here. 
+---
+Seem like you be able to understand that.
 ---
 ## WOLF:
-I understand it. What you want, Holloway?
+I understand it. 
+---
+What you want, Holloway?
 ---
 ## HOLLOWAY:
-Give me a dime on nine sixty-eight. Box it
-for a nickel.
-(wou writes down his number.)
+Give me a dime on nine sixty-eight. Box it for a nickel.
 ---
 ## MEMPHIS:
 Give me a dollar on four seventy-eight.
 ---
+[WOLF and HOLLOWAY LAUGHING]
+---
 ## WOLF:
-You know, Sterling hit for two dollars yesterday on
-that seven eighty-one? He ain't gonna like it none, but
-they cut the number. They cut it in half. They ain't pay-
-ing but half of it. I don't know what it was seem
-like every nigger in Pittsburgh played seven eighty-one.
-Ain't nobody gonna like it, but he ain't gonna like it
-especially. I started to carry my pistol today, but I say,
-"Naw I might kill somebody." Most people under-
-stand when they cut the numbers but I don't know
-about Sterling. He got his own way of looking at things.
-Holloway, if you see him would you try and explain it
-to him that it ain't my fault cause I will go to the pawn-
-shop and get my pistol. So if you could explain that to
-him before I see him I'd appreciate it. That way you be
-helping us both out.
-
-
+You know, Sterling hit for two dollars yesterday 
+---
+on that seven eighty-one? 
+---
+He ain't gonna like it none, 
+---
+but they cut the number. 
+---
+They cut it in half. 
+---
+They ain't paying but half of it. 
+---
+I don't know what it was seem
+like 
+---
+every nigger in Pittsburgh played seven eighty-one.
+---
+Ain't nobody gonna like it, 
+---
+but he ain't gonna like it
+especially. 
+---
+I started to carry my pistol today, 
+---
+but I say,
+---
+"Naw I might kill somebody." 
+---
+Most people understand when they cut the numbers 
+---
+but I don't know about Sterling. 
+---
+He got his own way of looking at things.
+---
+Holloway, if you see him 
+---
+would you try and explain it
+to him 
+---
+that it ain't my fault 
+---
+cause I will go to the pawnshop and get my pistol. 
+---
+So if you could explain that to
+him 
+---
+before I see him I'd appreciate it. 
+---
+That way you be helping us both out.
 ---
 ## HOLLOWAY:
-If I know him like I think I do, he gonna
-wanna know why everybody play his number instead of
-their own. Then he gonna come to understand that he
-don't care how many people played it the Alberts
-still owe him all his money. And since you work for the
-Alberts, if you don't get him his money, then you all in
-cahoots, and the Alberts is splitting it with you, and you
-gonna buy a Cadillac next week with his money
-therefore you gonna need your pistol. And if it go that
-way West is gonna get a chance to bury one of you.
-If he go up there and mess with the Alberts, then West
-gonna have to bury him in a closed casket. Now I'm
-sixty-five years old and I got that way by staying out of
-people's business, so no I ain't gonna tell him noth-
-ing. If he come in here right now I'd walk out. Come back
-tomorrow and Risa will have to tell me what happened.
+If I know him like I think I do, 
+---
+he gonna wanna know why everybody play his number 
+---
+instead of their own. 
+---
+Then he gonna come to understand 
+---
+that he don't care how many people played it 
+---
+the Alberts still owe him all his money. 
+---
+And since you work for the Alberts, 
+---
+if you don't get him his money, 
+---
+then you all in cahoots, 
+---
+and the Alberts is splitting it with you, 
+---
+and you gonna buy a Cadillac next week with his money
+---
+therefore you gonna need your pistol. 
+---
+And if it go that way 
+---
+West is gonna get a chance to bury one of you.
+---
+If he go up there and mess with the Alberts, 
+---
+then West gonna have to bury him in a closed casket. 
+---
+Now I'm sixty-five years old 
+---
+and I got that way by staying out of
+people's business, 
+---
+so no I ain't gonna tell him nothing. 
+---
+If he come in here right now I'd walk out. 
+---
+Come back tomorrow 
+---
+and Risa will have to tell me what happened.
 ---
 ## WOLF:
-Well, I ain't gonna pay him out my pocket. The
-hell with it. You right. I got to go to the pawnshop and
-get my pistol. Hey, Risa, I'll be back. If Sterling comes,
+Well, I ain't gonna pay him out my pocket. 
+---
+The hell with it. 
+---
+You right. 
+---
+I got to go to the pawnshop and
+get my pistol. 
+---
+Hey, Risa, I'll be back. 
+---
+If Sterling comes,
+---
 tell him I was looking to see him.
-(woLF exits.)
+---
+template: noise
+door opening and closing
 ---
 ## HOLLOWAY:
-I don't know why I play the numbers. The Al-
-berts want all the advantages. They got six hundred-to-one
-odds, but that ain't enough for them. If thirty or forty
-niggers get lucky enough to hit the numbers the same day,
-they don't even want them to enjoy their luck. They want
-to take that away from them. They don't say nothing about
-cutting the numbers when six thousand. niggers guess wrong.
+I don't know why I play the numbers. 
+---
+The Alberts want all the advantages. 
+---
+They got six hundred-to-one
+odds, 
+---
+but that ain't enough for them. 
+---
+If thirty or forty niggers get lucky enough 
+---
+to hit the numbers the same day,
+---
+they don't even want them to enjoy their luck. 
+---
+They want to take that away from them. 
+---
+They don't say nothing about
+cutting the numbers 
+---
+when six thousand niggers guess wrong.
 ---
 ## MEMPHIS:
-They been cutting numbers for the past hundred
-years. That's part of the game. You supposed to under-
-stand that when you play your money. If I was—
-
-
-(He spies the flyer on the wall.)
+They been cutting numbers for the past hundred years. 
+---
+That's part of the game. 
+---
+You supposed to understand 
+---
+that when you play your money. 
+---
+If I was...
+---
 What the hell this doing up here?
-(He tears it down and crumples it up.)
-I don't want this up in my place. I ain't putting no sanc-
-tion on nothing like that. That's what the problem is
-now. All them niggers wanna do is have a rally. Soon as
-they finish with one rally they start planning for the next.
-They forget about what goes in between. You rally to
-spur you into action. When it comes time for action these
-niggers sit down and scratch their heads. They had that
-boy Begaboo. The police walked up and shot him in the
-head and them same niggers went down there to see the
-mayor. Raised all kind of hell. Trying to get the cop
-charged with murder. They raised hell for three weeks.
-After that it was business as usual. The only thing any-
-body remember is the funeral. That's the Sterling boy
-bringing that stuff in here. Something wrong with that
-boy. That boy ain't right.
-(To RisA.:)
-If I was you I'd stay away from him. He ain't gonna do
-nothing but end up right back down there in the
-penitentiary.
+---
+I don't want this up in my place. 
+---
+I ain't putting no sanction on nothing like that. 
+---
+That's what the problem is now. 
+---
+All them niggers wanna do is have a rally. 
+---
+Soon as they finish with one rally 
+---
+they start planning for the next.
+---
+They forget about what goes in between. 
+---
+You rally to spur you into action. 
+---
+When it comes time for action 
+---
+these niggers sit down and scratch their heads. 
+---
+They had that boy Begaboo. 
+---
+The police walked up and shot him in the head 
+---
+and them same niggers went down there 
+---
+to see the mayor. 
+---
+Raised all kind of hell. 
+---
+Trying to get the cop charged with murder. 
+---
+They raised hell for three weeks.
+---
+After that it was business as usual. 
+---
+The only thing anybody remember is the funeral. 
+---
+That's the Sterling boy bringing that stuff in here. 
+---
+Something wrong with that boy. 
+---
+That boy ain't right.
+---
+If I was you I'd stay away from him. 
+---
+He ain't gonna do nothing 
+---
+but end up right back down there in the penitentiary.
 ---
 ## HOLLOWAY:
-You might be right. Now he done got him a
-gun. What he gonna do with it? A nigger with a gun is
-bad news. You can't even use the word "nigger" and
-"gun" in the same sentence. You say the word "gun" in
-the same sentence with the word "nigger" and you in
-trouble. The white man panic. Unless you say, "The po-
-liceman shot the nigger with his gun" then that be
-alright. Other than that he panic. He ain't had nothing
-but guns for the last five hundred years got the
-atomic bomb and everything. But you say the word "nig-
-
-L._
-
-ger" and "gun" in the same sentence and they'll try and
-arrest you. Accuse you of sabotage, disturbing the peace,
-inciting a riot, plotting to overthrow the government and
-anything else they can think of. You think I'm lying?
-Yo u go down there and stand in front of the number
-two police station and say, "The niggers is tired of this
-mistreatment—they gonna get some guns," and see if
-they don't arrest you.
+You might be right. 
+---
+Now he done got him a gun. 
+---
+What he gonna do with it? 
+---
+A nigger with a gun is bad news. 
+---
+You can't even use the word 
+---
+"nigger" and "gun" in the same sentence. 
+---
+You say the word "gun" in the same sentence 
+---
+with the word "nigger" and you in trouble. 
+---
+The white man panic. 
+---
+Unless you say, "The policeman shot the nigger with his gun" 
+---
+then that be alright. 
+---
+Other than that he panic. 
+---
+He ain't had nothing but guns 
+---
+for the last five hundred years 
+---
+got the atomic bomb and everything. 
+---
+But you say the word "nigger" and "gun" 
+---
+in the same sentence 
+---
+and they'll try and arrest you. 
+---
+Accuse you of sabotage, 
+---
+disturbing the peace,
+---
+inciting a riot, 
+---
+plotting to overthrow the government 
+---
+and anything else they can think of. 
+---
+You think I'm lying?
+---
+You go down there 
+---
+and stand in front of the number
+two 
+---
+police station and say, 
+---
+"The niggers is tired of this
+mistreatment, 
+---
+they gonna get some guns," 
+---
+and see if they don't arrest you.
 ---
 ## MEMPHIS:
-As young and as crazy as that boy is, he need
-to carry one.
-(STERLING enters.)
+As young and as crazy as that boy is, 
+---
+he need to carry one.
+---
+template: noise
+door opening and closing
 ---
 ## STERLING:
-How you doing, Memphis? Risa Wolf been
-in here?
+How you doing, Memphis? 
+---
+Risa Wolf been in here?
 ---
 ## RISA:
-He just left. He say he be back.
+He just left. 
+---
+He say he be back.
 ---
 ## STERLING:
-I was out there watching them bury Prophet
-Samuel. Harvey gave me a ride to the cemetery. Was
-you over there, Risa? I was looking for you.
+I was out there watching them bury Prophet Samuel. 
+---
+Harvey gave me a ride to the cemetery. 
+---
+Was you over there, Risa? 
+---
+I was looking for you.
 ---
 ## RISA:
-Everybody running over there to see him cause he
-dead. They didn't go see him when he was alive. He was
-right up there on Herron Avenue. They wasn't lining up
-there then.
+Everybody running over there to see him cause he dead. 
+---
+They didn't go see him when he was alive. 
+---
+He was right up there on Herron Avenue. 
+---
+They wasn't lining up there then.
 ---
 ## STERLING:
-It be like that with everything. People don't
-care nothing about you till you dead. Then they walk
-around and tell everybody how well they knew you and
-that make them special for a day or two. You always have
-more followers when you dead than when you living.
+It be like that with everything. 
+---
+People don't care nothing about you till you dead. 
+---
+Then they walk around 
+---
+and tell everybody how well they knew you 
+---
+and that make them special for a day or two. 
+---
+You always have more followers 
+---
+when you dead than when you living.
 ---
 ## RISA:
-That's what I'm saying. Prophet Samuel used to
-preach about hypocrites and that's what half them people
-is. If you be a hypocrite it don't count with, God. He
+That's what I'm saying. 
+---
+Prophet Samuel used to preach about hypocrites 
+---
+and that's what half them people
+is. 
+---
+If you be a hypocrite it don't count with, God. 
+---
+He want you all the time. 
+---
+That's what Prophet Samuel say.
+---
+God can look into your heart and tell. 
+---
+But see I knew Prophet Samuel when he was living.
+---
+## STERLING: 
 
-
-want you all the time. That's what Prophet Samuel say.
-God can look into your heart and tell. But see I
-knew Prophet Samuel when he was living.
-(She hands STERLING a card. He takes it and reads.)
-STERLING (reading): "This certifies that Risa Thomas is a
-member in good standing of the First African Congrega-
-tional Kingdom, having duly paid all tithing. Signed,
+"This certifies that Risa Thomas 
+---
+is a member in good standing 
+---
+of the First African Congregational Kingdom, 
+---
+having duly paid all tithing. 
+---
+Signed,
 Prophet Samuel."
-(He hands her back the card.)
-I remember Prophet Samuel,, but I ain't paid preachers
+---
+I remember Prophet Samuel, 
+---
+but I ain't paid preachers 
+---
 or nothing like that no mind.
 ---
 ## RISA:
-Prophet Samuel wasn't no preacher. He was a
-prophet like they have in the Bible. God sent him to
-help the colored people get justice.
+Prophet Samuel wasn't no preacher. 
+---
+He was a prophet like they have in the Bible. 
+---
+God sent him to help the colored people get justice.
 ---
 ## MEMPHIS:
-The people ain't thinking about no justice when
-they lined up there. They thinking about money like
-Prophet Samuel. That's all he thought about. Justice
-come second. When God send you he pay your way.
-God ain't paid Prophet Samuel's way. The people paid
-Prophet Samuel's way hoping they get a financial bless-
-ing. You running up there giving him your little bit of
-change—what it get you? I wish I had three, four hun-
-dred people bringing me money every week. That be all
-the financial blessing I need.
+The people ain't thinking about no justice 
+---
+when they lined up there. 
+---
+They thinking about money like
+Prophet Samuel. 
+---
+That's all he thought about. 
+---
+Justice come second. 
+---
+When God send you he pay your way.
+---
+God ain't paid Prophet Samuel's way. 
+---
+The people paid Prophet Samuel's way 
+---
+hoping they get a financial blessing. 
+---
+You running up there 
+---
+giving him your little bit of change
+---
+what it get you? 
+---
+I wish I had three, 
+---
+four hundred people bringing me money every week. 
+---
+That be all the financial blessing I need.
 ---
 ## RISA:
-That's cause you don't believe in nothing. Whatever
-Prophet Samuel prophesied, it come true.
+That's cause you don't believe in nothing. 
+---
+Whatever Prophet Samuel prophesied, it come true.
 ---
 ## STERLING:
-Did he say anything about these being the last
-days? That's what I believe. I believe the world coming
-to an end.
-
-
+Did he say anything about these being the last days? 
+---
+That's what I believe. 
+---
+I believe the world coming to an end.
 ---
 ## RISA:
-He said God was gonna send a sign. That's all he
-said about that. Said you would see it, but only the wise
-men would know what it meant.
+He said God was gonna send a sign. 
+---
+That's all he said about that. 
+---
+Said you would see it, 
+---
+but only the wise men would know what it meant.
 ---
 ## STERLING:
-I be looking at the moon. Seem like it's getting
-closer and closer. You ever notice that? You look up
-and see if it ain't getting closer. Maybe that's what he
-meant by a sign. You look next time when the moon be
-full and see if it ain't getting closer. You look and then
-go right back in your house. I don't go outside when it's
-a full moon. There be at least three or four people killed
-that night. I believe the world coming to an end.
-(RBA exits into the back.)
+I be looking at the moon. 
+---
+Seem like it's getting closer and closer. 
+---
+You ever notice that? 
+---
+You look up and see if it ain't getting closer. 
+---
+Maybe that's what he meant by a sign. 
+---
+You look next time when the moon be
+full 
+---
+and see if it ain't getting closer. 
+---
+You look and then go right back in your house. 
+---
+I don't go outside when it's
+a full moon. 
+---
+There be at least three or four people killed that night. 
+---
+I believe the world coming to an end.
 ---
 ## MEMPHIS:
-If it do be the end of the world, what you gonna
-do? You can't do nothing but go down with it. It's foolish
-to worry about something like that. Something you ain't
-got no control over. If these niggers spent half the time
-they spend worrying about stuff like that and more time
-trying to figure out how to get out of the situation they
-in they wouldn't have all the problems they got now.
+If it do be the end of the world, 
+---
+what you gonna do? 
+---
+You can't do nothing but go down with it. 
+---
+It's foolish to worry about something like that. 
+---
+Something you ain't got no control over. 
+---
+If these niggers spent half the time
+---
+they spend worrying about stuff like that 
+---
+and more time trying to figure out 
+---
+how to get out of the situation they
+in 
+---
+they wouldn't have all the problems they got now.
 ---
 ## STERLING:
-Soon as I find Wolf I ain't gonna have no more
-problems. Hey, Risa if you see Wolf tell him
-I'm looking for him. He knows what it's about.
-(STERLING exits.)
-MEMPHIS (calling): Risa!
+Soon as I find Wolf I ain't gonna have no more problems. 
+---
+Hey, Risa if you see Wolf 
+---
+tell him I'm looking for him. 
+---
+He knows what it's about.
+---
+template: noise
+door opening and closing
+---
+## MEMPHIS: 
+Risa!
 ---
 ## RISA:
 What?
 ---
 ## MEMPHIS:
-Come here, woman. (Pause.) If you want your
-pay you better get out here.
-(RisA enters.)
+Come here, woman.
+---
+If you want your pay you better get out here.
+---
 I owe you forty-six dollars with the ten you took.
-
-
 ---
 ## RISA:
 I don't owe you but seven.
 ---
 ## MEMPHIS:
-You ain't counting the three dollars you got the
-other day to buy some hair grease. You ain't counting that.
+You ain't counting the three dollars 
+---
+you got the other day to buy some hair grease. 
+---
+You ain't counting that.
 ---
 ## RISA:
-I told you I put the three dollars back cause they
-ain't had the kind I wanted.
+I told you I put the three dollars back 
+---
+cause they ain't had the kind I wanted.
 ---
 ## MEMPHIS:
-Well, write a note saying you put it back. How
-in the hell I'm supposed to know you put it back? Here
-• take this forty-nine dollars. I got some business to
-take care of don't forget to put the bread in the
-refrigerator when you lock up. Put the bread in the re-
-frigerator and make sure you pull the shade down on the
-door. I got to go down to the courthouse in the morning
-▪ make sure you got enough eggs before you leave
-out of here. Well, Holloway I was talking to my
-lawyer Joseph Bartoromo I was talking to him
-on the phone. He said let him handle it. I ain't gonna
-let him handle it but so far. I told him like I tell you
-▪ I ain't going for no more draws and I ain't
-taking a penny less than twenty-five thousand dollars.
-(He starts to exit and stops at the door.)
+Well, write a note saying you put it back. 
+---
+How in the hell I'm supposed to know you put it back? 
+---
+Here take this forty-nine dollars. 
+---
+I got some business to take care of 
+---
+don't forget to put the bread in the
+---
+refrigerator when you lock up. 
+---
+Put the bread in the refrigerator 
+---
+and make sure you pull the shade down on the door. 
+---
+I got to go down to the courthouse in the morning 
+---
+make sure you got enough eggs 
+---
+before you leave out of here. 
+---
+Well, Holloway I was talking to my
+lawyer Joseph Bartoromo
+---
+I was talking to him on the phone. 
+---
+He said let him handle it. 
+---
+I ain't gonna let him handle it but so far. 
+---
+I told him like I tell you 
+---
+I ain't going for no more draws 
+---
+and I ain't taking a penny less 
+---
+than twenty-five thousand dollars.
+---
 What's that address?
 ---
 ## HOLLOWAY:
-Eighteen thirty-nine Wylie. In the back.
+Eighteen thirty-nine Wylie. 
+---
+In the back.
+---
 Knock on the red door.
-(The lights go down on the scene.)
-SCENE 3
-(The lights come up on RISA and HOLLOWAY. WOLF sits
-
-
-at the table doing his bookkeeping. RISA is sweeping. It
-is later the same day.)
+---
+template: music
 ---
 ## HOLLOWAY:
 He was staying up there on Herron Avenue.
-They found him up there today. His landlady found him.
-He just laid down across the bed with his clothes on and
-died. Say he died real peaceful. West went down to the
-morgue to get him he got some kind of contract with
-the welfare and they called him up. Hambone ain't had
-no people. Most anybody know about him is he come
-from Alabama. Don't nobody even know his right name.
+---
+They found him up there today. 
+---
+His landlady found him.
+---
+He just laid down across the bed 
+---
+with his clothes on and died. 
+---
+Say he died real peaceful. 
+---
+West went down to the morgue to get him 
+---
+he got some kind of contract with the welfare 
+---
+and they called him up. 
+---
+Hambone ain't had no people. 
+---
+Most anybody know about him 
+---
+is he come from Alabama. 
+---
+Don't nobody even know his right name.
 ---
 ## RISA:
-That's a shame. Lutz gonna rot in hell.
+That's a shame. 
+---
+Lutz gonna rot in hell.
 ---
 ## WOLF:
-Lutz ain't thinking about no hell. All he thinking
-about is his ham.
+Lutz ain't thinking about no hell. 
+---
+All he thinkingabout is his ham.
 ---
 ## HOLLOWAY:
-I went up there and told him about it cause
-he asked me to let him know what I found out. He didn't
-say nothing. He just looked at me.
-(RBA accidentally sweeps WOLF'S feet.)
+I went up there and told him about it 
+---
+cause he asked me to let him know what I found out. 
+---
+He didn't say nothing. 
+---
+He just looked at me.
 ---
 ## WOLF:
-Don't sweep me with that broom, girl. Ain't your
-mama never taught you nothing?
+Don't sweep me with that broom, girl. 
+---
+Ain't your mama never taught you nothing?
 ---
 ## RISA:
 Well, move your feet out the way then.
@@ -8088,369 +8758,717 @@ Well, move your feet out the way then.
 You sweep me with that broom and I'll end up in jail.
 ---
 ## HOLLOWAY:
-That's what's wrong with half these niggers
-now. They don't know what causes their trouble. They
-around here breaking mirrors, opening umbrellas in the
-house, and everything else.
+That's what's wrong with half these niggers now. 
+---
+They don't know what causes their trouble. 
+---
+They around here breaking mirrors, 
+---
+opening umbrellas in the house, 
+---
+and everything else.
 ---
 ## WOLF:
 Come on, Risa!
-
-
 ---
 ## RISA:
-Move your feet then, Wolf! You be gone to jail twice
-you don't move your feet.
-(She sweeps him again.)
+Move your feet then, Wolf! 
+---
+You be gone to jail twice you don't move your feet.
 ---
 ## WOLF:
 Hey, Risa. Come on, now!
-(He gets up and gathers his papers.)
-A man can't get no peace around here. If you see Ster-
-ling, tell him I'm looking for him. Tell him to wait here,
-I'll be back.
-(woLF exits.)
+---
+A man can't get no peace around here. 
+---
+If you see Sterling, 
+---
+tell him I'm looking for him. 
+---
+Tell him to wait here, I'll be back.
+---
+template: noise
+door opening and closing
 ---
 ## HOLLOWAY:
-A man was driving a truck hauling a
-whole truck full of mirrors .,lost the brakes and ran
-into a telephone pole. He wasn't hurt or nothing. He
-looked back there and saw all them mirrors broke
-he was staring at two hundred years of bad luck. They
-had to carry him away in a straitjacket.
-(WEST enters.)
+A man was driving a truck hauling 
+---
+a whole truck full of mirrors,
+---
+lost the brakes and ran into a telephone pole. 
+---
+He wasn't hurt or nothing. 
+---
+He looked back there and saw all them mirrors broke 
+---
+he was staring at two hundred years of bad luck. 
+---
+They had to carry him away in a straitjacket.
+---
+template: noise
+door opening and closing
+---
 Hey, West I see you finally got Prophet Samuel buried.
 ---
 ## WEST:
-Yeah I got him in the ground and turned
-around and went down there and got Hambone. It don't
-never stop. Time you bury one nigger you got to go get
-another. Man had so many scars on his body. I ain't
-never seen nothing like that. All on his back, his chest
-his legs. I'm gonna lay him out tomorrow and bury
-him on Saturday.
+Yeah I got him in the ground 
+---
+and turned around and went down there 
+---
+and got Hambone. 
+---
+It don't never stop. 
+---
+Time you bury one nigger you got to go get another. 
+---
+Man had so many scars on his body. 
+---
+I ain't never seen nothing like that. 
+---
+All on his back, his chest, his legs. 
+---
+I'm gonna lay him out tomorrow 
+---
+and bury him on Saturday.
 ---
 ## RISA:
-You ought to lay him out in a nice casket. I hate to
-see people laid out in them welfare caskets.
+You ought to lay him out in a nice casket. 
+---
+I hate to see people laid out in them welfare caskets.
 ---
 ## WEST:
-That's a poor man's casket. What you call a pauper's
-casket. He wouldn't look right laying in a bronze or sil-
-ver casket.
-
-
+That's a poor man's casket. 
+---
+What you call a pauper's
+casket. 
+---
+He wouldn't look right laying in a bronze or silver casket.
 ---
 ## RISA:
-I hate to see him in a welfare casket. Like his life ain't
-meant nothing. How much one of them other casket's cost?
+I hate to see him in a welfare casket. 
+---
+Like his life ain't meant nothing. 
+---
+How much one of them other casket's cost?
 ---
 ## WEST:
-You talking about a seven-hundred-dollar differ-
-ence. The welfare don't pay but three hundred and fifty
-dollars. That don't even cover laying him out. I'm laying
-him out for free. I'm gonna lay him out for two hours
-tomorrow and take him on out there and bury him. You
-talking about a bronze casket you talking about seven
-hundred dollars. At least.
+You talking about a seven hundred dollar difference. 
+---
+The welfare don't pay but three hundred and fifty dollars. 
+---
+That don't even cover laying him out. 
+---
+I'm laying him out for free. 
+---
+I'm gonna lay him out for two hours
+tomorrow 
+---
+and take him on out there and bury him. 
+---
+You talking about a bronze casket 
+---
+you talking about seven hundred dollars. 
+---
+At least.
 ---
 ## RISA:
 Ain't you got some other caskets over there?
 ---
 ## WEST:
-I don't get them for free, woman. I call the company
-and order the casket, they send me the bill. We talking
-about a seven-hundred-dollar difference.
+I don't get them for free, woman. 
+---
+I call the company and order the casket, 
+---
+they send me the bill. 
+---
+We talking about a seven hundred dollar difference.
 ---
 ## RISA:
-I wish I had seven hundred dollars to give you. I'd
-lay him out in a gold casket.
+I wish I had seven hundred dollars to give you. 
+---
+I'd lay him out in a gold casket.
 ---
 ## WEST:
-Now you talking about a seventeen-hundred-dollar
-difference. People don't understand. I got overhead. I
-got seven cars I got to keep up. Got supplies I got to
-order. How much you think that embalming fluid cost?
-I got all kinds of bills. People owe me money and won't
-pay me. It ain't all like everybody think with Mr. West.
+Now you talking about a 
+---
+seventeen hundred dollar difference. 
+---
+People don't understand. 
+---
+I got overhead. 
+---
+I got seven cars I got to keep up. 
+---
+Got supplies I got to order. 
+---
+How much you think that embalming fluid cost?
+---
+I got all kinds of bills. 
+---
+People owe me money and won't
+pay me. 
+---
+It ain't all like everybody think with Mr. West.
 ---
 ## RISA:
 I ain't said nothing about that.
 ---
 ## WEST:
-You talking about why don't I lay him out in a
-different casket. That three hundred and fifty dollars barely
-cover my expenses. You can't put nobody in the ground
-for three hundred and fifty dollars no more. I bury him in
-a different casket I'm out seven hundred dollars. I try to
-tell these niggers to keep up their insurance.
-(STERLING enters.)
-
-
+You talking about why don't I 
+---
+lay him out in a different casket. 
+---
+That three hundred and fifty dollars 
+---
+barely cover my expenses. 
+---
+You can't put nobody in the ground
+---
+for three hundred and fifty dollars no more. 
+---
+I bury him in a different casket 
+---
+I'm out seven hundred dollars. 
+---
+I try to tell these niggers to keep up their insurance.
+---
+template: noise
+door opening and closing
 ---
 ## RISA:
 Sterling, Wolf was looking for you.
 ---
 ## STERLING:
-Naw, he ain't. I'm looking for him. Nigger owe
-me twelve hundred dollars. Come on, let's go to Vegas.
-I got me a grubstake, I might get lucky. These niggers
-ain't got no money around here. Come on take off
-that apron. How you doing, Mr. West?
+Naw, he ain't. 
+---
+I'm looking for him. 
+---
+Nigger owe me twelve hundred dollars. 
+---
+Come on, let's go to Vegas.
+---
+I got me a grubstake, I might get lucky. 
+---
+These niggers ain't got no money around here. 
+---
+Come on take off that apron. 
+---
+How you doing, Mr. West?
 ---
 ## WEST:
 Fine.
 ---
 ## STERLING:
 Say, Mr. West you ever been to Vegas?
-Yo u ought to let me take you to Vegas and teach you
-how to gamble. We can make us some money.
+---
+You ought to let me take you to Vegas 
+---
+and teach you how to gamble. 
+---
+We can make us some money.
 ---
 ## WEST:
-I was gambling before you was born. Give me some
-sugar, Risa. I ran two or three crap games. Sold bootleg
-liquor and ran numbers too. The only thing you get out
-of that is an early grave. I know. I seen it happening. I
-looked up one day and so many people was dying from
-that fast life I figured I could make me some money
-burying them and live a long life too. I figured I could
-make a living from it. I didn't know I was gonna get
-rich. I found out life's hard but it ain't impossible.
+I was gambling before you was born. 
+---
+Give me some sugar, Risa. 
+---
+I ran two or three crap games. 
+---
+Sold bootleg liquor and ran numbers too. 
+---
+The only thing you get out of that is an early grave. 
+---
+I know. I seen it happening. 
+---
+I looked up one day 
+---
+and so many people was dying from that fast life 
+---
+I figured I could make me some money burying them 
+---
+and live a long life too. 
+---
+I figured I could make a living from it. 
+---
+I didn't know I was gonna get
+rich. 
+---
+I found out life's hard but it ain't impossible.
 ---
 ## STERLING:
-That's what I figure. I get my money from Wolf
-get in one of them white folks' crap games it be
-impossible to stop me. I'm gonna get me two or three
-Cadillacs like you. Get Risa to be my woman and I'll be
-alright. That's all a man need is a pocketful of money,
-a Cadillac, and a good woman. That's all he need on
-the surface. I ain't gonna talk about that other part of
-satisfaction. But I got sense enough to know it's there.
-I know if you get the surface it don't mean nothing unless
-you got the other. I know that, Mr. West. Sometimes I
-
-
-think I'll just take the woman part. And then sometimes
-that don't seem like it's enough.
+That's what I figure. 
+---
+I get my money from Wolf 
+---
+get in one of them white folks' crap games 
+---
+it be impossible to stop me. 
+---
+I'm gonna get me two or three Cadillacs like you. 
+---
+Get Risa to be my woman and I'll be
+alright. 
+---
+That's all a man need is a pocketful of money,
+---
+a Cadillac, and a good woman. 
+---
+That's all he need on the surface. 
+---
+I ain't gonna talk about that other part of satisfaction. 
+---
+But I got sense enough to know it's there.
+---
+I know if you get the surface 
+---
+it don't mean nothing 
+---
+unless you got the other. 
+---
+I know that, Mr. West. 
+---
+Sometimes I think I'll just take the woman part. 
+---
+And then sometimes that don't seem like it's enough.
 ---
 ## WEST:
-That's cause you walking around here with a ten-
-gallon bucket. Somebody put a little cupful in and you get
-mad cause it's empty. You can't go through life carrying a
-ten-gallon bucket. Get you a little cup. That's all you need.
-Get you a little cup and somebody put a little bit in and
-it's half full. That ten-gallon bucket ain't never gonna be
-full. Carry you a little cup through life and you'll never be
-disappointed. I'll tell you what my daddy told me. I was
-a young man just finding my way through life. I told him
-I wanted to find me a woman and go away and get me a
-ranch and raise horses like my grandaddy. I was still wait-
-ing around to find the woman. He told me to get the ranch
-first and the woman would come. And he was right. I
-never did get me the ranch, but he was right.
+That's cause you walking around here 
+---
+with a ten-gallon bucket. 
+---
+Somebody put a little cupful in 
+---
+and you get mad cause it's empty. 
+---
+You can't go through life carrying a
+ten-gallon bucket. 
+---
+Get you a little cup. 
+---
+That's all you need.
+---
+Get you a little cup 
+---
+and somebody put a little bit in 
+---
+and it's half full. 
+---
+That ten-gallon bucket ain't never gonna be full. 
+---
+Carry you a little cup through life 
+---
+and you'll never be disappointed. 
+---
+I'll tell you what my daddy told me. 
+---
+I was a young man just finding my way through life. 
+---
+I told him I wanted to find me a woman 
+---
+and go away and get me a ranch 
+---
+and raise horses like my grandaddy. 
+---
+I was still waiting around to find the woman. 
+---
+He told me to get the ranch first 
+---
+and the woman would come. 
+---
+And he was right. 
+---
+I never did get me the ranch, 
+---
+but he was right.
 ---
 ## STERLING:
-That's what I'm gonna do, Mr. West. You hear
-that, Risa? Soon as I get my money we going to Vegas
+That's what I'm gonna do, Mr. West. 
+---
+You hear that, Risa? 
+---
+Soon as I get my money we going to Vegas 
+---
 and I'm gonna get me enough money to buy us a ranch.
-Yo u like horses? I ain't never seen a real horse. I wouldn't
-know how to act around one. But if that's what it takes
-to get a woman like you I'm willing to do that. What's the
-matter? Don't you wanna go to Vegas with me?
+---
+You like horses? 
+---
+I ain't never seen a real horse. 
+---
+I wouldn't know how to act around one. 
+---
+But if that's what it takes to get a woman like you 
+---
+I'm willing to do that. 
+---
+What's the matter? 
+---
+Don't you wanna go to Vegas with me?
 ---
 ## RISA:
 Go on, Sterling, I don't feel like playing.
-(To WEST)
+---
 Ain't you got no other kind of metal casket over there?
+---
 What about one of them copper caskets?
 ---
 ## WEST:
-The government don't pay but three hundred and
-fifty dollars, woman! I'm doing him a favor laying him
-out. How you expect me to meet my expenses? If I laid
-everybody out in a bronze casket at my expense I'd be
-out of business.
+The government don't pay 
+---
+but three hundred and fifty dollars, woman! 
+---
+I'm doing him a favor laying him
+out. 
+---
+How you expect me to meet my expenses? 
+---
+If I laid everybody out in a bronze casket 
+---
+at my expense I'd be out of business.
 ---
 ## RISA:
-I ain't talking about everybody. I'm talking about
-Hambone.
+I ain't talking about everybody. 
+---
+I'm talking about Hambone.
 ---
 ## WEST:
-Insurance don't cost but two dollars a month. I try
-to tell people that.
+Insurance don't cost but two dollars a month. 
+---
+I try to tell people that.
 ---
 ## STERLING:
-Hambone dead? Risa Hambone dead?
+Hambone dead? 
+---
+Risa, Hambone dead?
 ---
 ## RISA:
 They found him this morning laying across his bed.
-(STERLING is thrown for a moment, but recovers
-quickly.)
 ---
 ## STERLING:
-That don't surprise me. Don't nothing surprise
-me no more.
-(woLF enters.)
-Hey, Wolf just the man I want to see. I need my
-money. Me and Risa getting married and Reverend
-Flowers want fifty dollars the cake man want fifty
-dollars the jewelry man want two hundred dollars.
-Hey, Risa you want to invite Wolf? She say yeah.
+That don't surprise me. 
+---
+Don't nothing surprise me no more.
+---
+template: noise
+door opening and closing
+---
+Hey, Wolf just the man I want to see. 
+---
+I need my money. 
+---
+Me and Risa getting married 
+---
+and Reverend Flowers want fifty dollars 
+---
+the cake man want fifty
+dollars 
+---
+the jewelry man want two hundred dollars.
+---
+Hey, Risa you want to invite Wolf? 
+---
+She say yeah.
+---
 We ain't set the date yet but we let you know.
-Where's my money, nigger? You got my money?
+---
+Where's my money, nigger? 
+---
+You got my money?
 ---
 ## WOLF:
-Look, Sterling it ain't my fault but they
-cut the number. They cut it in half. They ain't paying
-but six hundred dollars.
+Look, Sterling it ain't my fault but they cut the number. 
+---
+They cut it in half. 
+---
+They ain't paying but six hundred dollars.
 ---
 ## STERLING:
-I'm like Joe Louis. They cut the odds on Joe
-Louis all the time. That seven eighty-one was like a
-knockout punch. I knew it was gonna hit. I'm going up
-and tell the Alberts that seven eighty-one don't hit like
-a .45. Mr. West, you don't bury white people, do you?
-
-
-That's alright. I ain't gonna kill nobody. I'll just put them
-in a wheelchair.
-(To ---
-## WOLF:
-)
-And I'm gonna start with you if you don't give me my
-twelve hundred dollars.
+I'm like Joe Louis. 
+---
+They cut the odds on Joe Louis all the time. 
+---
+That seven eighty-one was like a
+knockout punch. 
+---
+I knew it was gonna hit. 
+---
+I'm going up and tell the Alberts 
+---
+that seven eighty-one don't hit like a .45.
+---
+Mr. West, you don't bury white people, do you?
+---
+That's alright. 
+---
+I ain't gonna kill nobody. 
+---
+I'll just put them in a wheelchair.
+---
+And I'm gonna start with you 
+---
+if you don't give me my twelve hundred dollars.
 ---
 ## WOLF:
-I'm gonna tell you one more time, Sterling. I ain't
-had nothing to do with it. I know you mad. Everybody
-mad. They mad out in East Liberty. People in Beltz-
-hoover everybody all up and down the avenue mad.
-I ain't had nothing to do with it. If it was up to me I'd
-pay everybody what they due. This is a job to me. That
-little bit they pay me ain't worth all that. They call me,
-say, "Wolf, the numbers cut in half." I say, "Okay."
-That's the way that go. The best I can say is you lucky
+I'm gonna tell you one more time, Sterling. 
+---
+I ain't had nothing to do with it. 
+---
+I know you mad. 
+---
+Everybody mad. 
+---
+They mad out in East Liberty. 
+---
+People in Beltzhoover 
+---
+everybody all up and down the avenue mad.
+---
+I ain't had nothing to do with it. 
+---
+If it was up to me I'd pay
+everybody what they due. 
+---
+This is a job to me. 
+---
+That little bit they pay me ain't worth all that. 
+---
+They call me, say, 
+---
+"Wolf, the numbers cut in half." 
+---
+I say, "Okay."
+---
+That's the way that go. 
+---
+The best I can say is you lucky
+---
 they didn't cut it seven ways.
 ---
 ## STERLING:
-Naw flaw, what you telling me is me and
-Risa got to postpone our getting married.
+Naw flaw, what you telling me is me and Risa 
+---
+got to postpone our getting married.
 ---
 ## RISA:
-I ain't said nothing about getting married. Don't be
-telling everybody that. Wolf, don't pay him no mind
+I ain't said nothing about getting married. 
+---
+Don't be telling everybody that. 
+---
+Wolf, don't pay him no mind
 about that.
 ---
 ## STERLING:
-See what I mean? Risa done changed her mind.
-I'm going up and see the Alberts, see if they change
-theirs. Give me my six hundred dollars, nigger.
-(woLF pays him the money.)
-I'm going up there and give it back to them. See Old
-Man Albert himself. Let him know an airplane can fall
+See what I mean? 
+---
+Risa done changed her mind.
+---
+I'm going up and see the Alberts, 
+---
+see if they change theirs. 
+---
+Give me my six hundred dollars, nigger.
+---
+I'm going up there and give it back to them. 
+---
+See Old Man Albert himself. 
+---
+Let him know an airplane can fall
 on his head.
-(STERLING starts to exit.)
 ---
 ## WOLF:
-Don't do that, Sterling. Them people don't play.
-
-
+Don't do that, Sterling. 
+---
+Them people don't play.
 ---
 ## STERLING:
-If I don't play that mean there can't be no
-game. I'm going up there and carry me a big sign say
-"Game Canceled." See? Cause I don't play either.
-(STERLING exits.)
-RISA (calling after him): Sterling!
-(The lights go down on the scene.)
-SCENE 4
-(The lights come up on the restaurant. RISA is sweeping
-the floor. STERLING enters.)
+If I don't play 
+---
+that mean there can't be no game. 
+---
+I'm going up there and carry me a big sign 
+---
+say "Game Canceled." 
+---
+See? Cause I don't play either.
+---
+template: noise
+door opening and closing
+---
+## RISA: 
+Sterling!
+---
+template: music
+---
+template: noise
+door opening and closing
 ---
 ## STERLING:
 I come by to see if you wanna go to the rally.
-(He doesn't get a response.)
-It done started already but I figure we won't be too late.
+---
+It done started already 
+---
+but I figure we won't be too late.
 ---
 ## RISA:
-You left out of here talking about you was gonna
-see the Alberts. We didn't know if we was gonna
+You left out of here talking about 
+---
+you was gonna see the Alberts. 
+---
+We didn't know if we was gonna
 see you again.
 ---
 ## STERLING:
-I didn't know it mattered to nobody. I heard
-you calling me. What you calling after me for?
+I didn't know it mattered to nobody. 
+---
+I heard you calling me. 
+---
+What you calling after me for?
 ---
 ## RISA:
 I just didn't want to see you get killed.
 ---
 ## STERLING:
-I went up there to see Old Man Albert. He
-sitting up there with four or five bodyguards. They let
-me in to see him and I told him to give me back my two
-dollars. Said I was calling off the bet. He gave me the
-two dollars and asked me for his six hundred back. I
-told him no. Told him I was gonna keep that. That way
-I have something that belong to him for a change. He
-just looked at me funny and told me to leave the same
-
-
-way I had come in. Told one of his bodyguards to show
-me the door. I left out of there and was walking by Aunt
-Ester's. I saw the light on and I figure she might be up,
-so I stopped to see her. They led me into the hallway
-and then through some curtains into this room and
-she was just sitting there. I talked to her a long while.
-To l d her my whole life story. She real nice. Ain't nobody
-ever talk to me like that. "I cannot swim does not walk
-by the lakeside." It took me a while to figure out what
-she meant. Told me, "Make better what you have and
-you have best." Then she wrote down something on a
-piece of paper, put it in a little envelope, told me to put
-it in my shoe and walk around on it for three days. I
-asked her how much I owed her. She told me to take
-twenty dollars and throw it in the river. Say she get it.
-She had this look about her real calm and sweet like. I
-asked her how old she was. She say she was three hun-
-dred and forty-nine years old. Holloway had it wrong. I
-figured anybody that old know what she talking about.
-I took twenty dollars and carried it down there. Didn't
-even think about it. I just took and threw it in the river.
+I went up there to see Old Man Albert. 
+---
+He sitting up there with four or five bodyguards. 
+---
+They let me in to see him 
+---
+and I told him to give me back my two dollars. 
+---
+Said I was calling off the bet. 
+---
+He gave me the two dollars 
+---
+and asked me for his six hundred back. 
+---
+I told him no. 
+---
+Told him I was gonna keep that. 
+---
+That way I have something 
+---
+that belong to him for a change. 
+---
+He just looked at me funny and 
+---
+told me to leave the same way I had come in. 
+---
+Told one of his bodyguards to show me the door. 
+---
+I left out of there and was walking by Aunt Ester's. 
+---
+I saw the light on and I figure she might be up,
+---
+so I stopped to see her. 
+---
+They led me into the hallway 
+---
+and then through some curtains into this room 
+---
+and she was just sitting there. 
+---
+I talked to her a long while.
+---
+Told her my whole life story. 
+---
+She real nice. 
+---
+Ain't nobody ever talk to me like that. 
+---
+"I cannot swim does not walk
+by the lakeside." 
+---
+It took me a while to figure out what she meant. 
+---
+Told me, "Make better what you have and you have best." 
+---
+Then she wrote down something on a
+piece of paper, 
+---
+put it in a little envelope, 
+---
+told me to put it in my shoe 
+---
+and walk around on it for three days. 
+---
+I asked her how much I owed her. 
+---
+She told me to take twenty dollars 
+---
+and throw it in the river. 
+---
+Say she get it.
+---
+She had this look about her real calm and sweet like. 
+---
+I asked her how old she was. 
+---
+She say she was three hundred and forty-nine years old. 
+---
+Holloway had it wrong. 
+---
+I figured anybody that old know what she talking about.
+---
+I took twenty dollars and carried it down there. 
+---
+Didn't even think about it. 
+---
+I just took and threw it in the river.
+---
 I'm gonna wait them three days and see what happen.
-Yo u ought to go up there and see her. She a real nice
-old lady. She say yeah, you the one God sent when he
-told me he couldn't send no angel.
+---
+You ought to go up there and see her. 
+---
+She a real nice old lady. 
+---
+She say yeah, you the one God sent 
+---
+when he told me he couldn't send no angel.
 ---
 ## RISA:
 Sterling, you crazy.
 ---
 ## STERLING:
-I figure me and you get us a nice little old
-place. Ain't you tired of sleeping by yourself? I am.
+I figure me and you get us a nice little old place. 
+---
+Ain't you tired of sleeping by yourself? 
+---
+I am.
 ---
 ## RISA:
 Naw, I'm just fine taking care of me.
 ---
 ## STERLING:
-You ain't got to take care of you let me
-do that. I'll take care of you real good.
-
-(He sings:)
+You ain't got to take care of you let me do that. 
+---
+I'll take care of you real good.
+---
+template: song
 Wake up, Pretty Mama
 See what I got for you
+---
+template: song
 I got everything
 Set your poor heart at ease
+---
+template: song
 I got everything for you, woman.
-I got a list of things
-long as my right arm.
+---
+template: song
+I got a list of things long as my right arm.
 ---
 ## RISA:
 Naw, that's alright.
 ---
 ## STERLING:
-Woman, you everything a man need. Know
-how to cook pay nice attention to yourself ex-
-cept for those legs. You ought not to have done that.
+Woman, you everything a man need. 
+---
+Know how to cook pay nice attention to yourself 
+---
+except for those legs. 
+---
+You ought not to have done that.
+---
 What you do that for anyway?
 ---
 ## RISA:
@@ -8458,30 +9476,62 @@ You wouldn't understand, Sterling.
 ---
 ## STERLING:
 You be surprised I got good understanding.
-That's what Aunt Ester told me. She looked at me and
-say, "I like to work with people like you cause you got
-good understanding." She say that before I could say
-anything to her. She just looked at me and said that.
+---
+That's what Aunt Ester told me. 
+---
+She looked at me and say, 
+---
+"I like to work with people like you 
+---
+cause you got good understanding." 
+---
+She say that before I could say
+anything to her. 
+---
+She just looked at me and said that.
+---
 Now why can't you do that?
 ---
 ## RISA:
 What you looking at my legs for anyway?
 ---
 ## STERLING:
-That's part of life, woman. You don't think I'm
-not gonna look at them? Even if you tried to make them
-ugly. So you wanted to have ugly legs you got them.
-Now what? I done looked at your legs, your hips, your
-titties, and everything else. Now what? I don't care if
-you got scars on your legs.
+That's part of life, woman. 
+---
+You don't think I'm not gonna look at them? 
+---
+Even if you tried to make them
+ugly. 
+---
+So you wanted to have ugly legs you got them.
+---
+Now what? 
+---
+I done looked at your legs, 
+---
+your hips, your, titties, 
+---
+and everything else. 
+---
+Now what? 
+---
+I don't care if you got scars on your legs.
 ---
 ## RISA:
-That's why I did it. To make them ugly.
+That's why I did it. 
+---
+To make them ugly.
 ---
 ## STERLING:
-You did a good job. You and God both. He
-made them pretty and you made them ugly. You both
-got what you wanted. Now why can't I get what I want?
+You did a good job. 
+---
+You and God both. 
+---
+He made them pretty and you made them ugly. 
+---
+You both got what you wanted. 
+---
+Now why can't I get what I want?
 ---
 ## RISA:
 That's what the problem is.
@@ -8493,270 +9543,536 @@ I know that's a problem. I'm trying to solve it.
 You just want what everybody else want.
 ---
 ## STERLING:
-Risa you in the world, baby. You a woman
-in the world. You here like everybody else. You got to
-make the best of it. Quite naturally when men see you
-with that big ass and them pretty legs they gonna try and
-talk you into a bed somewhere. That's common sense.
-They be less than a man if they didn't. Ain't no sense in
-you getting upset about that. You ought to take it as a
-compliment. All you got to do is say no and keep on
-stepping.
+Risa you in the world, baby. 
+---
+You a woman in the world. 
+---
+You here like everybody else. 
+---
+You got to make the best of it. 
+---
+Quite naturally when men see you
+with that big ass 
+---
+and them pretty legs they gonna try 
+---
+and talk you into a bed somewhere. 
+---
+That's common sense.
+---
+They be less than a man if they didn't. 
+---
+Ain't no sense in you getting upset about that. 
+---
+You ought to take it as a
+compliment. 
+---
+All you got to do is say no and keep on stepping.
 ---
 ## RISA:
 That just what I done.
 ---
 ## STERLING:
-I know that. Been telling me no since I met
-you. By rights I should be talking to somebody else. I
-tried that. But I was talking to her and thinking of you.
+I know that. 
+---
+Been telling me no since I met you. 
+---
+By rights I should be talking to somebody else. 
+---
+I tried that. 
+---
+But I was talking to her and thinking of you.
+---
 So I come on back.
 ---
 ## RISA:
-You ain't got no job. You going back to the peniten-
-tiary. I don't want to be tied up with nobody I got to be
-worrying is they gonna rob another bank or something.
+You ain't got no job. 
+---
+You going back to the penitentiary. 
+---
+I don't want to be tied up with nobody 
+---
+I got to be worrying is they 
+---
+gonna rob another bank or something.
 ---
 ## STERLING:
-When I was living with Mrs. Johnson before
-she died I used to watch her husband. He get up every
-morning at six o'clock. Sunday too. Six-thirty he out the
-door. Now he ain't coming back till ten o'clock at
-night. He going down to J&I, and lift hundred-pound
-100 •
-
-slabs of steel till three o'clock. Then he going over after
-they close the fish market and clean up over there. Now
-what he got? He got six kids of his own, not to mention
-me. He got a raggedy house with some beat-up furniture.
-Can't buy no house cause he can't get a loan. Now that
-sound like a hard-working man. Good. Clean. Honest.
-Upright. He work thirty years at the mill and ain't even
-got a union card. You got to work six months straight.
-They lay him off for two weeks every five and a half
-months. He got to call the police after he clean up the
-fish market so they can let him out of the building. Make
-sure he don't steal anything. What they got? Two pound
-of catfish? There got to be something else. I ain't sure I
-want to do all that.
+When I was living with Mrs. Johnson 
+---
+before she died 
+---
+I used to watch her husband. 
+---
+He get up every morning at six o'clock. 
+---
+Sunday too. 
+---
+Six-thirty he out the door. 
+---
+Now he ain't coming back till ten o'clock at night. 
+---
+He going down to J&I, and lift 
+---
+hundred-pound 100 slabs of steel till three o'clock. 
+---
+Then he going over after they close the fish market 
+---
+and clean up over there. 
+---
+Now what he got? 
+---
+He got six kids of his own, not to mention me. 
+---
+He got a raggedy house with some beat-up furniture.
+---
+Can't buy no house cause he can't get a loan. 
+---
+Now that sound like a hard-working man. 
+---
+Good. Clean. Honest. Upright. 
+---
+He work thirty years at the mill 
+---
+and ain't even got a union card. 
+---
+You got to work six months straight.
+---
+They lay him off for two weeks 
+---
+every five and a half months. 
+---
+He got to call the police 
+---
+after he clean up the fish market 
+---
+so they can let him out of the building. 
+---
+Make sure he don't steal anything. 
+---
+What they got? 
+---
+Two pound of catfish? 
+---
+There got to be something else. 
+---
+I ain't sure I want to do all that.
 ---
 ## RISA:
 You got to do something.
 ---
 ## STERLING:
-Okay. Okay. If you don't want to get married
-and have babies and all that then can we be cousins?
-Can we be kissing cousins? How's that?
-(He has cornered her. RISA pushes him away.)
+Okay. Okay. 
+---
+If you don't want to get married
+---
+and have babies and all that 
+---
+then can we be cousins?
+---
+Can we be kissing cousins? 
+---
+How's that?
 ---
 ## RISA:
 Go on, Sterling leave me alone now.
 ---
 ## STERLING:
 Risa, baby
-RBA: What?
+---
+## RISA: 
+What?
 ---
 ## STERLING:
 I ain't never met no woman like you.
 ---
 ## RISA:
-I ain't met no man like you either. But that don't
-mean I'm gonna get tied up with you. You'll never have
-me sitting and worrying what you gonna do next.
+I ain't met no man like you either. 
+---
+But that don't mean I'm gonna get tied up with you. 
+---
+You'll never have me sitting 
+---
+and worrying what you gonna do next.
 ---
 ## STERLING:
 Well, come on and go to the rally with me.
 ---
 ## RISA:
-I ain't going to no rally. You can just go on by yourself.
-
-
-(RISA goes over to the jukebox and puts in a quarter.
-"Take a Look" by Aretha Franklin begins to play.)
+I ain't going to no rally. 
+---
+You can just go on by yourself.
+---
+template: noise
+quarter starting jukebox
+---
+template: song
+Take a look in the mirror.
+Look at yourself
+---
+template: song
+But don't you look too close
+'Cause you just might see
+---
+template: song
+The person that you hate the most
 ---
 ## STERLING:
 When did that get fixed?
 ---
 ## RISA:
 Today.
-STERLING (hesitant): Yo u wanna dance?
+---
+## STERLING: 
+You wanna dance?
 ---
 ## RISA:
 Yeah.
-(They begin to dance. STERLING kisses her lightly.)
 ---
 ## STERLING:
-How's that? You wanna be kissing cousins?
-(He kisses her passionately.)
+How's that? 
+---
+You wanna be kissing cousins?
+---
 Goddamn, baby!
 ---
 ## RISA:
 Sterling.
 ---
 ## STERLING:
-I didn't know it was gonna be like this. You
-can be my first cousin.
-RISA (between kisses): I wanna be your only cousin.
+I didn't know it was gonna be like this. 
+---
+You can be my first cousin.
+---
+## RISA: 
+I wanna be your only cousin.
 ---
 ## STERLING:
 That too.
-(STERLING kisses her as the lights go down.)
-SCENE 5
-(The lights come up on the restaurant. The menu board
-reads, "Funeral for Hambone Saturday One O'Clock."
-HOLLOWAY sits in a booth. RISA is cooking. STERLING
-stands looking out the window.)
+---
+template: music
 ---
 ## HOLLOWAY:
-That's all you got. You got love and you got
-death. Death will find you it's up to you to find
-love. That's where most people fall down at. Death got
-
-
-room for everybody. Love pick and choose. Now, most
-people won't admit that. They tell you they love this one
-and that one. Most don't even love their mother. You
-can see that by the way they treat her. But they'll tell
-you anything. But they got to know in their heart. I
-believe West loved his wife. And Bubba Boy loved his
-woman. Them's the only two people I can say found
-love. The rest of us play at it. That's cause love cost.
-Love got a price to it. Everybody don't want to pay.
-They put it on credit. Time it come due they got it on
-credit somewhere else. That's the way I see the world.
+That's all you got. 
+---
+You got love and you got death. 
+---
+Death will find you it's up to you to find love. 
+---
+That's where most people fall down at. 
+---
+Death got room for everybody. 
+---
+Love pick and choose. 
+---
+Now, most people won't admit that. 
+---
+They tell you they love this one
+and that one. 
+---
+Most don't even love their mother. 
+---
+You can see that by the way they treat her. 
+---
+But they'll tell you anything. 
+---
+But they got to know in their heart. 
+---
+I believe West loved his wife. 
+---
+And Bubba Boy loved his woman. 
+---
+Them's the only two people I can say found love. 
+---
+The rest of us play at it. 
+---
+That's cause love cost.
+---
+Love got a price to it. 
+---
+Everybody don't want to pay.
+---
+They put it on credit. 
+---
+Time it come due they got it 
+---
+on credit somewhere else. 
+---
+That's the way I see the world.
+---
 That's what I done learned all these years.
-(WOLF enters.)
+---
+template: noise
+door opening and closing
 ---
 ## WOLF:
-It look like Hong Kong out there. I didn't know
-there was that many niggers in Pittsburgh. If you drive
-by you'd swear didn't nobody have no home. They all
-out there on the street.
+It look like Hong Kong out there. 
+---
+I didn't know there was that many niggers in Pittsburgh. 
+---
+If you drive by you'd swear didn't nobody have no home. 
+---
+They all out there on the street.
 ---
 ## HOLLOWAY:
 The people out there looking for opportunity.
-Whatever's out there in the way of opportunity', sooner
-or later it's got to pass through. You can't find out what's
-out there sitting at home.
-(To ---
-## WOLF:
-)
-Why ain't you home? Talking about the people. You
-just come in from out there.
+---
+Whatever's out there in the way of opportunity, 
+---
+sooner or later it's got to pass through. 
+---
+You can't find out what's out there sitting at home.
+---
+Why ain't you home? 
+---
+Talking about the people. 
+---
+You just come in from out there.
 ---
 ## WOLF:
-I got business to take care of. I can't take care of
-it sitting at home.
+I got business to take care of. 
+---
+I can't take care of it sitting at home.
 ---
 ## HOLLOWAY:
-That's what I'm trying to tell you. You can't
-separate yourself from everybody else. The people out
-there trying to figure out how they gonna eat. It's day
-
-
-off on the plantation. They waiting for the white man to
-call them back to work.
+That's what I'm trying to tell you. 
+---
+You can't separate yourself from everybody else. 
+---
+The people out there trying 
+---
+to figure out how they gonna eat. 
+---
+It's day off on the plantation. 
+---
+They waiting for the white man to call them back to work.
 ---
 ## WOLF:
-I went over there to see Hambone. West got him
-laid out real nice. He look like he sleeping. You been
-over, Sterling?
+I went over there to see Hambone. 
+---
+West got him laid out real nice. 
+---
+He look like he sleeping. 
+---
+You been over, Sterling?
 ---
 ## STERLING:
 I just left from over there.
 ---
 ## WOLF:
-Don't he look real nice and peaceful? Look like he
-sleeping.
+Don't he look real nice and peaceful? 
+---
+Look like he sleeping.
 ---
 ## STERLING:
-He look like he dead to me. I sat there awhile.
-I signed the book. Ain't but three or four people signed
-it
+He look like he dead to me. 
+---
+I sat there awhile.
+---
+I signed the book. 
+---
+Ain't but three or four people signed it
 ---
 ## WOLF:
-I signed it. I see Holloway signed it. Risa, you going
-over?
+I signed it. 
+---
+I see Holloway signed it. 
+---
+Risa, you going over?
 ---
 ## RISA:
 No I don't want to see him like that.
 ---
 ## WOLF:
-I saw you all down at the rally last night. Wasn't
-that something? Everybody was down there. Even the
-niggers that swear up and down on two stacks of Bibles
-that they ain't black they was down there. Ain't
-had but five hundred chairs and three thousand people.
-Wasn't no fight or nothing. It was real nice.
+I saw you all down at the rally last night. 
+---
+Wasn't that something? 
+---
+Everybody was down there. 
+---
+Even the niggers that swear 
+---
+up and down on two stacks of Bibles
+---
+that they ain't black they was down there. 
+---
+Ain't had but five hundred chairs 
+---
+and three thousand people.
+---
+Wasn't no fight or nothing. 
+---
+It was real nice.
 ---
 ## STERLING:
-The police was down there taking people's
-pictures.
+The police was down there taking people's pictures.
 ---
 ## WOLF:
-I seen that. Wasn't that something? They don't go
-out there where the white folks at and take their pictures.
+I seen that. 
+---
+Wasn't that something? 
+---
+They don't go out there where 
+---
+the white folks at and take their pictures.
 ---
 ## STERLING:
 I smiled when they took mine.
 ---
 ## WOLF:
 I was standing down there watching that drugstore.
-It's still smoking from the fire last night. They ain't put
-it out yet. They must have had every fire truck in the
-world down there. Did you all see that? It wasn't nothing
-but a little old drugstore. Had ten, eleven fire trucks and
-near about a hundred police. Say it started in the back
-by the alley. A couple of people seen some of them black
-power niggers around there.
+---
+It's still smoking from the fire last night. 
+---
+They ain't put it out yet. 
+---
+They must have had every fire truck 
+---
+in the world down there. 
+---
+Did you all see that? 
+---
+It wasn't nothing but a little old drugstore. 
+---
+Had ten, eleven fire trucks 
+---
+and near about a hundred police. 
+---
+Say it started in the back
+by the alley. 
+---
+A couple of people seen some of them 
+---
+black power niggers around there.
 ---
 ## HOLLOWAY:
-That ain't nothing but talk. Everybody know
-the man burned down his own store so he could get the
-insurance. That's the only way he get anything out of it.
-If he pack up and leave he don't get nothing. This way
-he get paid for everything all his stock his build-
-ing everything. That's the best way to sell a business
-don't nobody want to buy. Sell it to the insurance com-
-pany. All them niggers standing down there watching the
-fire they don't know but somebody's going to
-jail. The police got to snatch one of them. That way the
-insurance company pay quicker. Meyer's gonna walk
-away with two hundred thousand dollars and somebody
-going to jail for three years. See if I ain't right. You
-watch over the next two or three days and see if they
-don't arrest somebody as he walking by there. Meyer's
-gonna be down there in Florida playing golf and laying
-on the beach and the fire inspector's gonna be right
-there with him. That's the way it works in America.
+That ain't nothing but talk. 
+---
+Everybody know the man burned down 
+---
+his own store so he could get the
+insurance. 
+---
+That's the only way he get anything out of it.
+---
+If he pack up and leave he don't get nothing. 
+---
+This way he get paid for everything 
+---
+all his stock his building everything. 
+---
+That's the best way to sell a business
+---
+don't nobody want to buy. 
+---
+Sell it to the insurance company. 
+---
+All them niggers standing down there 
+---
+watching the fire they don't know 
+---
+but somebody's going to jail. 
+---
+The police got to snatch one of them. 
+---
+That way the insurance company pay quicker. 
+---
+Meyer's gonna walk away with 
+---
+two hundred thousand dollars 
+---
+and somebody going to jail for three years. 
+---
+See if I ain't right. 
+---
+You watch over the next two or three days 
+---
+and see if they don't arrest somebody 
+---
+as he walking by there. 
+---
+Meyer's gonna be down there in Florida 
+---
+playing golf and laying on the beach 
+---
+and the fire inspector's gonna be right there with him. 
+---
+That's the way it works in America.
 ---
 ## WOLF:
-You right about that. It's hard to live in America.
-Did you all hear where Petey Brown killed his old lady
-last night? Caught her in the Ellis Hotel with his best
-friend. Killed him too. That's why I don't have no one
-woman. When I die every woman in Pittsburgh gonna
-cry. They ain't gonna know what to do with themselves.
-My woman come and told me she had another man. I
-
-
-told her say, "Alright, baby, but he can't hear and he
-can't see. He can't see like I do. You got to be able to
-pull a whole lot of boxcars to keep up with me." I'm
-like Prophet Samuel if a man can get him seven
-women if he can find seven women want to be with
-him let him have them seven and one or two more.
-Seven women wanna lay down with him must see some-
-thing they like. Hell, it's hard to get one, let alone seven.
-It's hard to get one you can trust that far. See, when
-you lay down with her, you trusting her with your life.
-Yo u lay down you got to close your eyes. It wouldn't be
-nothing for somebody to walk up and slit your throat.
-That's why you lock the door at night. You lock the door
-and it be just you and her. That's a whole lot of trust there.
-If I had that I wouldn't give it up for nothing. Other than
-that when I die every woman in Pittsburgh gonna cry.
-(WEST enters.)
+You right about that. 
+---
+It's hard to live in America.
+---
+Did you all hear where Petey Brown 
+---
+killed his old lady last night? 
+---
+Caught her in the Ellis Hotel with his best friend. 
+---
+Killed him too. 
+---
+That's why I don't have no one
+woman. 
+---
+When I die every woman in Pittsburgh gonna cry. 
+---
+They ain't gonna know what to do with themselves.
+---
+My woman come and told me she had another man. 
+---
+I told her say, 
+---
+"Alright, baby, but he can't hear and he can't see. 
+---
+He can't see like I do. 
+---
+You got to be able to pull 
+---
+a whole lot of boxcars to keep up with me." 
+---
+I'm like Prophet Samuel 
+---
+if a man can get him seven women 
+---
+if he can find seven women 
+---
+want to be with him 
+---
+let him have them seven and one or two more.
+---
+Seven women wanna lay down with 
+him 
+---
+must see something they like. 
+---
+Hell, it's hard to get one, let alone seven.
+---
+It's hard to get one you can trust that far. 
+---
+See, when you lay down with her, 
+---
+you trusting her with your life.
+---
+You lay down you got to close your eyes. 
+---
+It wouldn't be nothing for somebody to walk up 
+---
+and slit your throat.
+---
+That's why you lock the door at night. 
+---
+You lock the door and it be just you and her. 
+---
+That's a whole lot of trust there.
+---
+If I had that I wouldn't give it up for nothing. 
+---
+Other than that when I die 
+---
+every woman in Pittsburgh gonna cry.
+---
+template: noise
+door opening and closing
 ---
 ## HOLLOWAY:
 Hey, West.
@@ -8765,24 +10081,36 @@ Hey, West.
 Mr. West himself!
 ---
 ## WEST:
-How you doing, Holloway? Hey, Risa, give me a
-cup of coffee. Memphis ain't come back yet?
+How you doing, Holloway? 
+---
+Hey, Risa, give me a cup of coffee. 
+---
+Memphis ain't come back yet?
 ---
 ## HOLLOWAY:
-I hope he didn't go down there and act a fool to
-where they had to lock him up. The courthouse been closed.
+I hope he didn't go down there 
+---
+and act a fool to where they had to lock him up. 
+---
+The courthouse been closed.
 ---
 ## STERLING:
-Say, Mr. West I just wanna tell you you
-did a good job on Hambone. I just wanna tell you that.
+Say, Mr. West I just wanna tell you 
+---
+you did a good job on Hambone. 
+---
+I just wanna tell you that.
 ---
 ## WEST:
-I got him laid out there for two hours tonight
-just in case anybody wanna see him then I'm gonna
-take him on out there and bury him tomorrow. Lutz
-come by to see him after he closed his store.
-
-
+I got him laid out there for two hours tonight 
+---
+just in case anybody wanna see him 
+---
+then I'm gonna take him on out there 
+---
+and bury him tomorrow. 
+---
+Lutz come by to see him after he closed his store.
 ---
 ## RISA:
 Lutz gonna rot in hell.
@@ -8800,102 +10128,250 @@ Yeah, give me a cup.
 Let me get some sugar, Risa.
 ---
 ## HOLLOWAY:
-Things done quieted down over there now
-with Prophet Samuel gone.
+Things done quieted down over there 
+---
+now with Prophet Samuel gone.
 ---
 ## WEST:
 It took seven hours to bury him.
 ---
 ## HOLLOWAY:
-Hey, West, tell him that wasn't nothing
-like Patchneck Red.
+Hey, West, tell him that wasn't 
+---
+nothing like Patchneck Red.
 ---
 ## WEST:
-I ain't never seen nothing like that. The way them
-people carried on it was sinful. I buried that boy
-Begaboo but it wasn't nothing like that. There was just
-as many people, but they was respectful. Them niggers
-come to bury Patchneck Red act like it was a party.
+I ain't never seen nothing like that. 
+---
+The way them people carried on it was sinful. 
+---
+I buried that boy Begaboo but it wasn't nothing like that. 
+---
+There was just as many people,
+---
+but they was respectful. 
+---
+Them niggers come to bury Patchneck Red 
+---
+act like it was a party.
 ---
 ## STERLING:
-Here's your twenty dollars, Wolf. Hey, Risa
-hold this for me.
+Here's your twenty dollars, Wolf. 
+---
+Hey, Risa hold this for me.
 ---
 ## RISA:
 What's that?
 ---
 ## STERLING:
-That's my money. All five hundred and sixty-
-two dollars of it. Hold it for me I'll be right back.
-(STERLING exits.)
-
-
+That's my money. 
+---
+All five hundred and sixty-
+two dollars of it. 
+---
+Hold it for me I'll be right back.
+---
+template: noise door opening and closing
 ---
 ## WOLF:
-Risa, what's going on with you and Sterling? Some-
-thing going on. Don't get me wrong now, I ain't said
-nothing wrong with it. You know me. I live and let live.
+Risa, what's going on with you and Sterling? 
+---
+Something going on. 
+---
+Don't get me wrong now, 
+---
+I ain't said nothing wrong with it. 
+---
+You know me. 
+---
+I live and let live.
+---
 I think it's nice.
 ---
 ## RISA:
 Wolf, ain't nobody paying you no mind.
 ---
 ## WOLF:
-Naw, Sterling's alright with me. He act kind of crazy
-sometime. But he alright with me. I think it's nice.
-(MEMPHIS enters, singing. He has been drinking.)
+Naw, Sterling's alright with me. 
 ---
+He act kind of crazy sometime. 
+---
+But he alright with me. 
+---
+I think it's nice.
+---
+template: noise
+Memphis singing outside
+---
+template: noise 
+door opening and closing
+---
+template: song
 ## MEMPHIS:
+We don't care what Mama don't allow.
 
-We don't care what Mama don't allow
-We gonna barrelhouse anyhow
-Hey Hey Holloway. You know the Brass Rail
-down there by the courthouse? Man they got a bar-
-maid down there you can stand up right next to Risa. She
-gonna wait on me till I come back. She down there now.
-I told her I'll be back. She get off at seven o'clock. I left
-the courthouse, stopped down there and got me a few
-drinks. Hey hey Risa, fix me something to eat.
-Holloway I took that twenty dollars and threw it in
-the river right down there in the Monongahela
-River. I went and stood on the Brady Street Bridge
-I didn't just let it drop. I took and tied a rock around
-it and threw it just like Aunt Ester say. She told me
-if I do that everything be alright. And she was right too.
-She told me, "If you can't fight the fire, don't mess with
-it." Only I'm ready to fight it now. Hey, West look
-here I went down there to the courthouse ready to
-fight for that twenty-five thousand dollars I want for my
-property. I wasn't taking no fifteen. I wasn't taking no
-
-
-twenty. I want twenty-five thousand. They told me, "Well,
-Mr. Lee . we got a clause, and the city is prepared to
-put into motion"—that's the part I like, "prepared to put
-into motion"—"the securing of your property at sixteen
-twenty-one Wylie Avenue"--they had the address right
-and everything—"for the sum of thirty-five thousand dol-
-lars." I liked to fell over. The lawyer standing there, he
-know I'm mad and he ready to fight it. I told him, "Don't
-you say a word. Don't you open your mouth." Thirty-five
-thousand dollars! I started to go up and tell my wife. She
-up there. She up there at the house. She come back to get
-her things and ended up staying. I moved out. She moved
-back in and I moved out. Told her I had something to do
-and if she be there when I get back—if I get back—then we
-can sit down and talk. You know what I'm gonna do? Aunt
-Ester clued me on this one. I went up there and told her my
-whole life story. She say, "If you drop the ball, you got to go
-back and pick it up. Ain't no need in keeping running, cause
-if you get to the end zone it ain't gonna be a touchdown."
-She didn't say it in them words but that's what she meant.
-To l d me "You got to go back and pick up the ball."
-That's what I'm gonna do. I'm going back to Jackson and
-see Stovall. If he ain't there, then I'm gonna see his son. He
-enjoying his daddy's benefits he got to carry his daddy's
-weight. I'm going on back up to Jackson and pick up the ball.
-(He notices the sign on the menu board.)
+We gonna barrelhouse anyhow.
+---
+Hey Hey Holloway. 
+---
+You know the Brass Rail down there by the courthouse? 
+---
+Man they got a barmaid down there 
+---
+you can stand up right next to Risa. 
+---
+She gonna wait on me till I come back. 
+---
+She down there now.
+---
+I told her I'll be back. 
+---
+She get off at seven o'clock. 
+---
+I left the courthouse, 
+---
+stopped down there and got me a few
+drinks. 
+---
+Hey hey Risa, fix me something to eat.
+---
+Holloway I took that twenty dollars 
+---
+and threw it in the river 
+---
+right down there in the Monongahela
+River. 
+---
+I went and stood on the Brady Street Bridge
+---
+I didn't just let it drop. 
+---
+I took and tied a rock around
+it 
+---
+and threw it just like Aunt Ester say. 
+---
+She told me if I do that everything be alright. 
+---
+And she was right too.
+---
+She told me, 
+---
+"If you can't fight the fire, 
+---
+don't mess with it." 
+---
+Only I'm ready to fight it now. 
+---
+Hey, West look here 
+---
+I went down there to the courthouse 
+---
+ready to fight for that 
+---
+twenty-five thousand dollars 
+---
+I want for my property. 
+---
+I wasn't taking no fifteen. 
+---
+I wasn't taking no twenty. 
+---
+I want twenty-five thousand. 
+---
+They told me, "Well, Mr. Lee . we got a clause, 
+---
+and the city is prepared to
+put into motion"
+---
+that's the part I like, 
+---
+"prepared to put into motion"
+---
+"the securing of your property at 
+---
+sixteen twenty-one Wylie Avenue"
+---
+they had the address right and everything
+---
+"for the sum of
+---
+thirty-five thousand dollars." 
+---
+I liked to fell over. 
+---
+The lawyer standing there, 
+---
+he know I'm mad and he ready to fight it. 
+---
+I told him, "Don't you say a word. 
+---
+Don't you open your mouth." 
+---
+Thirty-five thousand dollars! 
+---
+I started to go up and tell my wife. 
+---
+She up there. 
+---
+She up there at the house. 
+---
+She come back to get her things 
+---
+and ended up staying. 
+---
+I moved out. 
+---
+She moved back in and I moved out. 
+---
+Told her I had something to do
+---
+and if she be there when I get back
+---
+if I get back
+---
+then we can sit down and talk. 
+---
+You know what I'm gonna do? 
+---
+Aunt Ester clued me on this one. 
+---
+I went up there and told her my
+whole life story. 
+---
+She say, "If you drop the ball, 
+---
+you got to go back and pick it up. 
+---
+Ain't no need in keeping running, 
+---
+cause if you get to the end zone 
+---
+it ain't gonna be a touchdown."
+---
+She didn't say it in them words 
+---
+but that's what she meant.
+---
+Told me 
+---
+"You got to go back and pick up the ball."
+---
+That's what I'm gonna do. 
+---
+I'm going back to Jackson and
+see Stovall. 
+---
+If he ain't there, then I'm gonna see his son. 
+---
+He enjoying his daddy's benefits 
+---
+he got to carry his daddy's weight. 
+---
+I'm going on back up to Jackson and pick up the ball.
+---
 "Funeral for Hambone Saturday One O'Clock." 
+---
 Hambone dead? 
 ---
 He dead?
@@ -8963,7 +10439,7 @@ When I get back
 if I get back from seeing Stoval 
 ---
 I'm gonna open me up 
-----
+---
 a big restaurant
 ---
 right down there on Centre Avenue. 
