@@ -62,79 +62,164 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
+template: title
 The Luckiest 
+
 By Melissa Ross 
-    No performance or reading of this 
-work may be given without express 
-permission of the author.  Inquiries 
-regarding performance rights should  
-be addressed to the author’s agent: 
-THE GERSH AGENCY  Madison Avenue, 33rd Floor 
-New York, NY 10010 
-Attn. Leah Hamos 2.634.8153 
-LHamos@Gersh.com 
-CHARACTERS 
-Lissette 
-Peter – Lissette’s Best Friend 
-Cheryl – Lissette’s Mom  
-
-TIME AND PLACE 
-Spanning the last decade or so  
-New York City and Vermont 
-THE TEXT 
-A slash in the middle of a line indicates overlapping dialogue. 
-Internal punctuation inside of a sentence should serve as a guide for 
-emphasis and intention and not be considered true stops.  
-A beat is a quick shift in thought – a momentary breath – and should not 
-be given too much significance.  Pauses have a bit more weight.  Silences 
-should be allowed to linger.  
-A NOTE 
-The world should be created with as few sets and props and costume 
-changes as possible.  Each scene should effortlessly move out of one and 
-into the next – from one place to another – from one time to another – 
-with only slight shifts in lights and sounds and furnishings to assist with 
-that transition.  We should never feel anywhere too literally rendered – 
-however that shouldn’t mean that we are never anywhere hugely and 
-richly specific.    
-
-
-A kitchen.  
-Peter and Lissette.  Both late thirties-ish.  Lissette is in a wheelchair.  Peter is 
-unpacking bags of groceries.  Lissette doesn’t vocally speak but she is very much 
-still enthusiastically a part of this conversation.  It is a dialogue not a monologue.   
 ---
 ## PETER: 
-So everybody is confirmed for tomorrow – all 40 of them.  Forty seems like a lot. 
-Do you really like all of these people?    I don’t think I even like ten 
-people.  Maybe fifteen.  But forty.    Allison finally got back to 
-me.  I had to nag her which was annoying but she’s coming.  (Lissette gives a 
-thumbs up.)  Why is she always so.  She’s always so.  Weird.  About committing 
-to things right? What’s that about.    Isn’t she too old 
-to be so.  To be such a fucking commitmentphobe about everything about 
-fucking brunch plans.  Like just say yes.  Don’t be an asshole and make us beg 
-to hang out with you.    Like maybe if she started responding to 
-emails she could find love and happiness.  She’s turning into one of those 
-crabby old ladies.   She is you know she is she 
-needs to nip that shit in the bud right now.   But she’s coming!  
-Yay!    Everybody is 
-coming.    I said 10am.  Is that too early?    I 
-figure we can just hang out today right?  You and me.  Relax.  Just us.  And 
-then tomorrow the masses can all descend.    OK good good.  
-This house is great, right?    I was a little…  Unsure?  About a random Air 
-BnB in Vermont?  AirBnB creeps me out a bit.  But the pictures were pretty 
-spot on.    Did you see there’s a pool out back?    Maybe 
-we’ll sit by the pool. Later.    If you feel up to it.  No rules.  For today no 
-rules.  Tomorrow there are rules. For everybody else.  But no rules for us.  
-So!  I uh…    I have 
-like I have I went to Trader Joe’s and I got the.  That cheese with the 
-whatsitcalled the.    Cheddar with the.  (He finds it in the 
-bag.)  The truffles.  Cheddar with truffles.  That was the right one, right?  (She 
-gives a thumbs up.)  And I got the.  You wanted the.  (He gets something else out 
-of the bag.)  Mediterranean hummus, right?    OK good.  
-There were many hummus-es. Is that the plural of hummus?  (She shrugs and 
-laughs.)  Or is it.  Hummus-i?  Is that it.  There were so many hummus-i?  (She 
-laughs.  He laughs.  Beat.)  You say hummus-es.  I say hummus-i.  (She rolls her 
-eyes.)  Sorry I’m making the joke go on too long aren’t I.  It wasn’t that funny of 
+So everybody is confirmed for tomorrow 
+---
+all 40 of them.  
+---
+Forty seems like a lot. 
+---
+Do you really like all of these people?    
+---
+I don’t think I even like ten 
+people.  
+---
+Maybe fifteen.  
+---
+But forty.    
+---
+Allison finally got back to 
+me.  
+---
+I had to nag her which was 
+---
+annoying but she’s coming. 
+---
+Why is she always so.  
+---
+She’s always so.  
+---
+Weird.  
+---
+About committing to things right? 
+---
+What’s that about.    
+---
+Isn’t she too old to be so.  
+---
+To be such a fucking commitmentphobe 
+---
+about everything about fucking brunch plans.  
+---
+Like just say yes.  
+---
+Don’t be an asshole and make 
+---
+us beg to hang out with you.    
+---
+Like maybe if she started 
+---
+responding to emails 
+---
+she could find love and happiness.  
+---
+She’s turning into one of those 
+---
+crabby old ladies.   
+---
+She is you know she is 
+---
+she needs to nip that shit 
+---
+in the bud right now.   
+---
+But she’s coming!  
+---
+Yay!    
+---
+Everybody is coming.    
+---
+I said 10am.  
+---
+Is that too early?    
+---
+I figure we can just hang out today right?  
+---
+You and me.  
+---
+Relax.  
+---
+Just us.  
+---
+And then tomorrow the masses can all descend.    
+---
+OK good good. 
+---
+This house is great, right? 
+---
+I was a little…  
+---
+Unsure?  
+---
+About a random Air BnB in Vermont?  
+---
+AirBnB creeps me out a bit.  
+---
+But the pictures were pretty 
+spot on.    
+---
+Did you see there’s a pool out back?    
+---
+Maybe we’ll sit by the pool. 
+---
+Later.    
+---
+If you feel up to it. 
+---
+No rules.  
+---
+For today no rules.  
+---
+Tomorrow there are rules. 
+---
+For everybody else. 
+---
+But no rules for us.  
+---
+So!  I uh…    
+---
+I have like 
+-----
+I have I went to Trader Joe’s 
+---
+and I got the.  
+---
+That cheese with the whatsitcalled the.    
+---
+Cheddar with the. 
+---
+The truffles.  
+---
+Cheddar with truffles.  
+---
+That was the right one, right?  
+---
+And I got the.  
+---
+You wanted the.    
+---
+Mediterranean hummus, right?    
+---
+OK good.  
+---
+There were many hummus-es. 
+---
+Is that the plural of hummus?   
+---
+Or is it.  
+----
+Hummus-i?  Is that it.  
+---
+There were so many hummus-i?  
+---
+You say hummus-es.  I say hummus-i.  
+---
+Sorry I’m making the joke go on too long aren’t I.  It wasn’t that funny of 
 a joke.    Oh really?  You don’t like my joke Lissette?  
 Fuck you.    But good I got the right one the right hummus good.    
 Good.  That’s good.    I got like.  So many chips.  I’m sorry.  (An it’s OK 
