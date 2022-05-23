@@ -793,6 +793,17 @@ I've got it.
 ---
 Here we go, take two.
 ---
+template: music
+guitar music
+---
+template: noise
+morning birds singing
+---
+template: noise
+rooster crows
+---
+template: noise
+coffee percolating
 ---
 ## SHARON:
 And here's the other thing!
@@ -1405,6 +1416,15 @@ It'll probably be bad,
 all first poems are bad poems.
 ---
 There's a great liberty in being bad.
+---
+template: music
+guitar music
+---
+template: noise
+frogs croaking
+---
+template: noise
+dog barks
 ---
 ## ROBYN:
 Hey!
@@ -2052,6 +2072,9 @@ Okay.
 ---
 Okay!
 ---
+template: song
+music plays
+---
 I've never
 ---
 you know
@@ -2126,12 +2149,20 @@ Or children.
 ## ROBYN:
 We need new music.
 ---
+template: song
+new music plays
+---
 ## SHARON:
 What is that?
 ---
 ## ROBYN:
 New music.
 ---
+template: music
+guitar music
+---
+template: noise
+rooster crowing
 ---
 ## ROBYN:
 Hello!
@@ -2274,6 +2305,9 @@ I'd love some.
 ---
 ## SHARON:
 Okay!
+---
+template: noise
+phone rings
 ---
 ## ROBYN:
 It's for me.
@@ -2650,6 +2684,15 @@ I told him I couldn't talk.
 ---
 I was going on a date.
 ---
+template: music
+guitar music
+---
+template: noise
+dog barks
+---
+template: noise
+garbage truck
+---
 ## SHARON:
 Kitchen supplies
 ---
@@ -2707,8 +2750,23 @@ Victoria Jones.
 ---
 Oh.
 ---
+template: music
+guitar music
+---
 template: noise
-door unlocking
+frogs croaking
+---
+template: noise
+car pulling up
+---
+template: noise
+car door slams
+---
+template: noise
+keys jingling
+---
+template: noise
+screen door slams
 ---
 ## ROBYN:
 Oh!
@@ -4217,6 +4275,24 @@ and I bet you did too.
 ## ROBYN:
 Good night.
 ---
+template: noise
+timer dings
+---
+template: music
+guitar music
+---
+template: noise
+morning birds singing
+---
+template: noise
+rooster crows
+---
+template: 
+coffee percolating
+---
+template: noise
+French language tape plays
+---
 ## FRENCH RECORDING:
 Repetez s'il vous plait.
 ---
@@ -4575,6 +4651,16 @@ your date of birth
 ---
 and your credit card information.
 ---
+template: music
+---
+template: noise
+frogs croaking
+---
+template: noise
+cicadas chirping
+---
+template: noise
+kids playing outside
 ---
 ## SHARON:
 Yes , how much would you like?
@@ -5137,6 +5223,22 @@ Are we good?
 ## ROBYN:
 We're good.
 ---
+template: music
+---
+template: noise
+cicadas chirping
+---
+template: noise
+car pulls up
+---
+template: noise
+car door slams
+---
+template: noise
+keys jingling
+---
+template: noise
+screen door slams
 ---
 ## ROBYN:
 Oh hey look who's home!
@@ -5718,6 +5820,8 @@ It catches us.
 ## ROBYN:
 And then what?
 ---
+template: music
+---
 ## SHARON:
 I'm sorry.
 ---
@@ -5741,6 +5845,15 @@ Robyn...
 ---
 ## ROBYN:
 Good night.
+---
+template: music
+guitar music
+---
+template: noise
+dogs barking
+---
+template: noise
+kids playing outside
 ---
 ## SHARON:
 Robyn, hi.
@@ -5885,6 +5998,24 @@ Nobody wants you.
 Amanda doesn't want you!
 ---
 So come back!
+---
+template: noise
+doll shatters
+---
+template: noise
+dolls shattering
+---
+template: noise
+thunder rolls
+---
+template: noise
+rain falling
+---
+template: noise
+record player needle scratches
+---
+template: noise
+phone rings
 ---
 ## ANSWERING MACHINE:
 Hili, you've reached
