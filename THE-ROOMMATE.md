@@ -64,6 +64,8 @@ END SETTINGS
 ---
 template: title
 THE ROOMATE
+
+by Jen Silverman
 ---
 ## SHARON:
 And this is the kitchen.
@@ -82,14 +84,16 @@ I cook, sure.
 ## SHARON:
 Okay! 
 ---
-Okay, well we can divide up 
+Okay, well we can divide up the 
 ---
-the refrigerator or the pantry shelves
+refrigerator or the pantry shelves
 ---
-depending on sort of what and when you cook
+depending on sort of 
+---
+what and when you cook.
 ---
 ## ROBYN:
-I'm a vegan
+I'm a vegan.
 ---
 ## SHARON:
 Okay! Okay...
@@ -109,14 +113,14 @@ Nope, no meat
 Or eggs
 ---
 ## ROBYN:
-That would be an animal product
+That would be an animal product.
 ---
 ## SHARON:
 Sure! 
 ---
 Sure it would
 ---
-Uh...but like, carrots
+Uh... but like, carrots
 ---
 ## ROBYN:
 Yes carrots are fine.
@@ -145,7 +149,9 @@ yeah we can find
 ---
 there's some extra cabinet space 
 ---
-if we just move things around a bit
+if we just move things 
+---
+around a bit
 ---
 ## ROBYN:
 Yeah there's a lot of space
@@ -160,13 +166,14 @@ it's not palatial but
 I mean, Iowa, 
 ---
 it specializes in corn and space
+
 [laughing]
 ---
 If you want 
 ---
 you can leave stuff on the porch
 ---
-'til you're all unpacked
+'til you're all unpacked.
 ---
 ## ROBYN:
 Oh no no, 
@@ -200,7 +207,9 @@ Okay! Yes.
 ---
 Yes. 
 ---
-Wow. Well. 
+Wow.
+---
+Well. 
 ---
 I see I am going to learn a lot 
 ---
@@ -216,7 +225,7 @@ New York, you said?
 The Bronx.
 ---
 ## SHARON:
-The -! The Bronx!
+The! The Bronx!
 ---
 ## ROBYN:
 Took about two days, by car.
@@ -237,6 +246,7 @@ I thought somewhere Upstate
 I didn't think...
 ---
 Isn't the Bronx...
+---
 dangerous?
 ---
 ## ROBYN:
@@ -259,7 +269,7 @@ I've never lived in New York.
 It's okay. 
 ---
 I mean. 
-
+---
 There's parts. 
 ---
 Parts where you don't wanna
@@ -273,7 +283,7 @@ I stayed there for a little while
 and nothing ever
 ---
 ## SHARON:
-Oh you aren'tfrom the Bronx!
+Oh you aren't from the Bronx!
 ---
 ## ROBYN:
 Everywhere has parts like that.
@@ -295,7 +305,9 @@ early summer
 ---
 you just go on down to the basement 
 ---
-'til they pass. It's fine.
+'til they pass. 
+---
+It's fine.
 ---
 ## ROBYN:
 There are a lot of tornados
@@ -329,7 +341,7 @@ You know.
 I'm not Iowan.
 ---
 ## ROBYN:
-Oh okay
+Oh, okay.
 ---
 ## SHARON:
 I don't know if I said that?
@@ -365,12 +377,16 @@ Oh! You have a son?
 I do, he lives in New York.
 ---
 ## ROBYN:
-That's great. In the Bronx?
+That's great. 
+---
+In the Bronx?
 ---
 ## SHARON:
-No! No no
-
-He lives "Park Slope" do you know where?
+No! No no.
+---
+He lives "Park Slope" 
+---
+do you know where?
 ---
 He lives in "Park Slope."
 ---
@@ -382,10 +398,9 @@ He pays way too much for
 ---
 I tell him that all the time, 
 ---
-I say In Iowa you could have 
+I say, In Iowa you could have 
 ---
-a house for the money you
-spend on
+a house for the money you spend on
 ---
 He doesn't like it when I say that.
 ---
@@ -443,9 +458,13 @@ I don't have any problem with homosexuals.
 Oh good.
 ---
 ## SHARON:
-Nope. Not at all. 
+Nope. 
 ---
-I think, you know, gay rights!
+Not at all. 
+---
+I think, you know, 
+---
+gay rights!
 ---
 Let them marry!
 ---
@@ -453,7 +472,9 @@ Let them marry!
 Thank you.
 ---
 ## SHARON:
-Some of my son's friends are homosexual people.
+Some of my son's friends 
+---
+are homosexual people.
 ---
 Probably most of them.
 ---
@@ -471,7 +492,9 @@ straight people in New York.
 ## SHARON:
 I kissed a girl once in college.
 ---
-I'm sorry. I'm nervous.
+I'm sorry. 
+---
+I'm nervous.
 ---
 ## ROBYN:
 Why are you nervous?
@@ -488,7 +511,9 @@ I'm fifty-four years old.
 A roommate!
 ---
 ## ROBYN:
-It's okay. You'll save money.
+It's okay. 
+---
+You'll save money.
 ---
 ## SHARON:
 No, I know! 
@@ -700,9 +725,13 @@ Being a dollmaker can be very
 stressful.
 ---
 ## SHARON:
-Your boxes are so heavy and you just got here.
+Your boxes are so heavy 
 ---
-Leave them on the porch and put your feet up.
+and you just got here.
+---
+Leave them on the porch 
+---
+and put your feet up.
 ---
 I'll get us coffee.
 ---
@@ -764,6 +793,7 @@ I've got it.
 ---
 Here we go, take two.
 ---
+---
 ## SHARON:
 And here's the other thing!
 ---
@@ -815,7 +845,9 @@ Oh. Oh yes.
 ---
 I guess I did, didn't I.
 ---
-She's joined a...local farm. 
+She's joined a...
+---
+local farm. 
 ---
 And she just got here! 
 ---
@@ -835,7 +867,9 @@ folding chair,
 ---
 but it's a bicycle.
 ---
-Anyway, she seems like a very healthy person 
+Anyway, she seems like a 
+---
+very healthy person 
 ---
 with a very sort of healthy lifestyle, 
 ---
@@ -932,7 +966,9 @@ I get hooked on the gum.
 ---
 I just need to quit cold turkey.
 ---
-Everything that I do, I just need to DO it, 
+Everything that I do, 
+---
+I just need to DO it, 
 ---
 no half-measures. 
 ---
@@ -1052,7 +1088,9 @@ I don't know what that is.
 I write poems and then I perform them.
 ---
 ## SHARON:
-And what do you write...about?
+And what do you write
+---
+about?
 ---
 ---
 ## ROBYN:
@@ -1128,12 +1166,14 @@ Oh. I don't think so.
 Maybe you could explain them to me.
 ---
 ## ROBYN:
-Poetry can't really...be explained.
+Poetry can't really be explained.
 ---
 ## SHARON:
 That's probably why I don't like it.
 ---
-Oh! Sorry! I didn't mean...
+Oh! Sorry! 
+---
+I didn't mean...
 ---
 ## ROBYN:
 No. No no. 
@@ -1228,7 +1268,7 @@ And maybe a sheep
 or a cow or something.
 ---
 ## SHARON:
-A.. .sheep.
+A sheep.
 ---
 ## ROBYN:
 I don't know, 
@@ -1329,7 +1369,9 @@ on models of things
 ---
 airplanes, trains, cars
 ---
-and he'd spend all his time with those mini-things
+and he'd spend all his time 
+---
+with those mini-things
 ---
 instead of with me, 
 ---
@@ -1337,7 +1379,9 @@ in our normal-sized life.
 ---
 Ha!
 ---
-Maybe I'll write a..."slam" poem about that
+Maybe I'll write a
+---
+"slam" poem about that
 ---
 and you can perform it.
 ---
@@ -1436,7 +1480,9 @@ I grow my own medicinal herbs, Sharon.
 Those are...?
 ---
 ## ROBYN:
-I thought you knew. You said you liked them!
+I thought you knew. 
+---
+You said you liked them!
 ---
 ## SHARON:
 I did like them! 
@@ -1541,7 +1587,7 @@ Girlfriend.
 ---
 ## ROBYN:
 Right, sorry Straight. 
-----
+---
 You said that.
 ---
 ## SHARON:
@@ -1566,7 +1612,7 @@ That's nice.
 She's a lesbian.
 ---
 ## ROBYN:
-...Oh?
+Oh?
 ---
 ## SHARON:
 Not that there's anything wrong with that!!
@@ -1619,7 +1665,9 @@ And it ended badly.
 But we loved each other.
 ---
 ## SHARON:
-Are you...a bisexual?
+Are you...
+---
+a bisexual?
 ---
 ## ROBYN:
 No. 
@@ -1759,7 +1807,9 @@ No cancer.
 Okay.
 ---
 ## ROBYN:
-Yeah! Nice.
+Yeah! 
+---
+Nice.
 ---
 ## SHARON:
 I don't feel anything.
@@ -2082,6 +2132,7 @@ What is that?
 ## ROBYN:
 New music.
 ---
+---
 ## ROBYN:
 Hello!
 ---
@@ -2306,7 +2357,7 @@ He sounds nice.
 He does?
 ---
 ## ROBYN:
-Yeah .
+Yeah.
 ---
 He had a nice voice.
 ---
@@ -2360,11 +2411,10 @@ Tell him you were on a date.
 What?
 ---
 ## ROBYN:
-Yeah . A date.
+Yeah. A date.
 ---
 ## SHARON:
-N
-A-!
+NA!
 ---
 On a Saturday morning?
 ---
@@ -2413,7 +2463,9 @@ There aren't any women serial killers though.
 So that's different.
 ---
 ## ROBYN:
-When was the last time you were on a date?
+When was the last time 
+---
+you were on a date?
 ---
 ## SHARON:
 When I got married! 
@@ -2459,7 +2511,9 @@ Stop mummifying yourself.
 I'd go on a date if you went.
 ---
 ## ROBYN:
-What! Oh no no no
+What! 
+---
+Oh no no no.
 ---
 ## SHARON:
 Like a double
@@ -2481,7 +2535,7 @@ it's awkward now!
 Someone with a sister
 ---
 ## ROBYN:
-No! No no
+No! No no.
 ---
 ## SHARON:
 We could all get coffee together
@@ -2856,7 +2910,7 @@ What should I not be telling people?
 Nothing. 
 ---
 There's nothing to not-tell.
-----
+---
 I came here for some peace and quiet.
 ---
 ## SHARON:
@@ -4497,7 +4551,9 @@ And you become different.
 ---
 You find yourself to be...
 ---
-truly...alive.
+truly...
+---
+alive.
 ---
 Think about how one person can 
 ---
@@ -4509,13 +4565,16 @@ and objects and silence.
 ---
 Thank you Tanya.
 ---
-It's people like you who make the difference.
+It's people like you 
+---
+who make the difference.
 ---
 The next step requires 
 ---
 your date of birth 
 ---
 and your credit card information.
+---
 ---
 ## SHARON:
 Yes , how much would you like?
@@ -4572,9 +4631,11 @@ I told you
 You're not from here.
 ---
 ## SHARON:
-played the clarinet as a child.
+I played the clarinet as a child.
 ---
-Tanya refers to her book club as a 
+Tanya refers to her 
+---
+book club as a 
 ---
 ## SHARON & ROBYN:
 Reading group.
@@ -5076,6 +5137,7 @@ Are we good?
 ## ROBYN:
 We're good.
 ---
+---
 ## ROBYN:
 Oh hey look who's home!
 ---
@@ -5083,7 +5145,9 @@ Oh hey look who's home!
 There you are!
 ---
 ## ROBYN:
-Whoa. Whoa mama.
+Whoa. 
+---
+Whoa mama.
 ---
 Look at you.
 ---
@@ -6078,8 +6142,11 @@ but there's a great liberty
 ---
 in being bad.
 ---
+template: music
 ---
-
+template: title
+THE ROOMATE
+by Jen Silverman
 ---
 ---
 template: title
