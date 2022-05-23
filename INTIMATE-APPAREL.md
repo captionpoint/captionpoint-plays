@@ -444,7 +444,7 @@ And you're smart and good
 and you deserve 
 ---
 all the attention in that room,
---- 
+---
 but today is her day and
 ---
 all I ask is that you
@@ -3403,7 +3403,7 @@ and they match it up well,
 ---
 but now listen, 
 ---
-you can understand that um sometimes, 
+you can understand that sometimes, 
 ---
 you need to just understand 
 ---
@@ -3979,7 +3979,7 @@ I'll fetch the basin.
 Why don't yuh come sit by me. 
 ---
 Let me see yuh.
----  
+---
 ---
 Are yuh afraid of me? 
 ---
@@ -5081,7 +5081,7 @@ I miss writing our letters.
 I do! 
 ---
 template: overlap
-## MRS> VAN BUREN:
+## MRS. VAN BUREN:
 I've been absolutely without purpose 
 
 ## ESTHER:
@@ -5850,7 +5850,10 @@ No, I ain't laughin.
 ---
 ---
 template: noise
-cutting and crumpling of money
+cutting of the quilt
+---
+template: noise
+crumpling of money
 ---
 ## ESTHER:
 There. 
