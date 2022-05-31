@@ -1676,67 +1676,100 @@ But who takes care of you, huh?
 Yeah I mean sure.   
 ---
 ## CHERYL: 
-Did she tell you that you hadda talk to me or did you volunteer? 
+Did she tell you that you hadda 
+---
+talk to me or did you volunteer? 
 ---
 ## PETER: 
-She didn’t tell me she asked if I would do it and I said I would do it. 
+She didn’t tell me 
+---
+she asked if I would do it 
+---
+and I said I would do it. 
 ---
 ## CHERYL: 
 Why would you ever say yes to that. 
 ---
 ## PETER: 
-Because.  She’s my best friend and I. 
+Because.  
+---
+She’s my best friend and I. 
 ---
 ## CHERYL: 
 This is terrible task she gave. 
 ---
 ## PETER: 
-And because I.  Really care about you.   
+And because I.  
+---
+Really care about you.   
 ---
 ## CHERYL: 
-I always wanted a son.  Son’s take care of their mothers.  Do you take 
-care of your mother? 
+I always wanted a son.  
+---
+Son’s take care of their mothers.  
+---
+Do you take care of your mother? 
 ---
 ## PETER: 
 My mother’s dead. 
 ---
 ## CHERYL: 
-Mine too.    Was your’s an asshole?  Mine was kind of an asshole. 
+Mine too.    
+---
+Was your’s an asshole?  
+---
+Mine was kind of an asshole. 
 ---
 ## PETER: 
 My mother? 
 ---
 ## CHERYL: 
 Yeah. 
-
 ---
 ## PETER: 
 She was complicated.   
 ---
 ## CHERYL: 
-Mine told me I was going to hell at least five times a year and I still made sure 
-they changed her diapers in the home so.  What else are you gonna do, right? 
-
-
-Pause. 
-She takes a pack of Life Savers out of her purse.   
-She takes a few out till she gets pineapple.   
-
-She holds the candy out to Peter.   
-
+Mine told me I was going to hell 
+---
+at least five times a year 
+---
+and I still made sure they changed 
+---
+her diapers in the home so.  
+---
+What else are you gonna do, right? 
 ---
 ## CHERYL: 
-You want?  I only like pineapple. 
+You want?  
+---
+I only like pineapple. 
 ---
 ## PETER: 
 You gotta cherry one? 
 ---
 ## CHERYL: 
-When I was a kid I useta pick out all the pineapples 
-and throw the rest in the garbage.  Drove my asshole mother nuts. (A little 
-laugh.)  Who do you think came up with that huh?  Lime, lemon I get.  But 
-pineapple.  Crazy.    What kinda candy did you 
-like when you were a kid, Petey.   
+When I was a kid I useta pick out 
+---
+all the pineapples 
+---
+and throw the rest in the garbage.  
+---
+Drove my asshole mother nuts.
+---
+[little laugh]
+---
+Who do you think came up with that huh?  
+---
+Lime, lemon I get.  
+---
+But pineapple.  
+---
+Crazy.    
+---
+What kinda candy did you like 
+---
+when you were a kid, Petey.   
 ---
 ## PETER: 
 Big League Chew. 
@@ -1748,13 +1781,20 @@ Isn’t that gum?
 Yeah. 
 ---
 ## CHERYL: 
-Gum’s not candy what was your favorite candy. 
+Gum’s not candy 
+---
+what was your favorite candy. 
 ---
 ## PETER: 
 I think I liked plain old Hershey Bars. 
 ---
 ## CHERYL: 
-Yeah those were the same when I was a kid too.  You’re an old soul. 
+Yeah those were the same 
+---
+when I was a kid too.  
+---
+You’re an old soul.
+---
 I’ve been told. 
 ---
 ## PETER: 
@@ -1765,65 +1805,144 @@ I wanna pull the plug.
 ---
 ## PETER: 
 There isn’t gonna be a plug. 
-
-
 ---
 ## CHERYL: 
-I’m the mother I should get to pull the plug.  That’s a place of honor.  I want 
-that title. Plug puller. 
+I’m the mother 
+---
+I should get to pull the plug.  
+---
+That’s a place of honor.  
+---
+I want that title. 
+---
+Plug puller. 
 ---
 ## PETER: 
-There isn’t going to be a literal plug.  I think it’s a drink. It’s a.   
+There isn’t going to be a literal plug.  
+---
+I think it’s a drink. 
+---
+It’s a.   
 ---
 ## CHERYL: 
 So I can make the drink. 
 ---
 ## PETER: 
-There’s a nurse!  There will be a nurse there who will monitor all of it 
+There’s a nurse!  
+---
+There will be a nurse there 
+---
+who will monitor all of it 
 ---
 ## CHERYL: 
-I need a job!    And you need to give it to me because you’re 
-the event planner you’re the organizer the host the whatever you are so you tell 
-me what my job is, Petey! You gotta give me a job any job to do an important 
-job I need you need to give me something anything because I. 
-Listen to me.  Cheryl. 
-lasagna. You will.   
+I need a job!    
+---
+And you need to give it to me 
+---
+because you’re the event planner 
+---
+you’re the organizer 
+---
+the host 
+---
+the whatever you are 
+---
+so you tell me what my job is, Petey! 
+---
+You gotta give me a job 
+---
+any job 
+---
+to do an important job 
+---
+I need you need to give me something 
+---
+anything because I. 
 ---
 ## PETER: 
-
-You are gonna make the 
+Listen to me.  
+---
+Cheryl. 
+---
+You will.   
+---
+## PETER: 
+You are gonna make the lasagna. 
 ---
 ## CHERYL: 
 Oh fuck you with the lasagna. 
 ---
 ## PETER: 
-No fuck you.  That’s an important job.  You want a job.  That’s your job.  You’re 
-making the lasagna. 
+No fuck you.  
+---
+That’s an important job.  
+---
+You want a job.  
+---
+That’s your job.  
+---
+You’re making the lasagna. 
 ---
 ## CHERYL: 
 Now you’re making fun. 
 ---
 ## PETER: 
-You are gonna make the most delicious lasagna that anybody has ever tasted in 
-their entire life.  You are gonna make the most delicious lasagna Lissette has 
-ever tasted in her entire life.  You are gonna put all your love into that fucking 
-Lasagna, Cheryl.  We are gonna bite in to that lasagna and it’s gonna taste like 
-childhood.  And we’re all gonna taste that love you have for her.  And she’s 
-gonna eat up all that love you have for her and it’s gonna be in her belly.  That’s 
-your job.  That’s the most important job and I need you to promise me that you 
-are gonna do that for her? OK?  Can you do that?  Can you promise me that 
-you’ll do that?   
-She nods and holds his hands in hers.   
-She holds his hands tight.   
-She keeps nodding.  And nodding.  And nodding.  Refusing to cry.   
-
-
-Peter and Lissette 
+You are gonna make 
+---
+the most delicious lasagna 
+---
+that anybody has ever tasted 
+---
+in their entire life.  
+---
+You are gonna make 
+---
+the most delicious lasagna 
+---
+Lissette has ever tasted 
+---
+in her entire life.  
+---
+You are gonna put all your love 
+---
+into that fucking Lasagna, Cheryl.  
+---
+We are gonna bite in to that lasagna 
+---
+and it’s gonna taste like 
+childhood.  
+---
+And we’re all gonna taste 
+---
+that love you have for her.  
+---
+And she’s gonna eat up all that 
+---
+love you have for her 
+---
+and it’s gonna be in her belly.  
+---
+That’s your job.  
+---
+That’s the most important job 
+---
+and I need you to promise me 
+---
+that you are gonna do that for her? 
+---
+OK?  
+---
+Can you do that?  
+---
+Can you promise me that you’ll do that? 
+---
 ---
 ## LISSETTE: 
-OK so I need to tell you something and I need you to not freak out on me when I 
-tell it to you. 
-
+OK so I need to tell you something 
+---
+and I need you to not freak out 
+---
+on me when I tell it to you. 
 ---
 ## PETER: 
 What did you do. 
@@ -1838,13 +1957,17 @@ No seriously what did you do.
 What makes you think I did something? 
 ---
 ## PETER: 
-Because I know you.  I know you better than you know you. 
+Because I know you.  
+---
+I know you better than you know you. 
 ---
 ## LISSETTE: 
 OK that is definitely not true but whatever. 
 ---
 ## PETER: 
-I know you better than almost anybody knows you. 
+I know you better than 
+---
+almost anybody knows you. 
 ---
 ## LISSETTE: 
 I mean that’s maybe partially true maybe. 
@@ -1857,119 +1980,198 @@ OK but what kind of judgy bullshit is that???
 ---
 ## PETER: 
 I’m not judging! 
-
 ---
 ## LISSETTE: 
-What kind of bullshit is that making an assumption that I fucking did 
-something.   
+What kind of bullshit is that 
+---
+making an assumption 
+---
+that I fucking did something.   
 ---
 ## PETER: 
-Why are you surprised that I would ask that??? 
-She gives him a look. 
+Why are you surprised 
+---
+that I would ask that??? 
 ---
 ## PETER: 
 Don’t give me that look. 
-
-
 ---
 ## LISSETTE: 
 Don’t micromanage my expressions. 
 ---
 ## PETER: 
-You are making a big deal out of minutia.  You know that right? 
-
+You are making a big deal out of minutiae.  
+---
+You know that right? 
 ---
 ## LISSETTE: 
 I’m not giving you a look! 
 ---
 ## PETER: 
-You can’t see your face!  It is a subliminal look! 
+You can’t see your face!  
+---
+It is a subliminal look! 
 ---
 ## LISSETTE: 
 That’s not an actual thing. 
 ---
 ## PETER: 
-Are you denying that you are a person who seems to.  Find drama. 
+Are you denying that you 
+---
+are a person who seems to.  
+---
+Find drama. 
 ---
 ## LISSETTE: 
-I wouldn’t call it drama I would just. 
+I wouldn’t call it drama 
+---
+I would just. 
 ---
 ## PETER: 
-Are you forgetting the time I helped you hack into your boss’s email account to 
-intercept. 
+Are you forgetting the time 
+---
+I helped you hack into your 
+---
+boss’s email account to intercept. 
 ---
 ## LISSETTE: 
 Yes I know I was there! 
-
 ---
 ## PETER: 
-To intercept an email where you told him that he and his fucking misogynist 
+To intercept an email 
+---
+where you told him 
+---
+that he and his fucking misogynist, 
+---
 ass grabbing self could. 
 ---
 ## LISSETTE: 
-Please stop telling me about things that I already know about! 
+Please stop telling me about 
+---
+things that I already know about! 
 ---
 ## PETER: 
-Or what about the fucking pregnant pig.  Are you forgetting the pregnant pig. 
+Or what about 
+---
+the fucking pregnant pig.  
+---
+Are you forgetting the pregnant pig? 
 ---
 ## LISSETTE: 
-I refuse to engage in this conversation with you. 
-
+I refuse to engage 
+---
+in this conversation with you. 
 ---
 ## PETER: 
-We can’t let a pregnant pig be turned into bacon, Peter!  We have to save 
-the pregnant pig! 
+We can’t let a pregnant pig 
+---
+be turned into bacon, Peter!  
+---
+We have to save the pregnant pig! 
 ---
 ## LISSETTE: 
 IT WAS A VERY GOOD THING THAT WE DID THAT. 
 ---
 ## PETER: 
 I agree but still. 
-
-
 ---
 ## LISSETTE: 
-Petunia is on a farm and living a wonderful life happy as literally a “pig in shit”.  
-And got to have her babies surrounded by fucking vegans.  And it’s all 
-because of us. 
+Petunia is on a farm 
+---
+and living a wonderful life 
+---
+happy as literally 
+---
+a “pig in shit”.  
+---
+And got to have her babies 
+---
+surrounded by fucking vegans.  
+---
+And it’s all because of us. 
 ---
 ## PETER: 
 Dude we stole a fucking pig! 
-
 ---
 ## LISSETTE: 
-Sometimes a bad deed is fine if it’s for the greater good. 
+Sometimes a bad deed is fine 
+---
+if it’s for the greater good. 
 ---
 ## PETER: 
-What if that pig was supposed to die?  What if it’s some kind of bullshit where 
-you go back in time and you change things and then you create a dystopian 
+What if that pig was supposed to die? 
+---
+What if it’s some kind of bullshit 
+---
+where you go back in time 
+---
+and you change things 
+---
+and then you create a dystopian 
+---
 future because of it. 
 ---
 ## LISSETTE: 
-OK I love you and I see where you’re going with that.  But.  We didn’t fuck up 
-the world because we saved Petunia.  God wasn’t like.  You know what?  The 
-world needs more bacon and because Peter and Lissette messed shit up I am 
-going destroy the world. That didn’t happen. 
+OK I love you 
+---
+and I see where you’re going with that.  
+---
+But.  
+---
+We didn’t fuck up the world 
+---
+because we saved Petunia.  
+---
+God wasn’t like.  
+---
+You know what?  
+---
+The world needs more bacon 
+---
+and because Peter and Lissette 
+---
+messed shit up 
+---
+I am going destroy the world. 
+---
+That didn’t happen. 
 ---
 ## PETER: 
-OK fine but I’m just saying that it shouldn’t be surprising to you that when you 
-say.  “Don’t freak out.”  I respond with.  “What did you do.” 
+OK fine but I’m just saying 
+---
+that it shouldn’t be surprising 
+---
+to you that when you say.  
+---
+“Don’t freak out.”  
+---
+I respond with.  
+---
+“What did you do.” 
 ---
 ## LISSETTE: 
-Fine whatever keep judging.  Judgy McGee.  Just you do you.   
+Fine whatever keep judging.  
+---
+Judgy McGee.  
+---
+Just you do you.   
 ---
 ## PETER: 
 Not judging. 
 ---
 ## LISSETTE: 
-I’m…    Unpredictable. 
+I’m...   
+---
+Unpredictable. 
 ---
 ## PETER: 
 Correct. 
 ---
 ## LISSETTE: 
-And fun.  I am so fun. 
-
+And fun.  
+---
+I am so fun. 
 ---
 ## PETER: 
 Sometimes. 
@@ -1979,18 +2181,21 @@ I am your favorite person.
 ---
 ## PETER: 
 Sometimes. 
-
-
 ---
 ## LISSETTE: 
-You’re such an asshole.  Stop being an asshole.   
+You’re such an asshole.  
+---
+Stop being an asshole.   
 ---
 ## PETER: 
-Will you just please tell me whatever you need to tell me. 
-
+Will you just please tell me
+---
+whatever you need to tell me. 
 ---
 ## LISSETTE: 
-First apologize to me for accusing me of doing something. 
+First apologize to me 
+---
+for accusing me of doing something. 
 ---
 ## PETER: 
 Oh my god why are we. 
@@ -2005,7 +2210,7 @@ Sorry.
 Why are you sorry. 
 ---
 ## PETER: 
-I am sorry for… 
+I am sorry for...
 ---
 ## LISSETTE: 
 For making the assumption. 
@@ -2014,40 +2219,48 @@ For making the assumption.
 For making the assumption. 
 ---
 ## LISSETTE: 
-That my really fun and awesome friend Lissette who I have known for over a 
-decade and. 
+That my really fun and awesome 
+---
+friend Lissette who I have known 
+---
+for over a decade and. 
 ---
 ## PETER: 
-That my… 
+That my...
 ---
 ## LISSETTE: 
 Say it. 
 ---
 ## PETER: 
-I’m saying it!  Stop being bossy! 
+I’m saying it!  
+---
+Stop being bossy! 
 ---
 ## LISSETTE: 
 Say it. 
 ---
 ## PETER: 
 That my really fun and awesome friend Lissette. 
-
-
 ---
 ## LISSETTE: 
-You have to mean it.  You have to say it with so much sincerity. 
+You have to mean it.  
+---
+You have to say it with so much sincerity. 
 ---
 ## PETER: 
 I mean it! 
-
 ---
 ## LISSETTE: 
-You don’t sound like you mean it you sound like you’re mocking me. 
+You don’t sound like you mean it 
+---
+you sound like you’re mocking me. 
 ---
 ## PETER: 
 That my really fun and awesome friend Lissette. 
-for.  Over a decade.   
-Who I have known 
+---
+Who I have known for.  
+---
+Over a decade.   
 ---
 ## LISSETTE: 
 Did something bad and that. 
@@ -2059,68 +2272,100 @@ I never implied bad!
 Did something bad. 
 ---
 ## PETER: 
-Fine.  Did something bad. 
+Fine.  
+---
+Did something bad. 
 ---
 ## LISSETTE: 
 And also. 
-
 ---
 ## PETER: 
 And also. 
 ---
 ## LISSETTE: 
-She is my best friend and favorite person in the entire world.   
+She is my best friend 
+---
+and favorite person in the entire world.   
 ---
 ## PETER: 
-You are my best friend and you are one of my favorite people in the entire world. 
+You are my best friend 
+---
+and you are one of my favorite 
+---
+people in the entire world. 
 ---
 ## LISSETTE: 
 Fucker. 
 ---
 ## PETER: 
-If it’s cool with you I would like to leave space for a boyfriend to be my favorite 
-person in the entire world.  I would like to have a boyfriend. 
+If it’s cool with you 
+---
+I would like to leave space 
+---
+for a boyfriend to be my favorite 
+---
+person in the entire world.  
+---
+I would like to have a boyfriend. 
 ---
 ## LISSETTE: 
 I would also like for you to have a boyfriend. 
 ---
 ## PETER: 
 Yeah. 
-
-
 ---
 ## LISSETTE: 
-Because you are a wonderful and amazing human and you deserve someone as 
+Because you are a wonderful 
+---
+and amazing human 
+---
+and you deserve someone as 
+---
 wonderful and amazing as you are. 
 ---
 ## PETER: 
 Yeah yeah. 
 ---
 ## LISSETTE: 
-No yeah yeah.  Look me in the eye and tell me that you believe down deep in 
-your heart that you deserve that. 
+No yeah yeah.  
+---
+Look me in the eye and tell me 
+---
+that you believe down deep 
+---
+in your heart 
+---
+that you deserve that. 
 ---
 ## PETER: 
-Can you just tell me what you need to tell me. 
+Can you just tell me 
+---
+what you need to tell me. 
 ---
 ## LISSETTE: 
 First you need to look me in the eye.   
 ---
 ## PETER: 
-This is bananas.  You’re being bananas. 
-Look me in the eye goddamnit. 
-Now tell me.   
+This is bananas.  
 ---
-## LISSETTE: 
-
+You’re being bananas.
+---
+## LISSETTE:  
+Look me in the eye goddamnit. 
+---
+Now tell me.   
 ---
 ## PETER: 
 I feel ridiculous. 
 ---
 ## LISSETTE: 
 I don’t care.   
+---
+I am a wonderful 
+---
 and amazing human and I. 
-Just do it.  I am a wonderful 
+---
+Just do it.   
 ---
 ## PETER: 
 So fucking bossy. 
@@ -2132,23 +2377,38 @@ Say it.
 I am a wonderful and amazing human. 
 ---
 ## LISSETTE: 
-And I deserve someone as wonderful and amazing as I am. 
+And I deserve someone as wonderful 
+---
+and amazing as I am. 
 ---
 ## PETER: 
-And I…    Why am I crying?   
+And I...   
+---
+Why am I crying?   
 ---
 ## LISSETTE: 
-And I deserve someone as wonderful and amazing as I am. 
-
-
+And I deserve someone 
+---
+as wonderful and amazing as I am. 
 ---
 ## PETER: 
-And I deserve someone as.  Wonderful and.  Amazing.  As.  I am.   
-Pause… 
+And I deserve someone as.  
+---
+Wonderful and.  
+---
+Amazing.  
+---
+As.  
+---
+I am.   
+---
 ---
 ## PETER: 
-So…  You still haven’t told me what you wanted to tell me. 
-
+So... 
+---
+You still haven’t told me 
+---
+what you wanted to tell me. 
 ---
 ## LISSETTE: 
 Oh right. 
@@ -2157,20 +2417,33 @@ Oh right.
 Now I’m bursting at the seams with curiosity. 
 ---
 ## LISSETTE: 
-You need to promise not to be weird about it.  Do you promise. 
+You need to promise 
+---
+not to be weird about it.  
+---
+Do you promise. 
 ---
 ## PETER: 
 Yes. 
 ---
 ## LISSETTE: 
-Like I need you to not even blink an eye just hear what I’m gonna say like it’s 
-totally the most normal thing you’ve ever heard. 
+Like I need you 
+---
+to not even blink an eye 
+---
+just hear what I’m gonna say 
+---
+like it’s totally the most normal 
+---
+thing you’ve ever heard. 
 ---
 ## PETER: 
-OK… 
+OK...
 ---
 ## LISSETTE: 
-It’s nothing it’s not that big a deal or anything. 
+It’s nothing 
+---
+it’s not that big a deal or anything. 
 ---
 ## PETER: 
 Did you win powerball??? 
@@ -2179,78 +2452,177 @@ Did you win powerball???
 No. 
 ---
 ## PETER: 
-Fuck that would have been so awesome if you won powerball. 
-
+Fuck that would have been so 
+---
+awesome if you won powerball. 
 ---
 ## LISSETTE: 
-Yeah it would…  It really would.  But no.  I did not win.  Powerball.   
-Pause… 
+Yeah it would... 
+---
+It really would.  
+---
+But no.  
+---
+I did not win.  
+---
+Powerball.   
 ---
 ## PETER: 
-Oh my god tell me just fucking tell me! 
-
-
+Oh my god tell me 
+---
+just fucking tell me! 
 ---
 ## LISSETTE: 
-OK.    OK.    Um.    So…  I did what you told me to do and 
-I went to the doctor to figure out what’s up with my leg and my hands and why 
-I keep falling down and she. 
+OK.    OK.    Um.   
+---
+So... 
+---
+I did what you told me to do 
+---
+and I went to the doctor 
+---
+to figure out what’s up with my leg 
+---
+and my hands and why I keep 
+---
+falling down and she. 
 ---
 ## PETER: 
 Finally. 
-
 ---
 ## LISSETTE: 
-And she sent me to this specialist and so I went to the specialist and they. 
+And she sent me to this specialist 
+---
+and so I went to the specialist and they. 
 ---
 ## PETER: 
 Did you tell me you were doing that? 
 ---
 ## LISSETTE: 
-No?  I donno I don’t think?  Anyway they did all these tests like lots of 
-tests and they. 
+No?  
+---
+I donno I don’t think?  
+---
+Anyway they did all these tests 
+---
+like lots of tests and they. 
 ---
 ## PETER: 
 Good good. 
 ---
 ## LISSETTE: 
-And they kept saying that thing they say that doctors say that.  Don’t worry 
-they say you’re fine everything’s fine we just need to see this and that and I 
-kept freaking out that my shitty insurance wouldn’t cover all of it because my 
-deductible is so huge. 
+And they kept saying that thing 
+they say 
+---
+that doctors say that.  
+---
+Don’t worry they say 
+---
+you’re fine 
+---
+everything’s fine 
+---
+we just need to see this and that 
+---
+and I kept freaking out 
+---
+that my shitty insurance 
+---
+wouldn’t cover all of it 
+---
+because my deductible is so huge. 
 ---
 ## PETER: 
-You need to do the tests if the doctors want tests. 
+You need to do the tests 
+---
+if the doctors want tests. 
 ---
 ## LISSETTE: 
-I know I know!  I did the tests I was just freaking out because it’s gonna be a lot 
-of money that’s all I’m saying.  I took the tests.    I took all the endless 
-tests and.    And then I waited for weeks. And I almost forgot about it but 
-then last week they were like can you come in?    Um.  They had me 
-come in.  It’s never good when they want you to come in.  I tried to get them to 
-tell me whatever it was over the phone but they wouldn’t. I was like just tell me 
-please can you please just tell me.  But they changed the subject.  They didn’t 
-answer.  They just said “OK!  We are transferring you to the receptionist!”  Like 
-they didn’t even hear me.  Like I thought in my head I was screaming but 
-maybe it was just in my head?  I.    The receptionist couldn’t fit me in for 
-a week.  I kept saying I think this is important and she said we’ll put you on a 
-cancellation list and I said fine and so all week I had to just wait and it was 
-awful waiting and I. 
+I know I know!  
+---
+I did the tests 
+---
+I was just freaking out 
+---
+because it’s gonna be 
+---
+a lot of money 
+---
+that’s all I’m saying.  
+---
+I took the tests.    
+---
+I took all the endless tests and.    
+---
+And then I waited for weeks. 
+---
+And I almost forgot about it 
+---
+but then last week they were like 
+---
+can you come in?    
+---
+Um.  They had me come in.  
+---
+It’s never good 
+---
+when they want you to come in.  
+---
+I tried to get them to tell me 
+---
+whatever it was over the phone 
+---
+but they wouldn’t. 
+---
+I was like just tell me please 
+---
+can you please just tell me.  
+---
+But they changed the subject.  
+---
+They didn’t answer.  
+---
+They just said “OK! 
+---
+We are transferring you 
+---
+to the receptionist!” 
+---
+Like they didn’t even hear me.  
+---
+Like I thought in my head I was screaming 
+---
+but maybe it was just in my head?  
+---
+I.    
+---
+The receptionist couldn’t fit me in for a week.  
+---
+I kept saying I think this is important 
+---
+and she said we’ll put you 
+---
+on a cancellation list 
+---
+and I said fine 
+---
+and so all week I had to just wait 
+---
+and it was awful waiting and I. 
 ---
 ## PETER: 
 But you’re fine.   
 ---
 ## LISSETTE: 
 And so I went back yesterday. 
-
-
 ---
 ## PETER: 
-They wouldn’t have you wait a week if you weren’t fine. 
+They wouldn’t have you wait a week 
+---
+if you weren’t fine. 
 ---
 ## LISSETTE: 
 I don’t think they care either way.   
-
 ---
 ## PETER: 
 Is it a torn ligament? 
@@ -2265,110 +2637,223 @@ Did you get an MRI?
 I didn’t get an MRI. 
 ---
 ## PETER: 
-You need to get an MRI.  Don’t try to save money if you need an MRI you need 
+You need to get an MRI.  
+---
+Don’t try to save money 
+---
+if you need an MRI you need 
 to.   
 ---
 ## LISSETTE: 
-OH MY GOD PETER I DON’T NEED A FUCKING MRI. 
-Pause… 
+OH MY GOD PETER 
+---
+I DON’T NEED A FUCKING MRI. 
+---
 ---
 ## LISSETTE: 
-Sorry.  I didn’t mean to. 
+Sorry.  
+---
+I didn’t mean to. 
 ---
 ## PETER: 
 It’s OK. 
 ---
 ## LISSETTE: 
-I.    Um.  And so I.    So…    So yesterday I went back in 
-and they sat me down and they tried to act like everything wasn’t a disaster and 
-so they were cold.  They were all so cold. 
+I.    Um.  
+---
+And so I.    
+---
+So...   
+---
+So yesterday I went back in 
+---
+and they sat me down 
+---
+and they tried to act like 
+---
+everything wasn’t a disaster 
+---
+and so they were cold.  
+---
+They were all so cold. 
 ---
 ## PETER: 
-What’s wrong.   
-
+What’s wrong?  
 ---
 ## LISSETTE: 
 Please don’t. 
 ---
 ## PETER: 
-What’s wrong. 
+What’s wrong? 
 ---
 ## LISSETTE: 
-You’re getting worried and I need you right now to not be worried. 
-
-
+You’re getting worried and I need 
+---
+you right now to not be worried. 
 ---
 ## PETER: 
-WHAT’S FUCKING WRONG. 
+WHAT’S FUCKING WRONG? 
 ---
 ## LISSETTE: 
-Peter I am this close to 100 percent freaking out and so I need you to not freak 
-out because I need today I need.  Today I need you to tell me that it’s all gonna 
-be OK.  Lie to me if you have to.  But today I need you to act like there’s nothing 
-wrong with anything I’m about to tell you.  If I see your face freak out I’m gonna 
-full on fall apart.  Because.  There is so much epically wrong with what I’m 
-about to tell you OK?  But if you shrug and say it’s fine.  It’s fine it’s a bump in 
-the road it’s an obstacle but it’s not as bad as you think it is.  If you do that for 
-me.  Today.  I will be OK I won’t fall over the edge.  I’m.    I’m gonna need 
-to tell my mom I don’t know how to tell my mom.  And she is going to.  I mean 
-it’s.  I just. Before I fucking put on my big girl pants and deal with this. I just 
-need one day.  Just one fucking day.   Where I can pretend that none of this is 
-actually happening.  And so if I say it out loud and you don’t blink an eye you 
-just take it in if you do that for just for today.  It’ll be OK.  I can pretend it’s OK. 
-I just need today to pretend today that it’s OK. 
+Peter I am this close 
+---
+to 100 percent freaking out 
+---
+and so I need you to not freak 
+out 
+---
+because I need 
+---
+today I need.  
+---
+Today I need you to tell me 
+---
+that it’s all gonna be OK.  
+---
+Lie to me if you have to.  
+---
+But today I need you to act 
+---
+like there’s nothing wrong 
+---
+with anything I’m about to tell you.  
+---
+If I see your face freak out 
+---
+I’m gonna full on fall apart.  
+---
+Because.  
+---
+There is so much epically wrong 
+---
+with what I’m about to tell you OK?  
+---
+But if you shrug and say it’s fine.  
+---
+It’s fine 
+---
+it’s a bump in the road 
+---
+it’s an obstacle but 
+---
+it’s not as bad as you think it is.  
+---
+If you do that for me.  
+---
+Today.  
+---
+I will be OK 
+---
+I won’t fall over the edge.  
+---
+I’m.    
+---
+I’m gonna need to tell my mom 
+---
+I don’t know how to tell my mom.  
+---
+And she is going to.  
+---
+I mean it’s.  
+---
+I just. 
+---
+Before I fucking 
+---
+put on my big girl pants 
+---
+and deal with this. 
+---
+I just need one day.  
+---
+Just one fucking day.   
+---
+Where I can pretend 
+---
+that none of this 
+---
+is actually happening.  
+---
+And so if I say it out loud 
+---
+and you don’t blink an eye 
+---
+you just take it in 
+---
+if you do that for just for today.  
+---
+It’ll be OK.  
+---
+I can pretend it’s OK. 
+---
+I just need today 
+---
+to pretend today that it’s OK. 
 ---
 ## PETER: 
 OK. 
 ---
 ## LISSETTE: 
-And then I need to go drink a lot of alcohol and smoke like a pack of cigarettes.  
+And then I need to go 
+---
+drink a lot of alcohol 
+---
+and smoke like a pack of cigarettes.  
+---
 I need to drink till I pass out. 
 ---
 ## PETER: 
-All right.  I can do that.    Margaritas. 
+All right.  
+---
+I can do that.    
+---
+Margaritas. 
 ---
 ## LISSETTE: 
 Yes please. 
 ---
 ## PETER: 
-Like those stupid mango frozen margaritas.  Pitchers. 
+Like those stupid mango frozen margaritas.  
+---
+Pitchers. 
 ---
 ## LISSETTE: 
 With salt. 
 ---
 ## PETER: 
 And guac. 
-
 ---
 ## LISSETTE: 
 Yes yes to all of this yes. 
 ---
 ## PETER: 
-We are going to drink all the margaritas and eat all the guac. 
+We are going to drink all the 
+---
+margaritas and eat all the guac. 
 ---
 ## LISSETTE: 
-Can I sleep over. 
-
-
+Can I sleep over?
 ---
 ## PETER: 
 Yes. 
 ---
 ## LISSETTE: 
-Can I sleep in your bed with you. 
-
+Can I sleep in your bed with you?
 ---
 ## PETER: 
 Yes. 
 ---
 ## LISSETTE: 
-I know I kick in my sleep and steal the covers but I. 
+I know I kick in my sleep 
+---
+and steal the covers but I. 
 ---
 ## PETER: 
 You can sleep in my bed with me. 
 ---
 ## LISSETTE: 
-Can I sleep over for.  A very long time. 
+Can I sleep over for  
+A very long time? 
 ---
 ## PETER: 
 Yes. 
@@ -2378,119 +2863,167 @@ Thank you.
 ---
 ## PETER: 
 Sure. 
-Pause… 
 ---
 ## LISSETTE: 
 Tell me it’s gonna be OK. 
 ---
 ## PETER: 
-It’s gonna be OK.  It’s all gonna be OK.   
+It’s gonna be OK.  
+---
+It’s all gonna be OK.   
 ---
 ## LISSETTE: 
 OK. 
 ---
 ## PETER: 
 OK. 
-
-She takes a deep breath.  A here we go breath.  She grabs his hand.   
-OK. 
 ---
 ## LISSETTE: 
-Cheryl and Lissette. 
+OK. 
+---
 ---
 ## CHERYL: 
 You’ll have to come home with me to Woburn. 
-
-
 ---
 ## LISSETTE: 
 Yeah I will not actually be doing that. 
 ---
 ## CHERYL: 
 There’s no room for me here. 
-
 ---
 ## LISSETTE: 
 Nobody is asking you to uproot your life for this. 
 ---
 ## CHERYL: 
-What’re you gonna do then huh.  How’re you gonna manage by yourself. 
+What’re you gonna do then huh?  
+---
+How’re you gonna manage by yourself? 
 ---
 ## LISSETTE: 
-I have friends, Ma.  I have a really good group of friends. 
+I have friends, Ma.  
+---
+I have a really good group of friends. 
 ---
 ## CHERYL: 
-How are you gonna get up five flights of stairs. 
-about that? 
-Did you think 
+How are you gonna get up 
+---
+five flights of stairs. 
+---
+Did you think about that? 
 ---
 ## LISSETTE: 
 Of course I have! 
 ---
 ## CHERYL: 
-You can barely lift a fork right now how are you gonna. 
+You can barely lift a fork right now 
+---
+how are you gonna? 
 ---
 ## LISSETTE: 
-OK that’s dramatic.  I can definitely lift a fork.   
-
+OK that’s dramatic.  
+---
+I can definitely lift a fork.   
 ---
 ## CHERYL: 
-You gonna teleport yourself?  Up the stairs? 
+You gonna teleport yourself?  
+---
+Up the stairs? 
 ---
 ## LISSETTE: 
 I haven’t thought that far ahead! 
 ---
 ## CHERYL: 
-Well you gotta get outta denial sweetheart.  Because I can tell you right now. 
-Nobody’s gonna carry you up five flights of stairs.    I love you. I love you 
-with every fiber of my being.  But my knees just can’t do it.  So…  We gotta have 
-a plan. 
+Well you gotta get outta denial sweetheart.  
+---
+Because I can tell you right now. 
+---
+Nobody’s gonna carry you 
+---
+up five flights of stairs.    
+---
+I love you. 
+---
+I love you with every fiber of my being.  
+---
+But my knees just can’t do it.  
+---
+So... 
+---
+We gotta have a plan. 
 ---
 ## LISSETTE: 
-Who’s “we’?  This isn’t a “we” situation it’s a “me” situation it’s a. 
+Who’s “we’?  
+---
+This isn’t a “we” situation 
+---
+it’s a “me” situation 
+---
+it’s a. 
 ---
 ## CHERYL: 
-My condo is on one floor.  You’ll be able to get around easy. 
+My condo is on one floor.  
+---
+You’ll be able to get around easy. 
 ---
 ## LISSETTE: 
 Oh god that’s depressing, Ma. 
-
-
 ---
 ## CHERYL: 
-It’s not!  It’s a very cheery condo! 
+It’s not!  
+---
+It’s a very cheery condo! 
 ---
 ## LISSETTE: 
 But I’d be stuck in Woburn.   
-
 ---
 ## CHERYL: 
-There is a lot to do in Woburn, Missy.   What you’re a big shot, 
-huh?  You too fancy pants for Woburn. 
+There is a lot to do in Woburn, Missy.   
+---
+What you’re a big shot, huh?  
+---
+You too fancy pants for Woburn. 
 ---
 ## LISSETTE: 
-Yeah.  I am definitely too fancy pants for Woburn, Ma. 
+Yeah.  
+---
+I am definitely too fancy pants for Woburn, Ma. 
 ---
 ## CHERYL: 
 Woburn is a lovely place to live. 
 ---
 ## LISSETTE: 
-It is.  It is a lovely place to live.  For you.    I spent my entire life trying to 
-get out of Woburn, Ma.  I definitely don’t want to.  Die.  There.   
-Silence. 
+It is.  
+---
+It is a lovely place to live.  
+---
+For you.    
+---
+I spent my entire life 
+---
+trying to get out of Woburn, Ma.  
+---
+I definitely don’t want to.  
+---
+Die.  
+---
+There.   
+---
 ---
 ## LISSETTE: 
 Don’t be insulted. 
 ---
 ## CHERYL: 
 I’m not insulted. 
-
 ---
 ## LISSETTE: 
-You look insulted… 
+You look insulted...
 ---
 ## CHERYL: 
-Nope!  Not at all not one bit.  I am not insulted.   
+Nope!  
+---
+Not at all not one bit.  
+---
+I am not insulted.   
 ---
 ## LISSETTE: 
 Yeah OK. 
@@ -2506,68 +3039,82 @@ That you judge a little bit.
 ---
 ## LISSETTE: 
 OK. 
-
-
 ---
 ## CHERYL: 
 And you need a plan because.   
 ---
 ## LISSETTE: 
 Peter.   
-
 ---
 ## CHERYL: 
 What about Peter. 
 ---
 ## LISSETTE: 
-Peter is gonna come stay with me.  That’s the plan.   
+Peter is gonna come stay with me.
+---
+That’s the plan.   
 ---
 ## CHERYL: 
-What kinda cockamamie plan is that. 
+What kinda cockamamie plan is that? 
 ---
 ## LISSETTE: 
-When and if I need somebody to live with me. 
+When and if I need somebody to live with me.
 ---
 ## CHERYL: 
-Peter???  That is a huge imposition on Peter! 
+Peter???  
+---
+That is a huge imposition on Peter! 
 ---
 ## LISSETTE: 
-He offered!  I didn’t ask. 
+He offered!  
+---
+I didn’t ask. 
 ---
 ## CHERYL: 
 Peter??? 
 ---
 ## LISSETTE: 
-Stop saying it like it’s weird! It’s not weird! 
+Stop saying it like it’s weird! 
+---
+It’s not weird! 
 ---
 ## CHERYL: 
-You two are too intimate for platonic friends.   
+You two are too intimate 
+---
+for platonic friends.   
 ---
 ## LISSETTE: 
 I don’t even know what that means. 
 ---
 ## CHERYL: 
-It means that you two are too close for for for. For non romantic partners. 
-
+It means that you two are too close for for for. 
+---
+For non romantic partners. 
 ---
 ## LISSETTE: 
-So only people with romantic partners get to have help when they get sick?  
-Is that it. 
+So only people with romantic partners 
+---
+get to have help when they get sick?  
+---
+Is that it?
 ---
 ## CHERYL: 
 I told you that you can. 
 ---
 ## LISSETTE: 
-Single people should just.  Die alone.  Is that what you think. 
-
-
+Single people should just.  
+---
+Die alone.  
+---
+Is that what you think? 
 ---
 ## CHERYL: 
 I didn’t say that! 
 ---
 ## LISSETTE: 
-Both of us are single right now and so we. 
-
+Both of us are single right now 
+---
+and so we. 
 ---
 ## CHERYL: 
 Maybe that’s why. 
@@ -2576,54 +3123,84 @@ Maybe that’s why.
 Maybe what’s why. 
 ---
 ## CHERYL: 
-You two are single.  Because there isn’t any room for anybody else. 
+You two are single.  
+---
+Because there isn’t any room 
+---
+for anybody else. 
 ---
 ## LISSETTE: 
-If I can’t judge Woburn you can’t judge my friendship with Peter! 
+If I can’t judge Woburn 
+---
+you can’t judge my friendship with Peter! 
 ---
 ## CHERYL: 
-I’m just saying that maybe if you two put some space in-between there you 
-would find someone. 
+I’m just saying that maybe 
+---
+if you two put some space 
+---
+in-between there 
+---
+you would find someone. 
 ---
 ## LISSETTE: 
-I think the opportunity for that has passed for me and so. 
+I think the opportunity for that 
+---
+has passed for me and so. 
 ---
 ## CHERYL: 
-But what about him.    Maybe he wants to find someone. 
-
+But what about him.    
+---
+Maybe he wants to find someone. 
 ---
 ## LISSETTE: 
 I want him to find someone. 
 ---
 ## CHERYL: 
-How’s he gonna find someone if he’s living here with you and carrying you up 
+How’s he gonna find someone 
+---
+if he’s living here with you 
+---
+and carrying you up 
+---
 the fucking stairs! 
 ---
 ## LISSETTE: 
-Peter finding someone or not finding someone has nothing to do with him 
-possibly living here if I need help at some point. 
-
+Peter finding someone 
+---
+or not finding someone 
+---
+has nothing to do with him 
+---
+possibly living here 
+---
+if I need help at some point. 
 ---
 ## CHERYL: 
 It’s not an if! 
 ---
 ## LISSETTE: 
-They said it could be slow moving and so you.  
+They said it could be slow moving 
+---
+and so you.  
 ---
 ## CHERYL: 
 Honey. 
 ---
 ## LISSETTE: 
-You don’t know!  Nobody knows! And so I. 
-
-
+You don’t know!  
+---
+Nobody knows! 
+---
+And so I. 
 ---
 ## CHERYL: 
-Is Peter gonna give you a bath when you need it? 
+Is Peter gonna give you a bath 
+---
+when you need it? 
 ---
 ## LISSETTE: 
 Sure. 
-
 ---
 ## CHERYL: 
 He gonna wipe your ass? 
@@ -2632,55 +3209,129 @@ He gonna wipe your ass?
 Oh my god. 
 ---
 ## CHERYL: 
-I wiped that ass once I can wipe it again. 
+I wiped that ass once 
+---
+I can wipe it again. 
 ---
 ## LISSETTE: 
-Can we stop talking about people wiping my ass please! 
+Can we stop talking about
+---
+people wiping my ass please! 
 ---
 ## CHERYL: 
-You need a plan.  This I know one hundred percent.   
+You need a plan.  
+---
+This I know one hundred percent.   
 ---
 ## LISSETTE: 
 You mean I need to do your plan! 
 ---
 ## CHERYL: 
-You live in a five flight walk up!  You are you are you are you are whatever 
-happens you are not gonna be able to get up five flights of stairs anymore.  Not 
-with me not with Peter not with your fairy fucking godmother.  That’s not my 
-plan that’s not your plan I don’t want to believe that it’s God’s fucking plan but 
-it’s happening so.  I don’t give a rats ass what you want to do but you can’t live 
-here anymore.  With Peter bless his heart or without Peter.  With me or without 
-me.  This apartment is no longer an option.  OK?  Do you get that??  This isn’t 
-about me or what I want it’s about logistics baby girl and and facts. And the 
-logistics and facts are that whether this fucker is slow moving or fast moving it 
-doesn’t matter.  Because either way the chances of you being able to do five 
-flights of stairs in a few months is pretty slim so.    Are you listening to 
-me.  
+You live in a five flight walk up!  
+---
+You are 
+---
+you are 
+---
+you are 
+---
+you are whatever happens 
+---
+you are not gonna 
+---
+be able to get up five flights 
+---
+of stairs anymore.  
+---
+Not with me 
+---
+not with Peter 
+---
+not with your fairy fucking godmother.  
+---
+That’s not my plan 
+---
+that’s not your plan 
+---
+I don’t want to believe 
+---
+that it’s God’s fucking plan 
+---
+but it’s happening so.  
+---
+I don’t give a rats ass 
+---
+what you want to do 
+---
+but you can’t live here anymore.  
+---
+With Peter bless his heart 
+---
+or without Peter.  
+---
+With me or without me.  
+---
+This apartment is no longer an option.  
+---
+OK?  Do you get that??  
+---
+This isn’t about me or what I want 
+---
+it’s about logistics baby girl 
+---
+and and facts. 
+---
+And the logistics and facts are 
+---
+that whether this fucker is slow moving 
+---
+or fast moving it doesn’t matter.  
+---
+Because either way the chances 
+---
+of you being able to do five 
+flights 
+---
+of stairs in a few months 
+---
+is pretty slim so.    
+---
+Are you listening to me.  
 ---
 ## LISSETTE: 
-Yes I’m listening.  Of course I’m listening.  I’m always listening.   
-
+Yes I’m listening.  
+---
+Of course I’m listening.  
+---
+I’m always listening.   
 ---
 ## CHERYL: 
 What’s that supposed to mean. 
 ---
 ## LISSETTE: 
-I donno Ma.  You’re hard not.  To hear.   
+I donno Ma.  
+---
+You’re hard not.  
+---
+To hear.   
 ---
 ## CHERYL: 
 You mean I’m loud? 
-
-
 ---
 ## LISSETTE: 
 Yeah. 
 ---
 ## CHERYL: 
 You’re loud too. 
-
 ---
 ## LISSETTE: 
-Yeah I.  Know.   Because I always haveta yell.  To get heard.   
+Yeah I. 
+---
+Know.   
+---
+Because I always haveta yell.  
+---
+To get heard.   
 ---
 ## CHERYL: 
 It’s a good thing. 
@@ -2689,129 +3340,257 @@ It’s a good thing.
 I guess. 
 ---
 ## CHERYL: 
-Nah trust me.  It’s good for a woman to be loud.  What you’d rather be a 
-milquetoast wallflower like your cousin Jeanine? 
+Nah trust me.  
+---
+It’s good for a woman to be loud.  
+---
+What you’d rather be a 
+---
+milquetoast wallflower 
+---
+like your cousin Jeanine? 
 ---
 ## LISSETTE: 
-Yeah no I definitely don’t wanna be like Jeanine. 
-A little laugh from Lissette.  A little laugh from Cheryl.  Cheryl suddenly and 
-without warning starts to cry. 
+Yeah no 
+---
+I definitely don’t wanna be 
+---
+like Jeanine.
+---
+[little laughs from both]
+---
+template: noise
+Cheryl cries
 ---
 ## LISSETTE: 
-Oh jeez Ma.  Why’re you crying. 
-
+Oh jeez Ma.  
+---
+Why’re you crying. 
 ---
 ## CHERYL: 
-Oh it’s nothing it’s nothing. 
+Oh it’s nothing 
+---
+it’s nothing. 
 ---
 ## LISSETTE: 
 OK. 
 ---
 ## CHERYL: 
-You just suddenly outta nowhere looked at me and you looked you had the 
-same face you had when you were a little girl.  It was just a minute and 
-suddenly I saw a look you useta get.  Like.  When you were nine months old 
-and you.  And you outta nowhere decided you wanted to walk.  Just woke up 
-one day and got that look on your face and off you went like.  Like you were 
-gonna.  Run the.  Freaking world.     
+You just suddenly 
+---
+outta nowhere looked at me 
+---
+and you looked 
+---
+you had the same face 
+---
+you had when you were a little girl.  
+---
+It was just a minute 
+---
+and suddenly I saw a look 
+---
+you useta get.  
+---
+Like.  
+---
+When you were nine months old 
+and you.  
+---
+And you outta nowhere 
+---
+decided you wanted to walk.  
+---
+Just woke up one day 
+---
+and got that look on your face 
+---
+and off you went like.  
+---
+Like you were gonna.  
+---
+Run the.  
+---
+Freaking world.     
 ---
 ## LISSETTE: 
 Sorry. 
 ---
 ## CHERYL: 
 Why are you apologizing.   
-
-
-I donno I.  
-to Woburn. 
+---
+I donno I. 
+---
+I don’t wanna go to Woburn. 
 ---
 ## LISSETTE: 
-I.  I wanna stay in New York.  I don’t wanna go 
+I.  
+---
+I wanna stay in New York.  
 ---
 ## CHERYL: 
 But if you.   
 ---
 ## LISSETTE: 
-I’ll move to an apartment with an elevator or on a ground floor whatever I 
-haveta do.  But I wanna stay here.  Where my friends are where my life is.  I 
-wanna work till I. 
+I’ll move to an apartment 
+---
+with an elevator 
+---
+or on a ground floor 
+---
+whatever I haveta do.  
+---
+But I wanna stay here.  
+---
+Where my friends are 
+---
+where my life is.  
+---
+I wanna work till I. 
 ---
 ## CHERYL: 
-At a bar??? How are you gonna work at a bar??? 
+At a bar??? 
+---
+How are you gonna work at a bar??? 
 ---
 ## LISSETTE: 
-Yes in a bar yes Ma yes.   
+Yes in a bar 
+---
+yes Ma yes.   
 ---
 ## CHERYL: 
 This is a shitty plan. 
 ---
 ## LISSETTE: 
-I don’t care what you think, Ma - this is the plan this is the only plan!! And and 
-and fuck and you can figure out a way to be OK with it or you can not do that 
-and not see me OK?  But either way I am gonna live my life the way I wanna live 
-it till I hit a motherfucking brick wall and can’t anymore and then I’ll.  I don’t 
-know what I’ll do I’ll.  Figure that out when I get there I.    Look.  There is 
-gonna be a time when I’m not able to move or talk or fight you anymore. And so 
-before that happens I need you to hear me – now – saying what I’m saying to 
+I don’t care what you think, Ma 
+---
+this is the plan 
+---
+this is the only plan!! 
+---
+And... and 
+---
+and fuck 
+---
+and you can figure out a way 
+---
+to be OK with it 
+---
+or you can not do that 
+---
+and not see me OK?  
+---
+But either way 
+---
+I am gonna live my life 
+---
+the way I wanna live it 
+---
+till I hit a motherfucking brick wall 
+---
+and can’t anymore 
+---
+and then I’ll.  
+---
+I don’t know what I’ll do 
+---
+I’ll.  
+---
+Figure that out when I get there 
+---
+I.    Look.  
+---
+There is gonna be a time 
+---
+when I’m not able to move 
+---
+or talk or fight you anymore. 
+---
+And so before that happens 
+---
+I need you to hear me NOW 
+---
+saying what I’m saying to 
 you.   
 ---
 ## CHERYL: 
 Yeah yeah.   
 ---
 ## LISSETTE: 
-Don’t yeah yeah me I need you to promise that you will always.  Whatever I 
-decide.  Even if you think it’s batshit crazy.  That you will respect my wishes. 
+Don’t yeah yeah me 
+---
+I need you to promise 
+---
+that you will always.  
+---
+Whatever I decide.  
+---
+Even if you think it’s batshit crazy. 
+---
+That you will respect my wishes. 
 ---
 ## CHERYL: 
-But what if. 
-
+But what if?
 ---
 ## LISSETTE: 
-Ma.  I need you to promise me that you will respect my wishes. 
+Ma.  
+---
+I need you to promise me 
+---
+that you will respect my wishes. 
 ---
 ## CHERYL: 
-Fine yeah I will “respect your wishes.”   
+Fine yeah I will
+---
+“respect your wishes.”   
 ---
 ## LISSETTE: 
 Even if you don’t agree with them. 
-
-
 ---
 ## CHERYL: 
-Yeah sure that too. 
+Yeah sure, that too. 
 ---
 ## LISSETTE: 
-Even when I can’t yell at all.  You will still need to.  Find a way to listen.  Do 
-you hear me? 
+Even when I can’t yell at all.  
+---
+You will still need to.  
+---
+Find a way to listen.  
+---
+Do you hear me? 
 ---
 ## CHERYL: 
 Yeah I.  Hear you. 
 ---
 ## LISSETTE: 
-Good.  That’s good.   
-Peter and Lissette and Cheryl look at a new apartment. 
-Lissette is using a walker. 
-Her speech is becoming more difficult.   
-Not gone completely.  But harder to get words out. 
+Good.  
+---
+That’s good.   
+---
 ---
 ## PETER: 
-And it’s got a backyard!  Did you see the backyard? 
+And it’s got a backyard!  
+---
+Did you see the backyard? 
 ---
 ## CHERYL: 
-Oh that’s nice.  Hon did you see a yard. 
+Oh that’s nice.  
+---
+Hon did you see a yard? 
 ---
 ## LISSETTE: 
 Yup. 
 ---
 ## CHERYL: 
-Maybe we could plant some flowers or something.     
+Maybe we could plant some 
+---
+flowers or something?     
 ---
 ## PETER: 
 Ground floor.   
 ---
 ## CHERYL: 
-Yeah we like that don’t we.   
-
+Yeah we like that don’t we?   
 ---
 ## LISSETTE: 
 The stoop. 
@@ -2823,37 +3602,39 @@ We got up just fine.
 Not now.  Later. 
 ---
 ## CHERYL: 
-Oh right OK yeah I wasn’t thinking. 
-
-
+Oh right, 
+---
+OK yeah I wasn’t thinking. 
 ---
 ## LISSETTE: 
 It’s OK. 
 ---
 ## PETER: 
-OK not this one!  There will be more! 
-
+OK not this one!  
+---
+There will be more! 
 ---
 ## CHERYL: 
-We will find something better.  Right Petey? 
+We will find something better.
+---
+Right Petey? 
 ---
 ## PETER: 
 We will find something awesome. 
-Pause… 
+---
 ---
 ## PETER: 
 Sorry I wasn’t thinking about that. 
 ---
 ## LISSETTE: 
 It’s OK. 
-Pause… 
+---
 ---
 ## CHERYL: 
 If we move to my condo in Woburn. 
 ---
 ## LISSETTE: 
 Ma! 
-
 ---
 ## CHERYL: 
 I’m just saying that if we. 
@@ -2865,88 +3646,114 @@ No.
 But maybe that’s the best. 
 ---
 ## LISSETTE: 
-No.  End of. Conversation. 
-Silence. 
+No.  
+---
+End of. 
+---
+Conversation. 
+--- 
 ---
 ## PETER: 
-OK…  I’m gonna give the keys back to the super and then. 
+OK... 
+
+I’m gonna give the keys back 
+---
+to the super and then. 
 ---
 ## CHERYL: 
 Thank you Petey. 
 ---
 ## PETER: 
 Be right back. 
-
-
-He exits.  He returns quick. 
 ---
 ## PETER: 
 Hey uh Cheryl. 
 ---
 ## CHERYL: 
-Yeah hon. 
-
+Yeah hon?
 ---
 ## PETER: 
-I…  Can you not.  Call me Petey? 
+I... 
+---
+Can you not.  
+---
+Call me Petey? 
 ---
 ## CHERYL: 
 Oh fuck sorry. 
 ---
 ## PETER: 
-It’s OK.  I uh…  I wouldn’t have said anything. 
+It’s OK.  
+---
+I uh... 
+---
+I wouldn’t have said anything. 
 ---
 ## CHERYL: 
-I’ve been calling you that for years like an asshole. 
+I’ve been calling you that 
+---
+for years like an asshole. 
 ---
 ## PETER: 
 It’s fine it’s just. 
 ---
 ## CHERYL: 
-Ugh I do that I give everybody a term of endearment. 
+Ugh I do that 
+---
+I give everybody a term of endearment. 
 ---
 ## PETER: 
-Oh I mean that’s nice.  
+Oh, I mean that’s nice.  
 ---
 ## CHERYL: 
-No it’s not appropriate.  I’ll stop. 
+No it’s not appropriate.  
+---
+I’ll stop. 
 ---
 ## PETER: 
-I mean now I kinda wish I didn’t say anything.  I’m regretting that I 
-said something. 
+I mean now I kinda wish 
+---
+I didn’t say anything.  
+---
+I’m regretting that I said something. 
 ---
 ## CHERYL: 
 I’ll call you whatever you wanna be called. 
-
 ---
 ## PETER: 
-You can call me Petey then.  Pretend I never said anything.   
+You can call me Petey then.  
+---
+Pretend I never said anything.   
 ---
 ## LISSETTE: 
 Can.  We go. 
-Right!  Sorry!  Be right back. 
 ---
 ## PETER: 
-Pause… 
-
-
+Right!  Sorry!  Be right back. 
 ---
 ## CHERYL: 
 He’s a good egg that one. 
 ---
 ## LISSETTE: 
 Uh huh.   
-
 ---
 ## CHERYL: 
-You are very lucky to have such good friends right now.  You know that, right? 
+You are very lucky 
+---
+to have such good friends right now.  
+---
+You know that, right? 
 ---
 ## LISSETTE: 
-Yeah I’m.  Very lucky. 
-Pause… 
+Yeah I’m.  
+---
+Very lucky. 
+---
 ---
 ## CHERYL: 
-If you’d maybe just consider the condo we could. 
+If you’d maybe 
+---
+just consider the condo we could. 
 ---
 ## LISSETTE: 
 Do what.  You want.   
@@ -2956,53 +3763,75 @@ Hon I don’t wanna force you to do it.
 ---
 ## LISSETTE: 
 Whatever.  You want.   
-Silence. 
-
-Peter returns. 
+---
 ---
 ## PETER: 
-OK!  Keys returned!  I’m sorry about this I didn’t. 
+OK!  
+---
+Keys returned!  
+---
+I’m sorry about this 
+---
+I didn’t. 
 ---
 ## LISSETTE: 
-I said OK.  Many times. 
+I said OK.  
+---
+Many times. 
 ---
 ## PETER: 
-Right!  We will.  We will find something with a ramp or an elevator. 
-
+Right!  
+---
+We will.  
+---
+We will find something with a ramp 
+---
+or an elevator. 
 ---
 ## CHERYL: 
 Sounds good! 
 ---
 ## PETER: 
-I have three more on my list!  One is right near here. 
+I have three more on my list! 
+---
+One is right near here. 
 ---
 ## LISSETTE: 
 Not today. 
 ---
 ## PETER: 
 It’s just a block away. 
-
-
 ---
 ## LISSETTE: 
 Not.  Today. 
 ---
 ## PETER: 
-We should see it though!  What if it’s perfect and we lose it. 
+We should see it though!  
+---
+What if it’s perfect and we lose it. 
 ---
 ## LISSETTE: 
 Not today. 
+---
+## CHERYL:
 You OK baby?   
+---
 wanna go home and rest. 
 ---
 ## CHERYL: 
-Maybe you’ve had enough for today maybe you 
+Maybe you’ve had enough for today 
+---
+maybe you 
 ---
 ## LISSETTE: 
 Not tired. 
 ---
 ## CHERYL: 
-But maybe you’re pushing it.  Peter maybe she needs to go lie down for a bit. 
+But maybe you’re pushing it.  
+---
+Peter maybe she needs to go 
+---
+lie down for a bit. 
 ---
 ## PETER: 
 Sure right whatever she needs. 
@@ -3014,46 +3843,59 @@ I’m standing right here.
 I know that hon. 
 ---
 ## LISSETTE: 
-Not.  A child. 
-Nobody’s saying that.   
+Not.  
+---
+A child.
 ---
 ## CHERYL: 
-Silence. 
+Nobody’s saying that.   
+---
 ---
 ## PETER: 
 Maybe we should get some lunch!  
-
 ---
 ## CHERYL: 
-I think that’s a good idea.  Lissette hon what do you think. 
-wanna go grab a bite. 
-You 
+I think that’s a good idea.  
+---
+Lissette hon what do you think? 
+---
+You wanna go grab a bite?
 ---
 ## PETER: 
-There’s a Thai place nearby can’t remember where. 
+There’s a Thai place nearby 
+---
+can’t remember where. 
 ---
 ## CHERYL: 
 Anything works. 
-
-
 ---
 ## PETER: 
-Thai Restaurants. 
-PHONE 
-You are looking for.  Tiny.  Restaurants. 
-
+Thai Restaurants.
+---
+## PHONE:
+You are looking for.
+---
+Tiny.  Restaurants. 
 ---
 ## PETER: 
 No Thai! 
-PHONE 
-There are five.  Notaries. Near you. 
+---
+## PHONE: 
+There are five. 
+---
+Notaries. 
+---
+Near you. 
 ---
 ## CHERYL: 
-Does Thai food sound good. 
+Does Thai food sound good?
 ---
 ## PETER: 
-THAI! RESTAURANT! 
-PHONE 
+THAI! 
+---
+RESTAURANT!
+---
+## PHONE:
 Looking for Thai Restaurants. 
 ---
 ## PETER: 
@@ -3063,7 +3905,11 @@ Thank fucking god.
 Well this is exciting! 
 ---
 ## LISSETTE: 
-Why is.  This.  Exciting? 
+Why is.  
+---
+This.  
+---
+Exciting? 
 ---
 ## PETER: 
 Thai food is always exciting.   
@@ -3073,10 +3919,9 @@ Maybe we should go home.
 ---
 ## LISSETTE: 
 Whatever you want.   
-
 ---
 ## CHERYL: 
-Baby what do you want to do. 
+Baby what do you want to do? 
 ---
 ## LISSETTE: 
 Don’t care.   
@@ -3085,120 +3930,253 @@ Don’t care.
 We can do whatever you want to do. 
 ---
 ## LISSETTE: 
-Run.   I want to. Run. 
-
-
-Pause… 
+Run.   
+---
+I want to. 
+---
+Run. 
+---
 ---
 ## LISSETTE: 
-Can we do that?  Can we.  Go running?  Because I would. 
-that. 
-Really.  Like.  To do 
-
-Pause… 
-
+Can we do that?  
+---
+Can we.  
+---
+Go running?  
+---
+Because I would. 
+---
+Really.  
+---
+Like.  
+---
+To do that.
+---
 ---
 ## LISSETTE: 
-No?  OK.  So.  Great.  So.  Lets have.  Fucking.  Thai.  Food. 
-Pause… 
+No?  
+---
+OK.  
+---
+So.  
+---
+Great.  
+---
+So.  
+---
+Lets have.  
+---
+Fucking.  
+---
+Thai.  
+---
+Food. 
+---
 ---
 ## LISSETTE: 
-What’s wrong.  Am I.  Too much of.  A downer?  Did I ruin.  All the fun. With 
-my.  Ginormous Black Hole of.  Negativity.  Sorry. 
+What’s wrong.  
+---
+Am I.  
+---
+Too much of.  
+---
+A downer?  
+---
+Did I ruin.  
+---
+All the fun. 
+---
+With my.  
+---
+Ginormous Black Hole of.  
+---
+Negativity.  
+---
+Sorry. 
 ---
 ## PETER: 
 Not at all. 
 ---
 ## LISSETTE: 
-You.  Asked me.  What. I’d.  Like.  To do and.  That’s.  What I want.  To do I.  I.  
-I would.  I would.  Really.  Love. To run.   
-Pause… 
+You.  
+---
+Asked me.  
+---
+What. 
+---
+I’d.  
+---
+Like.  
+---
+To do and.  
+---
+That’s.  
+---
+What I want.  
+---
+To do I.  
+---
+I.  
+---
+I would.  
+---
+I would.  
+---
+Really.  
+---
+Love. 
+---
+To run.   
+---
 ---
 ## LISSETTE: 
-Fuck.  Can somebody.  Tie.  My shoe. 
+Fuck.  
+---
+Can somebody.  
+---
+Tie.  
+---
+My shoe. 
+---
 Cheryl rushes over and ties it. 
-
+---
 away! And so. 
 ---
 ## PETER: 
-So… It looks like there is a Thai restaurant!  Two blocks 
+So... 
+---
+It looks like there is 
+---
+a Thai restaurant!  
+---
+Two blocks 
 ---
 ## LISSETTE: 
-I wanna.  Go home. 
+I wanna.  
+---
+Go home. 
 ---
 ## CHERYL: 
 OK baby we can do that. 
-
 ---
 ## LISSETTE: 
 Alone.   
 ---
 ## CHERYL: 
-That’s fine.  I will take you home and then I will… Go to a movie!  Petey you 
-wanna go to a movie? 
+That’s fine.  
+---
+I will take you home 
+---
+and then I will... 
+---
+Go to a movie!  
+---
+Petey you wanna go to a movie? 
 ---
 ## PETER: 
 Sure lets go to a movie. 
-
-
 ---
 ## LISSETTE: 
-I wanna get myself home.  By myself. 
+I wanna get myself home. 
+---
+By myself. 
 ---
 ## CHERYL: 
 Are you sure that’s. 
-
 ---
 ## LISSETTE: 
-I wanna get myself home. By myself. 
+I wanna get myself home. 
+---
+By myself. 
 ---
 ## CHERYL: 
 But maybe we should 
 ---
 ## LISSETTE: 
 AAAAAAARRRRRRGGGGGHHHH! 
-BOTH OF YOU STOP.  FUSSING.  OVER ME.   
+---
+BOTH OF YOU STOP. 
+---
+FUSSING.  
+---
+OVER ME.   
+---
 STOP IT!  
-Everything stops.   
-She slowly works her way to the door with her walker.  Her ankle gives out from 
-under her and she falls to the floor.  Cheryl immediately goes to help her up but 
-Lissette stops her. 
+---
 ---
 ## LISSETTE: 
-Let me. Do it.  
-She tries to get up and the ankle gives out again.  She tries again and falls again. 
+Let me. 
+---
+Do it.   
 ---
 ## CHERYL: 
 Ok fuck this I’m. 
 ---
 ## LISSETTE: 
-I said.  Let me.  Do it. 
-She tries to get up off the floor and can’t. 
+I said.  
+---
+Let me.  
+---
+Do it. 
 ---
 ## CHERYL: 
-Ok that’s it no more.  You wanna get treated like an adult?  Huh?  Stop acting 
-like a freaking two year old.  There are times in this world when we gotta accept 
-help from other people even if it sucks so get over yourself and accept it.  You 
-hear me?    We’re taking you home.   And I’m not leaving you 
-alone you can fucking complain and be shitty to me all you want.  I’m making 
-the plan and you’re gonna deal with it.  Capiche?    Petey can you 
-help me get her in a cab? 
+Ok that’s it no more.  
+---
+You wanna get treated like an adult?  
+---
+Huh?  
+---
+Stop acting like a 
+---
+freaking two year old.  
+---
+There are times in this world 
+---
+when we gotta accept help from 
+---
+other people even if it sucks so 
+---
+get over yourself and accept it.  
+---
+You hear me?    
+---
+We’re taking you home.   
+---
+And I’m not leaving you alone 
+---
+you can fucking complain 
+---
+and be shitty to me all you want.  
+---
+I’m making the plan 
+---
+and you’re gonna deal with it.  
+---
+Capiche?    
+---
+Petey can you help me get her in a cab? 
 ---
 ## PETER: 
 Yeah. 
 ---
 ## CHERYL: 
-We gotta pick her up and we gotta get her into a taxi and then we gotta carry 
-her up the stairs to her apartment. 
-
-
+We gotta pick her up 
+---
+and we gotta get her into a taxi 
+---
+and then we gotta carry her 
+---
+up the stairs to her apartment. 
 ---
 ## LISSETTE: 
 I’m so sorry. 
 ---
 ## CHERYL: 
-Nothing to be sorry about kiddo we got this.  Right Petey?   
-
+Nothing to be sorry about kiddo 
+---
+we got this.  
+---
+Right Petey?   
 ---
 ## PETER: 
 Huh. 
@@ -3210,112 +4188,216 @@ We got this.
 Yeah.   
 ---
 ## LISSETTE: 
-I’m sorry I’m so sorry I’m so so sorry. 
+I’m sorry 
+---
+I’m so sorry 
+---
+I’m so so sorry. 
 ---
 ## CHERYL: 
-Enough with this sorry business.   
-Peter stays frozen and far away.  Unable to move.   
+Enough with this sorry business.     
 ---
 ## CHERYL: 
-Petey.  We got her, right? Right? 
+Petey.  
+---
+We got her, right? 
+---
+Right? 
 ---
 ## PETER: 
-Right.     Right.   
-Lissette and Peter mid-conversation. 
-They are in an empty and dark hipster speakeasy.  Lissette is behind the bar 
-making an elaborate cocktail. 
+Right.     
+---
+Right.   
+---
 ---
 ## PETER: 
-Are you sure we should. 
+Are you sure we should?
 ---
 ## LISSETTE: 
 Oh my god stop worrying! 
 ---
 ## PETER: 
-It feels like we’re breaking in. Is this legal? 
+It feels like we’re breaking in. 
+---
+Is this legal? 
 ---
 ## LISSETTE: 
-Dude!  I have keys!  We didn’t break in. 
+Dude!  
+---
+I have keys!  
+---
+We didn’t break in. 
 ---
 ## PETER: 
 Yeah I know but still. 
-
-
 ---
 ## LISSETTE: 
-Oh for fuck’s sake I work here this is practically my bar we didn’t break in.  
-Would you rather go back to that shitty party Pete where your asshole date 
-ditched you and play. 
+Oh for fuck’s sake 
+---
+I work here 
+---
+this is practically my bar 
+---
+we didn’t break in.  
+---
+Would you rather go back 
+---
+to that shitty party Pete
+---
+where your asshole date 
+---
+ditched you and play? 
 ---
 ## PETER: 
-He really is a douchebag isn’t he. 
-
+He really is a douchebag isn’t he?
 ---
 ## LISSETTE: 
-He is a ginormous douchebag Pete!  So would you rather be at that lame ass 
-party playing a sad game of charades with Allison’s weird work friends or 
-would you. 
+He is a ginormous douchebag Pete!  
+---
+So would you rather be at that 
+---
+lame ass party playing a sad game 
+---
+of charades with Allison’s 
+---
+weird work friends or would you?
 ---
 ## PETER: 
 I need to stop dating douchebags! 
 ---
 ## LISSETTE: 
-STOP DATING DOUCHEBAGS YES!  Or would you rather sit in an after hours 
-bar and have the woman who Food and Wine just named the “future of bespoke 
-cocktails”  make a. 
+STOP DATING DOUCHEBAGS YES!  
+---
+Or would you rather sit 
+---
+in an after hours bar 
+---
+and have the woman 
+---
+who Food and Wine just named 
+---
+the “future of bespoke cocktails”  make a?
 ---
 ## PETER: 
-Is that true?  That is very impressive. 
+Is that true?  
+---
+That is very impressive. 
 ---
 ## LISSETTE: 
-Yes it’s true or would. 
+Yes it’s true or would?
 ---
 ## PETER: 
 You’re a celebrity! 
 ---
 ## LISSETTE: 
-SHHHHH.  I’m not a celebrity. 
+SHHHHH.  
+---
+I’m not a celebrity. 
 ---
 ## PETER: 
 Sorry sorry I’ll stop interrupting. 
 ---
 ## LISSETTE: 
-It’s OK It’s OK.  Or would you rather have that woman – ie me I am that woman 
-– make a custom specialty “bespoke” cocktail just for you. 
+It’s OK It’s OK.  
+---
+Or would you rather have that woman 
+---
+ie me 
+---
+I am that woman 
+---
+make a custom specialty 
+---
+“bespoke” cocktail just for you. 
 ---
 ## PETER: 
-I would definitely prefer option number two. 
+I would definitely prefer 
+---
+option number two. 
 ---
 ## LISSETTE: 
-Good choice Pete.  Lean into having an.  Epic adventure. 
+Good choice Pete.  
+---
+Lean into having an.  
+---
+Epic adventure. 
 ---
 ## PETER: 
 Yeah OK. 
-
-
 ---
 ## LISSETTE: 
-That flutter in your stomach is what it feels to be alive Pete.  We are so lucky to 
-be alive!  Doesn’t it feel great??? 
+That flutter in your stomach 
+---
+is what it feels to be alive Pete.  
+---
+We are so lucky to be alive!  
+---
+Doesn’t it feel great??? 
 ---
 ## PETER: 
 I donno I think I might vomit. 
 ---
 ## LISSETTE: 
-On your deathbed Pete.  Do you wanna be thinking fuck I should have done 
-more things that scare me?  Fuck that shit.  That shit sucks.  Regrets suck.  
-Devour life!  Next time we’re doing Absinthe.  But I can already tell I need to 
-take baby steps with you.    OK now look me in the eye. 
+On your deathbed Pete.  
+---
+Do you wanna be thinking 
+---
+fuck I should have done 
+---
+more things that scare me?  
+---
+Fuck that shit.  
+---
+That shit sucks.  
+---
+Regrets suck.  
+---
+Devour life!  
+---
+Next time we’re doing Absinthe.  
+---
+But I can already tell 
+---
+I need to take baby steps with you.    
+---
+OK now look me in the eye. 
 ---
 ## PETER: 
-Looking someone in the eye is a little intense. 
+Looking someone in the eye 
+---
+is a little intense. 
 ---
 ## LISSETTE: 
-Agreed.  But you have to look people in the eye when you toast or you are 
-cursed with 7 years of bad sex.  OK…  Raise your glass.    Here’s to…  
-Living in the moment.  And.  New friends.  And.  Seven years of fucking amazing 
-sex.  And.  Many many adventures. 
-He goes to drink. 
+Agreed.  
+---
+But you have to look people 
+---
+in the eye when you toast 
+---
+or you are cursed 
+---
+with 7 years of bad sex.  
+---
+OK... 
+---
+Raise your glass.    
+---
+Here’s to...
+---
+Living in the moment.  
+---
+And.  
+---
+New friends.  
+---
+And.  
+---
+Seven years of fucking amazing 
+sex.  
+---
+And.  
+---
+Many many adventures. 
 ---
 ## LISSETTE: 
 No no not yet! 
@@ -3324,144 +4406,270 @@ No no not yet!
 Ahhh sorry sorry! 
 ---
 ## LISSETTE: 
-S’OK.    For my cousin Ruthie.  For Joey Curtis.  For Drea 
-Antonetti.  For my dead Gram.  Not the one with Altzheimers.  For my Aunt 
-Charleene.  You got anybody? 
+S’OK.    
+---
+For my cousin Ruthie.  
+---
+For Joey Curtis. 
+---
+For Drea Antonetti.  
+---
+For my dead Gram.  
+---
+Not the one with Altzheimers.  
+---
+For my Aunt Charleene.  
+---
+You got anybody? 
 ---
 ## PETER: 
 Huh? 
 ---
 ## LISSETTE: 
-Dead.  Anybody dead you wanna toast to. 
-
+Dead.  
+---
+Anybody dead you wanna toast to. 
 ---
 ## PETER: 
-Oh…  Um I donno. 
+Oh...
+---
+Um I donno. 
 ---
 ## LISSETTE: 
-It’s not a requirement or anything it’s just something I do – if you wanna do it 
-too I’m.  Opening the floor. 
+It’s not a requirement or anything 
+---
+it’s just something I do 
+---
+if you wanna do it too 
+---
+I’m.  Opening the floor. 
 ---
 ## PETER: 
-My mom.  Maybe.    For my mom. 
-
-
+My mom.  
+---
+Maybe.    
+---
+For my mom. 
 ---
 ## LISSETTE: 
-And for Peter’s mom.  May you all rest in Peace.  We’ll see you when we see you.  
+And for Peter’s mom.  
+---
+May you all rest in Peace.  
+---
+We’ll see you when we see you.  
 ---
 ## PETER: 
 We’ll see you when we see you. 
-
 ---
 ## LISSETTE: 
-Salut.  L’chaim.  Slainte.  Proost.  Live.  Laugh.  Love. 
-She kisses him full on the mouth.  They clink glasses. 
+Salut.  
+---
+L’chaim. 
+---
+Slainte.  
+---
+Proost. 
+---
+Live.  
+---
+Laugh.  
+---
+Love. 
+---
+template: noise
+glasses clink
 ---
 ## PETER: 
 Now? 
 ---
 ## LISSETTE: 
 Yes yes now! 
-They drink. 
 ---
 ## PETER: 
 Wow that’s good. 
 ---
 ## LISSETTE: 
-I told you!  See what happens when you remain open to possibility Pete? 
+I told you!  
+---
+See what happens 
+---
+when you remain open to possibility Pete? 
 ---
 ## PETER: 
-I do see.  I am currently reevaluating all of my life choices. 
-
+I do see.  
+---
+I am currently reevaluating 
+---
+all of my life choices. 
 ---
 ## LISSETTE: 
-I’m gonna call this drink a…  I’m calling it a.  A Motherfucking Shitfucker! 
+I’m gonna call this drink a... 
+---
+I’m calling it a.  
+---
+A Motherfucking Shitfucker! 
 ---
 ## PETER: 
 That’s quite a title. 
 ---
 ## LISSETTE: 
-It feels good to say.  Say it. 
+It feels good to say.  
+---
+Say it. 
 ---
 ## PETER: 
 Motherfucking Shitfucker. 
 ---
 ## LISSETTE: 
-Sometimes cursing is just so satisfying.  OK so the Motherfucking Shitfucker 
-has.  Are you ready? 
+Sometimes cursing is just so 
+---
+satisfying.  
+---
+OK so the Motherfucking Shitfucker 
+has.  
+---
+Are you ready? 
 ---
 ## PETER: 
 I am ready. 
-
-
 ---
 ## LISSETTE: 
-Tequila.  Grapefruit.  Simple syrup.  Splash of soda.  Jalapeno.  It’s like a 
-Paloma with a kick in the shins.  Like she’s refreshing and light and breezy and 
-charming and then all of a sudden outta nowhere when you least expect it she 
-kicks you in the shins. 
-
+Tequila.  
+---
+Grapefruit.  
+---
+Simple syrup.  
+---
+Splash of soda.  
+---
+Jalapeno.  
+---
+It’s like a Paloma 
+---
+with a kick in the shins.  
+---
+Like she’s refreshing 
+---
+and light and breezy 
+---
+and charming 
+---
+and then all of a sudden 
+---
+outta nowhere 
+---
+when you least expect it 
+---
+she kicks you in the shins. 
 ---
 ## PETER: 
 She kicks you in the shins. 
 ---
 ## LISSETTE: 
-YES!  OK so I’m gonna be honest with you Pete.  Can I call you Pete? 
+YES!  
+---
+OK so I’m gonna be honest with you Pete.  
+---
+Can I call you Pete? 
+---
 OK? 
-Is that 
+---
+Is that?
 ---
 ## PETER: 
-OH!  Um…  Well it’s not my favorite but it’s. 
+OH!  
+---
+Um...
+---
+Well it’s not my favorite but it’s. 
 ---
 ## LISSETTE: 
 Sorry! 
 ---
 ## PETER: 
-But it’s OK.    This Motherfucking Shitfucker is kind of 
-extraordinary. 
+But it’s OK.    
+---
+This Motherfucking Shitfucker 
+---
+is kind of extraordinary. 
 ---
 ## LISSETTE: 
-Aw Pete.  I may love you a little. 
+Aw Pete.  
+---
+I may love you a little. 
 ---
 ## PETER: 
 Are we there yet? 
 ---
 ## LISSETTE: 
-Sure why not Pete why not I mean maybe Pete?  Maybe.  Maybe you and me 
-maybe we are going to be such wicked fucking good friends from now on now 
-for forever from now, right? 
+Sure why not Pete 
+---
+why not I mean maybe Pete?  
+---
+Maybe.  
+---
+Maybe you and me 
+---
+maybe we are going to be such 
+---
+wicked fucking good friends 
+---
+from now on 
+---
+now for forever from now, right? 
 ---
 ## PETER: 
-I’m not exactly sure what you just said but sure. 
-LISSSETTE 
+I’m not exactly sure 
+---
+what you just said 
+---
+but sure. 
+---
+## LISSSETTE:
 So Pete. 
 ---
 ## PETER: 
 Lissette. 
 ---
 ## LISSETTE: 
-Tell me something about you that’s secret and exciting. 
+Tell me something about you 
+---
+that’s secret and exciting. 
 ---
 ## PETER: 
 I’m not sure that I have. 
-
-
 ---
 ## LISSETTE: 
-One thing!!  That nobody knows about.  Except for me now I’ll know and you 
-will also know because it’s your thing to know. 
+One thing!!  
+---
+That nobody knows about.  
+---
+Except for me now 
+---
+I’ll know and you will also know 
+---
+because it’s your thing to know. 
 ---
 ## PETER: 
-It’s hard to think of something that nobody knows. 
+It’s hard to think of something 
+---
+that nobody knows. 
 ---
 ## LISSETTE: 
 ONE THING! 
+---
 OK FINE! 
+---
 weed. 
 ---
 ## PETER: 
-Nobody knows.  Nobody knows that…  I.  Have never smoked 
+Nobody knows.  
+---
+Nobody knows that...  
+---
+I.  
+---
+Have never smoked 
 ---
 ## LISSETTE: 
 How old are you??? 
@@ -3476,221 +4684,439 @@ Happy Birthday!
 Thank you! 
 ---
 ## LISSETTE: 
-Wait I have to give you a present where is your present I need to find you a 
-present. 
+Wait I have to give you a present 
+---
+where is your present 
+---
+I need to find you a present. 
 ---
 ## PETER: 
 Really not necessary. 
 ---
 ## LISSETTE: 
-Oh!  OK get ready you ready? 
+Oh!  
+---
+OK get ready 
+---
+you ready? 
 ---
 ## PETER: 
 I’m ready. 
-
 ---
 ## LISSETTE: 
-This.   
-penny.  This is very special and very lucky.  Here. 
+This. 
+---
+penny.  
+---
+This is very special 
+---
+and very lucky.  
+---
+Here. 
+---
 This is my bicentennial 
 ---
 ## PETER: 
 Thanks. 
-
-
 ---
 ## LISSETTE: 
-This penny.  Was found on the corner of Broadway and 12th street in front of 
-the Strand Bookstore after a really unfortunate date with an investment banker 
-Allison fixed me up with.  I am giving you this penny as a token of our brand 
-new best friendship.  You Pete you.  You are now the Luckiest Person.  In the.  
+This penny.  
+---
+Was found on the corner 
+---
+of Broadway and 12th street 
+---
+in front of the Strand Bookstore 
+---
+after a really unfortunate date 
+---
+with an investment banker 
+---
+Allison fixed me up with.  
+---
+I am giving you this penny 
+---
+as a token of our brand new 
+---
+best friendship.  
+---
+You Pete you.  
+---
+You are now the Luckiest Person.  
+---
+In the.  
+---
 Entire World. 
 ---
 ## PETER: 
 That’s a little overwhelming. 
 ---
 ## LISSETTE: 
-But wait why have you never smoked weed. 
+But wait 
+---
+why have you never smoked weed? 
 ---
 ## PETER: 
-Oh!  Uh.  Right.  That.  I uh…  I have never actually done any drugs of any kind.  
-I’ve barely popped a Tylenol.  I maybe have never taken a Tylenol. 
+Oh!  Uh.  
+---
+Right. 
+---
+That.  
+---
+I uh...  
+---
+I have never actually done 
+---
+any drugs of any kind.  
+---
+I’ve barely popped a Tylenol.  
+---
+I maybe have never taken a Tylenol. 
 ---
 ## LISSETTE: 
-I’ve done all the drugs there are to do.  I’ve tried everything once.  I kind of wish 
-I haven’t but I have so what can you do.    Why is it a secret? 
+I’ve done all the drugs 
+---
+there are to do.  
+---
+I’ve tried everything once.  
+---
+I kind of wish I haven’t 
+---
+but I have 
+---
+so what can you do?   
+---
+Why is it a secret? 
 ---
 ## PETER: 
-Oh…  I donno.  I guess it’s a little embarrassing? 
+Oh...
+---
+I donno.  
+---
+I guess it’s a little embarrassing? 
 ---
 ## LISSETTE: 
-Why. 
+Why?
 ---
 ## PETER: 
-Because it’s something that…  Most people have experienced. And so. 
+Because it’s something that... 
+---
+Most people have experienced. 
+---
+And so. 
 ---
 ## LISSETTE: 
-Who gives a shit what other people have experienced. 
+Who gives a shit what 
+---
+other people have experienced? 
 ---
 ## PETER: 
 I guess It’s just. 
 ---
 ## LISSETTE: 
-You are dodging the question Pete.  Why have you never smoked weed. 
-
+You are dodging the question Pete.  
+---
+Why have you never smoked weed?
 ---
 ## PETER: 
-I…  Have never smoked weed because I…  There are some people in my life 
-who… Were… High?  A lot?  And so…  I don’t want to be. 
-Pause… 
+I... 
+---
+Have never smoked weed 
+---
+because I... 
+---
+There are some people in my life 
+---
+who Were High?  
+---
+A lot?  
+---
+And so 
+---
+I don’t want to be. 
+---
 ---
 ## LISSETTE: 
 But you drink. 
 ---
 ## PETER: 
 Cleary I do. 
-
-
 ---
 ## LISSETTE: 
 What’s the difference.   
 ---
 ## PETER: 
-If it’s OK I would… Rather not talk about it? 
-
+If it’s OK I would... 
+---
+Rather not talk about it? 
 ---
 ## LISSETTE: 
 Sorry sorry of course it’s OK. 
 ---
 ## PETER: 
-It’s no big deal I just. 
+It’s no big deal 
+---
+I just. 
 ---
 ## LISSETTE: 
-No no this is me I do this I just.  I barrel right over people’s boundaries and I. 
+No no this is me 
+---
+I do this 
+---
+I just.  
+---
+I barrel right over 
+---
+people’s boundaries and I. 
 ---
 ## PETER: 
-I drink because I know I can stop drinking.  I have never done drugs because 
-I’m not sure I’d be able to stop doing drugs.  And because a lot of people in my 
-family drink and are functional.  But the ones who did and do drugs are not.  
-Functional.  Or they are dead.  And so…    So yeah.  That’s why I drink 
+I drink because I know 
+---
+I can stop drinking.  
+---
+I have never done drugs because 
+---
+I’m not sure I’d be able to stop 
+---
+doing drugs.  
+---
+And because a lot of people 
+---
+in my family drink 
+---
+and are functional.  
+---
+But the ones who did 
+---
+and do drugs are not.  
+---
+Functional.  
+---
+Or they are dead.  
+---
+And so   
+---
+So yeah.  
+---
+That’s why I drink 
+---
 but don’t do drugs. 
-Pause… 
+---
 ---
 ## PETER: 
-What about you. 
+What about you?
 ---
 ## LISSETTE: 
-I told you.  I have done all the drugs there are to do so. 
+I told you.  
+---
+I have done all the drugs 
+---
+there are to do so. 
 ---
 ## PETER: 
-No what’s your biggest secret. 
+No, what’s your biggest secret? 
 ---
 ## LISSETTE: 
 Oh. 
 ---
 ## PETER: 
-What’s something about you that nobody knows. 
-
+What’s something about you 
+---
+that nobody knows?
 ---
 ## LISSETTE: 
-My.  Biggest Secret.  Pete is.  That…    Nobody has ever told me 
-they love me.  Ever.  Like besides my mom.  And I donno.  Maybe my dead gram 
-said it once.  But.  I’ve never been in love.  And so I’ve never said those words to 
-someone.  Or had them said to me. 
+My.  
+---
+Biggest Secret.  
+---
+Pete is.  
+---
+That…    
+---
+Nobody has ever told me 
+---
+they love me.  
+---
+Ever.  
+---
+Like besides my mom.  
+---
+And I donno.  
+---
+Maybe my dead gram said it once.  
+---
+But.  
+---
+I’ve never been in love.  
+---
+And so I’ve never said 
+---
+those words to someone.  
+---
+Or had them said to me. 
 ---
 ## PETER: 
 Me neither. 
-Pause… 
-
-
+---
 ---
 ## LISSETTE: 
 What’s your biggest fear? 
 ---
 ## PETER: 
 Dying alone. 
-
 ---
 ## LISSETTE: 
 You didn’t even hesitate. 
 ---
 ## PETER: 
-Oh yeah no that particular fear is like.  Omnipresent in my life.  It’s very 
-specific.  Like.  I choke on a chicken bone and die. 
+Oh yeah no 
+---
+that particular fear is like.  
+---
+Omnipresent in my life.  
+---
+It’s very specific.  
+---
+Like.  
+---
+I choke on a chicken bone and die. 
 ---
 ## LISSETTE: 
-Wait why a chicken bone?  That’s so random. 
+Wait, why a chicken bone?  
+---
+That’s so random. 
 ---
 ## PETER: 
-I know but it’s just always a chicken bone. 
+I know but it’s just 
+---
+always a chicken bone. 
 ---
 ## LISSETTE: 
 OK I’m going with it. 
 ---
 ## PETER: 
-And yeah so I choke on the rogue chicken bone and I die and nobody finds me 
-till my neighbors start to complain about the smell. 
+And yeah so I choke on the 
+---
+rogue chicken bone 
+---
+and I die and nobody 
+---
+finds me till my neighbors 
+---
+start to complain about the smell. 
 ---
 ## LISSETTE: 
-The smell.  Yeah that’s a good one. 
+The smell.  
+---
+Yeah that’s a good one. 
 ---
 ## PETER: 
 What about you? 
 ---
 ## LISSETTE: 
-Oh…    Um…  Mine is lame.  Mine is. 
-reading my journals after I die. 
-Someone 
+Oh, um  
+---
+Mine is lame.  
+---
+Mine is. 
+---
+Someone reading my journals 
+---
+after I die. 
 ---
 ## PETER: 
-Oh no that’s horrifying! 
-
+Oh no, that’s horrifying! 
 ---
 ## LISSETTE: 
-Right?  Like people you love going through your journals and reading weird shit 
-you’ve said maybe even about them and.  Getting hurt.  It’s the worst!  So I’m 
-always in this insane push pull of do I destroy them all while I’m alive?  But 
-then what if I want to read them again?  Does any of it matter? 
-Pause… 
+Right?  
+---
+Like people you love 
+---
+going through your journals 
+---
+and reading weird shit you’ve said 
+---
+maybe even about them and.  
+---
+Getting hurt.  
+---
+It’s the worst!  
+---
+So I’m always in this insane 
+---
+push pull of do I destroy them 
+---
+all while I’m alive?  
+---
+But then what if I want 
+---
+to read them again?  
+---
+Does any of it matter? 
+---
 ---
 ## LISSETTE: 
 I’m blushing. 
-
-
 ---
 ## PETER: 
 You are. 
 ---
 ## LISSETTE: 
 I’m clearly embarrassed. 
-
 ---
 ## PETER: 
 Why? 
 ---
 ## LISSETTE: 
-I don’t know!  But I am. 
-Pause… 
+I don’t know!  
+---
+But I am. 
+---
 ---
 ## PETER: 
-Even though we barely know each other.  I promise you here.  Over this 
-Motherfucking Shitfucker.  That if you suddenly and unexpectedly die.  I will go 
-into your apartment and I will steal all your journals and I will shred all of them 
-and I can say that because we’ve just met and so there will likely be nothing 
-about me in them. 
+Even though we barely know each other.  
+---
+I promise you here.  
+---
+Over this Motherfucking Shitfucker.  
+---
+That if you suddenly 
+---
+and unexpectedly die.  
+---
+I will go into your apartment 
+---
+and I will steal all your journals 
+---
+and I will shred all of them 
+---
+and I can say that because we’ve 
+---
+just met and so there will likely 
+---
+be nothing about me in them. 
 ---
 ## LISSETTE: 
-But now that we’re best friends there may be lots of shitty stuff about you in 
-the future. 
+But now that we’re best friends 
+---
+there may be lots of shitty stuff 
+---
+about you in the future. 
 ---
 ## PETER: 
-That’s OK.  I can handle.  Shitty stuff. 
-
-Pause… 
+That’s OK.  
+---
+I can handle.  
+---
+Shitty stuff. 
+---
 ---
 ## LISSETTE: 
-I think that’s the nicest thing anybody has ever said to me.  In maybe my whole 
-life. 
+I think that’s the nicest thing 
+---
+anybody has ever said to me.  
+---
+In maybe my whole life. 
 ---
 ## PETER: 
 I totally mean it. 
@@ -3700,99 +5126,177 @@ Thank you.
 ---
 ## PETER: 
 Sure.  
-
-
-An outside bench.  Not a park bench.  A bench in the yard of an estate or a house. 
-Cheryl is smoking with her back to Peter who watches.   
-He keeps about to say something but doesn’t. 
-
-She finishes her cigarette.  Puts it out.  Picks up the butt.   
-
-She gets up off the bench and sees Peter. 
+---
 ---
 ## CHERYL: 
-Oh Christ on a cross Petey how long were you freaking standing there. 
+Oh Christ on a cross Petey 
+---
+how long were you freaking standing there. 
 ---
 ## PETER: 
 I was just. 
 ---
 ## CHERYL: 
-Didn’t your mother tell you not to creep up on people like that. 
+Didn’t your mother tell you 
+---
+not to creep up on people like that. 
 ---
 ## PETER: 
 Sorry I’m sorry I’m. 
 ---
 ## CHERYL: 
-You better shut your mouth and not tell a damn soul that you saw me 
-smoking out here. 
+You better shut your mouth 
+---
+and not tell a damn soul 
+---
+that you saw me smoking out here. 
 ---
 ## PETER: 
-I won’t I promise. 
+I won’t, I promise. 
 ---
 ## CHERYL: 
-I know I probably reek of the fuckers but nobody needs to hear I had a witness.  
+I know I probably reek of the fuckers 
+---
+but nobody needs to hear 
+---
+I had a witness.  
+---
 Capiche? 
 ---
 ## PETER: 
-Yes.  Fully Capiche-ed. 
-Pause… 
+Yes.  
+---
+Fully Capiche-ed. 
+---
 ---
 ## CHERYL: 
 You found this place right? 
-
 ---
 ## PETER: 
 I did. 
 ---
 ## CHERYL: 
-Aw kid you did good.  This place is gorgeous. 
+Aw kid you did good.  
+---
+This place is gorgeous. 
 ---
 ## PETER: 
 Air B N B. 
-
-
 ---
 ## CHERYL: 
-What kinda asshole would put this gorgeous place on the internet for complete 
-strangers.  Could you do that? 
+What kinda asshole 
+---
+would put this gorgeous place 
+---
+on the internet for 
+---
+complete strangers.  
+---
+Could you do that? 
 ---
 ## PETER: 
 Probably not. 
 ---
 ## CHERYL: 
-I tried to go in the crying room which.  No offense Petey and pardon my French 
-– the crying room is really fucking retarded but I.  
+I tried to go in the crying room 
+---
+which, no offense Petey 
+---
+and pardon my French 
+---
+the crying room 
+---
+is really fucking retarded but I.  
 ---
 ## PETER: 
-No offense… Taken. 
+No offense Taken. 
 ---
 ## CHERYL: 
-But I went to the freaking crying room and I just sat there I felt so 
-uncomfortable.  My eyes were bone fucking dry in the crying room so I…
-then that annoying girl who sang that horrible Bette Midler song. 
+But I went to 
+---
+the freaking crying room 
+---
+and I just sat there 
+---
+I felt so uncomfortable.  
+---
+My eyes were bone fucking dry 
+---
+in the crying room so I
+---
+then that annoying girl 
+---
+who sang that horrible 
+---
+Bette Midler song.
+---
 And 
 ---
 ## PETER: 
 Allison. 
 ---
 ## CHERYL: 
-Right Allison.  Allison tried to freaking hug me.  And then my sister Annette 
-started telling me about her goddamn knee replacement.  Who does that.  Like I 
-want to hear about that today.  But so I had to get the hell outta there and so I.  
-I came out here.  Talked to my dead mother.    I mean who knows if she 
-hears anything but I felt like taking a chance. So… 
-Pause.  They both still stand. 
+Right Allison.  
+---
+Allison tried to freaking hug me.  
+---
+And then my sister Annette 
+---
+started telling me about her 
+---
+goddamn knee replacement.  
+---
+Who does that.  
+---
+Like I want to hear about that today.  
+---
+But so I had to get 
+---
+the hell outta there and so I.  
+---
+I came out here.  
+---
+Talked to my dead mother.    
+---
+I mean who knows if she 
+---
+hears anything but I felt like 
+---
+taking a chance. 
+---
+So… 
+---
 ---
 ## CHERYL: 
-OK well I should go back, huh?  Let you be alone. 
+OK well I should go back, huh?  
+---
+Let you be alone. 
 ---
 ## PETER: 
-You can stay.  If you want you can stay.  You don’t have to if you don’t want to 
-but if you want to I’m OK with you staying out here too.  If you…  Want.  But no 
-pressure if you don’t you can go inside.  If you want. 
-
-Pause… 
-
+You can stay.  
+---
+If you want, you can stay.  
+---
+You don’t have to 
+---
+if you don’t want to 
+---
+but if you want to 
+---
+I’m OK with you 
+---
+staying out here too.  
+---
+If you...  
+---
+Want.  
+---
+But no pressure if you don’t 
+---
+you can go inside.  
+---
+If you want. 
+---
 ---
 ## CHERYL: 
 You mind if I have another ciggy? 
@@ -3802,99 +5306,188 @@ Only if you have one for me.
 ---
 ## CHERYL: 
 Petey you smoke??? 
-
-
 ---
 ## PETER: 
 Sometimes. 
 ---
 ## CHERYL: 
-That made me like you a little more.  And I already like you quite a bit. 
-
-She lights a cigarette for him and hands it to him.  And then for herself. 
-
+That made me like you 
+---
+a little more.  
+---
+And I already like you quite a bit. 
 ---
 ## PETER: 
-Are these.  Do you smoke.  Virginia Slims. 
+Are these?  
+---
+Do you smoke?  
+---
+Virginia Slims? 
 ---
 ## CHERYL: 
-I do I know it’s embarrassing. 
+I do 
+---
+I know it’s embarrassing. 
 ---
 ## PETER: 
-I mean it’s actually kind of amazing.  It made me like you a little more.  And I 
-already like you quite a bit. 
-They smoke… 
+I mean it’s actually 
+---
+kind of amazing.  
+---
+It made me like you a little more.  
+---
+And I already like you quite a bit. 
+---
 ---
 ## PETER: 
-Are these even.  Do they have nicotine in them or are they just.  Decorative. 
+Are these even.  
+---
+Do they have nicotine in them 
+---
+or are they just.  
+---
+Decorative. 
 ---
 ## CHERYL: 
-I donno.  I’ve been smoking these since I was thirteen.  I think I just like the 
-whadyacallit.  The hand mouth thing.  I think it’s cuz I was bottle fed.  I think I 
-read that somewhere.   
-
-They smoke… 
+I donno.  
+---
+I’ve been smoking these 
+---
+since I was thirteen.  
+---
+I think I just like the 
+---
+whadyacallit.  
+---
+The hand mouth thing.  
+---
+I think it’s cuz I was bottle fed.  
+---
+I think I read that somewhere.   
+---
 ---
 ## PETER: 
 People love the lasagna. 
 ---
 ## CHERYL: 
-Oh come on.  You’re just saying that. 
+Oh come on.  
+---
+You’re just saying that. 
 ---
 ## PETER: 
-I’m not.  There is weeping over the lasagna.  There are people right now in the 
-Pardon my French – the fucking retarded crying room.  They are crying over 
-that lasagna. That lasagna is a gift Cheryl.  You done good. 
-
+I’m not.  
+---
+There is weeping over the lasagna.  
+---
+There are people right now 
+---
+in the 
+---
+Pardon my French 
+---
+the fucking retarded crying room.  
+---
+They are crying over that lasagna. 
+---
+That lasagna is a gift Cheryl.  
+---
+You done good. 
 ---
 ## CHERYL: 
 Now you’re making fun. 
 ---
 ## PETER: 
-I swear on my mother that I’m not.   
+I swear on my mother 
+---
+that I’m not.   
 ---
 ## CHERYL: 
-Don’t swear on your mother that’s terrible. 
-
-
+Don’t swear on your mother 
+---
+that’s terrible. 
 ---
 ## PETER: 
-Fine I swear on nobody dead that the lasagna is extraordinary. 
+Fine I swear on nobody dead 
+---
+that the lasagna is extraordinary. 
 ---
 ## CHERYL: 
-It doesn’t touch my mother’s.  My mother’s was a two-day affair. She made the 
-sauce from scratch.  The meatballs.  That woman made her own freaking ricotta 
-cheese.  Hand cut noodles.  Even at the end when her brain was pudding.  I 
-swear to god if I said.  “Ma.  Make me a lasagna.”  She’d make me a lasagna.  
+It doesn’t touch my mother’s.  
+---
+My mother’s was a two-day affair. 
+---
+She made the sauce from scratch.  
+---
+The meatballs.  
+---
+That woman made her own 
+---
+freaking ricotta cheese.  
+---
+Hand cut noodles.  
+---
+Even at the end when her 
+---
+brain was pudding.  
+---
+I swear to god if I said.  
+---
+“Ma.  Make me a lasagna.”  
+---
+She’d make me a lasagna.  
+---
 And it would be perfect.    
-They smoke…   
+---
 ---
 ## PETER: 
-I gotta be honest with you Cheryl.  This cigarette isn’t truly satisfying. 
+I gotta be honest with you Cheryl.  
+---
+This cigarette 
+---
+isn’t truly satisfying. 
 ---
 ## CHERYL: 
-Yeah I know.  It’s like a toothpick with a filter. 
-They smoke… 
+Yeah I know.  
+---
+It’s like a toothpick 
+---
+with a filter. 
+---
 ---
 ## CHERYL: 
-I know this sounds coo coo but I swear to god my mother is here.  Today.  I 
-keep hearing her in my head saying.  “I got the emphysema and you have the 
-nerve to smoke Cheryl.  Screw you.”     Holy crap you see that. 
+I know this sounds coo coo 
+---
+but I swear to god 
+---
+my mother is here.  
+---
+Today.  
+---
+I keep hearing her in my head saying.  
+---
+“I got the emphysema 
+---
+and you have the nerve to smoke Cheryl.  
+---
+Screw you.”     
+---
+Holy crap you see that. 
 ---
 ## PETER: 
-What. 
-
+What?
 ---
 ## CHERYL: 
 Don’t move. 
 ---
 ## PETER: 
-OK… 
+OK...
+---
 She puts her hand on his shirt. 
 ---
 ## CHERYL: 
-Lookit that.  You see her. 
-
+Lookit that.  
+---
+You see her. 
 ---
 ## PETER: 
 Oh yeah. 
@@ -3903,122 +5496,253 @@ Oh yeah.
 You know what that means, huh? 
 ---
 ## PETER: 
-What. 
-
-
+What?
 ---
 ## CHERYL: 
-My Nana Marie useta say when you see a ladybug it’s somebody dead coming 
-for a visit.   
+My Nana Marie useta say 
+---
+when you see a ladybug 
+---
+it’s somebody dead 
+---
+coming for a visit.   
 ---
 ## PETER: 
 Huh. 
 ---
 ## CHERYL: 
 That one’s definitely for you.   
-She lets the ladybug fly away.  They smoke.   
 ---
 ## CHERYL: 
-When didja lose your Mother, Petey   
-to ask you.   
-Sorry is that a weird thing 
-No not at all.  I’m…
-school. And so. 
+When didja lose your Mother, Petey?
+---
+Sorry to ask you. 
+---
+I’m...
+---
+is that a weird thing? 
 ---
 ## PETER: 
-My.  My mother died.  When I was in middle 
+No not at all. 
+---
+My.  
+---
+My mother died.  
+---
+When I was in middle school. 
+---
+And so. 
 ---
 ## CHERYL: 
 Oh shit you poor kid.   
 ---
 ## PETER: 
-No no it’s OK I’m OK.   
+No no it’s OK 
+---
+I’m OK.   
 ---
 ## CHERYL: 
-I just assumed you were all grown up not a little one aw jeeze hon. 
-sorry. 
-I’m so 
+I just assumed you were all grown up 
+---
+not a little one aw jeeze hon. 
+---
+I’m so sorry.  
 ---
 ## PETER: 
-It’s OK.  It was a long time ago I.  I don’t really even remember that much about 
-her.  Anymore.  So.  It’s OK. 
+It’s OK.  
+---
+It was a long time ago I.  
+---
+I don’t really even remember 
+---
+that much about her.  
+---
+Anymore.  
+---
+So.  
+---
+It’s OK. 
 ---
 ## CHERYL: 
-So who took care of you. 
+So who took care of you? 
 ---
 ## PETER: 
-Um…    My sister and I.  We stayed with my grandparents for a while and 
-then…  My grandfather died and so we.    What am I doing.  You don’t 
-wanna hear all this. 
+Um...
+---
+My sister and I.  
+---
+We stayed with my grandparents 
+---
+for a while and then... 
+---
+My grandfather died and so we.    
+---
+What am I doing?  
+---
+You don’t wanna hear all this. 
 ---
 ## CHERYL: 
 I asked you about it remember.   
 ---
 ## PETER: 
 I mean I. 
-
-
 ---
 ## CHERYL: 
-I got a lotta loud crap in my head right now and I’d love to not hear it for a 
-minute.  So.  Talk.   
+I got a lotta loud crap in 
+---
+my head right now 
+---
+and I’d love to not hear it 
+---
+for a minute.  
+---
+So.  
+---
+Talk.   
 ---
 ## PETER: 
-OK…  I…    Now I feel pressured to make it an interesting story I.  And it’s 
-not.  Really.  My uh my sister and I we.  We lived with my grandparents and 
-then my grandfather died and my grandmother couldn’t keep us so we…  She 
-and I had different dads.  And her dad was useless and mine was less useless 
-so I took my sister and we lived with my dad for a little bit.  And he was fine but 
-also shitty.  So…  We moved in with my mom’s brother and it was fine.  He had 
-a big family.  Lots of kids so.  So mostly we just tried to not get in the way?  
-And…  I mean they were good people.  They loved us?  I think? They liked us 
-OK.  But it was also weird.    And then I graduated and I went to college.  
-My shitty father paid for that.  But my sister just kind of.  She didn’t graduate.  
-She got pregnant.  She gave the kid up.  She’s kind of a mess.  And.  Uh…  So.  
-Yeah.  That’s my.  Family.   
+OK...
+---
+I...   
+---
+Now I feel pressured to make it 
+---
+an interesting story I.  
+---
+And it’s not.  
+---
+Really.  
+---
+My uh my sister and I we. 
+---
+We lived with my grandparents 
+---
+and then my grandfather died 
+---
+and my grandmother couldn’t keep us 
+---
+so we... 
+---
+She and I had different dads.  
+---
+And her dad was useless 
+---
+and mine was less useless 
+---
+so I took my sister 
+---
+and we lived with my dad 
+---
+for a little bit.  
+---
+And he was fine but also shitty.  
+---
+So... 
+---
+We moved in with my mom’s brother 
+---
+and it was fine.  
+---
+He had a big family.  
+---
+Lots of kids so.  
+---
+So mostly we just tried to 
+---
+not get in the way?
+---
+And... 
+---
+I mean they were good people.  
+---
+They loved us?  
+---
+I think? 
+---
+They liked us OK.  
+---
+But it was also weird.    
+---
+And then I graduated 
+---
+and I went to college.  
+---
+My shitty father paid for that.  
+---
+But my sister just kind of.  
+---
+She didn’t graduate.  
+---
+She got pregnant.  
+---
+She gave the kid up.  
+---
+She’s kind of a mess.  
+---
+And.  
+---
+Uh... 
+---
+So.  
+---
+Yeah.  
+---
+That’s my.  
+---
+Family.   
 ---
 ## CHERYL: 
 Family is fucking crazy. 
 ---
 ## PETER: 
-Yeah?    Yeah. 
-She lights a cigarette for herself. And one for him. 
-They smoke. 
-
+Yeah?    
+----
+Yeah. 
+---
 ---
 ## CHERYL: 
 Here’s another shitty cigarette. 
-Thanks. 
 ---
-## PETER: 
-They smoke.   
+## PETER:
+Thanks.  
 ---
 ## CHERYL: 
-If you ever wanna call me on you know like.  Holidays.  I would.  I wouldn’t 
-mind that.  If you did that.   
-
+If you ever wanna call me 
+---
+on you know like.  
+---
+Holidays.  
+---
+I would.  
+---
+I wouldn’t mind that.  
+---
+If you did that.   
 ---
 ## PETER: 
-OK.    OK. 
-Peter and Lissette 
+OK.   
+---
+OK. 
+---
 ---
 ## PETER: 
-I’m sorry I’m really sorry. 
+I’m sorry 
+---
+I’m really sorry. 
 ---
 ## LISSETTE: 
 Don’t be. 
-
-
 ---
 ## PETER: 
 I’m just I. 
 ---
 ## LISSETTE: 
 I get it. 
-
 ---
 ## PETER: 
-I will help you guys with.  With whatever you need and I’ll. 
+I will help you guys with. 
+---
+With whatever you need and I’ll. 
 ---
 ## LISSETTE: 
 It’s OK. 
@@ -4033,7 +5757,9 @@ Stop what.
 Being so nice about it. 
 ---
 ## LISSETTE: 
-Oh my god what do you want me to do? 
+Oh my god 
+---
+what do you want me to do? 
 ---
 ## PETER: 
 Yell at me. 
@@ -4045,37 +5771,69 @@ I’m not going to do that.
 I suck as a friend. 
 ---
 ## LISSETTE: 
-I didn’t say that.  Did I say that? 
+I didn’t say that.  
+---
+Did I say that? 
 ---
 ## PETER: 
-No but I promised you.  I said I would live with you and that I’d. 
-
+No but I promised you.  
+---
+I said I would live with you 
+---
+and that I’d. 
 ---
 ## LISSETTE: 
-It’s a lot.  To ask.  Of a friend.  Of a platonic friend.  To. 
-I mean I thought that you may bail. And so I. 
+It’s a lot.  
+---
+To ask.  
+---
+Of a friend.  
+---
+Of a platonic friend.  
+---
+To. 
+---
+I mean I thought that you may bail. 
+---
+And so I. 
+---
 To be your caregiver I.  
 ---
 ## PETER: 
-I’m sorry I’m so. 
+I’m sorry 
+---
+I’m so. 
 ---
 ## LISSETTE: 
-It’s OK.  My mom will come and live with me.  Or I’ll just I’ll.  Hire somebody or 
-something. 
-
-
+It’s OK.  
+---
+My mom will come 
+---
+and live with me.  
+---
+Or I’ll just I’ll.  
+---
+Hire somebody or something. 
 ---
 ## PETER: 
 Can you afford that? 
 ---
 ## LISSETTE: 
-I mean I’ll just whatever.  I’ll max out my credit cards or I don’t know.  It’s fine.  
-It’ll be.  Fine. 
-Pause… 
-
+I mean I’ll just whatever.  
+---
+I’ll max out my credit cards 
+---
+or I don’t know.  
+---
+It’s fine.  
+---
+It’ll be.  
+---
+Fine. 
+---
 ---
 ## PETER: 
-I can help you find a great apartment. 
+I can help you find a great apartment?
 ---
 ## LISSETTE: 
 Sure. 
@@ -4087,257 +5845,576 @@ This is something I can do.
 This is true. 
 ---
 ## PETER: 
-Everybody should have in their life.  A doctor a lawyer a dentist and a real 
-estate agent. 
+Everybody should have 
+---
+in their life.  
+---
+A doctor 
+---
+a lawyer 
+---
+a dentist 
+---
+and a real estate agent. 
 ---
 ## LISSETTE: 
 Sounds like a plan. 
 ---
 ## PETER: 
-What are you thinking.  Two bedroom.  Lots of light.  Downtown uptown. 
+What are you thinking?  
+---
+Two bedroom.
+---
+Lots of light.  
+---
+Downtown uptown. 
 ---
 ## LISSETTE: 
-I just need it to be.  Accessible. Yeah.  And two bedrooms.  And a.  I need a.  
-Month to month lease? I think. 
+I just need it to be.  
+---
+Accessible. 
+---
+Yeah.  
+---
+And two bedrooms.  
+---
+And a.  
+---
+I need a.  
+---
+Month to month lease? 
+---
+I think. 
 ---
 ## PETER: 
-Why do you need a month to month lease. 
+Why do you need a month to month lease? 
 ---
 ## LISSETTE: 
-Peter…  
+Peter... 
 ---
 ## PETER: 
 I’m not trying to be difficult but I. 
 ---
 ## LISSETTE: 
-Think about it.  Just.  Think about it.  
-Pause… 
+Think about it.  
+---
+Just.  
+---
+Think about it.  
+---
 ---
 ## PETER: 
 When do you want me to start looking? 
-
-
 ---
 ## LISSETTE: 
-I don’t know?  I…  Soon?  I guess?  The stairs are.  Getting hard.  And I.  I need 
-to get a.  Walker?  And a.  Wheel chair will be soon after that and so.  Yeah.  
+I don’t know?  
+---
+I...
+---
+Soon?  
+---
+I guess?  
+---
+The stairs are.  
+---
+Getting hard.  
+---
+And I.  
+---
+I need 
+---
+to get a Walker?  
+---
+And a wheel chair will be soon 
+---
+after that and so.  
+---
+Yeah.  
+---
 Soon.   
-Pause… 
-
+---
 ---
 ## PETER: 
 You’re sure you’re not mad.   
 ---
 ## LISSETTE: 
-I’m.  Not mad. 
+I’m.  
+---
+Not mad. 
 ---
 ## PETER: 
-I suck as a friend I am the worst friend.   
+I suck as a friend.
+---
+I am the worst friend.   
 ---
 ## LISSETTE: 
-Honestly?  Cheryl really wants to do it.  I think she was actually disappointed 
-that I hadn’t asked yet. So.  
+Honestly?  
+---
+Cheryl really wants to do it.  
+---
+I think she was actually 
+---
+disappointed that 
+---
+I hadn’t asked yet. 
+---
+So.  
 ---
 ## PETER: 
-I’m sorry I’m so. 
+I’m sorry 
+---
+I’m so. 
 ---
 ## LISSETTE: 
-Can you please just.  Stop apologizing? 
+Can you please just  
+---
+Stop apologizing? 
 ---
 ## PETER: 
 Sure sorry yeah. 
-
 ---
 ## LISSETTE: 
-It’s kind of making it worse.    I wish I was married. 
+It’s kind of making it worse.    
+---
+I wish I was married. 
 ---
 ## PETER: 
 To who? 
 ---
 ## LISSETTE: 
-I donno. Anybody? I.  I wish I was married because then.  None of  
-this would.  Be an issue.   If I were you and you’d asked me I.  I probably 
-wouldn’t wanna do it either so.   
-
-Pause… 
-
+I donno. 
+---
+Anybody? 
+---
+I.  
+---
+I wish I was married 
+---
+because then. 
+---
+None of this would.  
+---
+Be an issue.   
+---
+If I were you 
+---
+and you’d asked me I.  
+---
+I probably wouldn’t wanna 
+---
+do it either so.   
+---
 ---
 ## PETER: 
-I’ll help you both with whatever you need. 
+I’ll help you both 
+---
+with whatever you need. 
 ---
 ## LISSETTE: 
 Just find me an awesome apartment. 
 ---
 ## PETER: 
 I am so on it. 
-
-
-Thanks.   Thanks. 
-Need help with.   
 ---
 ## LISSETTE: 
-I.  Um.  I.   
-I have.  Something else I.  
+Thanks.   
+Thanks.  
+---
+## LISSETTE: 
+I.  Um.  
+---
+I.
+---
+I have.  
+---
+Something else I. 
+---
+Need help with.   
 ---
 ## PETER: 
 Anything. 
 ---
 ## LISSETTE: 
-Don’t you wanna.  Know what it is first? 
+Don’t you wanna.  
+---
+Know what it is first? 
 ---
 ## PETER: 
 Nope there is nothing you could ask me that I wouldn’t do. 
 ---
 ## LISSETTE: 
-Dude you just bailed on being my caregiver. 
+Dude you just bailed on 
+---
+being my caregiver. 
 ---
 ## PETER: 
-Fuck I know I’m sorry I’m so. 
+Fuck I know 
+---
+I’m sorry 
+---
+I’m so. 
 ---
 ## LISSETTE: 
-Relax I’m.  Fucking with you.    Kind of.   So…  I…  I need 
-you to pause.  Whatever impulse you have about.  What I’m about to say and.  
-Reserve any judgment and just.  Listen. 
+Relax I’m.  
+---
+Fucking with you.    
+---
+Kind of.   
+---
+So…  
+---
+I…  
+---
+I need you to pause.  
+---
+Whatever impulse you have about.  
+---
+What I’m about to say and.  
+---
+Reserve any judgment and just.  
+---
+Listen. 
 ---
 ## PETER: 
-OK… 
+OK... 
 ---
 ## LISSETTE: 
-I.  Have a lot of.  Decisions.  To make.  About my life.  About how I’m going to 
-live my life.  And…  And…  How I want.  To die and. And I. 
+I.  
+---
+Have a lot of.  
+---
+Decisions.  
+---
+To make.  
+---
+About my life.  
+---
+About how I’m going to 
+---
+live my life.  
+---
+And…  
+---
+And…  
+---
+How I want.  
+---
+To die and. 
+---
+And I. 
 ---
 ## PETER: 
-Who says you are going to die. 
+Who says you are going to die? 
 ---
 ## LISSETTE: 
-I mean I am definitely.  Going to die it’s just. 
+I mean I am definitely.  
+---
+Going to die 
+---
+it’s just. 
 ---
 ## PETER: 
-But what about Stephen Hawking. 
+But what about Stephen Hawking? 
 ---
 ## LISSETTE: 
-Oh my god please please don’t. Bring up Stephen Hawking to me right now! 
+Oh my god please please don’t. 
+---
+Bring up Stephen Hawking to me right now! 
 ---
 ## PETER: 
-But he lived for a really long time and he.   
+But he lived for a really long time 
+---
+and he.   
 ---
 ## LISSETTE: 
-That’s like telling a kid who really wants a.  A pony that they should hold out 
-for a.  Freaking unicorn.   
-
-
+That’s like telling a kid 
+---
+who really wants a.  
+---
+A pony that they should hold out 
+---
+for a Freaking unicorn.   
 ---
 ## PETER: 
 It is nothing like that.   
 ---
 ## LISSETTE: 
-It is one hundred percent exactly like that.   
-
+It is one hundred percent 
+---
+exactly like that.   
 ---
 ## PETER: 
-You can’t just assume that you’re going to die just because. 
+You can’t just assume that 
+----
+you’re going to die just because. 
 ---
 ## LISSETTE: 
-You agreed to reserve.  Judgment. 
+You agreed to reserve.  
+---
+Judgment. 
 ---
 ## PETER: 
 I know I just. 
 ---
 ## LISSETTE: 
-You agreed.  To listen.     I need to make some decisions soon.  
-Because everything is.  My body is.  Changing quickly and I.  There are a lot of 
-unknowns and I.  I need to.  I need a plan.  So.  I.    I want 
-to.    When it’s time to go.  I want to do it.  On my own terms. And so I need.   
+You agreed.  
+---
+To listen.     
+---
+I need to make some decisions soon. 
+---
+Because everything is.  
+---
+My body is.  
+---
+Changing quickly and I.  
+---
+There are a lot of unknowns and I.  
+---
+I need to.  
+---
+I need a plan.  
+---
+So.  I.    
+---
+I want to.    
+---
+When it’s time to go.  
+---
+I want to do it.  
+---
+On my own terms. 
+---
+And so I need.   
 ---
 ## PETER: 
-Yeah I’m not talking about this right now. 
+Yeah I’m not talking 
+---
+about this right now. 
 ---
 ## LISSETTE: 
 Peter I. 
 ---
 ## PETER: 
-Nope.  Sorry not today. 
+Nope.  
+---
+Sorry not today. 
 ---
 ## LISSETTE: 
-You said I could ask you anything and that. 
+You said I could ask you 
+----
+anything and that. 
 ---
 ## PETER: 
 Not this. 
 ---
 ## LISSETTE: 
-Please don’t make me yell it’s.  Too hard.   
-
-Pause… 
-
+Please don’t make me yell it’s.  
+---
+Too hard.   
+---
 ---
 ## LISSETTE: 
-It’s just getting hard to.  Make words.  And raise my voice. The muscles in my 
-throat are.    Not working so well and I.  Just please don’t make me.  Yell.  
-I.     I can do it.  In Vermont.  Legally.   
+It’s just getting hard to.  
+---
+Make words.  
+---
+And raise my voice. 
+---
+The muscles in my throat are.    
+---
+Not working so well and I.  
+---
+Just please don’t make me.  
+---
+Yell.  
+---
+I.     
+---
+I can do it.  
+---
+In Vermont.  
+---
+Legally.   
 ---
 ## PETER: 
-Do what. 
-
-
+Do what?
 ---
 ## LISSETTE: 
-Peter… 
+Peter...
 ---
 ## PETER: 
-I’m not having this conversation unless you say the fucking words. 
-
-LISSETE 
-Die.  OK?  I can die.  On my own terms.  In Vermont.   
+I’m not having this conversation 
+---
+unless you say the fucking words. 
+---
+## LISSETE:
+Die.  
+---
+OK?  
+---
+I can die.  
+---
+On my own terms.  
+---
+In Vermont.   
 ---
 ## PETER: 
-I can do a lot of things.  I can take a giant shit in the middle of the room right 
-now if I want to but that doesn’t mean that I will. 
+I can do a lot of things.  
+---
+I can take a giant shit 
+---
+in the middle of the room 
+---
+right now if I want to 
+---
+but that doesn’t mean that I will. 
 ---
 ## LISSETTE: 
-You promised that you would do whatever I asked. 
+You promised that you would 
+---
+do whatever I asked. 
 ---
 ## PETER: 
 Fuck you. 
 ---
 ## LISSETTE: 
-I don’t want.  A feeding tube.  I don’t want machines.  I don’t want someone 
-wiping my ass.  I don’t want to.  I don’t want to.  Suffocate.  To death.  I want.  
-To do this.  I am going.  To do this.  And you can either help me.  And be my 
-friend.  Or you can.  Not help me and I will.  Figure out a way to do it.  On my 
-own.  So.  It’s happening either way. One way with you.  One way alone.    
-If I do it I.  I need to do it while I can still.  Lift my hand so.  I will need a plan in 
-place and.  Ready to go when it’s time so I can just pull the trigger and say “lets 
-do this”.  And.    I don’t know.  How much longer.  It’ll be till I.  Till I won’t 
-be able.  To lift my hand.  Anymore.  
+I don’t want.  
+---
+A feeding tube.  
+---
+I don’t want machines.  
+---
+I don’t want someone wiping my ass.  
+----
+I don’t want to.  
+---
+I don’t want to.  
+---
+Suffocate.  
+---
+To death.  
+---
+I want.  
+---
+To do this.  
+---
+I am going.  
+---
+To do this.  
+---
+And you can either help me.  
+---
+And be my friend.  
+---
+Or you can.  
+---
+Not help me and I will.  
+---
+Figure out a way to do it.  
+---
+On my own.  
+---
+So.  
+---
+It’s happening either way. 
+---
+One way with you.  
+---
+One way alone.    
+---
+If I do it I.  
+---
+I need to do it while I can still.  
+---
+Lift my hand so.  
+---
+I will need a plan in place and.  
+---
+Ready to go when it’s time 
+---
+so I can just pull the trigger 
+---
+and say “lets do this”.  
+---
+And.    
+---
+I don’t know.  
+---
+How much longer.  
+---
+It’ll be till I.  
+---
+Till I won’t be able.  
+---
+To lift my hand.  
+---
+Anymore.  
 ---
 ## PETER: 
-Is this about living with your mother?  Because if it is then I will. 
+Is this about living with your mother?  
+---
+Because if it is then I will. 
 ---
 ## LISSETTE: 
 Fuck you. 
 ---
 ## PETER: 
-I will I will live with you OK?  It’s a manipulative way to get me to do what you 
-want but there you go.  You win.  I will move in with you. 
+I will 
+---
+I will live with you OK?  
+---
+It’s a manipulative way 
+---
+to get me to do what you 
+---
+want but there you go.  
+---
+You win.  
+---
+I will move in with you. 
 ---
 ## LISSETTE: 
-It’s not about my fucking mother.  I.    I don’t want to just wait around.  
-To die. I’m really not sad about it I’m not scared I feel like.  I get it that maybe it 
-sounds weird to you.  But it actually feels.  Empowering.  It’s the most.  
-Empowered.  I’ve felt since I found all this out.  So.   
-Pause… 
+It’s not about my fucking mother.  
+---
+I.    
+---
+I don’t want to just wait around.  
+---
+To die. 
+---
+I’m really not sad about it 
+---
+I’m not scared I feel like.  
+---
+I get it that maybe it 
+---
+sounds weird to you.  
+---
+But it actually feels.  
+---
+Empowering.  
+---
+It’s the most.  
+---
+Empowered.  
+---
+I’ve felt since I found 
+---
+all this out. 
+---
+So.   
+---
 ---
 ## PETER: 
-So what do you need from me. 
-
-
+So what do you need from me?
+---
+## LISSETTE: 
 I wanna have a party. 
 ---
-## LISSETTE: 
-Pause… 
 ---
 ## PETER: 
-A party. 
+A party?
 ---
 ## LISSETTE: 
 Yes. 
@@ -4349,131 +6426,628 @@ A what the fuck a death party?
 Totally. 
 ---
 ## PETER: 
-Like we all take a road trip to Vermont together and eat chips and guac and 
-maybe play a few rounds of Cards Against Humanity and get wasted and make 
-smores and then you off yourself at the end and we all go home? 
+Like we all take a road trip 
+---
+to Vermont together 
+---
+and eat chips and guac 
+---
+and maybe play a few rounds of 
+---
+Cards Against Humanity 
+---
+and get wasted and make smores 
+---
+and then you off yourself 
+---
+at the end and we all go home? 
 ---
 ## LISSETTE: 
 Something like that. 
 ---
 ## PETER: 
-That’s the most morbid thing that I’ve ever heard. 
+That’s the most morbid thing
+---
+that I’ve ever heard. 
 ---
 ## LISSETTE: 
 Yeah I know. 
 ---
 ## PETER: 
-But also kind of really.  Fucking beautiful. 
-Pause… 
+But also kind of really.  
+---
+Fucking beautiful. 
+---
 ---
 ## LISSETTE: 
-I know it’s weird and I know that it’s. 
+I know it’s weird 
+---
+and I know that it’s. 
 ---
 ## PETER: 
-It’s not any weirder than anything else.  In this.  Weird fucking world.  So.  
-So I…  I will help you.  OK?   
+It’s not any weirder 
+---
+than anything else. 
+---
+In this.  
+---
+Weird fucking world.  
+---
+So.  
+---
+So I... 
+---
+I will help you.  
+---
+OK?   
 ---
 ## LISSETTE: 
 OK.  
 ---
 ## PETER: 
-I will help you throw.  The most fabulous fucking kick ass death party that has 
-ever existed in the entire history of the world.   
-
-
-Lissette alone.  She stands next to her wheelchair.   
+I will help you throw.  
+---
+The most fabulous fucking 
+---
+kick ass death party 
+---
+that has ever existed 
+---
+in the entire history 
+---
+of the world.    
+---
 ---
 ## LISSETTE: 
-Amyotrophic Lateral Sclerosis.  Is.  A progressive neurodegenerative disease 
-that affects nerve cells in the brain and the spinal cord.  It comes from Greek.  
-Everything comes from Greek. Or Latin?  Maybe it’s Latin… Anyway! “A” means 
-no.  “Myo” is Muscle.  “Trophic” means nourishment.  No muscle nourishment.   
-So.  Starving muscles.   Muscles dying because nobody is feeding them.  Or 
-they have stopped eating.  They are on a hunger strike your muscles.  And so 
-everything that’s holding you together starts to come undone.  And that’s it. 
-You just start unraveling like a ball of yarn and there is nothing to stop it.  
-There’s no chemo there’s no surgery there’s no medicine there’s no fix there’s no 
-maybe to hold on to.  No.  You’re gonna die that’s it end of story.  Because 
-everything is muscles your head your heart your legs your arms your stomach 
-your throat.  Your throat is muscles and so eventually pretty soon you can’t 
-breathe and if you can’t breathe you die.  I mean yes sure we are all eventually 
-going to die.  And some of us will die old and some will die young and the clock 
-starts ticking from the second the sperm meets the egg and they have a sex 
-party and they make a person the second that happens you are dying.  So yes 
-we all know those horribly annoying “I could die tomorrow I could get run over 
-by a car tomorrow so live your best life!”  people.   I hate those people.  Doesn’t 
-everybody hate those people.  Those people fucking suck.  Stop it right now if 
-you are one of those people.  Because everybody hates you.  Literally.  
-Everybody hates you.    Most people didn’t inherit it.  So it’s just a 
-surprise that shows up out of nowhere.  It isn’t avoidable.  No life hacks or kale 
-or collagen peptides or paleo diet or vegan green smoothies or or or colonics or 
-fasting or Namaste or Nam-myocho-renge-kyo or hashtag so blessed is gonna 
-save you.  It’s living inside tucked away hiding till it finally decides to take over 
-and one day you.  You can’t button your shirt.  It’s just a random weird thing 
-you can’t button your shirt.  Your hands don’t know how to button a shirt 
-anymore.  It’s not arthritis it’s not pain it’s just they can’t actually do the thing 
-they’ve always done.  But you’re 38 years old so that’s weird because you’ve 
-been buttoning your whole life but you can’t make it work.  And you shrug it off 
-and you try not to fixate on it but you start bringing it up to people.  “Is that 
-weird?  Has that happened to you?”  And everybody tells you “You’re young!  
-You’re healthy!” The same people who undoubtedly say “Live your best life 
-because we could all get hit by a car tomorrow!”  But something is nagging at 
-you that a healthy person should be able to button a shirt.  And then you trip.  
-Like you start tripping a lot.  Like your feet can’t take care of you anymore.  You 
-feel like you’re walking on marshmallows.  And you feel flutters all the time.  
-Like.  Butterflies.  Butterflies flapping their little wings all around your insides 
-and so you google and you see “the thing” and you avoid “the thing” and you 
-look for “a thing” that’s not “the thing” and you find magnesium.  Potassium.  
-Supplement magnesium and potassium and you do it and maybe it’s better you 
-think it’s better it’s not really better. Or maybe it’s cancer.   
-
-
+Amyotrophic Lateral Sclerosis. 
+---
+Is.  
+---
+A progressive 
+---
+neurodegenerative disease 
+---
+that affects nerve cells 
+---
+in the brain and the spinal cord.  
+---
+It comes from Greek.  
+---
+Everything comes from Greek. 
+---
+Or Latin?  
+---
+Maybe it’s Latin...
+---
+Anyway! 
+---
+“A” means no. 
+---
+“Myo” is Muscle.  
+---
+“Trophic” means nourishment.  
+---
+No muscle nourishment.   
+---
+So.  
+---
+Starving muscles.   
+---
+Muscles dying because 
+---
+nobody is feeding them.  
+---
+Or they have stopped eating.  
+---
+They are on a hunger strike 
+---
+your muscles.  
+---
+And so everything that’s holding 
+---
+you together starts to come undone.  
+---
+And that’s it.
+---
+You just start unraveling like a 
+---
+ball of yarn 
+---
+and there is nothing to stop it.  
+---
+There’s no chemo 
+---
+there’s no surgery 
+---
+there’s no medicine 
+---
+there’s no fix 
+---
+there’s no maybe to hold on to.  
+---
+No.  
+---
+You’re gonna die 
+---
+that’s it end of story.  
+---
+Because everything is muscles 
+---
+your head 
+---
+your heart 
+---
+your legs 
+---
+your arms 
+---
+your stomach 
+---
+your throat.  
+---
+Your throat is muscles 
+---
+and so eventually pretty soon 
+---
+you can’t breathe 
+---
+and if you can’t breathe 
+---
+you die.  
+---
+I mean yes sure 
+---
+we are all eventually 
+---
+going to die.  
+---
+And some of us will 
+---
+die old and some will 
+---
+die young and the clock 
+---
+starts ticking from the second 
+---
+the sperm meets the egg 
+---
+and they have a sex party 
+---
+and they make a person 
+---
+the second that happens 
+---
+you are dying.  
+---
+So yes we all know 
+---
+those horribly annoying 
+---
+“I could die tomorrow 
+---
+I could get run over 
+---
+by a car tomorrow 
+---
+so live your best life!”  
+---
+people.   
+---
+I hate those people.  
+---
+Doesn’t everybody hate those people?  
+---
+Those people fucking suck.  
+---
+Stop it right now if you 
+---
+are one of those people.  
+---
+Because everybody hates you.  
+---
+Literally.  
+---
+Everybody hates you.    
+---
+Most people didn’t inherit it.  
+---
+So it’s just a surprise 
+---
+that shows up out of nowhere.  
+---
+It isn’t avoidable. 
+---
+No life hacks or kale 
+---
+or collagen peptides 
+---
+or paleo diet 
+---
+or vegan green smoothies 
+---
+or or or colonics 
+---
+or fasting 
+---
+or Namaste 
+---
+or Nam-myocho-renge-kyo 
+---
+or hashtag so blessed 
+---
+is gonna save you.  
+---
+It’s living inside 
+---
+tucked away 
+---
+hiding till it finally 
+---
+decides to take over 
+---
+and one day you.  
+---
+You can’t button your shirt.  
+---
+It’s just a random weird thing 
+---
+you can’t button your shirt.  
+---
+Your hands don’t know how 
+---
+to button a shirt anymore.  
+---
+It’s not arthritis 
+---
+it’s not pain 
+---
+it’s just they can’t 
+---
+actually do the thing 
+---
+they’ve always done.  
+---
+But you’re 38 years old 
+---
+so that’s weird because 
+---
+you’ve been buttoning 
+---
+your whole life 
+---
+but you can’t make it work.  
+---
+And you shrug it off 
+---
+and you try not to fixate on it 
+---
+but you start bringing it up 
+---
+to people. 
+---
+“Is that weird?  
+---
+Has that happened to you?”  
+---
+And everybody tells you 
+---
+“You’re young!  
+---
+You’re healthy!” 
+---
+The same people 
+---
+who undoubtedly say 
+---
+“Live your best life 
+---
+because we could all 
+---
+get hit by a car tomorrow!”  
+---
+But something is nagging 
+---
+at you that a healthy 
+---
+person should be able to 
+---
+button a shirt.  
+---
+And then you trip. 
+--- 
+Like you start tripping a lot.
+---
+Like your feet 
+---
+can’t take care of you anymore.  
+---
+You feel like you’re walking 
+---
+on marshmallows.  
+---
+And you feel flutters 
+---
+all the time.  
+---
+Like.  
+---
+Butterflies.  
+---
+Butterflies flapping their little 
+---
+wings all around your insides 
+---
+and so you google 
+---
+and you see “the thing” 
+---
+and you avoid “the thing” 
+---
+and you look for “a thing” 
+---
+that’s not “the thing” 
+---
+and you find magnesium.  
+---
+Potassium. 
+---
+Supplement magnesium and potassium 
+---
+and you do it 
+---
+and maybe it’s better 
+---
+you think it’s better 
+---
+it’s not really better. 
+---
+Or maybe it’s cancer.   
 ---
 ## LISSETTE:  
-Cancer actually would be better than “the thing”. 
-happily take cancer.  Gladly.  But. 
-At this point you would 
+Cancer actually would be better 
+---
+than “the thing”. 
+---
+At this point 
+---
+you would happily take cancer.  
+---
+Gladly.  
+---
+But. 
+---
 You. 
-
+---
 You still can’t button your shirt. 
-
-So…  You go to the doctor because you have health insurance I mean it’s shitty 
-health insurance but it’s something and so you should go to the doctor and the 
-doctor does tests and the doctor calls and the doctor has you come in and the 
-doctor can’t do anything but take a deep breath and tell you the facts. The facts 
-are that the hand that can’t button the shirt will become the foot that can’t 
-carry you where you want to go will become the throat that can’t swallow will 
-become the head that can’t hold itself upright will become the voice that can’t 
-scream will lead to feeding tubes to silence to air masks to recording your laugh 
-so that you can still maybe laugh because what is a world where you can’t 
-laugh can’t eat can’t hug can’t scratch an itch can’t fuck can’t run can’t can’t 
-can’t. 
-That all of this leads to death.  Death by suffocation.  Your body will suffocate 
-itself.  Awesome right? 
-I always hated running.  I have hated running since I was a kid and they made 
-me run the mile and they timed me and me and Jen Hillman used to walk the 
-whole way and talk about boys and piss off the gym teacher.  The gym teacher 
-Dick Shohet who was very well named because he showed lots of girls his dick.  
-But I wish I could run. I have dreams about running.  I dream that I’m 
-screaming.  I dream that I’m running and screaming.  And kicking and 
-punching and running and kicking and screaming and punching. 
-And running.   
-So yeah.  Somewhere between the buttons not buttoning and the wheelchair 
-and the suffocating to death looming in the air you decide.  I decide.  I decided. 
-I said in my head I said.  My terms.  I said.  No way I’m fucking going out like 
-this. No fucking way I’m eating through tubes. And I said in my head.  Lissette.  
-Girl.  You gotta do this while you can still move your hands or else they won’t 
-let you.  I said no crying.  I said. Put on your big girl pants.  I said.  Do it before 
-you can’t enjoy a meal or clutch the hand of someone you love.  I said make all 
-the decisions you wanna make while you can.  Because the longer you wait the 
-harder it will be to fight for what you want.  Because how do you fight without 
-hands without a good punch without kicking and screaming.  So fuck that live 
-your best life bullshit.  I want to get to have the best death.  My death is gonna 
-be.  Fucking.  Epic.   
-She sits in the chair.  She stays on stage and watches… 
-Peter and Cheryl drink wine.  There are cupcakes.  With candles. 
-
-
+---
+So...
+---
+You go to the doctor 
+---
+because you have health insurance 
+---
+I mean it’s shitty 
+---
+health insurance 
+---
+but it’s something 
+---
+and so you should go 
+---
+to the doctor 
+---
+and the doctor does tests 
+---
+and the doctor calls 
+---
+and the doctor has you come in 
+---
+and the doctor 
+---
+can’t do anything 
+---
+but take a deep breath 
+---
+and tell you the facts. 
+---
+The facts are 
+---
+that the hand that can’t button 
+---
+the shirt will become 
+---
+the foot that can’t carry you 
+---
+where you want to go 
+---
+will become the throat 
+---
+that can’t swallow will 
+---
+become the head that can’t 
+---
+hold itself upright 
+---
+will become the voice 
+---
+that can’t scream 
+---
+will lead to feeding tubes 
+---
+to silence 
+---
+to air masks 
+---
+to recording your laugh 
+---
+so that you can still maybe laugh 
+---
+because what is a world where you 
+---
+can’t laugh 
+---
+can’t eat 
+---
+can’t hug 
+---
+can’t scratch an itch 
+---
+can’t fuck 
+---
+can’t run 
+---
+can’t, can’t, can’t. 
+---
+That all of this leads to death.  
+---
+Death by suffocation.  
+---
+Your body will suffocate 
+itself.  
+---
+Awesome right? 
+---
+I always hated running.  
+---
+I have hated running 
+---
+since I was a kid 
+---
+and they made me run the mile 
+---
+and they timed me 
+---
+and me and Jen Hillman 
+---
+used to walk the whole way 
+---
+and talk about boys 
+---
+and piss off the gym teacher.  
+---
+The gym teacher 
+---
+Dick Shohet 
+---
+who was very well named 
+---
+because he showed lots of girls 
+---
+his dick. 
+--- 
+But I wish I could run. 
+---
+I have dreams about running.  
+---
+I dream that I’m screaming.  
+---
+I dream that I’m running 
+---
+and screaming.  
+---
+And kicking 
+---
+and punching 
+---
+and running 
+---
+and kicking 
+---
+and screaming 
+---
+and punching. 
+---
+And running. 
+---  
+So yeah.  
+---
+Somewhere between the buttons 
+---
+not buttoning 
+---
+and the wheelchair 
+---
+and the suffocating to death 
+---
+looming in the air you decide.  
+---
+I decide.  
+---
+I decided. 
+---
+I said in my head I said. 
+---
+My terms.  
+---
+I said.  
+---
+No way I’m fucking going out like 
+this. 
+---
+No fucking way I’m eating through tubes. 
+---
+And I said in my head.  
+---
+Lissette.  
+---
+Girl.  
+---
+You gotta do this 
+---
+while you can still 
+---
+move your hands 
+---
+or else they won’t let you.  
+---
+I said no crying.  
+---
+I said. 
+---
+Put on your big girl pants.  
+---
+I said.  
+---
+Do it before you can’t enjoy 
+---
+a meal or clutch the hand of 
+---
+someone you love.  
+---
+I said make all the decisions 
+---
+you wanna make while you can. 
+---
+Because the longer you wait 
+---
+the harder it will be 
+---
+to fight for what you want.  
+---
+Because how do you fight 
+---
+without hands 
+---
+without a good punch 
+---
+without kicking and screaming.  
+---
+So fuck that live your best life bullshit.  
+---
+I want to get to have 
+---
+the best death.  
+---
+My death is gonna be.  
+---
+Fucking.  
+---
+Epic.   
+---
+There are cupcakes.  
+---
+With candles. 
+---
 ---
 ## PETER: 
 He’s a vet. 
@@ -4501,101 +7075,186 @@ Oh that’s a problem.
 ---
 ## PETER: 
 But I’m taking shots. 
-
 ---
 ## CHERYL: 
 Good! 
 ---
 ## PETER: 
-Because I really like animals.  I mean I’m definitely a dog lover. 
+Because I really like animals.  
+---
+I mean I’m definitely a dog lover. 
 ---
 ## CHERYL: 
-Yeah I don’t trust people who don’t like dogs. 
+Yeah I don’t trust people 
+---
+who don’t like dogs. 
 ---
 ## PETER: 
 Right? 
 ---
 ## CHERYL: 
-I always say it’s no big deal and then eventually those people turn out to be 
-shits.   
+I always say 
+---
+it’s no big deal 
+---
+and then eventually those people 
+---
+turn out to be shits.   
 ---
 ## PETER: 
 Yeah so I’m getting the shots. 
 ---
 ## CHERYL: 
 Good good. 
-
-
 ---
 ## PETER: 
-Because I like dogs and I.  Like him. And so yeah.  I am doing that.   
+Because I like dogs and I. 
+---
+Like him. 
+---
+And so yeah.  
+---
+I am doing that.   
 ---
 ## CHERYL: 
 That’s terrific. 
-
 ---
 ## PETER: 
-It could be I.  Don’t want to jinx it with too many expectations. 
+It could be, I.  
+---
+Don’t want to jinx it 
+---
+with too many expectations. 
 ---
 ## CHERYL: 
 Sure I get it but it sounds good. 
 ---
 ## PETER: 
 Maybe. 
-Pause… 
+---
 ---
 ## PETER: 
-But he’s great he’s. Really great. 
-Pause… 
+But he’s great he’s. 
+---
+Really great. 
+---
 ---
 ## CHERYL: 
 Well that’s terrific. 
 ---
 ## PETER: 
-Yeah thanks I like him. 
-
+Yeah thanks 
+---
+I like him. 
 ---
 ## CHERYL: 
-How’d you two meet. 
+How’d you two meet?
 ---
 ## PETER: 
-It was very old school.  It was a fix up.  There was no swiping involved. 
+It was very old school.  
+---
+It was a fix up.  
+---
+There was no swiping involved. 
 ---
 ## CHERYL: 
 I can’t with the swiping. 
 ---
 ## PETER: 
-Yeah this was a.  We were fixed up by…  A sort of ex actually. 
-fixed us up.  Donovan.  Do you know Donovan? 
-A mutual ex.  He 
-
+Yeah this was a.  
+---
+We were fixed up by  
+---
+A sort of ex actually. 
+---
+He fixed us up.  
+---
+Donovan.  
+---
+Do you know Donovan? 
+---
+A mutual ex.   
 ---
 ## CHERYL: 
 Isn’t he the douchebag? 
 ---
 ## PETER: 
-Yeah he’s… Not so bad but yes.  That’s him. 
+Yeah he’s...
+---
+Not so bad but yes.  
+---
+That’s him. 
 ---
 ## CHERYL: 
-Maybe he’s not such a douchebag after all. 
-
-
+Maybe he’s not such a 
+---
+douchebag after all. 
 ---
 ## PETER: 
-Nah he’s definitely a douchebag.  But.  You need one douchebag in every friend 
-circle and so he.  He’s our douchebag. So.    So. He dated the Vet and he 
-dated me and he decided we would maybe be a good fit and I guess we are.  
-Maybe.  That.    The day of our first date he.  He’d had to put his own dog 
-down.  Himself.  Can you imagine? 
+Nah he’s definitely a douchebag.  
+---
+But.  
+---
+You need one douchebag 
+---
+in every friend circle 
+---
+and so he.  
+---
+He’s our douchebag. 
+---
+So.So. 
+---
+He dated the Vet 
+---
+and he dated me 
+---
+and he decided we would 
+---
+maybe be a good fit 
+---
+and I guess we are.  
+---
+Maybe.  
+---
+That.    
+---
+The day of our first date he.  
+---
+He’d had to put his own dog 
+down.  
+---
+Himself.  
+---
+Can you imagine? 
 ---
 ## CHERYL: 
 Oh that’s awful. 
 ---
 ## PETER: 
-Yeah I um.  I had said look we can cancel but he didn’t want to.  He said I gotta 
-get out of the house.  And so we.  We just went and had a coffee.  Walked 
-around the park.  And it was nice.    It’s only been a month.  I’m trying 
-not to make it a thing but I. 
+Yeah I um.  
+---
+I had said 
+---
+look we can cancel 
+---
+but he didn’t want to.  
+---
+He said I gotta get out of the house.  
+---
+And so we.  
+---
+We just went and had a coffee.  
+---
+Walked around the park.  
+---
+And it was nice.    
+---
+It’s only been a month.  
+---
+I’m trying not to make it a thing 
+---
+but I. 
 ---
 ## CHERYL: 
 It’s OK to be hopeful. 
@@ -4604,76 +7263,165 @@ It’s OK to be hopeful.
 Sure. 
 ---
 ## CHERYL: 
-I’m telling you.  I’ve never met an asshole vet. 
+I’m telling you.  
+---
+I’ve never met an asshole vet. 
+---
 What do you think? 
+----
 Maybe I should get a dog.  
 ---
 ## PETER: 
 If you want. 
 ---
 ## CHERYL: 
-The only pet I’ve ever had was a poodle.  It was my mothers and then my 
-mother died and left my sister Annette a house and left me that fucking poodle.  
-The house had rotten planks and the basement flooded.  Cost my sister an arm 
-and a leg.  But that poodle lived till it was twenty two years old.  It was kind of 
-an asshole but I gotta admit.  I loved that.  Fucking dog.  (She cries a bit but 
-stops herself.)  Oh it’s nice to see you, hon.   
+The only pet I’ve ever had 
+---
+was a poodle.  
+---
+It was my mother's 
+---
+and then my mother died 
+---
+and left my sister Annette a house 
+---
+and left me that fucking poodle.  
+---
+The house had rotten planks 
+---
+and the basement flooded.  
+---
+Cost my sister an arm and a leg.  
+---
+But that poodle lived till it was 
+---
+twenty-two years old.  
+---
+It was kind of an asshole 
+---
+but I gotta admit.  
+---
+I loved that.  
+---
+Fucking dog.    
+---
+template: noise
+crying
+---
+Oh it’s nice to see you, hon.   
 ---
 ## PETER: 
 You too. 
 ---
 ## CHERYL: 
-Some days are better than others but this one.  This day is a real shit day. 
+Some days are better than others 
+---
+but this one.  
+---
+This day is a real shit day. 
 ---
 ## PETER: 
 Yeah. 
 ---
 ## CHERYL: 
-But I like you so it’s nice to see you.  Takes the edge off.  I look forward to 
-seeing you.  I like you more than I like a lot of people.  (She lights the candles on 
-the cupcakes.)  One for you one for me.  We both get a wish.  You got one?   
-
-
+But I like you 
+---
+so it’s nice to see you.  
+---
+Takes the edge off.  
+---
+I look forward to seeing you.  
+---
+I like you more than I like 
+---
+a lot of people. 
+---
+One for you one for me.  
+---
+We both get a wish.  
+---
+You got one?   
 ---
 ## PETER: 
 Yeah I think so. 
 ---
 ## CHERYL: 
 Is it a good one?   
-
 ---
 ## PETER: 
-It’s.  Moderate. 
+It’s.  
+---
+Moderate. 
 ---
 ## CHERYL: 
-Better than nothing.  OK you ready?    It’s almost time.   
+Better than nothing.  
+---
+OK you ready?    
+---
+It’s almost time.   
 ---
 ## PETER: 
 I am ready. 
-They both close their eyes.  Make their wishes.  Open their eyes and look at each 
-other.  And blow out the candles. 
+---
 ---
 ## CHERYL: 
-I used to call her every year at the second she was born.  Every year.  I’d say 
-“Happy Birthday to us!”  Until she got pissed and said “It’s not your birthday.”  
-And I had to agree and so then I just said.  “Happy Birthday to you only.”  She 
-was a preemie.  So tiny.  Only weighed five pounds.  I think it’s because I 
-smoked like a pack a day the whole time I was pregnant.  What did I know. I 
-was sixteen.  I was a mess.   
-They start to eat the cakes.   
-
+I used to call her every year 
+---
+at the second she was born.  
+---
+Every year.  
+---
+I’d say 
+---
+“Happy Birthday to us!”  
+---
+Until she got pissed 
+---
+and said 
+---
+“It’s not your birthday.”  
+---
+And I had to agree 
+---
+and so then I just said.  
+---
+“Happy Birthday to you only.”  
+---
+She was a preemie.  
+---
+So tiny.  
+---
+Only weighed five pounds.  
+---
+I think it’s because 
+---
+I smoked like a pack a day 
+---
+the whole time I was pregnant.  
+---
+What did I know? 
+---
+I was sixteen.  
+---
+I was a mess.    
 ---
 ## PETER: 
-How about you. 
+How about you? 
 ---
 ## CHERYL: 
-How about me what. 
+How about me what? 
 ---
 ## PETER: 
-You dating anybody?    What???  You should date. 
+You dating anybody?    
+---
+What???  
+---
+You should date. 
 ---
 ## CHERYL: 
-What the fucking hell do I need to do that for. 
+What the fucking hell 
+---
+do I need to do that for. 
 ---
 ## PETER: 
 You’re still young. 
@@ -4683,73 +7431,151 @@ I feel geriatric.
 ---
 ## PETER: 
 You don’t look it. 
-
-
 ---
 ## CHERYL: 
-I feel it.  My knees.  My knees are ready to go. 
-me.  They wanna retire.     
-They are done.  With working for 
+I feel it.  
+---
+My knees.  
+---
+My knees are ready to go. 
+---
+They wanna retire.     
+---
+They are done with working for me.
 ---
 ## PETER: 
 When was the last date you went on? 
 ---
 ## CHERYL: 
-Oh jeez louise a long time ago.  My pipes – sorry TMI alert – my pipes are 
-backed up if you get my drift. 
+Oh jeez louise 
+---
+a long time ago.  
+---
+My pipes 
+---
+sorry TMI alert
+---
+my pipes are backed up 
+---
+if you get my drift. 
 ---
 ## PETER: 
 So…  Maybe you should.  Date. 
 ---
 ## CHERYL: 
-Date.  Ugh.  What I’m gonna make a profile on a website?   
+Date.  
+---
+Ugh.  
+---
+What I’m gonna make a profile on a website?   
 ---
 ## PETER: 
 Sure. 
 ---
 ## CHERYL: 
-My friend Nancy came over once and I kid you not we drank a bottle of Titos 
-and cranberry and we made a thingamajiggie for me.   
+My friend Nancy came over once 
+---
+and I kid you not 
+---
+we drank a bottle 
+---
+of Titos and cranberry and we 
+---
+made a thingamajiggie for me.   
 ---
 ## PETER: 
-And… 
+And?
 ---
 ## CHERYL: 
-And nothing.  All the men my age wanted thirty year olds.  Which was 
-depressing.  And so I kept getting half naked pictures of seventy year olds in the 
-bathroom. So.  No sirree bub.  When my mother may she rest in peace was in 
-the old folks home.  She always had all these geezers sniffing around and she 
-always said.  “Cheryl – what I need that for.”  And I get it.  But.    But a 
-dog maybe.  Maybe I’ll get a dog.    What’d you say this was again. 
+And nothing.  
+---
+All the men my age 
+---
+wanted thirty year olds.  
+---
+Which was depressing.  
+---
+And so I kept getting half naked 
+---
+pictures of seventy year olds 
+---
+in the bathroom. 
+---
+So.  
+---
+No sirree bub.  
+---
+When my mother 
+---
+may she rest in peace 
+---
+was in the old folks home.  
+---
+She always had all these geezers 
+---
+sniffing around 
+---
+and she always said.  
+---
+“Cheryl what I need that for.”  
+---
+And I get it.  
+---
+But.    
+---
+But a dog maybe.  
+---
+Maybe I’ll get a dog.    
+---
+What’d you say this was again. 
 ---
 ## PETER: 
-Malbac.  From Argentina. 
+Malbac.  
+---
+From Argentina. 
 ---
 ## CHERYL: 
-It’s nice.  It sure beats the house wine at Mario’s Pizza lemme tell you.  (They 
-toast.)  I think maybe I wanna travel.  I never traveled all my life.  Maybe I 
-wanna do that.   
+It’s nice.  
+---
+It sure beats the house wine 
+---
+at Mario’s Pizza lemme tell you.  
+---
+I think maybe I wanna travel.  
+---
+I never traveled all my life.  
+---
+Maybe I wanna do that.   
 ---
 ## PETER: 
 Where would you go. 
 ---
 ## CHERYL: 
-Not sure.  I’ve never been to Paris. 
-
-
+Not sure.  
+---
+I’ve never been to Paris. 
 ---
 ## PETER: 
 Paris is overrated. 
 ---
 ## CHERYL: 
-Yeah I get that feeling about it. I think that’s why I’ve never gone. 
-
+Yeah I get that feeling about it. 
+---
+I think that’s why I’ve never gone. 
 ---
 ## PETER: 
-Paris is trying too hard.  Go to Greece. 
+Paris is trying too hard.  
+---
+Go to Greece. 
 ---
 ## CHERYL: 
-Maybe.  I did that DNA thing and it told me I’m a little Greek. So maybe.   
+Maybe.  
+---
+I did that DNA thing 
+---
+and it told me I’m a little Greek. 
+---
+So maybe.   
 ---
 ## PETER: 
 Or Lisbon. 
@@ -4758,57 +7584,79 @@ Or Lisbon.
 Sure. 
 ---
 ## PETER: 
-Or maybe you should do like.  An Eat Pray Love, Cheryl.   
+Or maybe you should do like.  
+---
+An Eat Pray Love, Cheryl.   
 ---
 ## CHERYL: 
-Oh like that movie with whatshername Julia Roberts? 
+Oh like that movie with 
+---
+whatshername 
+---
+Julia Roberts? 
 ---
 ## PETER: 
-Yeah like an epic trip of self discovery.   
+Yeah like an epic trip 
+---
+of self discovery.   
 ---
 ## CHERYL: 
-I’m not sure I need all that.  That seems like a lot. 
+I’m not sure I need all that.  
+---
+That seems like a lot. 
+---
 Nashville. 
+---
 Maybe I’ll just go to 
 ---
 ## PETER: 
 Or you could do that too.  
 ---
 ## CHERYL: 
-I’ve always wanted to go to Nashville. 
+I’ve always wanted to go 
+---
+to Nashville. 
 ---
 ## PETER: 
 What’s in Nashville.   
 ---
 ## CHERYL: 
-The Grand Ole Oprey.  I have always wanted to see that.  It’s on my bucket list. 
+The Grand Ole Oprey.  
+---
+I have always wanted to see that.  
+---
+It’s on my bucket list. 
 ---
 ## PETER: 
 Oh fuck hey look. 
 ---
 ## CHERYL: 
 Hey look at what. 
-
-
 ---
 ## PETER: 
-Shhhhh…  Don’t move. 
-He points to something on the table.  They both look.  
+Shhhhh...
+---
+Don’t move.
 ---
 ## PETER: 
 We have a tiny visitor.  
-
 ---
 ## CHERYL: 
-Oh!  Yeah we sure do.    She’s a pretty one. 
-Silence…  They both watch the ladybug.   
+Oh!  
+---
+Yeah we sure do.    
+---
+She’s a pretty one. 
+---  
 ---
 ## CHERYL: 
-Is it just me or is she looking right at us. 
+Is it just me or is she 
+---
+looking right at us. 
 ---
 ## PETER: 
 She’s looking right at us. 
-Silence…  They maybe suddenly get a little weirded out. 
+---
 ---
 ## PETER: 
 Maybe you’ll meet a cowboy! 
@@ -4820,172 +7668,599 @@ Huh?
 At the Grand Ole Oprey. 
 ---
 ## CHERYL: 
-Right!  Yes the Oprey.   Maybe.    
+Right!  
+---
+Yes the Oprey.   
+---
+Maybe.
+---    
 something I’ve always wanted to do. 
-Or maybe I’ll just… Do 
+---
+Or maybe I’ll just 
+---
+Do 
 ---
 ## PETER: 
 That’s OK too.  
 ---
 ## CHERYL: 
-Yeah.  (She starts to cry.  She stops herself.  She takes a sip of wine.  She grabs 
-Peter’s hand and holds it.)  Yeah.   
-
-Lissette and Peter 
-She is in her wheelchair. 
-There is a large garment bag and a pair of shoes. 
-We are back to the beginning.   
-
-
-Peter is undressing Lissette.  He is gentle.  He moves slowly and purposefully. 
-The negotiation of body parts is sometimes awkward sometimes beautiful.  
-It should move from one to the other and then back again.  
-
+Yeah.
+---   
+[crying]
+---
+Yeah.   
+---
 ---
 ## PETER: 
-I can’t with Allison and the crying every five seconds.  I’m sorry.    
-Had I known I wouldn’t have invited her.  She does this though, right?  Makes 
-everything endlessly about her?  It’s.  It’s like.  Exhausting.    
-Your mother thinks the crying room is “fucking retarded” and I think I maybe 
-agree with her.    But.    How are you holding up.    
-It’s a lot.    Are you OK do you need anything.    OK.  
-OK.  Do you want me to send Allison to a hotel I can send her to a hotel?  (She 
-shakes a small no.  He laughs.) Is this conversation stressing you out.  (She 
-shakes her head no.)  OK.    OK.  We will.  Deal with Allison and the 
-endless narcissism of her demonstrative crying.    You are a better 
-human than I will ever be.   
-Her head sort of falls sort of drops onto his head.  It’s not clear if this is a moment 
-of purposeful connection or just a physical need to rest.  They sit like that for a 
-moment.  Peter gets himself up abruptly.  He goes to the garment bag and unzips.  
-Inside is the most gorgeous dress you have ever seen.  It’s like the perfect mix of 
-confection and sophistication.  It’s beaded.   
+I can’t with Allison 
+---
+and the crying every five seconds.  
+---
+I’m sorry.    
+---
+Had I known 
+---
+I wouldn’t have invited her.  
+---
+She does this though, right?  
+---
+Makes everything endlessly about her?  
+---
+It’s.  
+---
+It’s like.  
+---
+Exhausting. 
+---
+---   
+Your mother thinks the crying room 
+---
+is “fucking retarded” 
+---
+and I think 
+---
+I maybe agree with her.    
+---
+But.    
+---
+How are you holding up.    
+---
+It’s a lot.    
+---
+Are you OK do you need anything?    
+---
+OK?  
+---
+OK.
+---
+Do you want me to send Allison 
+---
+to a hotel 
+---
+I can send her to a hotel?  
+---
+teplate: noise
+laughs
+---
+Is this conversation stressing you out.
+---
+OK?    
+---
+OK.  
+---
+We will.  
+---
+Deal with Allison and the 
+---
+endless narcissism of her 
+---
+demonstrative crying.    
+---
+You are a better human 
+---
+than I will ever be.   
+---
+Her head sort of falls sort 
+---
+of drops onto his head.  
 ---
 ## PETER: 
-So are you ready?    She weighs a ton.  You’re lucky you don’t have 
-to walk around in this.    Or these.  Are ladies meant to 
-walk in these or just stand around and look pretty.  (She taps her nose.  The 
-latter.)  Well lucky for you no standing, right?     
-He unhooks all of the hooks.  He slips the gown over her head.  He maneuvers her 
-into the gown.  One arm and then the other arm.  He lifts her up and pulls it down.  
-He supports her with one arm while he patiently hooks all the tiny hooks.   
+So are you ready?    
+---
+She weighs a ton.  
+---
+You’re lucky you don’t 
+---
+have to walk around in this.   
+---
+Or these.  
+---
+Are ladies meant to 
+---
+walk in these 
+---
+or just stand around 
+---
+and look pretty.
+---
+Well lucky for you 
+---
+no standing, right?  
 ---
 ## PETER: 
-Maybe we should’ve picked something with a zipper. 
-Next time.   
-
-
-He gingerly folds the clothes she had been wearing before and sets them to the 
-side.  He puts the shoes on her feet.  He buckles.  He stands back.  He assesses.  
-He gives an adjustment.   
+Maybe we should’ve picked something 
+---
+with a zipper. 
+---
+Next time.    
 ---
 ## PETER: 
-OK.  I…  Think you’re good.  
-He rolls her to a mirror to see her reflection.  He stands behind her.  They look at 
-themselves.   
-
-
+OK.  
+---
+I... 
+---
+Think you’re good.   
 ---
 ## PETER: 
-What do you think babe.  Thoughts.  Adjustments.  Notes.  Opinions.  (She 
-shakes her head no.)  Really?  You don’t have one opinion???  This may be a 
-lifetime first.  You don’t have any changes?  (She shakes her head no no no.  It’s 
-perfect.) 
-
-He gets his phone.  He takes a picture of her.  He takes a picture of the two of 
-them.  He looks at the picture.  She makes a noise.   
+What do you think babe?  
+---
+Thoughts?  
+---
+Adjustments? 
+---
+Notes?  
+---
+Opinions?
+---
+Really?  
+---
+You don’t have one opinion???  
+---
+This may be a lifetime first.  
+---
+You don’t have any changes? 
+---
+She makes a noise.   
 ---
 ## PETER: 
 Sorry.   
 He shows her the picture. 
 ---
 ## PETER: 
-You clean up good, Kid.  If you get to wherever you’re going looking like that.  
-Maybe you will finally achieve your teenage dream of fucking Kurt Cobain. Or 
-River Phoenix.    If that happens will you find a way 
-to let me know.  Send me a sign.    So I…  I have a letter.  I know 
-it’s against the rules and I don’t need to read it but.    Is that a 
-thumbs up for me not reading.    It’s a thumbs up for 
-reading.    You want me.  To read the letter.    
-I mean now I’m feeling like maybe the letter sucks and I shouldn’t.  Maybe we 
-should cancel the letter reading.    Do you want to just 
-read it?    I need to read it to you.    OK…  
-OK.  I will do that.  I will.  Read the letter.    It’s not 
-really a letter it’s more like a list.  I wrote you a list.    I will try and 
-read it not awkwardly.  Here we go.   
-He takes a breath. 
+You clean up good, Kid.  
+---
+If you get to wherever you’re going 
+---
+looking like that. 
+---
+Maybe you will finally 
+---
+achieve your teenage dream 
+---
+of fucking Kurt Cobain. 
+---
+Or River Phoenix.    
+---
+If that happens will you find 
+---
+a way to let me know.  
+---
+Send me a sign.    
+---
+So I... 
+---
+I have a letter. 
+---
+I know it’s against the rules 
+---
+and I don’t need to read it but.    
+---
+Is that a thumbs up for me not reading?    
+---
+It’s a thumbs up for reading?    
+---
+You want me?
+---
+To read the letter?
+---
+I mean now I’m feeling 
+---
+like maybe the letter sucks 
+---
+and I shouldn’t.  
+---
+Maybe we should 
+---
+cancel the letter reading.   
+---
+Do you want to just read it?    
+---
+I need to read it to you.    
+---
+OK...
+---
+OK.  
+---
+I will do that.  
+---
+I will.  
+---
+Read the letter.    
+---
+It’s not really a letter 
+---
+it’s more like a list.  
+---
+I wrote you a list.    
+---
+I will try and read it
+---
+not awkwardly.  
+---
+Here we go.   
 ---
 ## PETER: 
-So just ahead of time I want you to know that I wrote this kind of stream of 
-consciously and so I donno some of it may be weird.  If it’s weird I’ll stop?  Or 
-you can tell me to stop or.  OK I’m just I’m gonna read this so I can get you 
-back to all The People.  I’ve kept you away too long from The People. 
-
+So just ahead of time 
+---
+I want you to know 
+---
+that I wrote this 
+---
+kind of stream of consciously 
+---
+and so I donno 
+---
+some of it may be weird.  
+---
+If it’s weird I’ll stop?  
+---
+Or you can tell me to stop or.  
+---
+OK 
+---
+I’m just I’m gonna read this 
+---
+so I can get you back 
+---
+to all The People.  
+---
+I’ve kept you away 
+---
+too long from The People. 
 ---
 ## PETER: 
-I know you asked that there not be any letters.  And I’m.  Sorry for not 
-respecting that wish.    That’s in the letter I wrote that at the top.  
-I know we already discussed this just now but I’m.  I am committed to reading 
-the entire thing – preamble included.    But…  I feel 
-like.  That’s bullshit.  And I feel like.  People always say that they don’t want 
-presents at birthdays.  They say “Just bring yourself!” and then you listen to 
-them and don’t bring a present and you feel like an asshole so.  I’m writing a 
-letter!  Yay!   People are always wishing they had told someone something 
-before they.  Miss the opportunity to tell them those things and so I am telling 
-you these things.  Whether you like it or not.  Because. I.  Get to do that.   
-
-
+I know you asked that 
+---
+there not be any letters.  
+---
+And I’m.  
+---
+Sorry for not respecting that wish.    
+---
+That’s in the letter I wrote 
+---
+that at the top.  
+---
+I know we already discussed 
+---
+this just now but I’m.  
+---
+I am committed to reading 
+---
+the entire thing 
+---
+preamble included.    
+---
+But...
+---
+I feel like.  
+---
+That’s bullshit.  
+---
+And I feel like.  
+---
+People always say that 
+---
+they don’t want presents 
+---
+at birthdays.  
+---
+They say “Just bring yourself!” 
+---
+and then you listen to them 
+---
+and don’t bring a present 
+---
+and you feel like an asshole so.  
+---
+I’m writing a letter!  
+---
+Yay!   
+---
+People are always wishing 
+---
+they had told someone 
+---
+something before they.  
+---
+Miss the opportunity 
+---
+to tell them those things 
+---
+and so I am telling you these things.  
+---
+Whether you like it or not.  
+---
+Because. 
+---
+I.  
+---
+Get to do that.   
 ---
 ## PETER:  
-So…    That was the preamble.  Now I’m going to read the 
-list.  Twenty Things I Love about my friend Lissette Marie Esposito.  1. Her spot 
-on imitation of Al Pacino.  2.  Her ridiculously in depth knowledge of 90’s music 
-– all genres.  2A.  The fact that she still makes mix tape cassettes and gives 
-them to people as gifts.  3.  The way she calls me on my bullshit in a way that 
-nobody else does.  4.  Her passion for cooking.  4a. Her chocolate chip cookies 
-and her lentil soup and her truffle popcorn.  5.  Her ability to always be 
-authentic to who she is.  6.  Her kick ass honest and real and so full of love 
-relationship with her mom.  That.  I’m gonna be honest.  I’ve always been a little 
-jealous of.  7.  The way she still picks up pennies off the street and the way she 
-screams “Luck!  I have all the luck!!  I am so lucky!  I am the fucking luckiest!” 
-when she finds them.  Like a little kid.  And then does a little dance.  And reads 
-the date.  And then recites a random fact from that date.  7b.  The way she 
-sometimes gives said penny and bestows that luck to.  Whoever she’s with at 
-the time.   1976.  Oooh.  The Bicentenial.  Do you 
-remember that one?    8.  Her generosity.  9.  Her unabashedly real 
-and unapologetically true deep passion for all things Abba, Veronica Mars, the 
-color orange and Anne Rice.  10.  The way she talks back at movies as if the 
-movie can hear her.  11.  How she can make a stranger feel like an old friend.  12.  Her laugh.  (He stops.  He begins to cry and he turns away from her.  
-Gathers himself together.  And then comes back.)  OK! Where were we…12 A.  
-The way her nose crinkles during said laugh.  13.  Her insanely impressive 
-vocabulary.  14.  Her clarity and confidence about what she wants. And her 
-stubborn will to go after it.  15.  Her aversion to anything sentimental. Sorry I 
-didn’t realize this was such a long list.  We are almost at the end I promise.  16.  
-Her kindness and patience towards people who don’t always deserve it.  17.  
-The way her Boston accent comes out when she’s drunk.  18.  (A beat.  A 
-breath.) 18.  Her annual Friendsgiving the week after the one we all had to do 
-with our insane families.  19.  Her ruthless competitiveness in board games.  
-And.  20.   I love that she’s my friend.  And that I got the chance to 
-know her.  And I’m going to miss her.  You.  I’m going to miss you.  I’m going to 
-miss you.  A lot.  And.    I’ll…  See you when I see you.    That’s it 
-that’s the end.   
-He looks up from the letter.  She’s crying. 
+So...
+---
+That was the preamble.  
+---
+Now I’m going to read the 
+list.  
+---
+Twenty Things I Love 
+---
+about my friend Lissette Marie Esposito. 
+--- 
+One. 
+---
+Her spot on imitation 
+---
+of Al Pacino.  
+---
+Two. 
+---
+Her ridiculously in depth 
+---
+knowledge of 90’s music 
+---
+all genres. 
+---
+Two A. 
+---
+The fact that she 
+---
+still makes mix tape cassettes 
+---
+and gives them to people as gifts.
+---  
+Three. 
+---
+The way she calls me 
+---
+on my bullshit 
+---
+in a way that nobody else does.
+---
+Four. 
+---
+Her passion for cooking.  
+---
+Four A. 
+---
+Her chocolate chip cookies 
+---
+and her lentil soup 
+---
+and her truffle popcorn.  
+---
+Five.  
+---
+Her ability to always be 
+---
+authentic to who she is.  
+---
+Six.  
+---
+Her kick ass honest 
+---
+and real and so full of love 
+---
+relationship with her mom.  
+---
+That. 
+---
+I’m gonna be honest.  
+---
+I’ve always been a little jealous of.  
+---
+Seven.  
+---
+The way she still picks up 
+---
+pennies off the street 
+---
+and the way she screams “Luck!  
+---
+I have all the luck!!  
+---
+I am so lucky!  
+---
+I am the fucking luckiest!” 
+---
+when she finds them.  
+---
+Like a little kid.  
+---
+And then does a little dance.  
+---
+And reads the date.  
+---
+And then recites a random 
+---
+fact from that date.  
+---
+Seven B.  
+---
+The way she 
+---
+sometimes gives said penny 
+---
+and bestows that luck to. 
+---
+Whoever she’s with at the time.   
+---
+1976.  
+---
+Oooh.  
+---
+The Bicentenial.  
+---
+Do you remember that one?    
+---
+Eight.  
+---
+Her generosity.  
+---
+Nine.  
+---
+Her unabashedly real 
+---
+and unapologetically true 
+---
+deep passion for all things 
+--
+Abba, 
+---
+Veronica Mars, 
+---
+the color orange 
+---
+and Anne Rice.  
+---
+Ten.  
+---
+The way she talks back at movies 
+---
+as if the movie can hear her.  
+---
+Evelen.  
+---
+How she can make a stranger 
+---
+feel like an old friend.  
+---
+Twelve.  
+---
+Her laugh.  
+---
+---
+OK! 
+---
+Where were we...
+---
+Twelve A. 
+---
+The way her nose crinkles 
+---
+during said laugh.  
+---
+Thirteen.  Her insanely impressive 
+vocabulary.  
+---
+Fourteen.  
+---
+Her clarity and 
+---
+confidence about what she wants. 
+---
+And her stubborn will 
+---
+to go after it.  
+---
+Fifteen.  
+---
+Her aversion to anything sentimental. 
+---
+Sorry I didn’t realize 
+---
+this was such a long list.  
+---
+We are almost at the end I promise.  
+---
+Sixteen. 
+---
+Her kindness and patience 
+---
+towards people who don’t always 
+---
+deserve it.  
+---
+Seventeen. 
+---
+The way her Boston accent comes out 
+---
+when she’s drunk. 
+---
+Eighteen. Her annual Friendsgiving 
+---
+the week after the one 
+---
+we all had to do 
+---
+with our insane families.
+---  
+Nineteen.
+---
+Her ruthless competitiveness 
+---
+in board games.
+---
+And.
+---
+Twenty. 
+---
+I love that she’s my friend.  
+---
+And that I got the chance to know her.  
+---
+And I’m going to miss her.  
+---
+You.  
+---
+I’m going to miss you.  
+---
+I’m going to miss you.  
+---
+A lot.  
+---
+And.    
+---
+I’ll... See you when I see you.    
+---
+That’s it that’s the end.   
+---
+template: noise
+crying
 ---
 ## PETER: 
-Oh fuck I’m sorry I didn’t mean to make you -  
+Oh fuck 
+---
+I’m sorry I didn’t mean 
+---
+to make you  
 ---
 ## PETER: 
-Just.  I guess just.  Let me know when you’re ready when you want to go back.  
-And we’ll… Get you back? 
-
-
-She cries and laughs. Eventually it starts to wind its way down.  Her breathing 
-slows and slows and slows.  She gets to the end.  She exhales.   
-Quiet. 
-They look at each other.  They both take deep breath.  She gives a thumbs up. 
+Just.  
+---
+I guess just.  
+---
+Let me know when you’re ready 
+---
+when you want to go back.
+---
+And we’ll
+---
+Get you back? 
+--- 
 End of play. 
-
-
-
 ---
 ---
 template: title
