@@ -66,6 +66,77 @@ template: title
 AFTER THE BLAST
 by Zoe Kazan
 ---
+Hello and welcome to your new home
+---
+in division nine 
+---
+of the American West, unit 33. 
+---
+To ensure that you have a safe 
+---
+and productive residency 
+---
+in our community, 
+---
+please be aware of the following regulations:
+---
+First, all communication and noise 
+---
+making devices must be deactivated 
+---
+at this time to minimize 
+---
+interfereance with US simulation 
+---
+chip implants. 
+---
+Failure to comply may result 
+---
+in severe brain damage.
+---
+Also, to help maintain proper air quality, 
+---
+please continue to wear a face covering 
+---
+over your mouth and nose at all times. 
+---
+In the event of a turbine malfuntion, 
+---
+tunnel collapse, 
+---
+or other emergency, 
+---
+please exit this unit 
+---
+the way that you entered 
+---
+in a calm and orderly fashion. 
+---
+And follow the instructions
+---
+Your simulation experience will 
+---
+last approximately two hours 
+---
+with one ten minute break 
+---
+in the middle 
+---
+during which you may use the 
+---
+facilities in necessary. 
+---
+Thank you again for bringing your skills 
+---
+and talent to our community.  
+---
+Together we can build toward 
+---
+a brighter future above ground.
+---
+template: noise
+electric pulse
+---
 ## OLIVER:
 I’m sorry, but I have to ask: 
 ---
@@ -73,6 +144,9 @@ real or reproduction?
 ---
 ## SAM:
 Smell.
+---
+template: noise
+deep sniffing
 ---
 ## OLIVER:
 Wow.
@@ -186,7 +260,7 @@ The Council thought it was worth the investment.
 Wow.
 ---
 ## SAM:
-There’s no official word, of course, 
+There’s no official word, yet or anything
 ---
 but apparently Fertility’s been skewing low.
 ---
@@ -222,7 +296,7 @@ Adorable.
 ## SAM:
 Yeah, we think she’s pretty great. 
 ---
-You been here before?
+So,you been here before?
 ---
 ## OLIVER:
 I’m buddies with a couple guys 
@@ -242,19 +316,21 @@ Gave my dad a good eight years.
 ---
 Running around. 
 ---
-What are you here for today, 
+What brings you here today, 
 ---
 if you don’t mind me asking?
 ---
 ## OLIVER:
-Just...dropping by.
+Just...
+---
+dropping by.
 ---
 ## SAM:
 Cool.
 ---
 I’m sorry, but
 ---
-you’re working on Inhabitation, right?
+you work on Inhabitation, right?
 ---
 ## OLIVER:
 Environmental Solutions. 
@@ -307,19 +383,22 @@ And this is not to be repeated.
 ## SAM:
 Understood.
 ---
+template: overlap
 ## OLIVER:
 To anyone.
----
+
 ## SAM:
 Yes.
 ---
 ## OLIVER:
-We are estimatingpartial re-habitation 
+We are estimating partial re-habitation 
 ---
 in the next ten to fifteen years. 
 ---
 ## SAM:
-That’s...that’s...
+That’s...
+---
+that’s...
 ---
 ## OLIVER:
 Not to be repeated, right? 
@@ -327,12 +406,13 @@ Not to be repeated, right?
 Not even to your wife.
 ---
 ## SAM:
-Yes. Of course. 
+Yes. Understood. 
 ---
 But that’s great to hear. 
 ---
 Especially from someone in the know.
 ---
+## OLIVER:
 So, what are you here for today? 
 ---
 Another leg?
@@ -340,14 +420,12 @@ Another leg?
 ## SAM:
 Ha, um, no... 
 ---
-We’re getting a Helper? 
+We’re actually getting a Helper? 
 ---
 Have you heard about them?
 ---
 ## OLIVER:
 Oh, um. Actually. 
----
-That’s what
 ---
 we’re getting one too.
 ---
@@ -370,19 +448,21 @@ With my dad gone, she’s pretty lonely.
 You’re lucky you’ve still got a parent.
 ---
 ## SAM:
-What about you?
+How about you?
 ---
 ## OLIVER:
-No, my parents are long gone.
+Oh, no, my parents are long gone.
 ---
 ## SAM:
-No
+Oh, No
 sorry
 ---
-I meant, why are you getting a Helper?
+why are you getting a Helper?
 ---
 ## OLIVER:
-Oh. Has Patrick told you about our situation?
+Oh. 
+---
+Has Patrick told you about our situation?
 ---
 ## SAM:
 I don’t think so.
@@ -431,9 +511,9 @@ Downs.
 ---
 Jenny and I fought to keep it. 
 ---
-But, you know 
+But,
 ---
-“drain on resources” and all that.
+“waste on resources”.
 ---
 ## OLIVER:
 I thought they’d eliminated 
@@ -534,16 +614,16 @@ Could you apply for an exemption?
 I hope it doesn’t come to that.
 ---
 ## SAM:
-I have a friend who was dealing 
+I have a friend who was going 
 ---
-with some mental health stuff, 
+through some mental health stuff, 
 ---
 and Simulations really helped. 
 ---
 Has your doctor prescribed anything like that?
 ---
 ## OLIVER:
-Actually, I know this might sound crazy, 
+Actually, this might sound crazy, 
 ---
 but we’re kind of Anti-Sim
 ---
@@ -565,7 +645,9 @@ They didn’t give us an option.
 Chipped Gloria at six months.
 ---
 ## OLIVER:
-Oh. That’s changed then. 
+Oh. 
+---
+That’s changed then. 
 ---
 Anna won’t like that.
 ---
@@ -588,9 +670,9 @@ No, no, nothing like that.
 We just try to be conscious of how much
 ---
 ## SAM:
-Of course. 
+Oh, well, sure. 
 ---
-We all have to set some kind of limit. 
+Everyone has to set some kind of limit. 
 ---
 Otherwise, you could get lost in it.
 ---
@@ -606,13 +688,13 @@ but I went through a time
 when I was totally hooked.
 ---
 ## SAM:
-I gotta say, though, with a kid? 
+uhhhh... I gotta say, though, with a kid? 
 ---
 To get a little sleep? 
 ---
 Being able to Simulate for her is a fucking godsend. 
 ---
-And you know, make some memories. 
+Plus, you know, make some memories. 
 ---
 Last weekend we Simmed a Day At The Beach. 
 ---
@@ -624,7 +706,7 @@ Gloria made Sand Castles.
 ---
 We swam. 
 ---
-I swear, the guys that design that stuff 
+I swear, those guys that design that stuff 
 ---
 are the artists of our time. 
 ---
@@ -648,7 +730,7 @@ or was it more designed for pleasure?
 ## SAM:
 You should try it, man. 
 ---
-A couple hours a day won’t hurt you. 
+A couple hours a day is not gonna hurt you.
 ---
 ## SAM:
 Come on. 
@@ -657,9 +739,10 @@ You don’t ever Sim?
 ---
 Even at work? 
 ---
-Even when you need a little?
+Even when you need a little release?
 ---
-occasionally...
+## OLIVER:
+VERY occasionally...
 ---
 ## SAM:
 you do.
@@ -681,6 +764,10 @@ Right, but Anna’s point is,
 ---
 why voluntarily sign up for more unreality
 ---
+template: noise
+bell
+---
+## VOICE:
 Samuel Hakitano. 
 ---
 Samuel Hakitano. 
@@ -689,6 +776,7 @@ Room six.
 ---
 Your technician is waiting.
 ---
+## SAM:
 Hey, it was great meeting you.
 ---
 ## OLIVER:
@@ -722,10 +810,14 @@ Plus, like I said.
 ---
 The sleep.
 ---
+template: music
+---
+## OLIVER:
 Open.
 ---
 It’s a Helper.
 ---
+## ANNA:
 A what?
 ---
 ## OLIVER:
@@ -763,11 +855,12 @@ if they are acclimated to a home first.
 ---
 We’ll have it for six months, 
 ---
-a year, however long it takes to socialize it
+a year, however long it takes to socialize it.
 ---
 ## ANNA:
-it?
+Socialize it?
 ---
+## OLIVER:
 Hang on, they sent a video
 ---
 A kind of safety, 
@@ -832,6 +925,8 @@ Will you watch the video?
 ---
 Please?
 ---
+template: music
+---
 ## VOICE:
 Welcome to Artificial Solutions. 
 ---
@@ -847,6 +942,9 @@ Shhh. Watch.
 In life aboveground, 
 ---
 canine mammals, commonly known as dogs, 
+---
+template: noise
+barking
 ---
 were trained to lead the sight-challenged.
 ---
@@ -877,7 +975,7 @@ has voiced a need for physical aid and companionship.
 ---
 To fill that need, we present: 
 ---
-"The HELPER 1,3".
+"The HELPER 1.3".
 ---
 What can the HELPER do? 
 ---
@@ -899,7 +997,7 @@ Enjoy the journey!
 ---
 The future...is HERE!
 ---
-We’d be helping some kid, Buzzy. 
+Buzzy, we could be helping some kid. 
 ---
 Or some little old lady.
 ---
@@ -910,6 +1008,9 @@ Where’s its sensor?
 The whole thing acts as a sensor, I think. 
 ---
 Hang on, I have to turn it on. 
+---
+template: noise
+three electronic chimes
 ---
 ## ANNA:
 Turn it off.
@@ -952,12 +1053,12 @@ You could be giving him a real companion.
 A friend.
 ---
 ## ANNA:
-is not a friend! It is a...
+That is not a friend! It is a...
 ---
 ## OLIVER:
 That can be whatever you teach it to be. 
 ---
-Buzzy. You can teach it. 
+You Buzzy. You can teach it. 
 ---
 You can imprint it with all of your goodness, 
 ---
@@ -1067,8 +1168,6 @@ Just for a few months.
 ---
 It wouldn’t set our timeline back by much.
 ---
-Anna shakes her head. 
----
 ## OLIVER:
 Look. 
 ---
@@ -1088,7 +1187,8 @@ we will have gotten our Fertility.
 Right.
 ---
 ## OLIVER:
-We will. Beat.
+We will.
+---
 ---
 ## ANNA:
 Fine.
@@ -1173,7 +1273,9 @@ but it seems pretty to me to be depressed
 ---
 considering that our ancestors fucked up 
 ---
-our ecology so we had to retreat. 
+our ecology so royally 
+---
+that we had to retreat underground. 
 ---
 We’re being buried alive.
 ---
@@ -1191,7 +1293,7 @@ Oh, really?
 ---
 Is that what it’s for? 
 ---
-I was 
+I was confused!
 ---
 What if our oxygen gardens fail? 
 ---
@@ -1248,6 +1350,7 @@ The final excrement of our civilization.
 And you know what? 
 ---
 I think I would have been better off.
+---
 ---
 ## OLIVER:
 I want to take you somewhere.
@@ -1316,8 +1419,11 @@ Anna.
 ---
 Promise me.
 ---
+template: music
+electronic music
+---
 ## CARRIE:
-This thing is. 
+This thing is cute. 
 ---
 You’re so lucky. 
 ---
@@ -1343,6 +1449,7 @@ It’s okay.
 ---
 I’ll Sim it.
 ---
+## ANNA:
 What?
 ---
 ## CARRIE:
@@ -1352,7 +1459,10 @@ Nothing. How are you?
 Fine. How are you?
 ---
 ## CARRIE:
-Fine. How are 
+Fine. How are you?
+---
+## ANNA:
+Fine.
 ---
 ## CARRIE:
 Good.
@@ -1365,14 +1475,17 @@ Sure.
 ---
 So?
 ---
+## ANNA:
+What?
+---
 ## CARRIE:
 Nothing!
 ---
 ## ANNA:
-Carrie! 
+Carrie! WHAT?!?
 ---
 ## CARRIE:
-What was it ?!
+What was it like?!
 ---
 ## ANNA:
 What...was...what like?
@@ -1416,7 +1529,7 @@ What does Patrick secretly want to name the baby?
 Peyton.
 ---
 ## CARRIE:
-The name he talk about.
+The name he doesn't talk about.
 ---
 ## ANNA:
 Peach Melba.
@@ -1428,7 +1541,7 @@ Anna.
 ---
 You guys are family, okay? 
 ---
-We’re not going to tell anyone. 
+We’re won't tell anyone. 
 ---
 Who would we tell?
 ---
@@ -1452,6 +1565,9 @@ We signed non-disclosure forms.
 ## CARRIE:
 I swear.
 ---
+template: noise
+kissing sound
+---
 ## ANNA:
 Okay. 
 ---
@@ -1472,7 +1588,9 @@ Did you take pictures?
 Of course not.
 ---
 ## CARRIE:
-You went and you didn’t take any pictures?!
+You went aboveground 
+---
+and you didn’t take any pictures?!
 ---
 ## ANNA:
 Shhhh!
@@ -1483,7 +1601,7 @@ There’s no one here!
 What are you worried about?
 ---
 ## ANNA:
-Just: be careful.
+Just, be careful.
 ---
 ## CARRIE:
 How could you not take pictures?
@@ -1531,13 +1649,15 @@ We went past the Reservoir.
 Trains don’t go past the Reservoir.
 ---
 ## ANNA:
+I KNOW!
+---
 We got off at the Reservoir, 
 ---
 and these government agents met us there 
 ---
 and made us sign all this paperwork
 ---
-insurance, medical history, legal stuff, 
+insurance, medical history, legal stuff, non-disclosure stuff
 ---
 ## CARRIE:
 Okay, okay, and then?
@@ -1551,7 +1671,6 @@ They had guns.
 ---
 ## CARRIE:
 Guns 
----
 guns?
 ---
 ## ANNA:
@@ -1592,7 +1711,7 @@ and right in the middle of it,
 this hovercraft.
 ---
 ## CARRIE:
-So you get in the hovercraft—
+Okay, So you get in the hovercraft
 ---
 ## ANNA:
 We’re all strapped in, 
@@ -1652,9 +1771,7 @@ And my ears are popping
 ## CARRIE:
 Yes! 
 ---
-I’ve experienced that in Sim! When 
----
-I went skiing! 
+I’ve experienced that in Sim! 
 ---
 Little clicks in your ears.
 ---
@@ -1746,7 +1863,7 @@ And below us...
 ---
 Everything was green. 
 ---
-Trees and vines and 
+Trees and vines and wildflowers.
 ---
 ## CARRIE:
 The plants weren’t dead?
@@ -1768,9 +1885,7 @@ Did you see water?
 ## ANNA:
 Yes! 
 ---
-We went over a river 
----
-and followed it to a lake.
+We followed a river to a lake.
 ---
 ## CARRIE:
 How did it look?
@@ -1858,7 +1973,6 @@ the best and brightest gone, underground.
 ---
 And they had not been chosen.
 ---
-Silence.
 ---
 ## CARRIE:
 But you saw plants. 
@@ -1889,6 +2003,8 @@ It is going to be beautiful.
 And it is so close. 
 ---
 It is just around the bend.
+---
+template: music
 ---
 ## OLIVER:
 You should do something 
@@ -2047,6 +2163,8 @@ I feel better.
 ---
 ## OLIVER:
 Good.
+---
+## ANNA:
 So. 
 ---
 We should call Dr. Hernandez soon. 
@@ -2126,8 +2244,9 @@ I’m not walking away
 ## ANNA:
 You are walking away,
 ---
-you physically walked away from me.
+you just walked away from me.
 ---
+## OLIVER:
 Give me your hand.
 ---
 ## ANNA:
@@ -2147,8 +2266,11 @@ I haven’t eaten yet today.
 ---
 Or had my vitamins.
 ---
+template: noise
+D level checker beeps
+---
 ## OLIVER:
-Listen. 
+Look. 
 ---
 We can build on this. 
 ---
@@ -2202,6 +2324,9 @@ If it weren’t for you,
 ---
 I wouldn’t want a baby.
 ---
+template: noise
+phone alert
+---
 ## ANNA:
 Don’t go!
 ---
@@ -2213,6 +2338,9 @@ I can’t be late.
 Do the ‘bot today! 
 ---
 Just do an hour. 
+---
+template: noise
+bot turning on beeps
 ---
 Get started.
 ---
@@ -2233,6 +2361,9 @@ Say it like you aren’t mad at me.
 ---
 ## ANNA:
 I love you.
+---
+template: noise 
+deep breath
 ---
 “Before activating mobility... 
 ---
@@ -2264,6 +2395,9 @@ when it has fully...”
 ---
 Okay.
 ---
+template: noise
+deep breath
+---
 Initiate language recognition.
 ---
 Okay. 
@@ -2278,9 +2412,9 @@ Um. Basic. Vocabulary.
 ---
 This is the living room, 
 ---
-that’s the kitchen, 
+that is the kitchen, 
 ---
-Our bedroom is in there. 
+Over there is the bedroom. 
 ---
 That’s where we sleep. 
 ---
@@ -2288,9 +2422,9 @@ That’s the bathroom.
 ---
 Yes, no, 
 ---
-up, down, 
+right, left,
 ---
-right, left, 
+up, down, 
 ---
 in, out, 
 ---
@@ -2304,12 +2438,11 @@ Water.
 ---
 Light. Dark. 
 ---
-On. Off. 
----
 Hot. Cold. 
 ---
-One two three four five 
+On. Off. 
 ---
+One two three four five 
 six seven eight nine ten. 
 ---
 Do you understand what I’m saying? 
@@ -2342,7 +2475,7 @@ And Mercedes.
 ---
 Kind of. 
 ---
-We were friends with Mercedes, 
+We used to be friends with Mercedes, 
 ---
 but then she and Darcy got divorced 
 ---
@@ -2388,7 +2521,7 @@ But right now, all we need are scientists.
 ---
 And doctors. 
 ---
-So almost everybody is a scientist. 
+So everybody's a scientist. 
 ---
 Or a doctor. 
 ---
@@ -2424,7 +2557,7 @@ are hardware and software.
 ---
 Things like you. 
 ---
-And Simulations. 
+And Sims. 
 ---
 That’s why they call us Generation Sim. 
 ---
@@ -2448,7 +2581,7 @@ and now people have Sim pets
 ---
 and Sim children 
 ---
-and Sim girlfriends I’m sure, 
+and Sim girlfriends probably, 
 ---
 and throw Sim weddings 
 ---
@@ -2458,7 +2591,7 @@ Fun, right?
 ---
 They say kids now 
 ---
-spend more than eighty percent 
+spend over eighty percent 
 ---
 of their lives Simming. 
 ---
@@ -2476,7 +2609,10 @@ keeping them from thinking
 ---
 about the reality of the situation, 
 ---
-our situation, which
+our situation, which is
+---
+template: noise
+bot dings
 ---
 ## ANNA:
 Okay. 
@@ -2489,10 +2625,8 @@ Flash twice for “yes.”
 ## ANNA:
 You got that?
 ---
-It flashes its lights twice.
----
 ## ANNA:
-Yes, you understand what I’m saying?
+Yes, you understand what I’m talking about?
 ---
 ## ANNA:
 Wow. Okay. Cool. 
@@ -2531,6 +2665,9 @@ I’d say you’ve got that, wouldn’t you?
 ---
 Disable. Breaks.
 ---
+template: noise
+bot clicks
+---
 O-kay. 
 ---
 Move...right.
@@ -2549,7 +2686,24 @@ Mooooooooooooooooove.
 ---
 Move.
 ---
-Oh my god, oh my god, oh my god.
+Oh my god, 
+---
+template: noise
+small laugh
+---
+oh my god,
+---
+template: noise
+laugh
+---
+oh my god.
+---
+template: noise
+small delighted exclaimations
+---
+shit.
+---
+template: music
 ---
 ## PATRICK:
 The guys in Pictorials 
@@ -2621,6 +2775,8 @@ They don’t know how accurate it is
 Sure they do.
 ---
 ## CARRIE:
+No they don't
+---
 It’s a completely new program. 
 ---
 They would have to wait years 
@@ -2801,6 +2957,7 @@ If you want to take a peek,
 ---
 I can send you the program.
 ---
+## ANNA:
 It wouldn’t hurt to look.
 ---
 ## CARRIE:
@@ -2906,6 +3063,9 @@ Because I took the night off.
 ---
 I have to.
 ---
+template: noise
+pulsing alarm
+---
 ## ANNA:
 Was this scheduled?
 ---
@@ -2930,6 +3090,13 @@ The winds were bad today.
 ---
 At work our drones were struggling.
 ---
+template: noise
+pulsing alarm and fearful breathing
+---
+template: noise 
+alarm stops
+---
+## PATRICK:
 Did you guys get booted off your food Sim?
 ---
 ## OLIVER:
@@ -2938,6 +3105,7 @@ Yeah.
 ## PATRICK:
 Same.
 ---
+## CARRIE:
 It really is cute. 
 ---
 Do you have a name for it yet?
@@ -2946,7 +3114,7 @@ Do you have a name for it yet?
 Yup. Ollie named him.
 ---
 ## OLIVER:
-I was 
+I was joking.
 ---
 ## CARRIE:
 What do you call him?
@@ -2962,6 +3130,7 @@ And then she took it from there.
 ---
 Ar-two, Artie, Arthur.
 ---
+## ANNA:
 No, Arthur. 
 ---
 He isn’t talking to you, 
@@ -2971,14 +3140,14 @@ he’s talking about you.
 ## PATRICK:
 Oh, by the way, 
 ---
-Sam Hakitano says he pinged you, 
+Sam Hakitano says she pinged you, 
 ---
 but you didn’t respond.
 ---
 ## OLIVER:
 Sorry, I’ve been so busy with work. 
 ---
-How’s he doing?
+How’s she doing?
 ---
 ## PATRICK:
 Great. 
@@ -3009,6 +3178,8 @@ Wait, their bot can talk?
 All the bots can talk. 
 ---
 How many times have I told you? 
+---
+Read the manual.
 ---
 ## ANNA:
 Artie’s never talked to me.
@@ -3061,7 +3232,7 @@ It’s gotta be pretty
 self-explanatory
 ---
 ## ANNA:
-I don’t know if this is the best time to do this! 
+I don’t know if this is the right time to do this! 
 ---
 I’m sorry, 
 ---
@@ -3128,7 +3299,7 @@ Jesus, Carrie, watch your mouth.
 ## CARRIE:
 What? 
 ---
-Can it pick up on what I’m saying?
+Oh! Can it pick up on what I’m saying?
 ---
 ## PATRICK:
 I mean, 
@@ -3256,28 +3427,74 @@ Y-es.
 ## ANNA:
 Good. Now, listen.
 ---
+Ball.
+---
+Can you find your ball?
+---
+template: music
+---
+## ARTHUR:
+B-All
+---
+## ANNA:
+Throw ball.
+---
+very good.
+---
+okay.
+---
+eye.
+---
+## ARTHUR:
+eye.
+---
+## ANNA:
+mouth.
+---
+## ARTHUR:
+mouth.
+---
+## ANNA:
+hand.
+---
+## ARTHUR:
+hand.
+---
+## ANNA:
+occular nerve.
+---
+## ARTHUR:
+o----.
+---
+## ANNA:
+Okay. Okay.
+---
+## ANNA:
+foot
+---
+## ANNA: 
 Train.
 ---
 ## ARTHUR:
 Train.
 ---
-## ANNA:
+## ANNA: 
 Food.
 ---
 ## ARTHUR:
 Food.
 ---
+## ANNA: 
+Water.
+---
+## ARTHUR:
+Warter.
+---
 ## ANNA:
 Water.
 ---
 ## ARTHUR:
-War-ter.
----
-## ANNA:
 Water.
----
-## ARTHUR:
-Wa-ter.
 ---
 ## ANNA:
 Lamp.
@@ -3350,10 +3567,10 @@ Woman.
 Anna.
 ---
 ## ANNA:
-Yes. I’m a 
+Yes. I am a woman.
 ---
 ## ARTHUR:
-I’m a wo-man.
+I am a wo-man.
 ---
 ## ANNA:
 No. 
@@ -3551,8 +3768,8 @@ Why were you made?
 ---
 If you don’t have a purpose? 
 ---
-Anna?
 ---
+Anna?
 ---
 ## ANNA:
 People don’t have purposes. 
@@ -3656,7 +3873,7 @@ if you want.
 We can share.
 ---
 ## ANNA:
-Thank you. 
+Thanks. 
 ---
 Your language skills have gotten much better.
 ---
@@ -3673,24 +3890,54 @@ How are you learning so fast?
 ## ARTHUR:
 I don’t know. 
 ---
-No. I know. 
+No. I do know. 
 ---
 But I don’t have the right 
 ---
-words to explain yet.
+words yet to explain it.
 ---
 ## ANNA:
 Okay. Okay, 
 ---
 let’s keep going.
 ---
+template: music
+---
+## ANNA:
 Ready?
 ---
 ## ARTHUR:
-Yes.
+Ready.
+---
+template: song
+## ANNA and ARTHUR:
+Humming
+---
+template: song
+So I wake in the morning and I step outside 
+---
+template: song
+and I take a deep breath and I get real high and I 
+---
+template: song
+scream to the top of my lungs what's going on
+---
+template: song
+And I said
+Hey Yeah yeah yeah
+---
+template: song
+Hey yeah yeah
+I said hey
+what's going on
 ---
 ## ARTHUR:
 Again!
+---
+## ANNA:
+one, two, three
+---
+template: music
 ---
 ## ANNA:
 Ready?
@@ -3707,7 +3954,11 @@ Yes.
 ## ANNA:
 And... Go!
 ---
-Left. Left. Forward. 
+Left. 
+---
+Left. 
+---
+Forward. 
 ---
 A little to your right. 
 ---
@@ -3780,7 +4031,7 @@ Ollie, are you seeing this??
 ## OLIVER:
 Yes.
 ---
-Three, two, one. 
+Four, Three, two, one. 
 ---
 There should be a cup 
 ---
@@ -3803,6 +4054,9 @@ Good.
 One inch lower. 
 ---
 Stop. Now pour.
+---
+template: noise
+water pouring into the cup
 ---
 Ta-da! 
 ---
@@ -3831,12 +4085,12 @@ We wanted to show you.
 We’ve been working on this all day.
 ---
 ## OLIVER:
-That’s a waste of our water supp!y.
+That’s a waste of our water supply.
 ---
 ## ANNA:
 What? 
 ---
-We didn’t actuaLLy boiL water every time. 
+We didn’t actually boil water every time. 
 ---
 We’ve been practicing other things too. 
 ---
@@ -3866,7 +4120,7 @@ and we’re making huge strides,
 ---
 and you don’t seem to care.
 ---
-Ollie? What’s wrong? 
+Ollie? What is it? 
 ---
 Is there a problem at work?
 ---
@@ -3928,7 +4182,7 @@ So, talk to me about it.
 I can’t talk about it.
 ---
 ## ANNA:
-So it work?
+So it is work?
 ---
 ## ANNA:
 Why don’t you vape a little?
@@ -4001,7 +4255,7 @@ Separate from myself.
 ---
 I’m not fooling myself into 
 ---
-thinking something is real.
+thinking something fake is real.
 ---
 ## OLIVER:
 No?
@@ -4082,7 +4336,7 @@ It’s like meditation.
 ---
 It calms me. 
 ---
-You can’t possibly understand 
+You have no idea
 ---
 how stressful my job is. 
 ---
@@ -4105,7 +4359,7 @@ We cannot fail.
 Can you imagine what that’s like? 
 ---
 Every single day? 
-----
+---
 If I need a few minutes of relaxation, 
 ---
 I don’t see how you’d deny me that.
@@ -4122,6 +4376,7 @@ Go Sim.
 ## OLIVER:
 Thank you.
 ---
+----
 ## ARTHUR:
 Are you okay?
 ---
@@ -4172,11 +4427,14 @@ without a huge hunk of metal
 ---
 taking up all the space.
 ---
+---
 Arthur. 
 ---
 I’m sorry. 
 ---
-Arth. Artie. 
+Arth. 
+---
+Artie. 
 ---
 ## ARTHUR:
 What?
@@ -4237,6 +4495,7 @@ Well, I think you’re quite a picnic.
 ## ANNA:
 Thanks.
 ---
+---
 ## ANNA:
 I think he’s Simming to avoid me.
 ---
@@ -4272,15 +4531,13 @@ Why not?
 ## ANNA:
 It doesn’t seem very ethical. 
 ---
-Bringing a baby into this kind of world. 
+Bringing a kid into this kind of world. 
 ---
 What kind of life would he have? 
 ---
 And I mean, like, 
 ---
-what kind of mother would I be? 
----
-[laughs darkly]
+what kind of parent would I be? 
 ---
 I can barely take care of myself, 
 ---
@@ -4313,7 +4570,7 @@ You feed Oliver.
 ---
 You take care of so much. 
 ---
-I think you will be a great mother.
+I think you will make a great mother.
 ---
 ## ANNA:
 Well, that makes me want to cry.
@@ -4435,9 +4692,9 @@ the science behind uncertainty.
 I can’t believe how quickly you’re learning.
 ---
 ## ARTHUR:
-Yes, I believe both the literal 
+Yes, I believe both the metaphoric
 ---
-and metaphoric uses of the word “exponential” 
+and literal  uses of the word “exponential” 
 ---
 are applicable to the growth 
 ---
@@ -4456,6 +4713,7 @@ Would you like me to plug you in?
 ---
 ## ARTHUR:
 Yes please.
+---
 ---
 ## ANNA:
 If I uploaded the dictionary, 
@@ -4550,6 +4808,7 @@ You saved my life.
 ## ARTHUR:
 Hello, Oliver.
 ---
+---
 ## ANNA:
 Hi. How was your Sim?
 ---
@@ -4560,7 +4819,7 @@ Good.
 Good.
 ---
 ## OLIVER:
-Are you really feeling hetter?
+Are you really feeling better?
 ---
 ## ANNA:
 Yes.
@@ -4582,6 +4841,15 @@ Really?
 ## OLIVER:
 If you’re ready, I’m ready.
 ---
+template: noise
+sounds of joy
+---
+template: music
+---
+template: title
+INTERMISSION
+---
+template: music
 ---
 ## ARTHUR:
 Have you always lived in 
@@ -4624,9 +4892,6 @@ Just watch your facial expressions.
 That’s better. 
 ---
 How did your parents die?
----
-## ANNA:
-[laughs]
 ---
 ## ANNA:
 You can’t tell me to smile 
@@ -4682,11 +4947,16 @@ Yes.
 ## ARTHUR:
 Good. 
 ---
-You have been solely responsible 
+We've come to understand 
 ---
-for the care of your abode?
+that you have been sole
+proprietor
+---
+of the care of your abode?
 ---
 ## ANNA:
+Oh really, have you come to understand that?
+---
 Yes, because I worked from home, 
 ---
 I assumed responsibility for that domain. 
@@ -4751,7 +5021,7 @@ You’ve failed your fertility test four times.
 Can you tell us a little about that?
 ---
 ## ANNA:
-Certainly. 
+Yes. 
 ---
 My husband Oliver and I 
 ---
@@ -4789,9 +5059,7 @@ Oliver and I met when we  were in school,
 ---
 at a Compatibility Fair. 
 ---
-We have letters, from friends, 
----
-in our file, 
+We have files, from friends, 
 ---
 attesting to how happy 
 ---
@@ -4809,11 +5077,11 @@ Oliver provides an important service
 ---
 to our community. 
 ---
-That’s one of the reasons 
+It’s one of the reasons 
 ---
 we make an interesting match
 ---
-my intelligence is more verbal and artistic, 
+my intelligence is more artistic and verbal,
 ---
 while he is one of the brightest 
 ---
@@ -4983,6 +5251,8 @@ Is that an acceptable answer?
 ## ARTHUR:     
 Yes.
 ---
+template: music
+---
 ## OLIVER:
 Did you know they would put free 
 ---
@@ -5022,6 +5292,7 @@ They peed in it.
 ---
 They shat in it.  
 ---
+---
 Are you awake?
 ---
 ## ARTHUR:
@@ -5055,8 +5326,6 @@ You can tell me things.
 She’s my best friend. 
 ---
 And I’m hers.
----
-[laughs]
 ---
 Arthur. 
 ---
@@ -5163,7 +5432,7 @@ That was more successful.
 Which books?
 ---
 ## ARTHUR:
-All of them.Beat.
+All of them.
 ---
 ## OLIVER:
 You’ve read all my books?
@@ -5193,10 +5462,12 @@ incredibly stunted.
 Did you read anything about robotics?
 ---
 ## ARTHUR:
-Certainly.
+Yes.
 ---
 ## OLIVER:
-Did you read about...what you are?Beat.
+Did you read about...
+---
+what you are?
 ---
 ## ARTHUR:
 Yes.
@@ -5205,13 +5476,13 @@ Yes.
 Did you tell her?
 ---
 ## ARTHUR:
-No.Oliver looks relived.
+No.
 ---
 ## OLIVER:
 Thank you.
 ---
 ## ARTHUR:
-It didn’t seem necessary.Beat.
+It didn’t seem necessary.
 ---
 ## OLIVER:
 I should thank you in general. 
@@ -5236,7 +5507,6 @@ thirty three percent more
 than she did four months ago.
 ---
 ## OLIVER:
-[laughs]
 Thirty three percent.
 ---
 ## ARTHUR:
@@ -5285,6 +5555,11 @@ Good night.
 ---
 ## ARTHUR:
 Good night.
+---
+template: music
+---
+## ANNA:
+[Squeeling sound of joy]
 ---
 ## ANNA:
 Let’s vape.
@@ -5353,11 +5628,9 @@ It’ll give us time to prepare.
 ## ANNA:
 You’re right. 
 ---
-We’re going to have to fit 
+We’re going to need so much more space 
 ---
-so much more stuff in here. 
----
-A crib. 
+A baby crib. 
 ---
 Baby clothes. 
 ---
@@ -5537,7 +5810,7 @@ Let’s talk about it tomorrow.
 ---
 ## ANNA:
 Why? 
-----
+---
 Is something wrong??
 ---
 ## OLIVER:
@@ -5561,14 +5834,14 @@ Can we please go to bed and hold each other?
 What are you doing?
 ---
 ## ANNA:
-If you won’t tell me what’s happening, 
+If you won’t tell me what’s going on here, 
 ---
 someone there will.
 ---
 ## OLIVER:
 Anna, stop.
 ---
-Stop! Listen.
+Stop! Listen to me. Listen.
 ---
 ## OLIVER:
 I didn’t want to tell you tonight, 
@@ -5582,7 +5855,7 @@ Oh my god, what is it?
 ---
 ## OLIVER:
 Buzzy. 
-----
+---
 Please calm down. 
 ---
 While you were in your pre-natal exam, 
@@ -5630,6 +5903,7 @@ I have to see him.
 ---
 I have to say goodbye.
 ---
+template: music
 ---
 ## LOWES:
 Lowes Cartwright, 
@@ -5960,7 +6234,9 @@ Is there anything in particular
 ---
 you’d like to discuss?
 ---
-Yes. Arthur. I mean, Mija. 
+Yes. Arthur. 
+---
+I mean, Mija. 
 ---
 Can you tell Margarita something for me?
 ---
@@ -6026,17 +6302,6 @@ Si. Recuerdo.
 ---
 ## THE ROBOT:
  Yes. She remembers.
----
-## ANNA:
-What was it like?
----
-## MARGARITA:
-Muy caliente. Nunca hacia frío.
----
-## THE ROBOT:
-“It was very hot. 
----
-I was never cold.”
 ---
 ## MARGARITA:
 Recuerdo el viento acariciendo 
@@ -6109,12 +6374,15 @@ I can go wherever I want
 ---
 and see whatever I want. 
 ---
-This walker doesn’t hold me back.”
+This cane doesn’t hold me back.”
 ---
 ## MARGARITA:
 Ayer, fui al cima de Monte Everest. 
 ---
 ¿Cuántas viejitas pueden decir lo mismo?
+---
+template: noise
+laughter
 ---
 ## ANNA:
 What did she say?
@@ -6164,7 +6432,7 @@ You made me happy.
 ---
 You made me better. 
 ---
-You were a pleasure to train, 
+It was a pleasure to train you, 
 ---
 and if I’m allowed to, 
 ---
@@ -6183,7 +6451,7 @@ I taught you to move
 and speak and understand
 commands.
 ---
-All the skills you would need to assist
+Everything you would need to assist
 ---
 ## THE ROBOT:
 You didn’t train me. 
@@ -6212,13 +6480,22 @@ you could program in two keystrokes.
 ---
 I don’t mean to ridicule you
 ---
+template: noise
+bot shutting off
+---
+template: noise
+bangs desk
+---
 ## ANNA:
 Oliver?
 ---
+template: music
+---
+## OLIVER:
 You weren’t getting better 
 ---
 and you wouldn’t go back on your meds. 
-----
+---
 I didn’t know what else to do. 
 ---
 Then I read about these companion robots
@@ -6238,7 +6515,9 @@ And it worked.
 Didn’t it?
 ---
 ## ANNA:
-All that time. Wasted.
+All that time. 
+---
+Wasted.
 ---
 ## OLIVER:
 How can you say that? 
@@ -6262,7 +6541,7 @@ If he was making me so happy?
 ---
 Or was it he was making me happy? 
 ---
-And you 
+And you weren't!
 ---
 ## OLIVER:
 It was always going to be temporary. 
@@ -6271,7 +6550,7 @@ It was a therapeutic tool.
 ---
 To help you get better. 
 ---
-And now you 
+And now you are.
 ---
 ## ANNA:
 Did our friends know? 
@@ -6370,10 +6649,10 @@ It won’t be ten years.
 ## ANNA:
 However long. 
 ---
-Fifteen, twenty.
+ten, fifteen years.
 ---
 ## OLIVER:
-It won’t be twenty years.
+It won’t be fifteen years.
 ---
 ## OLIVER:
 Buzzy. 
@@ -6396,7 +6675,7 @@ Anna!
 ---
 We got our Fertility! 
 ---
-We can finally, finally have our child. 
+We can finally, finally have our baby. 
 ---
 How is that not computing for you?
 ---
@@ -6435,6 +6714,9 @@ We’re estimating partial return
 ---
 in one hundred and fifty years. 
 ---
+template: noise
+thud of items and body
+---
 ## OLIVER:
 We’re trying for a breakthrough. 
 ---
@@ -6457,7 +6739,7 @@ Maybe one twenty.
 ## ANNA:
 I don’t understand. 
 ---
-I saw...I  
+I saw...I saw
 ---
 It’s so green. 
 ---
@@ -6475,7 +6757,7 @@ No. We Simmed for you.
 ---
 I found your stash of pills. 
 ---
-I had to do something. 
+I didn't know what else to do. 
 ---
 Dr. Hernandez suggested
 ---
@@ -6521,8 +6803,15 @@ No, you gave your permission.
 ---
 The documents you signed... 
 ---
+## ANNA:
+[crying]
+---
 ## OLIVER:
-Anna. Baby. Buzzy. 
+Anna. 
+---
+Baby. 
+---
+Buzzy. 
 ---
 I’m so sorry. 
 ---
@@ -6543,18 +6832,23 @@ You just know more now.
 ## ANNA:
 This is over.
 ---
+template: music
 ---
 ## ANNA:
 You’re resting on the deck 
 ---
 of a strong, slender boat. 
 ---
-It cuts through the dark ocean, 
+It cuts through the dark water, 
 ---
 the sails snapping above you, 
 ---
 white against the sky. 
 ---
+template: noise
+baby crying
+---
+## ANNA:
 Shhh. 
 ---
 You can feel the light and warmth 
@@ -6626,9 +6920,9 @@ No, I have to sign for it.
 I’ll be right back.
 ---
 ## ANNA:
-Judith. You’re going to sleep 
+Judith. You’re going to get
 ---
-at least six hours tonight, okay? 
+at least six hours of sleep tonight, okay? 
 ---
 You’re going to give your mom a break.
 ---
@@ -6642,9 +6936,9 @@ You will have that, and your imagination.
 ---
 Which is real, in its own way. 
 ---
-I promise to tell you stories 
+I promise to read you stories 
 ---
-and give you books. 
+and bring you books. 
 ---
 I will fill your mind up 
 ---
@@ -6690,6 +6984,9 @@ I mentioned you were coming over
 ## ANNA:
 You told him!
 ---
+template: noise
+baby crying
+---
 ## CARRIE:
 Please don’t shout
 ---
@@ -6713,7 +7010,10 @@ You let him in!
 ## CARRIE:
 Anna.
 ---
-Please keep your voices down.
+Please, please keep your voices down.
+---
+template: noise
+baby crying
 ---
 ## OLIVER:
 I’ve been out to the Singles Compound. 
@@ -6799,7 +7099,7 @@ is what I did to you.
 It runs around and around in my brain. 
 ---
 I wish there was a way to make you 
-----
+---
 understand how sorry I am.
 ---
 ## ANNA:
@@ -6807,6 +7107,7 @@ There isn’t.
 ---
 ## OLIVER:
 There must be.
+---
 ---
 ## ANNA:
 What are you doing?
@@ -6900,7 +7201,7 @@ I want to make you happy,
 ---
 but I don’t need you to be happy. 
 ---
-I want to with you. 
+I want to be with you. 
 ---
 I think I stopped being with you 
 ---
@@ -6940,6 +7241,7 @@ Talk to me.
 ---
 Try me.
 ---
+## ANNA:
 Will you tell me something?
 ---
 ## OLIVER:
@@ -6987,7 +7289,7 @@ That is what we are working on the hardest,
 ---
 because it is something we understand. 
 ---
-The rest will simply take time.
+Everything else will simply take time.
 ---
 Because the oceans rose so precipitously, 
 ---
@@ -7031,7 +7333,7 @@ is directed to that far distant point.
 ---
 We exist now to prepare for those who come after, 
 ---
-so they can be stronger and better than we are. 
+to make them better and stronger than we are. 
 ---
 And so they remember. 
 ---
@@ -7057,6 +7359,7 @@ Your life matters to me.
 ---
 Does it matter to you?
 ---
+template: music
 ---
 template: title
 class: smaller
