@@ -1,35 +1,103 @@
----
-type: slide
-slideOptions:
-  controls: false
-  help: false
-  slideNumber: false
----
-<!-- BEGIN SETTINGS -->
-
-<style>
-    .present {
-        color: yellow;
-        text-align: left;
-        padding: 0 2rem;
-    }
-    .present h2 {
-        font-size: 70%;
-        text-transform: uppercase;
-        color: yellow;
-        opacity: 0.7;
-    }
-</style>
-
-
-<!-- END SETTINGS -->
-
+class: center, middle, smaller
+BEGIN SETTINGS
 ---
 
+[//]: # (title settings—give the play a title and author name)
+title: TITLE
+author: Author
+
+[//]: # (color settings—replace "character-_____" with a character name)
+plum-purple: character-one
+stiletto-red: character-two
+st-tropaz-blue: character-three
+orange-zest: character-four
+lavender-purple: character-five
+green-goblin: character-six
+shocking-pink: character-seven
+brown-clay: character-eight
+pelorous-aqua: character-nine
+layout: true
+---
+name: noise
+class: center, middle, noise
+---
+name: title
+class: center, middle
+---
+name: music
+class: center, middle
+&#9834; &#9834;
+---
+name: song
+class: song
+---
+name: aside
+class: aside
+---
+name: overlap
+class: overlap
+---
+class: characters, smaller
+[//]: # (list of colors)
+## PLUM-PURPLE:
+## STILETTO-RED:
+## ST-TROPAZ-BLUE:
+## ORANGE-ZEST:
+## GREEN-GOBLIN:
+## LAVENDER-PURPLE:
+## SHOCKING-PINK:
+## BROWN-CLAY:
+## PELOROUS-AQUA:
+---
+template: overlap
+[//]: # (list of characters, in color)
+## CHARACTER-ONE:
+## CHARACTER-TWO:
+## CHARACTER-THREE:
+## CHARACTER-FOUR:
+## CHARACTER-FIVE:
+---
+
+class: center, middle, smaller
+END SETTINGS
+---
+---
+
+Welcome to Northlight Theatre.
+
+Before you get swept away by letter-writing romance, 
+
+please check that your cell phones are silenced or turned all the way off. 
+
+Pictures and recordings are prohibited during the performance, 
+
+and we ask that you refrain from texting during the show.
+
+Northlight's exciting 2022-2023 season starts in September, 
+
+tickets and subscriptions are available now.
+
+Subscribers save up to 40% off regular ticket prices, 
+
+and are guaranteed five nights of intensely entertaining theater. 
+
+Stop by the box office or pick up materials in the lobby to find out how you can join us. 
+
+Finally, please remember to keep your mask on at all times,
+
+over both your nose and mouth while inside the theater. 
+
+Thank you for joining us at Northlight, without further ado, 
+
+Ken Ludwig's Dear Jack, Dear Louise. 
+
+---
+template: noise
+happy jazzy music
 ---
 
 ## JACK:
-June 1, 1942
+June 1, 1942.
 
 ---
 
@@ -73,7 +141,7 @@ Sincerely,
 
 ---
 
-Captain Jacob S. Ludwig, U.S. Army	
+Captain Jacob S. Ludwig, U.S. Army.	
 
 ---
 
@@ -102,7 +170,11 @@ As for where to meet, I agree that New York City would be more convenient.
 
 ---
 
-I suppose we could meet halfway, in Bismarck, North Dakota, but then we’d both need snowshoes.
+I suppose we could meet halfway, 
+
+---
+
+in Bismarck, North Dakota, but then we’d both need snowshoes.
 
 ---
 
@@ -146,7 +218,7 @@ That’s all I can think of.
 
 
 Sincerely, 
-
+---
 Captain Jacob S. Ludwig, U.S. Army
 
 ---
@@ -193,10 +265,6 @@ So I have a lot of aunts.
 
 ---
 
-My father says he feels outnumbered.
-
----
-
 Sincerely,
 
 ---
@@ -219,11 +287,23 @@ During high school I worked at a soda fountain after school and during the summe
 
 ---
 
-I enjoyed making root beer floats most of all because it took a lot of practice to keep the foam from dripping all over my hands when I added the root beer.
+I enjoyed making root beer floats most of all 
 
 ---
 
-My next job was working at the Lukens Steel Mill on the outskirts of Coatesville, also after school and on weekends.
+because it took a lot of practice to keep the foam from dripping all over my hands 
+
+---
+
+when I added the root beer.
+
+---
+
+My next job was working at the Lukens Steel Mill on the outskirts of Coatesville, 
+
+---
+
+also after school and on weekends.
 
 ---
 
@@ -323,6 +403,9 @@ Dear Captain Jacob S. Ludwig, U.S. Army,
 That’s the most ridiculous thing I ever heard.
 
 ---
+template: noise
+radio clicks on; spritely jazz begins
+---
 
 Dancing is the one thing in life that can take you out of yourself 
 
@@ -337,6 +420,11 @@ Dancing is also beautiful, artistic and a wonderful way to get to know people.
 ---
 
 PS:  I’m a dancer.
+
+---
+
+template: noise
+music stops
 
 ---
 
@@ -432,11 +520,19 @@ which in my case sounded like a chain saw trying to cut through aluminum,
 
 ---
 
-but that apparently stunned the professors so much that they marked the wrong box on their evaluation sheets and I still got in.
+but that apparently stunned the professors so much 
+
+---
+
+that they marked the wrong box on their evaluation sheets and I still got in.
 
 ---
 
 After high school I went to NYU for two semesters but dropped out to become a dancer and actress.
+
+---
+
+Now I'm living in the theater district at the Curtain Call boarding house. 
 
 ---
 
@@ -455,8 +551,8 @@ I played a woman who was…how shall I put this…a lady of the night.
 It was terrific and everybody said I was very convincing.
 
 ---
-
-[Silence]
+template: noise
+silence
 
 ---
 
@@ -468,7 +564,11 @@ I take it from your long silence that you don’t approve of my playing a lady o
 
 ---
 
-But I think it’s important that the theater isn’t afraid to talk about anything that it considers honest and important.
+But I think it’s important that the theater isn’t afraid to talk about anything 
+
+---
+
+that it considers honest and important.
 
 ---
 
@@ -509,7 +609,11 @@ I’m so sorry for not writing.
 
 ---
 
-There was an emergency and they needed doctors to go out to sea and treat the incoming wounded from a battle in the Pacific.
+There was an emergency and they needed doctors to go out to sea 
+
+---
+
+and treat the incoming wounded from a battle in the Pacific.
 
 ---
 
@@ -584,7 +688,11 @@ The truth is, The Threepenny Opera isn’t shocking at all.
 
 ---
 
-It’s a modern  version of a musical from the 18th century, and it’s meant to be very avant garde.
+It’s a modern  version of a musical from the 18th century, 
+
+---
+
+and it’s meant to be very avant garde.
 
 ---
 
@@ -592,7 +700,11 @@ That just means the stage was dark and we all spoke with Hungarian accents.
 
 ---
 
-It was presented in a church basement with about 40 seats, and it only ran for two weeks, so it was not exactly a Broadway debut.
+It was presented in a church basement with about 40 seats, 
+
+---
+
+and it only ran for two weeks, so it was not exactly a Broadway debut.
 
 ---
 
@@ -605,7 +717,10 @@ I think that’s wonderful.
 
 ---
 
-Everyone has to start somewhere, and to get any role in any play in New York City sounds like a big accomplishment to me.
+Everyone has to start somewhere, and to get any role in any play in New York City 
+---
+
+sounds like a big accomplishment to me.
 
 ---
 
@@ -614,11 +729,19 @@ Have you tried out for other parts, too?
 ---
 
 ## LOUISE:
-Yes, I audition all the time, mostly for musicals, but for some of them you need experience just to get in the door.
+Yes, I audition all the time, mostly for musicals, 
 
 ---
 
-I also take dancing and singing lessons every week, both with the same woman and she’s tremendous.
+but for some of them you need experience just to get in the door.
+
+---
+
+I also take dancing and singing lessons every week, 
+
+---
+
+both with the same woman and she’s tremendous.
 
 ---
 
@@ -763,6 +886,10 @@ and you think I’m going to be mad at you?”
 
 ---
 
+"Your mother is in there dancing in the kitchen!"
+
+---
+
 ## LOUISE:
 Ha!
 
@@ -793,7 +920,11 @@ The trouble is that leave is only granted to one doctor at a time, and apparentl
 
 ---
 
-On top of that, my commanding officer, Colonel Ramsey, is very hard-nosed and inflexible.
+On top of that, my commanding officer, Colonel Ramsey, 
+
+---
+
+is very hard-nosed and inflexible.
 
 ---
 
@@ -801,7 +932,11 @@ Those aren’t the words we use about him here on the base, but I don’t want t
 
 ---
 
-For the word “nose” in the phrase “hard-nosed,” you have to substitute another word which stands for a different part of the body, the part you sit down on.
+For the word “nose” in the phrase “hard-nosed,” 
+
+---
+
+you have to substitute another word which stands for a different part of the body, the part you sit down on.
 
 ---
 
@@ -845,11 +980,7 @@ I can see now how offensive it was.
 
 ---
 
-“The a-word.
-
----
-
-”…Louise?
+“The a-word.”…Louise?
 
 ---
 
@@ -862,7 +993,10 @@ Dancers are very physical beings and we use the “a” word constantly.
 
 ---
 
-Besides, I grew up in Brooklyn, and calling people the a-word is the nicest thing we said about anybody.
+Besides, I grew up in Brooklyn, 
+
+---
+and calling people the a-word is the nicest thing we said about anybody.
 
 ---
 
@@ -874,7 +1008,10 @@ I’ve got an audition for an actual Broadway play!
 
 ---
 
-It’s a long story, but a friend of mine knows somebody who knows a producer and I got a call last week and they want to see me this Friday!  
+It’s a long story, but a friend of mine knows somebody who knows a producer 
+
+---
+and I got a call last week and they want to see me this Friday!  
 
 ---
 
@@ -882,7 +1019,10 @@ So I’m very sorry that I didn’t write for a few days, but I’ve been buried
 
 ---
 
-because I have about 40 lines I have to memorize and I want to be letter perfect and I’m still working on them.
+because I have about 40 lines I have to memorize 
+
+---
+and I want to be letter perfect and I’m still working on them.
 
 ---
 
@@ -890,11 +1030,18 @@ My roommate is drilling them with me every night.
 
 ---
 
-Her name is Cynthia Monroe and she’s the most gorgeous creature you’ve ever seen, as well as the nicest.
+Her name is Cynthia Monroe and she’s the most gorgeous creature you’ve ever seen, 
+
+---
+as well as the nicest.
 
 ---
 
-She holds down two jobs, one as a receptionist, the other as a waitress, and she still wants to be in show business.
+She holds down two jobs, one as a receptionist, the other as a waitress, 
+
+---
+
+and she still wants to be in show business.
 
 ---
 
@@ -924,31 +1071,35 @@ What’s the play?
 ---
 
 ## LOUISE:
-It’s a comedy called Pygmalion by George Bernard Shaw.
+It’s a comedy called _Arsenic and Old Lace_.
 
 ---
 
-It was written about 25 years ago, and this is the first New York revival, 
+It has been playing on Broadway for ages, 
 
 ---
 
-which opened here with Lynn Fontaine and I’d be the third replacement, 
+and they're on their third replacement cast, I'm up for Elaine,
 
 ---
 
-but that’s okay, it’s still on Broadway and I’m up for the lead!  
+who is one of the leads, 
 
 ---
 
-Her name is Eliza and it’s a wonderful part.
+and it’s a wonderful part.
 
 ---
 
-It begins in London, outside the Royal Opera House, where the rich people are getting taxis home 
+In the story, Elaine is engaged to Moritmer Brewster. 
 
 ---
 
-and this cockney flower girl, that’s me, is selling them flowers, or at least trying to.
+In the movie, he's going to be played by Cary Grant.
+
+---
+
+He thinks that his family is crazy…which they are! 
 
 ---
 
@@ -968,114 +1119,68 @@ Here goes.
 
 ---
 
-Wait!  I should also mention that at this point one of the gentlemen – his name is Freddy and he’s there with his mother – 
 
+
+Wait!  I should also mention that at this point of the play 
+---
+Elaine has just run out of the cellar, where she's locked up by Mortimer's brother, who is a criminal. 
+---
+## LOUISE: (as Elaine)
+[gasping]
+---
+Mortimer, where have you been? I've almost been killed! What's going on in this house?
+
+What do you mean, what's going on in this house?
+---
+## LOUISE: (as Elaine)
+You were supposed to take me to the theater tonight, and you called it off.
+---
+You asked me to marry you, I said I would, and five minutes later you thew me out! 
+---
+Now listen, Mr. Brewster, I want to know where I stand!
+---
+Do you love me?
+---
+## LOUISE: (as Mortimer)
+I love you very much, Elaine. In fact, I love you so much I _cannot_ marry you. 
+---
+## LOUISE: (as Elaine)
+Have you suddenly gone crazy? 
+---
+## LOUISE: (as Mortimer)
+I don't think so, but it's only a matter of time. 
+---
+You see, insanity runs in my family. It practically gallops. 
+---
+## LOUISE: (as Elaine)
+Listen, Mortimer, you'll have to do better than that! 
+---
+## LOUISE: (as Mortimer)
+No, dear, there is a strange taint in the Brewster blood. If you really knew my family, 
+---
+it's what you'd expect if Strindberg wrote the Ziegfield Follies. 
+---
+## LOUISE: (as Elaine)
+Now darling, none of this proves that you're crazy! 
+---
+Look at your Aunts…they're Brewsters, aren't they? 
+---
+And they're the sanest people I have ever known!
+---
+## LOUISE: (as Mortimer)
+Look Elaine, I know I'm acting irrationally, but remember: 
+---
+I'm a Mad Brewster!!
+---
+## LOUISE: (as Elaine)
+Listen, Mister! If you think that you can get out of this by pretending that you're insane…
+---
+you're crazy!! If you're not going to marry me, 
+---
+I’m going to marry you, you dope!!
 ---
 
-is running for a cab and collides with Eliza and knocks her basket of flowers to the ground.
-
----
-
-In fact, now that I think of it, you might have seen the movie, which came out about a year ago with Leslie Howard and Wendy Hiller, 
-
----
-
-and there’s a rumor they might make a musical of it and call it My Fair Lady!  Okay, here goes.
-
----
-
-Remember:  Freddy has just knocked her flowers to the ground.
-
----
-
-## LOUISE: [as ELIZA)
-Bang!  “Eowww!  Nah then, Freddy:  look wh’y’gowin, deah.”
-
----
-
-## LOUISE: [as FREDDY)
-“Sorry.”
-
----
-
-## LOUISE: [as ELIZA)
-“Theres menners f’ yer.
-
----
-
-Te-oo banches o voylets trod in the mad.”
-
----
-
-## LOUISE: [as THE MOTHER)
-The mother:  “Here, take this.
-
----
-
-Now how do you know that my son’s name is Freddy, pray?”
-
----
-
-## LOUISE: [as ELIZA)
-“I called him Freddy or Charley same as you might if you was talkin’ to a stranger and wished to be pleasant.”
-
----
-
-## LOUISE: [as COCKNEY BLOKE)
-A cockney bystander:  “You be careful.
-
----
-
-Give her a flower for it.
-
----
-
-There’s a bloke here behind this pillar takin’ down every blessed word you’re sayin’.”
-
----
-
-## LOUISE: [as ELIZA)
-“I ain’t done nothin’ wrong by speakin’ to the lidy!  I’ve a right to sell flowers if I keep to the kerb!”
-
----
-
-“I’m a respectable girl: so help me, I never spoke to her except to ask her to buy a flower off me!”
-
----
-
-## LOUISE: [as HIGGINS)
-“There there there.
-
----
-
-Who’s hurting you, you silly girl?”
-
----
-
-## LOUISE: [as ELIZA)
-“I’ve a right to be here if I like, same as you!”
-
----
-
-## LOUISE: [as HIGGINS)
-“A woman who utters such depressing and disgusting sounds has no right to be anywhere – no right to live.
-
----
-
-Remember that you are a human being with a soul and the divine gift of articulate speech:  that your native language is the language of Shakespeare and Milton and the Bible, 
-
----
-
-and don’t sit there crooning like a bilious pigeon.”
-
----
-
-## LOUISE: [as ELIZA)
-“Ah-ah-ah-ow-ow-ow-oo!!”
-
----
-
-## LOUISE: [as herself)
+## LOUISE: (as herself)
 That’s it.
 
 ---
@@ -1084,7 +1189,7 @@ What do you think?
 
 ---
 
-Eliza’s whole part is terrific, but that’s the passage I’m doing for the audition.
+Elaine's whole part is terrific, but that’s the passage I’m doing for the audition.
 
 ---
 
@@ -1144,11 +1249,11 @@ Louise?
 ---
 
 ## LOUISE:
-Jesus Christ on a bicycle!  I’m sorry.
+Hell's Bells I'm so angry!!
 
 ---
 
-I’ll never swear again, but Hell’s Bells, I am so angry!  Okay, here’s what happened.
+I’ll never swear again, but Goddamnit to Hell, I am so angry!  Okay, here’s what happened.
 
 ---
 
@@ -1160,19 +1265,30 @@ are the producers Howard Lindsay and Russell Crouse, two of the biggest names in
 
 ---
 
-I’m not kidding, they wrote Life With Father and Anything Goes.
+I’m not kidding, they wrote _Life With Father_.
 
 ---
 
-Anyway, they asked me to read, so I took a breath and did the part…and I was incredible!  I don’t know why, but I was like an airplane, soaring through the sky and they loved it!  
+Anyway, they asked me to read, so I took a breath and did the part…and I was incredible!  
 
 ---
 
-They even said so!  And then they said they had another actress to see that day and would I mind coming back the next day to do it again.
+I don’t know why, but I was like an airplane, soaring through the sky and they loved it!  
 
 ---
 
-So I went home, came back on Thursday, nailed it again, and they said wait outside, this’ll just take a minute.
+They even said so!  
+
+---
+And then they said they had another actress to see that day and would I mind coming back the next day to do it again.
+
+---
+
+So I went home, came back on Thursday, nailed it again,  
+
+---
+
+and they said wait outside, this’ll just take a minute.
 
 ---
 
@@ -1188,11 +1304,23 @@ CYNTHIA MONROE!  That’s my roommate, the little no-good weasel!
 
 ---
 
-She never told me she was up for the part, and now she says she didn’t tell me because she thought it would make me nervous, 
+She never told me she was up for the part,   
 
 ---
 
-which is a big lie because she probably didn’t know about the play until she rehearsed it with me and then I’ll bet she snuck around to the theater and got an audition and now she’s going to star in a Broadway show 
+and now she says she didn’t tell me because she thought it would make me nervous, 
+
+---
+
+which is a big lie because she probably didn’t know about the play until she rehearsed it with me   
+
+---
+
+and then I’ll bet she snuck around to the theater and got an audition  
+
+---
+
+ and now she’s going to star in a Broadway show 
 
 ---
 
@@ -1222,7 +1350,11 @@ And please don’t feel sorry for me.
 
 ---
 
-Just think of me kindly when you read about my funeral after I kill myself, so how are you?
+Just think of me kindly when you read about my funeral after I kill myself,   
+
+---
+
+so how are you?
 
 ---
 
@@ -1233,6 +1365,10 @@ I think I’m better than you are at the moment.
 
 ## LOUISE:
 You got that right.
+
+---
+template: noise
+Christmas-y string music
 
 ---
 
@@ -1253,11 +1389,19 @@ I have some bad news.
 
 ---
 
-Colonel Ramsey still hasn’t granted my request for leave, and now I think it won’t happen till January.
+Colonel Ramsey still hasn’t granted my request for leave,   
 
 ---
 
-I know that a 4-day pass doesn’t sound like much, but if you could see the state of our patients, you’d see the problem.
+and now I think it won’t happen till January.
+
+---
+
+I know that a 4-day pass doesn’t sound like much,   
+
+---
+
+but if you could see the state of our patients, you’d see the problem.
 
 ---
 
@@ -1278,7 +1422,7 @@ Dear Jack,
 
 ---
 
-I think I’ll take my usual very religious attitude and shop till I drop.
+I think I’ll take my usual very religious attitude and go on a pilgrimage to Macy's.
 
 ---
 
@@ -1291,7 +1435,11 @@ They do put up lights, and we also have a Christmas tree and a menorah in the vi
 
 ---
 
-I understand that last year there was a party on Christmas eve and they tried to get everybody out of their beds to dance.
+I understand that last year there was a party on Christmas eve   
+
+---
+
+and they tried to get everybody out of their beds to dance.
 
 ---
 
@@ -1299,7 +1447,15 @@ Yes, dance, and I suppose I’ll try it in the spirit of fellowship.
 
 ---
 
-Meanwhile, somebody put mistletoe up over the doorway to the surgical area, and as I walked through the door after an operation yesterday, one of the nurses kissed me on the cheek.
+Meanwhile, somebody put mistletoe up over the doorway to the surgical area,   
+
+---
+
+and as I walked through the door after an operation yesterday,   
+
+---
+
+one of the nurses kissed me on the cheek.
 
 ---
 
@@ -1326,7 +1482,11 @@ I’ll still scratch her eyes out.
 
 ---
 
-In show business we believe not only in full disclosure, but also revenge.
+In show business we believe not only in full disclosure,   
+
+---
+
+but also revenge.
 
 ---
 
@@ -1351,7 +1511,11 @@ I still can’t believe there is a war.
 
 ---
 
-My father says “the human race is no damn good,” and I’m inclined to agree with him.
+My father says “the human race is no damn good,”   
+
+---
+
+and I’m inclined to agree with him.
 
 ---
 
@@ -1359,15 +1523,27 @@ Did you read Eleanor Roosevelt’s column last week?
 
 ---
 
-She said “I wonder that the time does not come when young men facing each other with intent to kill do not suddenly think of their homes and their loved ones, 
+She said “I wonder that the time does not come when young men facing each other with intent to kill  
 
 ---
 
-and realizing that those on the other side must have the same thoughts, throw away their weapons of murder.”
+ do not suddenly think of their homes and their loved ones, 
 
 ---
 
-I’m sure I’ll write again before the end of the month, but in case something happens, I just want to wish you a happy holiday.
+and realizing that those on the other side must have the same thoughts,   
+
+---
+
+throw away their weapons of murder.”
+
+---
+
+I’m sure I’ll write again before the end of the month,   
+
+---
+
+but in case something happens, I just want to wish you a happy holiday.
 
 ---
 
@@ -1378,6 +1554,9 @@ You’ve made the past few months very…enjoyable for me.
 ## LOUISE:
 Happy holidays to you, Jack.
 
+---
+template: noise
+jazzy music
 ---
 
 January 15, 1943
@@ -1392,15 +1571,27 @@ Yesterday, the most incredible thing happened.
 
 ---
 
-I met your parents!  I went to see my parents in Brooklyn to pick up a skirt I needed for an audition, 
+I met your parents!    
 
 ---
 
-and I walked in the door and suddenly my parents introduced me to your parents who were there for dinner!  I couldn’t believe it!  
+I went to see my parents in Brooklyn to pick up a skirt I needed for an audition, 
 
 ---
 
-My father acted very nonchalant and said, “Hey, Lou, do you remember that boy I said you should meet some time?
+and I walked in the door and suddenly my parents introduced me to your parents   
+
+---
+
+who were there for dinner!  I couldn’t believe it!  
+
+---
+
+My father acted very nonchalant and said,   
+
+---
+
+“Hey, Lou, do you remember that boy I said you should meet some time?
 
 ---
 
@@ -1424,19 +1615,20 @@ I didn’t believe that for a minute.
 
 ---
 
-Nobody just drops by for dinner all dressed up, at least not in Brooklyn unless they’re Italian.
+Nobody just drops by for dinner all dressed up,   
+
+---
+
+at least not in Brooklyn unless they’re Italian.
 
 ---
 
 So I’ll bet there’s some conniving going on.
 
----
-
-Honestly, it’s like being a member of the Borgia family.
 
 ---
 
-And they were drinking wine, which I find completely suspicious because my parents only drink wine at weddings and funerals.
+And they were drinking wine, which I find completely suspicious because my parents only drink Manechevitz.
 
 ---
 
@@ -1468,7 +1660,11 @@ He is very fine boy.
 
 ---
 
-He’s a doctor and he is in ze Army, and now that we’ve met and I know you are such a fine girl, I hope you vill visit us some time in Coatesville.
+He’s a doctor and he is in ze Army, and now that we’ve met   
+
+---
+
+and I know you are such a fine girl, I hope you vill visit us some time in Coatesville.
 
 ---
 
@@ -1476,7 +1672,11 @@ Have you heard of Coatesville?”
 
 ---
 
-[her own voice] So I told her that Coatesville had a population of 5,000 and was 25 miles due west of Philadelphia on Route 30.
+[her own voice] So I told her that Coatesville had a population of 5,000   
+
+---
+
+and was 25 miles due west of Philadelphia on Route 30.
 
 ---
 
@@ -1500,7 +1700,15 @@ I also met your sister Betty who was there, and she’s so…attractive and inte
 
 ---
 
-She took me aside at one point and whispered, “I know my parents are trying to fix you up with my brother, but you’re not his type, he’s so intelligent.”
+She took me aside at one point and whispered,  
+
+---
+
+“I know my parents are trying to fix you up with my brother,   
+
+---
+
+but you’re not his type, he’s so intelligent.”
 
 ---
 
@@ -1521,11 +1729,19 @@ Dear Louise,
 
 ---
 
-No, I’ve never told my parents about our letters, but I think Betty found out and she may have told them.
+No, I’ve never told my parents about our letters,   
 
 ---
 
-There’s a GI on my base who’s from a town near Coatesville and he dated her once and I guess I bragged about you a couple of times at the hospital.
+but I think Betty found out and she may have told them.
+
+---
+
+There’s a GI on my base who’s from a town near Coatesville and he dated her once  
+
+---
+
+and I guess I bragged about you a couple of times at the hospital.
 
 ---
 
@@ -1545,6 +1761,9 @@ It means you like me.
 ## JACK:
 I guess it does.
 
+---
+template: noise
+sprightly jazz
 ---
 
 ## LOUISE:
@@ -1570,7 +1789,11 @@ Are you kidding?
 
 ---
 
-Just put your finger in his eye and say “Rammy, old boy, I want that approval and I want it now or I’m putting my scalpel down and calling the Pentagon!”
+Just put your finger in his eye and say “Rammy, old boy, I want that approval   
+
+---
+
+and I want it now or I’m putting my scalpel down and calling the Pentagon!”
 
 ---
 
@@ -1592,11 +1815,19 @@ Are you ready?
 
 ---
 
-Your mother has just invited me to visit her in Coatesville two weeks from Sunday.
+Your mother has just invited me to visit her   
 
 ---
 
-Coatesville!  Land of Legend!  I’ve got the letter right here.
+in Coatesville two weeks from Sunday.
+
+---
+
+Coatesville!  Land of Legend!    
+
+---
+
+I’ve got the letter right here.
 
 ---
 
@@ -1604,7 +1835,11 @@ She says she thinks I’d enjoy getting out of the city for a day.
 
 ---
 
-She also says that coincidentally some of her sisters will be visiting that day from Philadelphia and I might enjoy meeting them.
+She also says that coincidentally some of her sisters   
+
+---
+
+will be visiting that day from Philadelphia and I might enjoy meeting them.
 
 ---
 
@@ -1612,11 +1847,19 @@ So what do you think?
 
 ---
 
-I’d like to go, but it will do exactly what we’ve been trying to avoid – put pressure on our relationship.
+I’d like to go, but it will do exactly what we’ve been trying to avoid –   
 
 ---
 
-Of course you might say what relationship, since we’ve never met each other.
+put pressure on our relationship.
+
+---
+
+Of course you might say what relationship,   
+
+---
+
+since we’ve never met each other.
 
 ---
 
@@ -1690,7 +1933,19 @@ I have no idea.
 
 ---
 
-You’re the only man I’ve ever written a thousand letters to and it’s pretty hard to keep lying to them but that’s what I’ll do if it’s what you want me to do, now what I should do?!
+You’re the only man I’ve ever written a thousand letters to   
+
+---
+
+and it’s pretty hard to keep lying to them   
+
+---
+
+but that’s what I’ll do if it’s what you want me to do,   
+
+---
+
+now what I should do?!
 
 ---
 
@@ -1699,13 +1954,22 @@ Don’t go.
 
 ---
 
-I’d rather take you there myself if I ever get home, and if you go without me it could be a disaster, so the answer is clear as a bell:  DO NOT GO!
+I’d rather take you there myself if I ever get home,   
+
+---
+
+and if you go without me it could be a disaster,   
+
+---
+
+so the answer is clear as a bell:  DO NOT GO!
 
 ---
 
 ## LOUISE:
 FINE!
 
+---
 ---
 
 Dear Mrs. Ludwig,
@@ -1782,19 +2046,39 @@ Now I’m worried.
 
 ---
 
-I only wish you were going with me, but that presumes we’ve actually met in person 
+I only wish you were going with me,   
 
 ---
 
-and God forbid the God damn Army should give you a God damn 4-day pass for once in their God damn lives.
+but that presumes we’ve actually met in person 
 
 ---
 
-Excuse the language, but it makes me so mad some times!  Don’t they have other doctors in that place?!  
+and God forbid the God damn Army should give you a God damn 4-day pass   
 
 ---
 
-Can’t you tell Colonel Ramsblossom or whatever he’s called that I caught malaria and have a week to live and this is the only chance you’ll ever have to say hello to me.
+for once in their God damn lives.
+
+---
+
+Excuse the language, but it makes me so mad some times!    
+
+---
+
+Don’t they have other doctors in that place?!  
+
+---
+
+Can’t you tell Colonel Ramsblossom or whatever he’s called   
+
+---
+
+that I caught malaria and have a week to live  
+
+---
+
+ and this is the only chance you’ll ever have to say hello to me.
 
 ---
 
@@ -1835,7 +2119,11 @@ Listen to me very carefully.
 
 ---
 
-Do not, I repeat do not give Louise a cooking test like you did with the last woman I showed an interest in.
+Do not, I repeat do not give Louise a cooking test   
+
+---
+
+like you did with the last woman I showed an interest in.
 
 ---
 
@@ -1847,7 +2135,15 @@ She left me the day after meeting the aunts.
 
 ---
 
-She told me you took her into the kitchen, forced her to make sweet and sour cabbage rolls and said, “Darling, if you plan to feed these to my nephew, 
+She told me you took her into the kitchen,   
+
+---
+
+forced her to make sweet and sour cabbage rolls and said,   
+
+---
+
+“Darling, if you plan to feed these to my nephew, 
 
 ---
 
@@ -1855,23 +2151,51 @@ I suggest you drown yourself right now and get it over with.”
 
 ---
 
-Then Aunt Sue criticized her lipstick, Aunt Linda told her her dress didn’t fit but she knew a good seamstress who works miracles, 
+Then Aunt Sue criticized her lipstick,   
 
 ---
 
-and Aunt Brenda said her chest looked phony, quote “but I mean that in the nicest way possible” end quote.
+Aunt Linda told her her dress didn’t fit but she knew a good seamstress who works miracles, 
 
 ---
 
-Then Aunt Lena criticized her teeth, Aunt Bert gave her the name of a hairdresser, and Aunt Evelyn asked her if she had scoliosis.
+and Aunt Brenda said her chest looked phony,   
 
 ---
 
-So rest assured, Aunt Florence, that I will know if you do these things – I guarantee you, I will find out – and if Louise comes back with a single story of any kind, 
+quote “but I mean that in the nicest way possible” end quote.
 
 ---
 
-I’ll tell my mother what you said about Dad last summer and she will never speak to you again!  Now go tell your sisters to check their mail boxes because I’m writing to every single one of them, good bye!
+Then Aunt Lena criticized her teeth, Aunt Bert gave her the name of a hairdresser,   
+
+---
+
+and Aunt Evelyn asked her if she had scoliosis.
+
+---
+
+So rest assured, Aunt Florence, that I will know if you do these things –   
+
+---
+
+I guarantee you, I will find out –   
+
+---
+
+and if Louise comes back with a single story of any kind, 
+
+---
+
+I’ll tell my mother what you said about Dad last summer and she will never speak to you again!    
+
+---
+
+Now go tell your sisters to check their mail boxes   
+
+---
+
+because I’m writing to every single one of them, good bye!
 
 ---
 
@@ -1928,19 +2252,39 @@ Dear Jack,
 
 ---
 
-Well, I just got home and I have to tell you, your family is everything it’s cracked up to be and  you don’t deserve them.
+Well, I just got home and I have to tell you,   
 
 ---
 
-To start from the beginning, I arrived in Coatesville on the 11:07 and your father and mother were waiting on the platform for me – along with your mother’s eleven sisters and all their husbands.
+your family is everything it’s cracked up to be and  you don’t deserve them.
 
 ---
 
-That made 25 of us, but some of them also brought their children, so I think the total was about 40.
+To start from the beginning, I arrived in Coatesville on the 11:07   
 
 ---
 
-When we left the station, everyone got in their cars and drove to your house, and the people of Coatesville must have thought it was either a parade or a funeral.
+and your father and mother were waiting on the platform for me –   
+
+---
+
+along with your mother’s eleven sisters and all their husbands.
+
+---
+
+That made 25 of us, but some of them also brought their children,   
+
+---
+
+so I think the total was about 40.
+
+---
+
+When we left the station, everyone got in their cars and drove to your house,   
+
+---
+
+and the people of Coatesville must have thought it was either a parade or a funeral.
 
 ---
 
@@ -1972,23 +2316,39 @@ I know that now because your mother showed me about a hundred photographs of you
 
 ---
 
-I saw you as a baby, as a toddler, as a schoolboy, as a high school graduate, as a college graduate and as a med school graduate.
+I saw you as a baby, as a toddler, as a schoolboy,   
 
 ---
 
-I also saw you in the bathtub when you were one year old – and believe me, I saw all of you.
+as a high school graduate, as a college graduate and as a med school graduate.
 
 ---
 
-I think you’ll also be glad to hear that your aunts were on their best  behavior, except Aunt Linda who asked me if I had a seamstress.
+I also saw you in the bathtub when you were one year old –   
 
 ---
 
-I told her no but I have a young woman named Louise who comes in every day to do the cooking and cleaning and that shut her up.
+and believe me, I saw all of you.
 
 ---
 
-Your sister Betty was the most interesting of all, and that leads me to why I didn’t write you for a couple of days.
+I think you’ll also be glad to hear that your aunts were on their best  behavior,   
+
+---
+
+except Aunt Linda who asked me why I had dark circles under my eyes.
+
+---
+
+I told her I was a fan dancer and it kept me up late at night and that shut her up.
+
+---
+
+Your sister Betty was the most interesting of all,   
+
+---
+
+and that leads me to why I didn’t write you for a couple of days.
 
 ---
 
@@ -1997,8 +2357,16 @@ I ended up staying over at your house for two nights to recover.
 ---
 
 Here’s what happened:
+  
 
-Towards the end of the day, your aunts started to get in their cars, and that was perfect because I had to catch the train to New York.
+---
+
+
+Towards the end of the day, your aunts started to get in their cars,   
+
+---
+
+and that was perfect because I had to catch the train to New York.
 
 ---
 
@@ -2010,7 +2378,11 @@ I thought that was sweet, so we went upstairs.
 
 ---
 
-I saw her room and she showed me pictures of her boyfriends, and then she suggested I go to the window and look at the view.
+I saw her room and she showed me pictures of her boyfriends,   
+
+---
+
+and then she suggested I go to the window and look at the view.
 
 ---
 
@@ -2022,11 +2394,23 @@ Yes, that’s right, I went out the window.
 
 ---
 
-One minute I was standing there looking at the trees, enjoying the air blowing in from the front yard, and the next minute Betty must have tripped on something behind me – 
+One minute I was standing there looking at the trees,   
 
 ---
 
-she says she caught her toe on the rug near the bureau – and her shoulder hit me in the back and out I went.
+enjoying the air blowing in from the front yard,   
+
+---
+
+and the next minute Betty must have tripped on something behind me – 
+
+---
+
+she says she caught her toe on the rug near the bureau –   
+
+---
+
+and her shoulder hit me in the back and out I went.
 
 ---
 
@@ -2034,11 +2418,19 @@ Fortunately, Betty’s window is over the roof of the porch, so I landed on that
 
 ---
 
-then slid downward and bounced off the gutter which broke my fall, so when I landed in the bushes I didn’t break anything.
+then slid downward and bounced off the gutter which broke my fall,   
 
 ---
 
-Betty, of course, let out a shriek, and everyone came running and made a fuss, but I was fine except for a couple of bruises, which are healing nicely.
+so when I landed in the bushes I didn’t break anything.
+
+---
+
+Betty, of course, let out a shriek, and everyone came running and made a fuss,   
+
+---
+
+but I was fine except for a couple of bruises, which are healing nicely.
 
 ---
 
@@ -2046,15 +2438,27 @@ I felt like an idiot, of course, but I guess these things happen.
 
 ---
 
-Your aunts insisted that two of their husbands carry me into the house, which wasn’t necessary, but they did it anyway.
+Your aunts insisted that two of their husbands carry me into the house,   
 
 ---
 
-So we had a parade into the living room with Betty at the rear yelling “It was an accident!  It was an accident!”  
+which wasn’t necessary, but they did it anyway.
 
 ---
 
-They put me on a couch and your Aunt Fern rolled up her sleeves and told everybody to stand aside, she was trained as a nurse, 
+So we had a parade into the living room with Betty at the rear yelling   
+
+---
+
+“It was an accident!  It was an accident!”  
+
+---
+
+They put me on a couch and your Aunt Fern rolled up her sleeves   
+
+---
+
+and told everybody to stand aside, she was trained as a nurse, 
 
 ---
 
@@ -2066,11 +2470,19 @@ Then she admitted that she’d always wanted to be a nurse but never got around 
 
 ---
 
-Then one of your uncles pulled out his business card and said he was a lawyer and that I could sue your parents and make a bundle.
+Then one of your uncles pulled out his business card   
 
 ---
 
-Everyone else got mad at him and they all ended up fighting while I sat there and watched.
+and said he was a lawyer and that I could sue your parents and make a bundle.
+
+---
+
+Everyone else got mad at him and they all ended up fighting   
+
+---
+
+while I sat there and watched.
 
 ---
 
@@ -2078,15 +2490,27 @@ Then they all went home.
 
 ---
 
-Your parents then insisted that I stay the night, and it ended up being two nights, and they couldn’t do enough for me.
+Your parents then insisted that I stay the night,   
 
 ---
 
-I got to taste your mother’s borscht with sour cream on the second night and I had two helpings.
+and it ended up being two nights, and they couldn’t do enough for me.
 
 ---
 
-And earlier that day, your mother and I made strudel, and if I could, that’s all I’d eat for the rest of my life.
+I got to taste your mother’s borscht with sour cream on the second night   
+
+---
+
+and I had two helpings.
+
+---
+
+And earlier that day, your mother and I made strudel,   
+
+---
+
+and if I could, that’s all I’d eat for the rest of my life.
 
 ---
 
@@ -2106,7 +2530,11 @@ PS:  Betty says she feels awful about what happened.
 
 ---
 
-She said she’ll make it up to me by taking me camping, but I told her that that was highly unlikely.
+She said she’ll make it up to me by taking me camping,   
+
+---
+
+but I told her that that   was highly unlikely.
 
 ---
 
@@ -5617,3 +6045,58 @@ Louise.
 
 [The End]
 
+
+---
+
+template: title
+class: smaller
+Open Captioning for this performance was made possible by CaptionPoint.
+---
+---
+<style>
+h2.{{plum-purple}},
+h2.{{plum-purple}}-,
+h2.-to-{{plum-purple}},
+h2.plum-purple {color: #862d86;}
+
+h2.{{stiletto-red}},
+h2.{{stiletto-red}}-,
+h2.-to-{{stiletto-red}},
+h2.stiletto-red {color: #9e2e2e;}
+
+h2.{{st-tropaz-blue}},
+h2.{{st-tropaz-blue}}-,
+h2.-to-{{st-tropaz-blue}},
+h2.st-tropaz-blue {color: #2966a3;}
+
+h2.{{orange-zest}},
+h2.{{orange-zest}}-,
+h2.-to-{{orange-zest}},
+h2.orange-zest {color: #df8020;}
+
+h2.{{green-goblin}},
+h2.{{green-goblin}}-,
+h2.-to-{{green-goblin}},
+h2.green-goblin {color: #3d8f3d;}
+
+h2.{{lavender-purple}},
+h2.{{lavender-purple}}-,
+h2.-to-{{lavender-purple}},
+h2.lavender-purple {color: #9177AC;}
+
+h2.{{shocking-pink}},
+h2.{{shocking-pink}}-,
+h2.-to-{{shocking-pink}},
+h2.shocking-pink {color: #e085b3;}
+
+h2.{{brown-clay}},
+h2.{{brown-clay}}-,
+h2.-to-{{brown-clay}},
+h2.brown-clay {color: #996633;}
+
+h2.{{pelorous-aqua}},
+h2.{{pelorous-aqua}}-,
+h2.-to-{{pelorous-aqua}},
+h2.pelorous-aqua {color: #40bfbf;}
+
+</style>
