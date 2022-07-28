@@ -1,4 +1,32 @@
 ---
+type: slide
+slideOptions:
+  controls: false
+  help: false
+  slideNumber: false
+---
+<!-- BEGIN SETTINGS -->
+
+<style>
+    .present {
+        color: yellow;
+        text-align: left;
+        padding: 0 2rem;
+    }
+    .present h2 {
+        font-size: 70%;
+        text-transform: uppercase;
+        color: yellow;
+        opacity: 0.7;
+    }
+</style>
+
+
+<!-- END SETTINGS -->
+
+---
+
+---
 
 ## JACK:
 June 1, 1942
@@ -1124,7 +1152,7 @@ I’ll never swear again, but Hell’s Bells, I am so angry!  Okay, here’s wha
 
 ---
 
-On Wednesday, I walked into the audition and behind the table, 
+On Friday, I walked into the audition and behind the table, 
 
 ---
 
@@ -3008,9 +3036,6 @@ It turns out she was – how can I put this delicately?
 
 ---
 
-It sounds to me like she should have been in Oklahoma singing “I’m Just a Girl Who Can’t Say No.”  
-
----
 
 The truth is, I wish her well.
 
@@ -3095,7 +3120,7 @@ I’ll be going to Coatesville, of course, to see Mom and Dad, but then I’d li
 
 ---
 
-The day  will be Saturday, October 10th.
+The day  will be Saturday, October 9th.
 
 ---
 
@@ -3499,7 +3524,7 @@ Beginning October 3rd we start crisscrossing the country to do the show.
 
 ---
 
-On October 10th, our date night, we’ll be finishing up a week in Cincinnati, then we head straight to Cleveland for a week, then south to Charlotte and Nashville, and on it goes.
+On October 9th, our date night, we’ll be finishing up a week in Cincinnati, then we head straight to Cleveland for a week, then south to Charlotte and Nashville, and on it goes.
 
 ---
 
@@ -3515,7 +3540,7 @@ I can try to break the contract.
 
 ---
 
-Or is there any way you can get to Cincinnati on October  10th?
+Or is there any way you can get to Cincinnati on October 9th?
 
 ---
 
