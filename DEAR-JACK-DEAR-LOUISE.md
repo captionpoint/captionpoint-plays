@@ -7,10 +7,10 @@ title: TITLE
 author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-orange-zest: character-four
+plum-purple: jack
+stiletto-red: louise
+st-tropaz-blue: louise-as-mortimer
+orange-zest: louise-as-elaine
 lavender-purple: character-five
 green-goblin: character-six
 shocking-pink: character-seven
@@ -62,33 +62,52 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
-
+template: title
+DEAR JACK DEAR LOUISE<br>
+.smaller[
+  by Ken Ludwig
+]
+---
+template: title
 Welcome to Northlight Theatre.
-
+---
+template: title
 Before you get swept away by letter-writing romance, 
-
+---
+template: title
 please check that your cell phones are silenced or turned all the way off. 
-
+---
+template: title
 Pictures and recordings are prohibited during the performance, 
-
+---
+template: title
 and we ask that you refrain from texting during the show.
-
+---
+template: title
 Northlight's exciting 2022-2023 season starts in September, 
-
+---
+template: title
 tickets and subscriptions are available now.
-
+---
+template: title
 Subscribers save up to 40% off regular ticket prices, 
-
+---
+template: title
 and are guaranteed five nights of intensely entertaining theater. 
-
+---
+template: title
 Stop by the box office or pick up materials in the lobby to find out how you can join us. 
-
+---
+template: title
 Finally, please remember to keep your mask on at all times,
-
+---
+template: title
 over both your nose and mouth while inside the theater. 
-
+---
+template: title
 Thank you for joining us at Northlight, without further ado, 
-
+---
+template: title
 Ken Ludwig's Dear Jack, Dear Louise. 
 
 ---
@@ -195,7 +214,11 @@ Dear Miss Rabiner,
 
 ---
 
-You said you would like to know something about me, but I don’t know what to write without boring you.
+You said you would like to know something about me, 
+
+---
+
+but I don’t know what to write without boring you.
 
 ---
 
@@ -249,7 +272,11 @@ All right, I’ll try.
 
 ---
 
-Coatesville has a population of 5,000, and it’s 25 miles due west of Philadelphia on Route 30.
+Coatesville has a population of 5,000, 
+
+---
+
+and it’s 25 miles due west of Philadelphia on Route 30.
 
 ---
 
@@ -257,7 +284,11 @@ I have only one sibling, a sister named Betty.
 
 ---
 
-It is just us two children, which I suppose is a little unusual, since my mother is one of twelve children, all girls.
+It is just us two children, which I suppose is a little unusual, 
+
+---
+
+since my mother is one of twelve children, all girls.
 
 ---
 
@@ -492,7 +523,11 @@ and I did a song from Anything Goes by Cole Porter.
 
 ---
 
-I sang “Blow Gabriel Blow,” which is one of the songs that Ethel Merman sang in the original production.
+I sang “Blow Gabriel Blow,” which is one of the songs that Ethel Merman sang 
+
+---
+
+in the original production.
 
 ---
 
@@ -528,7 +563,11 @@ that they marked the wrong box on their evaluation sheets and I still got in.
 
 ---
 
-After high school I went to NYU for two semesters but dropped out to become a dancer and actress.
+After high school I went to NYU for two semesters 
+
+---
+
+but dropped out to become a dancer and actress.
 
 ---
 
@@ -560,7 +599,11 @@ Dear Jack,
 
 ---
 
-I take it from your long silence that you don’t approve of my playing a lady of the night.
+I take it from your long silence 
+
+---
+
+that you don’t approve of my playing a lady of the night.
 
 ---
 
@@ -576,7 +619,8 @@ And it was The Threepenny Opera by Bertolt Brecht, who is a well-known writer.
 
 ---
 
-[Silence]
+template: noise
+silence
 
 ---
 
@@ -588,7 +632,8 @@ Have a nice life.
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -596,7 +641,8 @@ Bye.
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -749,7 +795,11 @@ She screams with life.
 
 ---
 
-(Sometimes she screams, at me, too, but only when I do something dumb like strain my vocal cords)
+(Sometimes she screams, at me, too, 
+
+---
+
+but only when I do something dumb like strain my vocal cords)
 
 ---
 
@@ -757,7 +807,11 @@ As I guess you can tell, my goal in life is to be on Broadway.
 
 ---
 
-That usually means starting out in the chorus line, which would be fine with me, in fact, I’d love it.
+That usually means starting out in the chorus line, 
+
+---
+
+which would be fine with me, in fact, I’d love it.
 
 ---
 
@@ -773,11 +827,19 @@ At one point, a character named Ado Annie, who was played by an actress named Ce
 
 ---
 
-sang a song called  “I’m Just A Girl Who Can’t Say No,” and I literally held my breath for so long I got dizzy.
+sang a song called  “I’m Just A Girl Who Can’t Say No,” 
 
 ---
 
-I didn’t know I was holding my breath, it’s just that the song was so perfect and the performance so stunning that I couldn’t move.
+and I literally held my breath for so long I got dizzy.
+
+---
+
+I didn’t know I was holding my breath, it’s just that the song was so perfect 
+
+---
+
+and the performance so stunning that I couldn’t move.
 
 ---
 
@@ -814,7 +876,11 @@ I feel angry about the war, but that’s not the same.
 
 ---
 
-When I was in college, I thought about becoming an architect and I even took a course in it.
+When I was in college, I thought about becoming an architect 
+
+---
+
+and I even took a course in it.
 
 ---
 
@@ -878,7 +944,7 @@ He read it quietly, handed it back to me and said,
 
 ---
 
-[with a Yiddish accent] “You want to become a doctor instead of a tailor
+(with a Yiddish accent) “You want to become a doctor instead of a tailor
 
 ---
 
@@ -916,7 +982,11 @@ I figure I’ll need at least a 4-day pass to get to New York, meet you and get 
 
 ---
 
-The trouble is that leave is only granted to one doctor at a time, and apparently it can take as long as six months to get any kind of a pass at all.
+The trouble is that leave is only granted to one doctor at a time, 
+
+---
+
+and apparently it can take as long as six months to get any kind of a pass at all.
 
 ---
 
@@ -928,7 +998,11 @@ is very hard-nosed and inflexible.
 
 ---
 
-Those aren’t the words we use about him here on the base, but I don’t want to shock you.
+Those aren’t the words we use about him here on the base, 
+
+---
+
+but I don’t want to shock you.
 
 ---
 
@@ -936,7 +1010,11 @@ For the word “nose” in the phrase “hard-nosed,”
 
 ---
 
-you have to substitute another word which stands for a different part of the body, the part you sit down on.
+you have to substitute another word which stands for a different part of the body, 
+
+---
+
+the part you sit down on.
 
 ---
 
@@ -952,7 +1030,8 @@ Jack
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -964,7 +1043,8 @@ Are you there?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -1103,7 +1183,11 @@ He thinks that his family is crazy…which they are!
 
 ---
 
-Oh, I wish you could hear me deliver the lines out loud, but I can write them out so you can see them.
+Oh, I wish you could hear me deliver the lines out loud, 
+
+---
+
+but I can write them out so you can see them.
 
 ---
 
@@ -1123,12 +1207,21 @@ Here goes.
 
 Wait!  I should also mention that at this point of the play 
 ---
-Elaine has just run out of the cellar, where she's locked up by Mortimer's brother, who is a criminal. 
+Elaine has just run out of the cellar, 
+
+---
+
+where she's locked up by Mortimer's brother, who is a criminal. 
 ---
 ## LOUISE: (as Elaine)
-[gasping]
+template: noise
+gasping
 ---
 Mortimer, where have you been? I've almost been killed! What's going on in this house?
+
+
+---
+
 
 What do you mean, what's going on in this house?
 ---
@@ -1224,7 +1317,8 @@ I’ll be thinking about you on the big day.
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -1232,7 +1326,8 @@ Louise?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -1240,7 +1335,8 @@ Louise, how did it go?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -1253,7 +1349,11 @@ Hell's Bells I'm so angry!!
 
 ---
 
-I’ll never swear again, but Goddamnit to Hell, I am so angry!  Okay, here’s what happened.
+I’ll never swear again, but Goddamnit to Hell, I am so angry!  
+
+---
+
+Okay, here’s what happened.
 
 ---
 
@@ -1261,7 +1361,11 @@ On Friday, I walked into the audition and behind the table,
 
 ---
 
-are the producers Howard Lindsay and Russell Crouse, two of the biggest names in the American theater.
+are the producers Howard Lindsay and Russell Crouse, 
+
+---
+
+two of the biggest names in the American theater.
 
 ---
 
@@ -1280,7 +1384,11 @@ I don’t know why, but I was like an airplane, soaring through the sky and they
 They even said so!  
 
 ---
-And then they said they had another actress to see that day and would I mind coming back the next day to do it again.
+And then they said they had another actress to see that day 
+
+---
+
+and would I mind coming back the next day to do it again.
 
 ---
 
@@ -1292,7 +1400,11 @@ and they said wait outside, this’ll just take a minute.
 
 ---
 
-Then they called me back in and said, “Listen, we both thought you did a wonderful job but we’ve decided to go with the other actress.
+Then they called me back in and said, “Listen, we both thought you did a wonderful job 
+
+---
+
+but we’ve decided to go with the other actress.
 
 ---
 
@@ -1324,7 +1436,11 @@ and then I’ll bet she snuck around to the theater and got an audition
 
 ---
 
-while I starve for the rest of my life in a garret like that girl with the CANDLE IN THE ITALIAN OPERA!
+while I starve for the rest of my life in a garret 
+
+---
+
+like that girl with the CANDLE IN THE ITALIAN OPERA!
 
 ---
 
@@ -1652,7 +1768,8 @@ So I patted her back and she made happy little gurgling noises.
 
 ---
 
-She said [using his mother’s Yiddish accent] “You vould like my son.
+She said template: noise
+using his mother’s Yiddish accent “You vould like my son.
 
 ---
 
@@ -1672,7 +1789,8 @@ Have you heard of Coatesville?”
 
 ---
 
-[her own voice] So I told her that Coatesville had a population of 5,000   
+template: noise
+her own voice So I told her that Coatesville had a population of 5,000   
 
 ---
 
@@ -1847,7 +1965,7 @@ So what do you think?
 
 ---
 
-I’d like to go, but it will do exactly what we’ve been trying to avoid –   
+I’d like to go, but it will do exactly what we’ve been trying to avoid—  
 
 ---
 
@@ -2175,11 +2293,11 @@ and Aunt Evelyn asked her if she had scoliosis.
 
 ---
 
-So rest assured, Aunt Florence, that I will know if you do these things –   
+So rest assured, Aunt Florence, that I will know if you do these things—  
 
 ---
 
-I guarantee you, I will find out –   
+I guarantee you, I will find out—  
 
 ---
 
@@ -2215,7 +2333,8 @@ I’m sure it will be a relaxing day all around.
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -2223,7 +2342,8 @@ Well, what happened?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -2231,7 +2351,8 @@ Louise?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -2239,7 +2360,8 @@ Hello?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -2264,7 +2386,7 @@ To start from the beginning, I arrived in Coatesville on the 11:07
 
 ---
 
-and your father and mother were waiting on the platform for me –   
+and your father and mother were waiting on the platform for me—  
 
 ---
 
@@ -2324,7 +2446,7 @@ as a high school graduate, as a college graduate and as a med school graduate.
 
 ---
 
-I also saw you in the bathtub when you were one year old –   
+I also saw you in the bathtub when you were one year old—  
 
 ---
 
@@ -2402,11 +2524,11 @@ enjoying the air blowing in from the front yard,
 
 ---
 
-and the next minute Betty must have tripped on something behind me – 
+and the next minute Betty must have tripped on something behind me—
 
 ---
 
-she says she caught her toe on the rug near the bureau –   
+she says she caught her toe on the rug near the bureau—  
 
 ---
 
@@ -2534,7 +2656,7 @@ She said she’ll make it up to me by taking me camping,
 
 ---
 
-but I told her that that   was highly unlikely.
+but I told her that that was highly unlikely.
 
 ---
 
@@ -2551,7 +2673,11 @@ Thank God you’re all right.
 
 ---
 
-I hope you don’t think that Betty pushed you on purpose out of some crazy sibling jealousy or something.
+I hope you don’t think that Betty pushed you on purpose 
+
+---
+
+out of some crazy sibling jealousy or something.
 
 ---
 
@@ -2581,11 +2707,19 @@ As soon as you left Coatesville, they wrote me a three-page letter raving about 
 
 ---
 
-As soon as I read it, I marched right in to see Colonel Ramsey and I reminded him that it was eight months since I requested leave.
+As soon as I read it, I marched right in to see Colonel Ramsey 
 
 ---
 
-He could see how angry I was, and he looked me straight in the eye and said he’d think about it.
+and I reminded him that it was eight months since I requested leave.
+
+---
+
+He could see how angry I was, and he looked me straight in the eye 
+
+---
+
+and said he’d think about it.
 
 ---
 
@@ -2631,6 +2765,9 @@ But I’d be in jail.
 Well at least I could visit you!!!
 
 ---
+template: noise
+happy jazz begins
+---
 
 ## JACK:
 April 21, 1943
@@ -2659,7 +2796,7 @@ I have no idea why he changed his mind.
 
 ---
 
-He called me to his office and he was holding a letter and –… Oh my God.
+He called me to his office and he was holding a letter and… Oh my God.
 
 ---
 
@@ -2700,7 +2837,11 @@ Hmm.
 
 ---
 
-On the 16th,  it’s chicken and biscuits at the boarding house, I wouldn’t want to miss that.
+On the 16th,  it’s chicken and biscuits at the boarding house, 
+
+---
+
+I wouldn’t want to miss that.
 
 ---
 
@@ -2751,6 +2892,10 @@ I’m looking forward to it.
 ## JACK:
 Great!
 
+
+---
+
+
 So now we have over a month to plan the big event.
 
 ---
@@ -2776,7 +2921,15 @@ PPS:  Only 48 days to go.
 ---
 
 ## LOUISE:
-How exciting!  48 days is barely enough time to buy a dress!  I’ll go out tomorrow morning and start looking.
+How exciting!  
+
+---
+
+48 days is barely enough time to buy a dress!  
+
+---
+
+I’ll go out tomorrow morning and start looking.
 
 ---
 
@@ -2792,7 +2945,15 @@ And yes, I’d love to go to a show.
 
 ---
 
-The one I’d like to see at the moment is a comedy by Noel Coward called Blithe Spirit about a woman who’s a ghost, and she drives her husband crazy when she visits him from the Great Beyond.
+The one I’d like to see at the moment is a comedy by Noel Coward 
+
+---
+
+called Blithe Spirit about a woman who’s a ghost, 
+
+---
+
+and she drives her husband crazy when she visits him from the Great Beyond.
 
 ---
 
@@ -2800,11 +2961,19 @@ If I die young, that’s exactly what I want to do.
 
 ---
 
-Just think what fun it would be, walking through walls and watching your husband kiss another woman.
+Just think what fun it would be, walking through walls 
 
 ---
 
-Incidentally, I walk by their box office all the time, so I’m happy to pick up the tickets.
+and watching your husband kiss another woman.
+
+---
+
+Incidentally, I walk by their box office all the time, 
+
+---
+
+so I’m happy to pick up the tickets.
 
 ---
 
@@ -2838,6 +3007,10 @@ No practice necessary.
 
 Louise
 
+
+---
+
+
 PS:  Enclosed is the picture of me you asked for, though I’m hesitant to send it.
 
 ---
@@ -2855,11 +3028,7 @@ Dear Louise,
 
 ---
 
-I’m speechless.
-
----
-
-You’re so beautiful.
+I’m speechless. You’re so beautiful.
 
 ---
 
@@ -2894,7 +3063,15 @@ Dear Jack,
 
 ---
 
-That was the sweetest letter I ever received, and if I looked like you say I do, I wouldn’t have to do auditions, I’d just sign contracts.
+That was the sweetest letter I ever received,
+
+---
+
+and if I looked like you say I do, I wouldn’t have to do auditions, 
+
+---
+
+I’d just sign contracts.
 
 ---
 
@@ -2903,8 +3080,16 @@ Now about the dancing:  Is it yes or no?
 ---
 
 ## JACK:
-Yes, but I’ve got to warn you:  The last woman I danced with is still on crutches.
+Yes… 
 
+---
+
+
+but I’ve got to warn you:  The last woman I danced with is still on crutches.
+
+---
+template: noise
+music plays softly
 ---
 
 ## LOUISE:
@@ -2962,7 +3147,15 @@ Do you know that Hollywood has raised over fifty million dollars to support the 
 
 ---
 
-And over half of that has been raised by only two stars, Betty Grable and Rita Hayworth, who made it by selling kisses at charity events.
+And over half of that has been raised by only two stars, 
+
+---
+
+Betty Grable and Rita Hayworth, 
+
+---
+
+who made it by selling kisses at charity events.
 
 ---
 
@@ -3054,11 +3247,13 @@ Three more days.
 
 ---
 
-[Pause]
+template: noise
+music continues
 
 ---
 
-[Ring!)
+template: noise
+telephone rings
 
 ---
 
@@ -3258,8 +3453,6 @@ It’s bound to come.
 ## LOUISE:
 Not necessarily!
 
-[Pause]
-
 ---
 
 ## JACK:
@@ -3318,7 +3511,9 @@ Deal.
 Deal.
 
 ---
-
+template: noise
+sound of siren in the distance
+---
 Oh no.
 
 ---
@@ -3354,18 +3549,20 @@ Me, too!
 …Bye.
 
 ---
-
 ## LOUISE:
 Bye.
 
 ---
-
-[Sirens]
-
+template: noise
+low booming sound
 ---
-
+template: title
 INTERMISSION
 
+---
+---
+template: noise
+plucky string jazz
 ---
 
 
@@ -3390,7 +3587,8 @@ If you can, just let me know you’re okay.
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -3403,11 +3601,7 @@ I’m sorry it’s taken me so long to get back to you.
 
 ---
 
-The casualties were non-stop, and once again, I was taken out to a ship – this time a hospital ship, which was two days from the nearest port.
-
----
-
-So I’ve been out on the water for the past four weeks, and I couldn’t get in touch with you.
+The casualties were non-stop, and once again, I was taken out to a ship—
 
 ---
 
@@ -3424,7 +3618,11 @@ I’m not sure that anything is normal any more.
 
 ---
 
-I keep reading about the battles and the casualties, and I just can’t figure out what happened.
+I keep reading about the battles and the casualties, 
+
+---
+
+and I just can’t figure out what happened.
 
 ---
 
@@ -3432,31 +3630,47 @@ Meanwhile, the life of a starving actress goes on as usual.
 
 ---
 
-My father tells a joke about a golfer who’s playing a round with his friend Elmer, but Elmer has a heart attack on the second green and dies.
+My father tells a joke about a golfer who’s playing a round with his friend Elmer, 
 
 ---
 
-That night, the guy gets home and tells his wife about it and she says, “Oh my gosh, that’s horrible, what did you do?!”  And he says, “Yeah, it was awful.
+but Elmer has a heart attack on the second green and dies.
 
 ---
 
-After that it was just ‘Hit the ball, drag Elmer.
+That night, the guy gets home and tells his wife about it and she says, 
 
 ---
 
-Hit the ball, drag Elmer.’”  Well, my life these days feels exactly the same:  “Wake up in the morning, sing for a producer.
+“Oh my gosh, that’s horrible, what did you do?!”  
 
 ---
 
-Wake up in the morning, sing for a producer.”  And so far, there’s been nary a bite.
+And he says, “Yeah, it was awful.
 
 ---
 
-In other news, I heard that Cynthia Monroe left Arsenic and Old Lace last week.
+After that it was just ‘Hit the ball, drag Elmer. Hit the ball, drag Elmer.’”  
 
 ---
 
-It turns out she was – how can I put this delicately?
+Well, my life these days feels exactly the same:  
+
+---
+
+“Wake up in the morning, sing for a producer. Wake up in the morning, sing for a producer.”  
+
+---
+
+And so far, there’s been nary a bite.
+
+---
+
+In other news, I heard that Cynthia Monroe left _Arsenic and Old Lace_ last week.
+
+---
+
+It turns out she was—how can I put this delicately?
 
 ---
 
@@ -3472,8 +3686,21 @@ The truth is, I wish her well.
 We had a lot of good times together.
 
 ---
+There was one time we were at a cocktail party given by a producer
 
+---
 
+And there was a punch bowl. And we thought we were drinking fruit punch.
+
+---
+
+Turned out it was _filled with gin_. 
+
+---
+
+And we ended up literally removing our…
+
+---
 
 Any news on your front?
 
@@ -3524,7 +3751,11 @@ You know them now, and you know that they won’t take it very well.
 
 ---
 
-For what it’s worth, some of the other doctors here have received similar orders and a number of us are going over together.
+For what it’s worth, some of the other doctors here 
+
+---
+
+have received similar orders and a number of us are going over together.
 
 ---
 
@@ -3532,19 +3763,39 @@ We’ll be responsible for establishing an evacuation hospital near the line of 
 
 ---
 
-You would think that they’d send us to the Pacific since we’re already here on the West Coast, but the Army, in its wisdom, is sending us in the other direction.
+You would think that they’d send us to the Pacific 
 
 ---
 
-There’s been talk in the papers lately about opening up a second front in Europe, either in France or Belgium, and I have a feeling we’re going to be part of it.
+since we’re already here on the West Coast, but the Army, 
 
 ---
 
-However, there is a kind of silver lining:  they’re giving each of us a 5-day leave before we ship out.
+in its wisdom, is sending us in the other direction.
 
 ---
 
-I’ll be going to Coatesville, of course, to see Mom and Dad, but then I’d like to come to New York and see you.
+There’s been talk in the papers lately about opening up a second front in Europe, 
+
+---
+
+either in France or Belgium, and I have a feeling we’re going to be part of it.
+
+---
+
+However, there is a kind of silver lining:  
+
+---
+
+they’re giving each of us a 5-day leave before we ship out.
+
+---
+
+I’ll be going to Coatesville, of course, to see Mom and Dad, 
+
+---
+
+but then I’d like to come to New York and see you.
 
 ---
 
@@ -3733,7 +3984,11 @@ Have you heard of a musical called Hellzapoppin’?
 
 ---
 
-It’s been playing on Broadway for years, and now they’re sending a road company all over the country.
+It’s been playing on Broadway for years, 
+
+---
+
+and now they’re sending a road company all over the country.
 
 ---
 
@@ -3741,11 +3996,23 @@ I’m up for one of the best roles, and guess who the producers are?
 
 ---
 
-Howard Lindsay and Russell Crouse!  They’re the ones who liked my audition for Arsenic and Old Lace but chose Cynthia “the Ripper” Monroe instead.
+Howard Lindsay and Russell Crouse!  
 
 ---
 
-But the request to audition came straight from them, so I might have an honest-to-god shot this time.
+They’re the ones who liked my audition for Arsenic and Old Lace 
+
+---
+
+but chose Cynthia “the Ripper” Monroe instead.
+
+---
+
+But the request to audition came straight from them, 
+
+---
+
+so I might have an honest-to-god shot this time.
 
 ---
 
@@ -3757,11 +4024,19 @@ Dammit, I wish you were here so I could try out a couple of numbers on you.
 
 ---
 
-For the slow number, my short list includes I’ll Never Smile Again, It Had To Be You and White Christmas.
+For the slow number, my short list includes I’ll Never Smile Again, 
 
 ---
 
-For the up number it’s between Chattanooga Choo Choo, For Me and My Gal and Jeepers Creepers.
+It Had To Be You and White Christmas.
+
+---
+
+For the up number it’s between Chattanooga Choo Choo, For Me and My Gal 
+
+---
+
+and Jeepers Creepers.
 
 ---
 
@@ -3784,6 +4059,9 @@ Louise
 ## JACK:
  “Love?”
 
+---
+template: noise
+telegram beeping
 ---
 
 WESTERN UNION TELEGRAM DATED AUGUST 15, 1943.
@@ -3848,7 +4126,8 @@ How did it go?
 
 ---
 
-[Beat]
+template: noise
+Silence
 
 ---
 
@@ -3860,9 +4139,6 @@ Are you there?
 
 ---
 
-[Beat]
-
----
 
 Hey, I’m the one who’s supposed to be hard to reach.
 
@@ -3877,11 +4153,19 @@ Dear Jack,
 
 ---
 
-Oh my God, oh my God, oh my God, OH MY GOD!  I GOT THE PART!!  I’M IN A BROADWAY MUSICAL!!!  
+Oh my God, oh my God, oh my God, OH MY GOD!  I GOT THE PART!!  
 
 ---
 
-Okay, it’s the road company of a Broadway musical, but it’s a Broadway musical!  Thank you so much for the telegram.
+I’M IN A BROADWAY MUSICAL!!!  
+
+---
+
+Okay, it’s the road company of a Broadway musical, 
+
+---
+
+but it’s a Broadway musical!  Thank you so much for the telegram.
 
 
 ---
@@ -3899,7 +4183,11 @@ Meanwhile I have only one thing to say:  Oh my God, oh my God, oh my God, OH MY 
 ---
 
 ## JACK:
-Congratulations!  I told everybody at my table last night at dinner and we drank a toast to your Broadway debut.
+Congratulations!  I told everybody at my table last night at dinner 
+
+---
+
+and we drank a toast to your Broadway debut.
 
 ---
 
@@ -3916,7 +4204,7 @@ It’s a real double-whammy.
 
 ---
 
-I get to be in a Broadway show, and I get to see you on the …
+I get to be in a Broadway show, and I get to see you on the…
 
 ---
 
@@ -3932,12 +4220,13 @@ This could interfere with our date!  Holy Hannah.
 
 ---
 
-I’m not exactly sure when I leave, but I get the typed-up schedule on Monday and I’ll write to you immediately.
+I’m not exactly sure when I leave, but I get the typed-up schedule on Monday 
 
 ---
 
-[Pause]
+and I’ll write to you immediately.
 
+---
 ---
 
 Dear Jack,
@@ -3952,11 +4241,23 @@ Beginning October 3rd we start crisscrossing the country to do the show.
 
 ---
 
-On October 9th, our date night, we’ll be finishing up a week in Cincinnati, then we head straight to Cleveland for a week, then south to Charlotte and Nashville, and on it goes.
+On October 9th, our date night, we’ll be finishing up a week in Cincinnati, 
 
 ---
 
-I signed on for 20 weeks to begin with, and it’s renewable after that for another 20 if both parties agree.
+then we head straight to Cleveland for a week, then south to Charlotte and Nashville, 
+
+---
+
+and on it goes.
+
+---
+
+I signed on for 20 weeks to begin with, 
+
+---
+
+and it’s renewable after that for another 20 if both parties agree.
 
 ---
 
@@ -4009,19 +4310,35 @@ But this really is the chance of a lifetime and you should enjoy every second of
 
 ---
 
-I don’t know if you’ve noticed from our letters, but I’m not much of a reader or an intellectual.
+I don’t know if you’ve noticed from our letters, 
 
 ---
 
-Beginning in high school, for a lot of reasons, I felt that I should become a doctor and I focused on the sciences.
+but I’m not much of a reader or an intellectual.
 
 ---
 
-Having said that, I read a book about five years ago that really stuck with me, called My Early Life by Winston Churchill.
+Beginning in high school, for a lot of reasons, 
 
 ---
 
-I should backtrack a minute and say that Churchill is my greatest hero  aside from my parents.
+I felt that I should become a doctor and I focused on the sciences.
+
+---
+
+Having said that, I read a book about five years ago that really stuck with me, 
+
+---
+
+called My Early Life by Winston Churchill.
+
+---
+
+I should backtrack a minute and say that Churchill is my greatest hero  
+
+---
+
+aside from my parents.
 
 ---
 
@@ -4029,7 +4346,11 @@ One of the things that has impressed me most about him is his personal courage.
 
 ---
 
-In the Boer War, he rode his horse into battle fearlessly, without complaint and with a sense of duty.
+In the Boer War, he rode his horse into battle fearlessly,
+
+---
+
+ without complaint and with a sense of duty.
 
 ---
 
@@ -4037,7 +4358,11 @@ He was just like the boys I take care of these days.
 
 ---
 
-They’re aware of the danger, but they know what they have to do and why they’re doing it and just keep going.
+They’re aware of the danger, but they know what they have to do 
+
+---
+
+and why they’re doing it and just keep going.
 
 ---
 
@@ -4049,31 +4374,67 @@ Two months ago Churchill flew to Malta to meet with his officers and ground troo
 
 ---
 
-and the trip took over 20 hours in a B-17 that was filled with cargo and had only 4 seats in the hull.
+and the trip took over 20 hours in a B-24 
 
 ---
 
-He was accompanied by his physician, Lord Moran, and two of his advisors, and they ended up dodging enemy planes, 
+that was filled with cargo and had only 4 seats in the hull.
 
 ---
 
-flying through terrible weather that made the wings shake and lose some fittings, it was twenty degrees inside the hull and they had to sit on wooden benches.
+He was accompanied by his physician, Lord Moran, and two of his advisors, 
 
 ---
 
-Meanwhile, the noise of the engines was so intense that they couldn’t hear each other, even when shouting.
+and they ended up dodging enemy planes, 
 
 ---
 
-And here’s the thing:  this was the Prime Minister of England, who didn’t have to leave his office for a single instant if he didn’t want to, and no one would have thought one wit less of him.
+flying through terrible weather that made the wings shake and lose some fittings, 
 
 ---
 
-He did it out of a sense of duty to support the kids who were out there dying for their country, and I find this level of personal courage phenomenal.
+it was twenty degrees inside the hull and they had to sit on wooden benches.
 
 ---
 
-Anyway, the reason I mention Churchill is because what you’re going through – and why you must do the tour and live the life you’ve dreamed about – reminds me of a passage in the Churchill book.
+Meanwhile, the noise of the engines was so intense that they couldn’t hear each other, 
+
+---
+
+even when shouting.
+
+---
+
+And here’s the thing:  this was the Prime Minister of England, 
+
+---
+
+who didn’t have to leave his office for a single instant if he didn’t want to, 
+
+---
+
+and no one would have thought one wit less of him.
+
+---
+
+He did it out of a sense of duty to support the kids who were out there dying for their country, 
+
+---
+
+and I find this level of personal courage phenomenal.
+
+---
+
+Anyway, the reason I mention Churchill is because what you’re going through—
+
+---
+
+and why you must do the tour and live the life you’ve dreamed about—
+
+---
+
+reminds me of a passage in the Churchill book.
 
 ---
 
@@ -4085,11 +4446,19 @@ It opened like Aladdin’s Cave.
 
 ---
 
-When I look back upon the years when I was twenty to twenty-five years old, all the days were good and each day better than the other.
+When I look back upon the years when I was twenty to twenty-five years old, 
 
 ---
 
-Ups and downs, risks and journeys, but always the sense of motion, and the illusion of hope.
+all the days were good and each day better than the other.
+
+---
+
+Ups and downs, risks and journeys, but always the sense of motion, 
+
+---
+
+and the illusion of hope.
 
 ---
 
@@ -4105,7 +4474,11 @@ You have not an hour to lose.
 
 ---
 
-You will make all kinds of mistakes, that is certain; but as long as you are generous and true, and also fierce, you cannot hurt the world.
+You will make all kinds of mistakes, that is certain; 
+
+---
+
+but as long as you are generous and true, and also fierce, you cannot hurt the world.
 
 ---
 
@@ -4117,11 +4490,19 @@ Forgive me for being so bombastic, it’s not like me.
 
 ---
 
-One of the reasons I love Churchill so much is that I’ve always been shy by nature – I guess you can tell – and I wish I had Churchill’s courage and thrust.
+One of the reasons I love Churchill so much is that I’ve always been shy by nature—
 
 ---
 
-But I know that now is the time for you to thrust ahead on all that talent, and we’ll figure out the rest of it, I promise.
+I guess you can tell—and I wish I had Churchill’s courage and thrust.
+
+---
+
+But I know that now is the time for you to thrust ahead on all that talent, 
+
+---
+
+and we’ll figure out the rest of it, I promise.
 
 ---
 
@@ -4176,11 +4557,19 @@ What’s your itinerary after that in case my departure gets delayed for some re
 ---
 
 ## LOUISE:
-From Cincinnati we do one week each in Cleveland, Charlotte, Nashville, Atlanta, Des Moines, Orlando, Miami, Columbus, Chicago, Roanoke and Philadelphia.
+From Cincinnati we do one week each in Cleveland, Charlotte, Nashville, Atlanta, 
 
 ---
 
-Oops, wait a second, at the end we also hit Springfield, Huntsville and Richmond because we do some split weeks.
+Des Moines, Orlando, Miami, Columbus, Chicago, Roanoke and Philadelphia.
+
+---
+
+Oops, wait a second, at the end we also hit Springfield, Huntsville and Richmond 
+
+---
+
+because we do some split weeks.
 
 ---
 
@@ -4197,12 +4586,19 @@ We leave tomorrow.
 
 ---
 
-We’re being sent to Fort Sam Houston in San Antonio where apparently they prepare us for conditions in Europe.
+We’re being sent to Fort Sam Houston in San Antonio 
+
+---
+
+where apparently they prepare us for conditions in Europe.
 
 ---
 
 That should be interesting.
 
+---
+template: noise
+spritely jazz
 ---
 
 ## LOUISE:
@@ -4218,7 +4614,11 @@ We arrived in Cincinnati yesterday and we moved into the theater this morning.
 
 ---
 
-The sets are lavish, the costumes are glamorous, and I’m so terrified I keep throwing up.
+The sets are lavish, the costumes are glamorous, 
+
+---
+
+and I’m so terrified I keep throwing up.
 
 ---
 
@@ -4231,7 +4631,11 @@ Yes, I’m here, and it’s quite a change from the base at Medford.
 
 ---
 
-The doctors live in barracks and tents, and I drew the short straw and I’m in a tent.
+The doctors live in barracks and tents, and I drew the short straw 
+
+---
+
+and I’m in a tent.
 
 ---
 
@@ -4239,7 +4643,11 @@ Actually, it’s not so terrible.
 
 ---
 
-It’s about 8 feet square and it doesn’t hold much but my  locker and a cot, but do you want to hear something funny?
+It’s about 8 feet square and it doesn’t hold much but my  locker and a cot, 
+
+---
+
+but do you want to hear something funny?
 
 ---
 
@@ -4251,11 +4659,19 @@ What I don’t like is all the drilling.
 
 ---
 
-Yesterday we did a ten-mile hike with full packs, and then we had to run an obstacle course under barbed wire.
+Yesterday we did a ten-mile hike with full packs, 
 
 ---
 
-To top it all off, at the end of the day, we learned how to take a bath in our helmet liners.
+and then we had to run an obstacle course under barbed wire.
+
+---
+
+To top it all off, at the end of the day, 
+
+---
+
+we learned how to take a bath in our helmet liners.
 
 ---
 
@@ -4316,7 +4732,11 @@ I do, right after the other principals and before the chorus.
 
 ---
 
-My nightmare has been that the light would hit me and the place would suddenly go dead silent, but it didn’t happen.
+My nightmare has been that the light would hit me 
+
+---
+
+and the place would suddenly go dead silent, but it didn’t happen.
 
 ---
 
@@ -4343,7 +4763,11 @@ I’d love to see you in costume to sort of hold me over till I can see the real
 
 ---
 
-On the other hand, seeing you in costume might remind me of all the adoring men who must come to your dressing room night after night, bringing you flowers.
+On the other hand, seeing you in costume might remind me of all the adoring men 
+
+---
+
+who must come to your dressing room night after night, bringing you flowers.
 
 ---
 
@@ -4352,11 +4776,16 @@ Does that really happen?
 ---
 
 ## LOUISE:
-Now and then, but I can assure you, we’re so tired by the end of the show, it doesn’t make the least bit of difference.
+Now and then, but I can assure you, we’re so tired by the end of the show, 
 
 ---
 
-[Silence]
+it doesn’t make the least bit of difference.
+
+---
+
+template: noise
+Silence
 
 ---
 
@@ -4364,7 +4793,8 @@ Jack?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -4373,7 +4803,11 @@ Sorry, sorry, I couldn’t write.
 
 ---
 
-This time it was a 2-week training exercise in the middle of nowhere, teaching us about chemical warfare and how to move an entire hospital while under fire.
+This time it was a 2-week training exercise in the middle of nowhere, 
+
+---
+
+teaching us about chemical warfare and how to move an entire hospital while under fire.
 
 ---
 
@@ -4385,13 +4819,21 @@ Sorry, I just…it’s all so horrible.
 
 ---
 
-And here’s the thing:  I got my  marching orders this morning, and I leave for Europe at the end of the week.
+And here’s the thing:  I got my  marching orders this morning, 
+
+---
+
+and I leave for Europe at the end of the week.
 
 ---
 
 
 
-The only good news is that I’ll get to see my parents, since we head out through the port of New York.
+The only good news is that I’ll get to see my parents, 
+
+---
+
+since we head out through the port of New York.
 
 ---
 
@@ -4492,6 +4934,9 @@ Got it.
 Thanks.
 
 ---
+template: noise
+sweeping strings
+---
 
 ## LOUISE:
 October 31, 1943
@@ -4499,6 +4944,10 @@ October 31, 1943
 ---
 
 To Captain Jacob S Ludwig
+
+---
+
+
 121st Station Hospital, U.S. Army, Europe
 
 ---
@@ -4516,7 +4965,11 @@ Somehow, the witches and goblins around here aren’t very scary with their sout
 ---
 
 ## JACK:
-Happy Thanksgiving from a village in England, where they don’t eat turkey and never heard of Thanksgiving.
+Happy Thanksgiving from a village in England, 
+
+---
+
+where they don’t eat turkey and never heard of Thanksgiving.
 
 ---
 
@@ -4525,7 +4978,11 @@ Happy New Year from Loo’ville, Kentucky.
 
 ---
 
-The shopping here is a little limited, but I’m sending you a box of food that I understand is scarce in the Army.
+The shopping here is a little limited, 
+
+---
+
+but I’m sending you a box of food that I understand is scarce in the Army.
 
 ---
 
@@ -4547,26 +5004,15 @@ My pleasure.
 
 ---
 
-I tried to send you some lox to go with it, but it started to smell by the time I got it to the post office.
+I tried to send you some lox to go with it, 
 
 ---
 
-## JACK:
-Today’s course was in thoracic surgery to learn a new technique to remove shrapnel that has lodged near the patient’s heart.
+but it started to smell by the time I got it to the post office.
 
 ---
 
-Yes, it gives me pause to even write that sentence, but at least they’re preparing us.
-
----
-
-## LOUISE:
-What I hope they’re preparing you for is how to survive.
-
----
-
-## JACK:
-Me, too.
+So I left it on the counter and pretended it wasn't mine. 
 
 ---
 
@@ -4588,15 +5034,27 @@ A lot of us are living in villages with families that have a spare room to offer
 
 ---
 
-The families are all so grateful that the Americans  entered the war that they’d give us the shirts off their backs if we needed them.
+The families are all so grateful that the Americans  entered the war 
 
 ---
 
-I can’t tell you where I am, of course, but the countryside is gorgeous, with hedgerows that make the landscape into a sort of quilt-like pattern.
+that they’d give us the shirts off their backs if we needed them.
 
 ---
 
-But the German air raids happen every few days, and there are parts of our  village that are nothing but rubble.
+I can’t tell you where I am, of course, but the countryside is gorgeous, 
+
+---
+
+with hedgerows that make the landscape into a sort of quilt-like pattern.
+
+---
+
+But the German air raids happen every few days, and there are parts of our  village 
+
+---
+
+that are nothing but rubble.
 
 ---
 
@@ -4614,7 +5072,11 @@ He’s an absolutely terrific guy.
 
 ---
 
-He did his residency in pediatrics, then, like me, he was drafted and ended up in the Army.
+He did his residency in pediatrics, then, like me, 
+
+---
+
+he was drafted and ended up in the Army.
 
 ---
 
@@ -4622,7 +5084,11 @@ God knows why, but he wasn’t sent abroad.
 
 ---
 
-He’s still in Medford, but now he has a week’s leave and he’s going to be in Kansas City the same week your tour is there.
+He’s still in Medford, but now he has a week’s leave 
+
+---
+
+and he’s going to be in Kansas City the same week your tour is there.
 
 ---
 
@@ -4643,7 +5109,11 @@ As if I had time for a social life.
 
 ---
 
-We do eight shows a week, Tuesday through Sunday, with two matinees, and I know Dominican nuns who have more fun than we do.
+We do eight shows a week, Tuesday through Sunday, with two matinees, 
+
+---
+
+and I know Dominican nuns who have more fun than we do.
 
 ---
 
@@ -4655,7 +5125,11 @@ Her name’s Patsy and she’s in the chorus.
 
 ---
 
-She’s petite, gorgeous, and I guarantee by the end of the night, he’ll be the happiest pediatrician in the State of Kansas.
+She’s petite, gorgeous, and I guarantee by the end of the night, 
+
+---
+
+he’ll be the happiest pediatrician in the State of Kansas.
 
 ---
 
@@ -4692,7 +5166,11 @@ Meanwhile, I’ve got to thank you.
 
 ---
 
-I arrived here in Kansas City yesterday morning, and last night I had one of the best dates I ever had in my life.
+I arrived here in Kansas City yesterday morning, 
+
+---
+
+and last night I had one of the best dates I ever had in my life.
 
 ---
 
@@ -4720,11 +5198,19 @@ She seems to think you’re the bee’s knees, and while I don’t know what gav
 
 ---
 
-Also, if I were you, I’d get back here stateside as soon as possible because it’s clear to me that every guy here wants to jump her bones.
+Also, if I were you, I’d get back here stateside as soon as possible 
 
 ---
 
-I saw the show last night  and she took me backstage afterwards and one guy was actually drooling, I swear to God.
+because it’s clear to me that every guy here wants to jump her bones.
+
+---
+
+I saw the show last night  and she took me backstage afterwards 
+
+---
+
+and one guy was actually drooling, I swear to God.
 
 ---
 
@@ -4736,7 +5222,11 @@ Hey, don’t get me wrong.
 
 ---
 
-I don’t think she cares about any of them, but these guys don’t know that and they all want to sleep with her.
+I don’t think she cares about any of them, 
+
+---
+
+but these guys don’t know that and they all want to sleep with her.
 
 ---
 
@@ -4769,13 +5259,21 @@ Well, I met your friend Greg yesterday, and I have to say, he’s quite a guy.
 
 ---
 
-You were totally right about him, he’s sweet and funny, and my friend Patsy is crazy about him.
+You were totally right about him, he’s sweet and funny, 
+
+---
+
+and my friend Patsy is crazy about him.
 
 ---
 
 
 
-He came backstage right after the show, and he made a hit with everybody, especially the girls, as you can imagine.
+He came backstage right after the show, and he made a hit with everybody, 
+
+---
+
+especially the girls, as you can imagine.
 
 ---
 
@@ -4795,7 +5293,11 @@ What a gentleman.
 
 ---
 
-It turns out that he’ll be here for the rest of the week, and everyone’s hoping to see more of him.
+It turns out that he’ll be here for the rest of the week, 
+
+---
+
+and everyone’s hoping to see more of him.
 
 ---
 
@@ -4824,7 +5326,11 @@ Do not believe anything that Greg tells you.
 
 ---
 
-He’ll make up stories because he thinks they’re funny, and you never know when he’s telling the truth.
+He’ll make up stories because he thinks they’re funny, 
+
+---
+
+and you never know when he’s telling the truth.
 
 ---
 
@@ -4863,11 +5369,7 @@ He told me lots of stories about you that you never told me yourself.
 
 ---
 
-He says that they used to call you “Mad Dog Ludwig,” but I think he was kidding me.
-
----
-
-He did say, however, that all the nurses always made a fuss over you.
+He says that all the nurses always made a fuss over you.
 
 ---
 
@@ -4875,7 +5377,11 @@ Is that true?
 
 ---
 
-He said that one nurse in particular, named Ginnie something, had a real crush on you while you were in San Antonio.
+He said that one nurse in particular, named Ginnie something, 
+
+---
+
+had a real crush on you while you were in San Antonio.
 
 ---
 
@@ -4907,6 +5413,10 @@ We used to kid that we were neighbors and that we must have gone to the same foo
 ## LOUISE:
 Dear Jack,
 
+
+---
+
+
 I had dinner with Greg again, just a few minutes ago.
 
 ---
@@ -4919,7 +5429,11 @@ He told me that you and Ginnie were a “couple” in San Antonio.
 
 ---
 
-He says that…that Ginnie used to…spend the night sometimes in your tent, or at least till quite late, and that you and she were an “item” as he calls it.
+He says that…that Ginnie used to…spend the night sometimes in your tent, 
+
+---
+
+or at least till quite late, and that you and she were an “item” as he calls it.
 
 ---
 
@@ -4927,7 +5441,8 @@ Is any of this true?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
@@ -4952,10 +5467,6 @@ That’s all I want to say about it.
 
 ---
 
-[Long silence]
-
----
-
 ## LOUISE:
 Jack, how could you spoil everything?!
 
@@ -4967,10 +5478,6 @@ I was lonely.
 ---
 
 All of us are lonely every day of this goddam war.
-
----
-
-[Silence]
 
 ---
 
@@ -5012,11 +5519,15 @@ What if I’m not as great as all those actors and stars you spend your life wit
 
 ---
 
-What if we meet and you take one good look at me and say, “Wow.
+What if we meet and you take one good look at me and say, 
 
 ---
 
-He’s really nice, he could be my brother.”  Or what if you don’t even like me at all?
+“Wow. He’s really nice, he could be my brother.”  
+
+---
+
+Or what if you don’t even like me at all?
 
 ---
 
@@ -5028,7 +5539,11 @@ Nobody knows a God damn thing right now!
 
 ---
 
-So that’s what I was thinking when I got involved with Ginnie, and I’m sorry to have hurt your feelings.
+So that’s what I was thinking when I got involved with Ginnie, 
+
+---
+
+and I’m sorry to have hurt your feelings.
 
 ---
 
@@ -5071,17 +5586,10 @@ You deserve it.
 Jack
 
 ---
-
-[Silence]
-
 ---
-
-[Silence]
-
+template: noise
+JACK muttering
 ---
-
-[Silence]
-
 ---
 
 ## LOUISE:
@@ -5111,7 +5619,7 @@ Yes, funnily enough I do.
 
 ---
 
-Though I don’t think funnily is actually a word.
+Though I don’t think "funnily" is actually a word.
 
 ---
 
@@ -5148,7 +5656,11 @@ What are you doing in France?
 ---
 
 ## JACK:
-Well, there was this little thing called D-Day where we tried to establish a second front in Europe by landing a million men under German fire.
+Well, there was this little thing called D-Day 
+
+---
+
+where we tried to establish a second front in Europe by landing a million men under German fire.
 
 ---
 
@@ -5166,11 +5678,19 @@ Oh my God.
 ---
 
 ## JACK:
-The goal, by mid-August, is to have two million men over here, along with 40,000 aircraft and 120,000 tanks.
+The goal, by mid-August, is to have two million men over here, 
 
 ---
 
-They say it will be the largest fighting force in history, but I wonder if the buildup on the Eastern Front doesn’t beat it already.
+along with 40,000 aircraft and 120,000 tanks.
+
+---
+
+They say it will be the largest fighting force in history, 
+
+---
+
+but I wonder if the buildup on the Eastern Front doesn’t beat it already.
 
 ---
 
@@ -5229,7 +5749,11 @@ Okay, here’s my idea.
 
 ---
 
-I’ve decided to write to you every day, and if my hand falls off by the end of the war, it’s your fault.
+I’ve decided to write to you every day, 
+
+---
+
+and if my hand falls off by the end of the war, it’s your fault.
 
 ---
 
@@ -5241,7 +5765,11 @@ So I’m assuming it’s the same the other way.
 
 ---
 
-And I’ve been in touch with your parents and Betty quite a bit, and they tell me that they’re writing you also.
+And I’ve been in touch with your parents and Betty quite a bit, 
+
+---
+
+and they tell me that they’re writing you also.
 
 ---
 
@@ -5329,11 +5857,19 @@ It’s run by the Red Cross, did you know that?
 
 ---
 
-It’s meant to be a place where soldiers can get a square meal and some entertainment when they’re passing through town.
+It’s meant to be a place where soldiers can get a square meal
 
 ---
 
-Most of my time is spent waiting tables and working in the kitchen, but we also dance with any of the soldiers who want to.
+and some entertainment when they’re passing through town.
+
+---
+
+Most of my time is spent waiting tables and working in the kitchen,
+
+---
+
+ but we also dance with any of the soldiers who want to.
 
 ---
 
@@ -5349,7 +5885,11 @@ For example, we’re supposed to use the word “prosthetics” instead of “ar
 
 ---
 
-and we’re never supposed to say “it could have been worse.”  I guess because, for them, it couldn’t have been worse.
+and we’re never supposed to say “it could have been worse.”  
+
+---
+
+I guess because, for them, it couldn’t have been worse.
 
 ---
 
@@ -5378,8 +5918,8 @@ I want to go to Paris some day.
 Will you take me?
 
 ---
-
-[Silence]
+template: noise
+cheering
 
 ---
 
@@ -5387,32 +5927,38 @@ Jack?
 
 ---
 
-[Silence]
-
----
 
 ## JACK:
 We’re in the villages now and the people line the streets and cheer for us.
 
 ---
 
-[Sound of cheering]
-
----
 
 Not all, but most.
 
 ---
 
-They say they were treated like dogs by the Germans – in some cases made to clean their latrines, in other cases lined up and shot.
+They say they were treated like dogs by the Germans—
 
 ---
 
-At first I wondered how much of it was true, but I treat German Prisoners of War all the time and they confirm every word of it.
+in some cases made to clean their latrines, in other cases lined up and shot.
 
 ---
 
-They say they were forced into it by their superior officers – that, of course, is  the universal excuse.
+At first I wondered how much of it was true, but I treat German Prisoners of War all the time 
+
+---
+
+and they confirm every word of it.
+
+---
+
+They say they were forced into it by their superior officers—
+
+---
+
+that, of course, is  the universal excuse.
 
 ---
 
@@ -5420,7 +5966,11 @@ But none of them seem very cut up about it.
 
 ---
 
-They also admit to rounding up the Jews in the villages and sending them to the concentration camps.
+They also admit to rounding up the Jews in the villages
+
+---
+
+and sending them to the concentration camps.
 
 ---
 
@@ -5442,19 +5992,25 @@ Have you heard anything?
 ---
 
 ## JACK:
-That was the talk a few weeks ago, but the Germans have launched a new offensive to retake Belgium and the Netherlands.
+That was the talk a few weeks ago, but the Germans have launched a new offensive 
 
 ---
 
-They say that this time it really is the biggest land battle in history, and we just got orders to head that way to deal with the wounded.
+to retake Belgium and the Netherlands.
 
 ---
 
+They say that this time it really is the biggest land battle in history, 
+
+---
+
+and we just got orders to head that way to deal with the wounded.
+
+---
+template: noise
+machine gun fire
+---
 Last night our truck got lost in the dark, and we suddenly found ourselves under fire.
-
----
-
-[Machine guns]
 
 ---
 
@@ -5484,16 +6040,16 @@ But we have a red cross on the side of our truck that’s meant to protect us.
 Well I’m glad to hear that.
 
 ---
-
-[Silence]
+template: noise
+jeep passing by
 
 ---
 
 Jack?
 
 ---
-
-[Explosion]
+template: noise
+loud explosion
 
 ---
 
@@ -5503,7 +6059,8 @@ Jack, are you there?
 
 
 
-[Beat]
+template: noise
+Beat
 
 ---
 
@@ -5516,7 +6073,11 @@ Sorry.
 
 ---
 
-We’re getting thousands of patients from the battle up north, and there’s just no time left for any of us.
+We’re getting thousands of patients from the battle up north,
+
+---
+
+and there’s just no time left for any of us.
 
 ---
 
@@ -5533,7 +6094,11 @@ I know you’re there and I shouldn’t ask.
 
 ---
 
-I also know that letters from Europe are getting delayed a lot these days, but I get impatient.
+I also know that letters from Europe are getting delayed a lot these days, 
+
+---
+
+but I get impatient.
 
 ---
 
@@ -5554,7 +6119,8 @@ You amaze me.
 
 ---
 
-[Bombs exploding and sirens]
+template: noise
+Bombs exploding and sirens
 
 ---
 
@@ -5587,7 +6153,8 @@ No kidding.
 
 
 
-[Bomb explodes and gunfire]
+template: noise
+bomb explodes and gunfire
 
 ---
 
@@ -5604,8 +6171,21 @@ Though I’m not sure that the Red Cross emblem is all it’s cracked up to be.
 
 ---
 
-Yesterday, one of the hospitals was shelled so badly that some of the doctors had to carry the patients through an open field to get away.
+Yesterday, one of the hospitals was shelled so badly 
 
+---
+
+that some of the doctors had to carry the patients through an open field to get away.
+
+---
+template: noise
+very loud explosion, close by
+---
+template: noise
+high pitched ringing
+---
+template: noise
+heart beat
 ---
 
 Listen:  I know I shouldn’t be telling  you any of this.
@@ -5620,7 +6200,15 @@ You know that.
 
 ---
 
-I tell you because if something happens to me, I want to know that I’ve told somebody that there are thousands and thousands of us over here trying to prevent harm, not inflict it.
+I tell you because if something happens to me, 
+
+---
+
+I want to know that I’ve told somebody that there are thousands and thousands of us over here 
+
+---
+
+trying to prevent harm, not inflict it.
 
 ---
 
@@ -5648,7 +6236,15 @@ But do me a favor.
 
 ---
 
-I know this sounds really, really stupid – isn’t that what you said to me once about something:  “I know this sounds really, really stupid?” – 
+I know this sounds really, really stupid—
+
+---
+
+isn’t that what you said to me once about something:  
+
+---
+
+“I know this sounds really, really stupid?”—
 
 ---
 
@@ -5669,7 +6265,11 @@ All the time.
 
 ---
 
-But if you think for a minute you can get out of dancing with me with some lame excuse about serving in the U.S. Army, you’ve got another think coming.
+But if you think for a minute you can get out of dancing with me 
+
+---
+
+with some lame excuse about serving in the U.S. Army, you’ve got another think coming.
 
 ---
 
@@ -5690,26 +6290,33 @@ Got it.
 And do you know what else?
 
 ---
+template: noise
+loud explosion, gunfire, sirens
+---
 
 I’ve made a decision.
 
 ---
 
-I’m going to write to you twice a day, just to bore the pants off you, and I won’t even expect to hear anything in return.
+I’m going to write to you twice a day, just to bore the pants off you, 
+
+---
+
+and I won’t even expect to hear anything in return.
 
 ---
 
 Do we have a deal?
 
 ---
+template: noise
+jazz playing on a radio
+---
 
 Jack?
 
 ---
 
-[Silence]
-
----
 
 Hey, guess what.
 
@@ -5754,12 +6361,15 @@ Anyway, I liked the sound of it.
 What do you think?
 
 ---
+template: noise
+radio continues playing
+---
 
-[Silence]
+You know, stars come by all the time, 
 
 ---
 
-You know, stars come by all the time, and in the last two weeks we’ve had Dorothy Lamour and Bette Davis.
+and in the last two weeks we’ve had Dorothy Lamour and Bette Davis.
 
 ---
 
@@ -5782,9 +6392,14 @@ And Ann Miller and  Jimmy Stewart.
 Did you know that?
 
 ---
+template: music
 
-[Silence]
-
+---
+template: noise
+announcer on radio
+---
+template: noise
+radio clicks off
 ---
 
 Hey by the way.
@@ -5827,28 +6442,20 @@ What do you think?
 
 ---
 
-[Silence]
+template: noise
+Silence
 
 ---
 
 Jack?
 
 ---
-
-[Explosion]
-
+…Jack?
 ---
 
 JACK!
 
 ---
-
-[Silence]
-
----
-
-[Silence]
-
 ---
 
 April 10, 1945
@@ -5871,7 +6478,11 @@ Remember me?
 
 ---
 
-I’m the guy you met in Kansas City last year – the one who tried to get to know you better, even though I knew that you and Jack were an item.
+I’m the guy you met in Kansas City last year—
+
+---
+
+the one who tried to get to know you better, even though I knew that you and Jack were an item.
 
 ---
 
@@ -5889,15 +6500,23 @@ I’m writing to tell you that Jack is Missing in Action.
 
 
 
-I’m really sorry.
+(sobbing) I’m really sorry.
 
 ---
 
-I realized suddenly yesterday that you wouldn’t be informed officially because you’re not part of his family, 
+I realized suddenly yesterday that you wouldn’t be informed officially 
 
 ---
 
-and I figured that Jack’s mom and dad would be so upset that they might not get in touch with you for a while.
+because you’re not part of his family, 
+
+---
+
+and I figured that Jack’s mom and dad would be so upset 
+
+---
+
+that they might not get in touch with you for a while.
 
 ---
 
@@ -5909,22 +6528,8 @@ For what it’s worth, Jack was about the best guy I ever knew.
 
 ---
 
-A real friend.
-
+A real friend. 
 ---
-
-I betrayed his friendship, and believe me, I’m not proud of it.
-
----
-
-But it doesn’t change what he was.
-
----
-
-In fact, it enhances it.
-
----
-
 Anyway, I thought you should know, and I’m sorry to be the one to tell you.
 
 ---
@@ -5937,10 +6542,15 @@ Greg
 
 ---
 
-[Pause]
-
 ---
-
+template: noise
+sobbing
+---
+---
+template: noise
+sound of airplane passing above
+---
+---
 Dear Louise, It’s Jack.
 
 ---
@@ -5949,15 +6559,22 @@ You may not be getting this letter until weeks after I send it.
 
 ---
 
-I understand that letters have been delayed a lot lately, and it may be month or two late at this point.
+I understand that letters have been delayed a lot lately, 
 
 ---
 
-Anyway, I sure hope you get this, now that I’m stateside.
+and it may be month or two late at this point.
 
 ---
 
-I just spoke with my parents – I called them when I hit New York – 
+Anyway, I sure hope you get this, now that I’m back home.
+
+---
+template: noise
+happy sobbing
+---
+
+I just spoke with my parents—I called them when I hit New <br>York—
 
 ---
 
@@ -5981,23 +6598,39 @@ Half our platoon was lost somewhere behind enemy lines.
 
 
 
-Anyway, I’m in New York right now, but I lost your telephone number  and I don’t know how to get in touch with you except by letter.
+Anyway, I’m in New York right now, but I lost your telephone number  
 
 ---
 
-I hear there’s going to be a big celebration in Times Square for VE Day, and I was hoping maybe we could meet there.
+and I don’t know how to get in touch with you except by letter.
+
+---
+
+I hear there’s going to be a big celebration in Times Square for VE Day, 
+
+---
+
+and I was hoping maybe we could meet there.
 
 ---
 
 What do you think?
 
 ---
-
-[A crowd celebrates]
+template: noise
+large murmuring crowd
 
 ---
 
-Somebody told me there’s a fountain at the end of some building that comes to a point in a sort of triangle, and I’m going to go find it, and I’ll be there all day, hoping to see you.
+Somebody told me there’s a fountain at the end of some building 
+
+---
+
+that comes to a point in a sort of triangle, and I’m going to go find it, 
+
+---
+
+and I’ll be there all day, hoping to see you.
 
 ---
 
@@ -6042,10 +6675,6 @@ Jack.
 Louise.
 
 ---
-
-[The End]
-
-
 ---
 
 template: title
