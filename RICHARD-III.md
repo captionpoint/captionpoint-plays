@@ -107,6 +107,7 @@ Thank you and enjoy Richard the Third!
 ---
 ---
 
+
 [Music plays]
 
 ---
@@ -266,41 +267,49 @@ Richard!
 ---
 
 ## GLOUCESTER
-♪ It's good to be king and have your own way ♪
+♪ It's good to be king and have your own world ♪
 
 ---
 
-♪ Get a feeling of peace at the end of the day ♪
+♪ It helps to make friends, it's good to meet girls ♪
 
 ---
 
-♪ And when your bulldog barks and your canary sings ♪
+♪ A sweet little queen who can't run away ♪
 
 ---
 
-♪ You're out there with winners, it's good to be king ♪
+♪ It's good to be king, whatever it pays ♪
 
 ---
 
 ## COURT
-♪ Yeah you'll be king when dogs get wings ♪
-
-♪ Da, dada, dada, da, da ♪
-
----
-
-## GLOUCESTER
-♪ Can I help it if I... ♪
-
----
-
 
 
 ♪ Da, dada, dada, da, da ♪
 
-## GLOUCESTER
-♪ ...still dream time to time ♪
 
+
+## GLOUCESTER
+♪ Excuse me  if I... ♪
+
+---
+
+
+## COURT
+♪ Da, dada, dada, da, da ♪
+
+## GLOUCESTER
+♪ ...have some place in my mind ♪
+
+
+---
+
+## COURT
+♪ Da, dada, dada, da, da ♪
+
+## GLOUCESTER
+♪ ...where I go time to time ♪
 
 ---
 
