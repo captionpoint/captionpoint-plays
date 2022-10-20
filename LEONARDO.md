@@ -7,7 +7,7 @@ title: TITLE
 author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
+plum-purple: narrator
 stiletto-red: character-two
 st-tropaz-blue: character-three
 orange-zest: character-four
@@ -62,7 +62,16 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
-
+template: title
+.larger[
+  LEONARDO!
+  ]
+.smaller[
+  A Wonderful Show <br>about a Terrible Monster
+]<br>
+.smaller[
+  based on the books by Mo Williams
+  ]
 ---
 
 ---
@@ -242,6 +251,8 @@ Uh ohhh!
 
 [quirky music]
 
+---
+
 I’ve got these scarrrry monster horns... that are kind of small. 
 
 ---
@@ -326,6 +337,8 @@ No, they don’t seem to be very scared.
 
 [menacing music playing]
 
+---
+
 -Hey, Leonardo! Scare anyone lately? 
 
 ---
@@ -340,7 +353,7 @@ No, they don’t seem to be very scared.
 
 ---
 
--[unintelligible] 
+-Mah mah mah, mah mah mah mah! 
 
 ---
 
@@ -366,7 +379,7 @@ but that you’re terrible AT BEING a monster!
 
 ---
 
--[unintelligible] 
+-Mah mah mah, mah mah mah mah! 
 
 ---
 
@@ -758,6 +771,7 @@ NUHHH...!
 ---
 
 -ohhhh...
+---
 [quirky music]
 
 ---
@@ -823,7 +837,7 @@ I mean, monster under the bed? This is classic! Ha ha ha!
 
 ## NARRATOR: 
 So, Leonardo snuck up on the poor, unsuspecting boy... and the monster gave it all he had! 
-
+---
 [spooky music crescendoes]
 
 ---
@@ -948,7 +962,7 @@ And my tummy hurts...!
 
 ---
 
--[unintelligible] 
+-Mah mah mah, mah mah mah mah! 
 
 ---
 
@@ -1015,7 +1029,7 @@ then maybe I can be... a... wonderful friend?
 
 ---
 
--[unintelligible]?!?!
+-Mah mah mah, mah mah mah mah!?!?!
 
 -Yeah! Maybe I could be. 
 
@@ -1117,7 +1131,7 @@ Aha! I did it! I scared the audience! Somebody high-five me! Someone high-five m
 ---
 
 [menacing music and laughter]
-
+---
 -Well well well, look who’s got a new wonderful friend! 
 
 ---
@@ -1126,7 +1140,7 @@ Aha! I did it! I scared the audience! Somebody high-five me! Someone high-five m
 
 ---
 
--[unintelligible]
+-Mah mah mah, mah mah mah mah!
 
 ---
 
@@ -1142,7 +1156,7 @@ Aha! I did it! I scared the audience! Somebody high-five me! Someone high-five m
 
 -Aren’t... we wonderful friends? 
 
--[unintelligible]
+-Mah mah mah, mah mah mah mah!
 
 ---
 
@@ -1357,7 +1371,7 @@ And my tummy hurts!!!
 ---
 
 [music fades]
-
+---
 -[speaking] That’s why. 
 
 ---
@@ -1747,7 +1761,7 @@ Knows what you’re going through
 ## NARRATOR:
 They might be 
 A little bit like you. 
-
+---
 [mid-tempo music continues]
 
 ---
@@ -1798,7 +1812,7 @@ The two scaredy-cats were gone!
 ---
 
 [menacing music]
-
+---
 -Sam?
 
 -Kerry?
@@ -1897,7 +1911,7 @@ Why not be a wonderful friend?
 ---
 
 [music fades]
-
+---
 One more thing! 
 
 ---
@@ -1920,6 +1934,12 @@ Open Captioning for this performance was made possible by CaptionPoint.
 ---
 ---
 <style>
+  .remark-slide-content { font-size: 3.5rem;}
+.remark-slide-content p {padding-bottom: 2%;}
+.remark-slide-content > p:first-child::before {
+  height: 50px;
+}
+
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,
 h2.-to-{{plum-purple}},
