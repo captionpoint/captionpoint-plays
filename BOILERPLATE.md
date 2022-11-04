@@ -75,6 +75,12 @@ Open Captioning for this performance was made possible by CaptionPoint.
 ---
 ---
 <style>
+/* 2022 styles to match hackmd.io */
+.remark-slide-content { font-size: 3.5rem;}
+.remark-slide-content p {padding-bottom: 2%;}
+.remark-slide-content > p:first-child::before {
+  height: 50px;
+}
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,
 h2.-to-{{plum-purple}},
