@@ -6,11 +6,11 @@ BEGIN SETTINGS
 title: TITLE
 author: Author
 
-[//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-orange-zest: character-four
+[//]: # (color settings—replace “character-_____” with a character name)
+plum-purple: emilie
+stiletto-red: cass
+st-tropaz-blue: kelly
+orange-zest: jess
 lavender-purple: character-five
 green-goblin: character-six
 shocking-pink: character-seven
@@ -64,13 +64,13 @@ END SETTINGS
 ---
 
 ---
-
-PLAID AS HELL
-
+template: title
+PLAID AS HELL<br>
+by Cat McKay
 
 ---
 
-Hello, and welcome to Babes With Blades Theatre Company’s production of "Plaid as Hell"
+Hello, and welcome to Babes With Blades Theatre Company’s production of “Plaid as Hell”
 
 ---
 
@@ -110,12 +110,12 @@ If you enjoy the show, please tell your friends either face to face, or via soci
 
 ---
 
-Thank you and enjoy "Plaid as Hell".
+Thank you and enjoy “Plaid as Hell”.
 
 ---
 
 
-["Know Your Name" by Mary Lambert plays]
+[“Know Your Name” by Mary Lambert plays]
 
 ---
 
@@ -199,6 +199,8 @@ Who brought coconut water?
 
 ## JESS:	
 Um, —	
+--
+
 ## CASS:
 It’s not made with Satan’s cum, ok?
 
@@ -216,9 +218,9 @@ I like coconut water!
 
 ## EMILIE:	
 Keep your voice down. We are in Wisconsin.
+--
 
 ## CASS:
-
 Thank you, Kelly.
 
 ---
@@ -248,9 +250,7 @@ You have very strong feelings about coconut water for someone who loves eating a
 ---
 
 ## EMILIE:
-Hey, I’m a woman of many facets. Dimensions.
-
-Complexities. Whatever.
+Hey, I’m a woman of many facets. Dimensions. Complexities. Whatever.
 
 ---
 
@@ -1047,6 +1047,7 @@ We used to be roommates
 ## KELLY:
 Again, didn’t ask
 
+---
 
 [CASS is coming.]
 
@@ -1472,7 +1473,7 @@ No, I remember you making Alexa jokes when you two broke up.
 
 ---
 
-Like, "Alexa, set a reminder to find a new girlfriend."
+Like, “Alexa, set a reminder to find a new girlfriend.”
 
 ---
 
@@ -1608,7 +1609,7 @@ That’s still hitting on them at work.
 
 ---
 
-And also if they don't text then I can never go back to that store.
+And also if they don’t text then I can never go back to that store.
 
 ---
 
@@ -2297,7 +2298,7 @@ I just — I just want to be friends with Emilie, and I feel like I can never ju
 ---
 
 ## JESS:
-I’m sure, at some point, you’ll talk about it, and —
+I’m sure, at some point, you’ll talk about it, <br>and—
 
 ---
 
@@ -2320,7 +2321,7 @@ You know, maybe Monday?
 ---
 
 ## CASS:
-Yeah, hop in the car, be like, ‘Alright, here we go.'
+Yeah, hop in the car, be like, ‘Alright, here we go.’
 
 ---
 
@@ -2445,7 +2446,7 @@ Sure, Shrek roleplay this weekend, talk to Emilie on Monday.
 ---
 
 
-["Woman" by Kesha (ft.]
+[“Woman” by Kesha (ft.
 The Dap-Kings Horns) plays
 
 ---
@@ -2667,7 +2668,9 @@ I’m going to go get some beer.
 ---
 
 ## CASS:
-Okay
+Okay.<!-- .slide: data-fullscreen -->
+
+---
 
 Kelly and I can handle dinner if you want to take a nap.
 
@@ -3103,6 +3106,7 @@ Is Emilie back yet?
 ## KELLY:
 Not yet
 
+---
 
 [All phones buzz a loud emergency alert]
 
@@ -3118,10 +3122,9 @@ Ooh, we’re supposed to get some nasty weather tonight.
 
 ---
 
-Heavy thunderstorms in 3, 2
-
-… 
+Heavy thunderstorms in 3, 2…
 		
+---
 
 [Thunderclap]
 
@@ -3173,7 +3176,7 @@ Please tell me t here’s pizza in the oven because I am starving.
 
 
 
-["disco tits" by Tove Lo]
+[“disco tits” by Tove Lo]
 
 [Rolling thunder and rain]
 
@@ -4152,11 +4155,9 @@ I will do my best.
 What accent am I using? 
 
 ---
-
+template: overlap
 ## JESS:	
 Russian!
-
-
 
 ## EMILIE
 Japanese!
@@ -4361,7 +4362,7 @@ Teeth? Skull? Humerus? Is that a bone? I’m gonna go with teeth.
 Whose turn is it? Is it mine?
 
 ---
-
+template: overlap
 ## EMILIE:	
 Yes	
 
@@ -4545,7 +4546,7 @@ That drink was preparatory.
 
 ---
 
-I landed on “ten-second burlesque number."
+I landed on “ten-second burlesque number.”
 
 ---
 
@@ -4606,7 +4607,7 @@ What was what?
 ---
 
 ## KELLY:
-Nothig… I thought I heard
+Nothing… I thought I heard
 
 ---
 
@@ -4878,7 +4879,7 @@ What did your parents do?
 ---
 
 ## EMILIE:
-Uh, they were basically like, “No, you’re not."
+Uh, they were basically like, “No, you’re not.”
 
 ---
 
@@ -4928,8 +4929,8 @@ I take that as compliment
 
 ## EMILIE:
 Yeah, I meant it as one
-
-Anyway I got older, and they were kinda “Well, I guess that’s not going away."
+---
+Anyway I got older, and they were kinda “Well, I guess that’s not going away.”
 
 ---
 
@@ -5032,7 +5033,7 @@ I’m going to do my Cher impression
 
 ## KELLY:
 Ah! Classic
-
+---
 
 [CASS does her impression.]
 
@@ -5068,7 +5069,7 @@ I’ll start.
 
 ---
 
-So I went on a date with this guy who is an actor —-
+So I went on a date with this guy who is an <br>actor—
 
 ---
 
@@ -5145,7 +5146,7 @@ Not, ike, fun biting like a little lower lip bite, like full-on, teeth around th
 And he’s just jamming his face into my face.
 
 ---
-
+template: overlap
 ## CASS:	
 What	
 
@@ -5266,33 +5267,33 @@ Okay, well it is my turn, and KARAOKE SONG!!!
 
 ---
 
-
+template: song
 ## EMILIE
 I’ll tell ya what I want, what I really, really want
 
 ---
-
+template: song
 So tell me what you want, what you really, really want
 
 ---
-
+template: song
 I wanna, I wanna, I wanna, I wanna
 I really, really, really wanna zigazig ah
 
 ---
-
+template: song
 If you wanna be my lover, you gotta get with my friends
 
 ---
-
+template: song
 Make it last forever, friendship never ends
 
 ---
-
+template: song
 If you wanna be my lover, you have got to give
 
 ---
-
+template: song
 Taking is too easy, but that’s the way it is.
 
 ---
@@ -5378,7 +5379,7 @@ Sounds like —
 
 ## CASS:
 Okay
-
+---
 
 [Storm intensifies]
 
@@ -5607,19 +5608,19 @@ Shit, get ready to run.
 
 ## KELLY:
 Wait till we can see…
-
+---
 [Muffled grunting]
-
+---
 
 [Screams and shouts]
-
+---
 
 [Thunder]
-
+---
 
 [Screams and muffled grunts]
 
-
+---
 [Thunderstorm and rain]
 
 
@@ -5698,7 +5699,7 @@ How can you say that? She’s been missing for all of what, twenty minutes? Mayb
 ---
 
 ## EMILIE:
-Then wy hasn’t she come back?
+Then why hasn’t she come back?
 
 ---
 
@@ -5827,7 +5828,13 @@ I’m out in the middle of nowhere in a flood, and I just beat up a white guy.
 
 ---
 
-Why did I agree to come on this trip? What the fuck was I thinking? Why am I here? What am I doing with my life? I am twenty-nine, I am someone’s receptionist, the thing I love doesn’t make me any money … this is really just the latest and most fucked of a series of choices I have made that objectively make no sense to me at all —
+Why did I agree to come on this trip? What the fuck was I thinking? 
+---
+Why am I here? What am I doing with my life? 
+---
+I am twenty-nine, I am someone’s receptionist, the thing I love doesn’t make me any money … 
+---
+this is really just the latest and most fucked of a series of choices I have made that objectively make no sense to me at all —
 
 ---
 
@@ -6200,7 +6207,7 @@ I mean, if he’s talking to the cops, that would mean that they found him, they
 
 ---
 
-And what’s he going to tell them? “Officer, I was just wandering through the woods doing my murders when these three women beat the absolute shit out of me."
+And what’s he going to tell them? “Officer, I was just wandering through the woods doing my murders when these three women beat the absolute shit out of me.”
 
 ---
 
@@ -6550,7 +6557,7 @@ I’m jealous of you.
 
 ## JESS:
 I know
-
+---
 Cass loves you, you know.
 
 ---
@@ -6849,7 +6856,7 @@ What do you suggest we do?
 I’m gonna ask him where Cass is again, and if he doesn’t answer, I am going to punch him in the face
 
 ---
-
+template: overlap
 ## KELLY:	
 Noooo	
 
@@ -6863,7 +6870,7 @@ Absolutely not
 Why the fuck not?!
 
 ---
-
+template: overlap
 ## KELLY:	
 He’s already hurt?	
 
@@ -7235,7 +7242,7 @@ Let’s go find Cass.
 
 ## CASS:
 (Rasping, barely audible) Emilie? Jess? Kelly?
-
+---
 
 [Muffled grunt from bedroom]
 
@@ -7289,10 +7296,23 @@ Open Captioning for this performance was made possible by CaptionPoint.
 ---
 <style>
 /* 2022 styles to match hackmd.io */
+
 .remark-slide-content { font-size: 3.5rem;}
 .remark-slide-content p {padding-bottom: 2%;}
 .remark-slide-content > p:first-child::before {
   height: 50px;
+}
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+.remark-slide-content {
+  p:nth-last-child(n+4),
+  h2:nth-last-child(n+4){
+  opacity: 1;
+  }
+}
+span.dim {
+  opacity: 1;
 }
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,
