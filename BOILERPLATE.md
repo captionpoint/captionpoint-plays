@@ -65,10 +65,7 @@ END SETTINGS
 INSERT SCRIPT
 ---
 ---
-template: title
-class: smaller
-Open Captioning for this performance was made possible through loan of equipment from the Chicago Cultural Accessibility Consortium Accessible Equipment Loan Program and by CaptionPoint.
----
+
 template: title
 class: smaller
 Open Captioning for this performance was made possible by CaptionPoint.
@@ -80,6 +77,17 @@ Open Captioning for this performance was made possible by CaptionPoint.
 .remark-slide-content p {padding-bottom: 2%;}
 .remark-slide-content > p:first-child::before {
   height: 50px;
+}
+/* TURN OFF H2 FADE */
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+span.dim {
+  opacity: 1;
+}
+.remark-slide-content p:nth-last-child(n+4),
+.remark-slide-content h2:nth-last-child(n+4){
+  opacity: 1;
 }
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,

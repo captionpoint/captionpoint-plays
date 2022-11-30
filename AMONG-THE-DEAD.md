@@ -6233,7 +6233,6 @@ Open Captioning for this performance was made possible by CaptionPoint.
 .remark-slide-container.remark-fading .remark-slide-content {
   opacity: 1;
 }
-
 span.dim {
   opacity: 1;
 }
