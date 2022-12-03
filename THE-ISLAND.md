@@ -72,7 +72,6 @@ devised by Athol Fugard, <br>John Kani,
 and Winston Ntshona
 
 ---
-
 Before the show begins, please turn *off* your cell phone and all other electronic devices.
 
 ---
@@ -118,14 +117,6 @@ Before the show begins, please turn *off* your cell phone and all other electron
 ---
 
 [shrill whistle]
-
----
-
-[shoveling music]
-
----
-
-[two short whistles]
 
 ---
 
@@ -601,7 +592,7 @@ Come on! Three fingers…
 ---
 
 ## WINSTON:
-...one nail! Haai…haai…haii!
+...one nail! Haai…haai…haai!
 
 ---
 
@@ -614,9 +605,7 @@ Listen. Listen! Number 42 is practicing the Zulu War Dance.
 
 ---
 
-Down there they’re rehearsing their songs. It’s just in this moer cell that there’s always an argument. 
----
-Today you want to do it, tomorrow you don’t want to do it.
+Down there they’re rehearsing their songs. It’s just in this moer cell that there’s always an argument. Today you want to do it, tomorrow you don’t want to do it.
 
 ---
 
@@ -1627,14 +1616,7 @@ There you go again, more laughing! Shit, man, you want me to go out there tomorr
 
 ---
 
-You think I don’t know what will happen after that? Every time I run to the quarry… 
----
-
-’Nyah…nyah…Here comes Antigone…Help the poor lady! 
-
----
-
-…’Well, you can go to hell with your Antigone.
+You think I don’t know what will happen after that? Every time I run to the quarry… ’Nyah…nyah…Here comes Antigone…Help the poor lady! …’Well, you can go to hell with your Antigone.
 
 ---
 
@@ -2161,7 +2143,7 @@ Your lawyers have been working on your case.
 
 ---
 
-The sentence has been reduced from ten years, to three.
+The sentence has been reduced from ten years, to three.'
 
 ---
 
@@ -2748,7 +2730,7 @@ And your belongings! I almost forgot your belongings.
 ---
 
 ## JOHN:
-Hey, by the way! I was wearing a white shirt, block tie, grey flannel trousers…brown Crockett shoes…
+Hey, by the way! I was wearing a white shirt, black tie, grey flannel trousers…brown Crockett shoes…
 
 ---
 
@@ -3596,8 +3578,6 @@ I go now to my living death, because I honoured those things to which honour bel
 
 ---
 
----
-
 [shrill whistle]
 
 ---
@@ -3606,16 +3586,8 @@ I go now to my living death, because I honoured those things to which honour bel
 
 ---
 
----
 
 [music swells]
-
----
-
----
-
-
-
 
 ---
 ---
