@@ -74,7 +74,20 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
-INSERT SCRIPT
+
+## MATT:
+Unfortunately, there isn't currently a way to show overlapping dialogue using this online editor (hackmd.io)…
+
+--
+
+## MATT'S DOPPELGANGER:
+*However*, if you have a slide that you know you'll want overlapping text, I can give the slide the character focus treatment "in post" if you simply format your slides like this one.
+
+---
+
+## MATT:
+In other words, the first character speaks, press RETURN once or twice, and add the second speaker below, using the same formatting (## CHARACTER). I'll know that there is some overlapping chatter and will make it look nicer!
+
 ---
 ---
 

@@ -56,6 +56,8 @@
 
 $primary          : yellow;
 $secondary        : #999966;
+// $primary          : rgb(222, 222, 2);
+// $secondary        : darken($primary, 20%);
 $character        : $secondary;
 $light            : $primary;
 $dark             : black;
@@ -117,6 +119,10 @@ blockquote {
 // uncomment this to remove notes area
 .remark-notes-area,
 .remark-notes { display: none!important; }
+
+// for a show that used interpreters: 
+// .remark-slide-content.cyan h2 {color: darken(#00FFFF, 20%); }
+
 
 // uncomment this to remove notes area
 .remark-slides-area,
@@ -291,14 +297,6 @@ span.dim {
   h1 { font-size: $font-size-impact; }
 }
 
-.smaller {
-  font-size: 4rem;
-}
-
-.larger {
-  font-size: 6rem;
-}
-
 .sticky,
 .remark-preview-area .hljs-default {
   animation:signup-response 0;
@@ -372,9 +370,10 @@ h2[id*="nine-"] {
   }
 }
 .no-margin { &, & > p, & > pre, & > ul, & > ol { margin: 0; } }
-.no-padding { padding: 0; }
+.no-padding { &, & > p, & > pre, & > ul, & > ol { padding: 0; }}
 .space-left { padding-left: 1em; }
 .space-right { padding-right: 1em; }
+.space-bottom { margin-bottom: 1.5rem;}
 
 // Images
 .responsive > img { width: 100%; height: auto; };
@@ -390,6 +389,8 @@ h2[id*="nine-"] {
 .alt { color: $secondary; };
 .em { color: $secondary; };
 .thin { font-weight: 200; }
+.enormous {font-size: 6rem;}
+.gigantic {font-size: 4rem;}
 .huge { font-size: 2em; }
 .big { font-size: 1.5em; }
 .small { font-size: .8em; }
