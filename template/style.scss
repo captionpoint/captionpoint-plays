@@ -58,6 +58,10 @@ $primary          : yellow;
 $secondary        : #999966;
 // $primary          : rgb(222, 222, 2);
 // $secondary        : darken($primary, 20%);
+$purple           : rgb(224, 0, 224);
+$purple-header    : darken($purple, 20%);
+$blue             : #0080ff;
+$blue-header      : darken($blue, 20%);
 $character        : $secondary;
 $light            : $primary;
 $dark             : black;
@@ -350,8 +354,9 @@ h2[id*="nine-"] {
 }
 
 
-// Utilities
-// ---------------------------------------------------------------------------
+
+/*-----------------------------------------*/
+// UTILITIES
 
 // Positioning
 .side-layer {
@@ -426,6 +431,24 @@ h2[id*="nine-"] {
 }
 
 
+/*-----------------------------------------*/
+/* CENTERED CAPTIONS */
+/* .remark-slide {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.remark-slide-content {
+  display: block;
+  height: auto;
+}
+
+.remark-slide>.middle {
+  margin: auto;
+
+}
+ */
 
 
 // Fix PDF print with chrome
@@ -444,5 +467,20 @@ h2[id*="nine-"] {
     transform: scale(1) !important;
     top: 0 !important;
     left: 0 !important;
+  }
+}
+
+
+// ----------- Special Styles for the  Children's Theatre Show ---------------
+.remark-slide-content.blue, .remark-slide-content.blue h2 {
+  color: $blue;
+  h2 {
+    color: $blue-header;
+  }
+}
+.remark-slide-content.purple {
+  color: $purple;
+  h2 {
+    color: $purple-header;
   }
 }
