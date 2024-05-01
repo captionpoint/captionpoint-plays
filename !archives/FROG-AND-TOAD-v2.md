@@ -74,6 +74,7 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
+
 ---
 
 template: title
@@ -138,6 +139,13 @@ If you are sitting near either of the platforms in the corners,
 
 please keep your hands and feet in your seat, and do not touch the platform.
 
+---
+
+There are a few parts of the show that might be surprising or startling.
+
+---
+
+When something surprising is about to happen, an usher will hold a glowstick up in the air like this.
 
 ---
 
@@ -191,20 +199,21 @@ Alright, I think you're ready for the play!
 Please enjoy A Year with Frog and Toad!
 
 ---
+
 class: blue
 [whimsical piano music, birds chirping]
 
 ---
 
 
-
+class: blue
 [elegant piano]
 
 ---
 
 class: blue
 ## THREE BIRDS:
-WE FLEW SOUTH FOR THE WINTER <br>
+WE FLEW SOUTH FOR THE WINTER<br>
 SOUTH FOR THE WINTER
 
 ---
@@ -239,11 +248,12 @@ WHICH IS ANOTHER REASON WHY
 ---
 
 class: blue
-WE GO SOUTH FOR THE WINTER <br>
+WE GO SOUTH FOR THE WINTER<br>
 SOUTH FOR THE WINTER
 
 ---
 
+class: blue
 [lively piano]
 
 ---
@@ -261,7 +271,7 @@ BUT EVEN MORE IMPORTANT
 ---
 
 class: blue
-THERE'S A PLENTITUDE OF FOOD 
+THERE'S A PLENTITUDE OF FOOD mk,
 
 ---
 
@@ -279,6 +289,7 @@ EVEN THIRDS
 
 ## MANBIRD:
 WINTER'S FOR THE BIRDS
+
 
 ---
 
@@ -404,7 +415,7 @@ OF ALL THE CRITTERS IN THE NEIGHBORHOOD
 class: blue
 ## TOAD:
 [screams]
-I LOVE A LIVELY DIALOGUE <br>
+I LOVE A LIVELY DIALOGUE<br>
 WITH MY GOOD FRIEND FROG
 
 ---
@@ -416,7 +427,7 @@ CHATTING OVER COZY CUPS OF TEA
 ---
 
 class: blue
-HE KNOWS JUST THE THING TO SAY <br>
+HE KNOWS JUST THE THING TO SAY<br>
 THAT WILL BRIGHTEN UP MY DAY
 
 ---
@@ -427,7 +438,7 @@ OH FROG HAS BEEN A LOVELY FRIEND TO ME
 ---
 
 class: blue
-FROG IS VERY KINDLY IN HIS NATURE <br>
+FROG IS VERY KINDLY IN HIS NATURE<br>
 MAGNANIMOUS WHENEVER PLAYING HOST 
 
 ---
@@ -704,7 +715,7 @@ Yes.
 
 class: blue
 ## TOAD:
-FROG WOULD YOU PLEASE BE SO KIND <br>
+FROG WOULD YOU PLEASE BE SO KIND<br>
 AS TO HAND ME MY SHOE?
 
 ---
@@ -836,6 +847,7 @@ I haven't eaten since January!
 
 ---
 
+class: blue
 [music intensifies]
 
 ---
@@ -924,19 +936,19 @@ LET'S GREET THE SPRING
 
 ---
 
-class:purple
+class: purple
 ## ALL: 
 
 LET'S GREET THE SPRING 
 
 ---
 
-class:purple
+class: purple
 IT'S SPRING!
 
 ---
 
-class:purple
+class: purple
 SPRING!!
 
 ---
@@ -1037,8 +1049,8 @@ class: blue
 [lively piano music, splashing]
 
 ---
-class: blue
 
+class: blue
 [silence]
 
 ---
@@ -1148,6 +1160,7 @@ You can count on me!
 
 ---
 
+class: blue
 [plodding music]
 
 ---
@@ -1197,6 +1210,7 @@ I PUT THE GO IN ESCARGOT
 
 ---
 
+class: blue
 [plodding music]
 
 ---
@@ -1335,7 +1349,7 @@ I won't peek.
 
 class: blue
 ## TOAD:
-Whoo!! All right.
+Whoo!! 
 
 ---
 
@@ -1345,7 +1359,8 @@ class: blue
 ---
 
 class: blue
-It's safe to look now. I'm in the water.
+## TOAD:
+All right. It's safe to look now. I'm in the water.
 
 ---
 
@@ -1546,7 +1561,7 @@ GETTA LOADA TOAD CAN'T WAIT TO
 ---
 
 class: blue
-GETTA LOADA TOAD GETTA LOADA TOAD <br>
+GETTA LOADA TOAD GETTA LOADA TOAD<br>
 GETTA LOADA TOAD
 
 ---
@@ -1607,7 +1622,7 @@ TWO THINGS YOU CANNOT DISPUTE
 ---
 
 class: blue
-BAMBOO COMES FROM THE BAMBOO SHOOT <br>
+BAMBOO COMES FROM THE BAMBOO SHOOT<br>
 AND TOAD LOOKS FUNNY IN A BATHING SUIT
 
 ---
@@ -1696,7 +1711,7 @@ You know where rutabaga comes from dontcha?
 
 ---
 
-[silence]
+[thinking in silence]
 
 ---
 
@@ -1750,31 +1765,20 @@ We can't wait to...
 
 ---
 
-class: blue
-GETTA LOADA TOAD GETTA LOADA TOAD 
-
-
----
-
+class: purple
+GETTA LOADA TOAD GETTA LOADA TOAD<br>
 GETTA LOADA TOAD HE'S FUNNY
 
 ---
 
-class: blue
-GETTA LOADA TOAD GETTA LOADA TOAD 
-
----
-
+class: purple
+GETTA LOADA TOAD GETTA LOADA TOAD<br>
 GETTA LOADA TOAD SO FUNNY
 
 ---
 
-class: blue
-GETTA LOADA TOAD GETTA LOADA TOAD 
-
-
----
-
+class: purple
+GETTA LOADA TOAD GETTA LOADA TOAD<br>
 GETTA LOADA TOAD HE'S HILARIOUS
 
 ---
@@ -1790,25 +1794,21 @@ What's so funny about Toad?!
 
 ---
 
-class: blue
+class: purple
 ## TURTLE, LIZARD, MOUSE:
-TOAD LOOKS FUNNY IN A BATHING SUIT <br>
+TOAD LOOKS FUNNY IN A BATHING SUIT 
 
 
 
 ---
 
-
+class: purple
 TOAD LOOKS FUNNY IN A BATHING SUIT 
 
 ---
 
-class: blue
-IT'S A RIOT IT'S A HOOT
-
----
-
-
+class: purple
+IT'S A RIOT IT'S A HOOT<br>
 TOAD LOOKS FUNNY IN A BATHING SUIT
 
 ---
@@ -1849,22 +1849,14 @@ FOUR THINGS YOU CANNOT DISPUTE
 
 ---
 
-class: blue
-BAMBOO COMES FROM THE BAMBOO SHOOT
 
----
-
-
+BAMBOO COMES FROM THE BAMBOO SHOOT<br>
 RUTABAGA COMES FROM THE RUTABAGA ROOT
 
 ---
 
-class: blue
-BANANAS ARE THE FUNNIEST FRUIT
 
----
-
-
+BANANAS ARE THE FUNNIEST FRUIT<br>
 AND TOAD LOOKS FUNNY IN A BATHING SUIT
 
 ---
@@ -1880,22 +1872,25 @@ class: blue
 
 ---
 
+class: blue
 [triumphant music]
 
 ---
 
+class: purple
 ## TURTLE, LIZARD & MOUSE:
 GETTA LOADA TOAD!
 HE'S FUNNY
 
 ---
 
-class: blue
-GETTA LOADA TOAD <br>
+class: purple
+GETTA LOADA TOAD<br>
 SO FUNNY
 
 ---
 
+class: purple
 GETTA LOADA TOAD<br>
 HE'S HILARIOUS
 
@@ -1907,7 +1902,7 @@ Ain't it da troot?
 
 ---
 
-class: blue
+
 ## TURTLE, LIZARD & MOUSE:
 FIVE THINGS YOU CANNOT DISPUTE 
 
@@ -1934,7 +1929,7 @@ BANANAS ARE THE FUNNIEST FRUIT
 ---
 
 
-AND TOAD LOOKS FUNNY <br>
+AND TOAD LOOKS FUNNY<br>
 TOAD LOOKS FUNNY
 
 ---
@@ -1964,6 +1959,7 @@ TOAD LOOKS FUNNY IN A BATHING SUIT
 
 ---
 
+class: blue
 [plodding music]
 
 ---
@@ -2013,6 +2009,7 @@ FORWARD AND ONWARD I THRUST
 
 ---
 
+class: blue
 [music fades]
 
 ---
@@ -2322,6 +2319,7 @@ Well?
 
 ---
 
+class: blue
 [triumphant music]
 
 ---
@@ -2349,7 +2347,7 @@ AND PRIOR TO LUNCH
 ---
 
 ## FROG:
-CRISP BUT NOT OVERLY BRITTLE <br>
+CRISP BUT NOT OVERLY BRITTLE<br>
 JUST A SCINTILLA OF SPICE
 
 ---
@@ -2492,7 +2490,7 @@ THE NO MORE EATING COOKIES PLAN
 
 class: blue
 ## TOAD:
-IS IF WE WANT TO EAT MORE COOKIES <br>
+IS IF WE WANT TO EAT MORE COOKIES<br>
 THEN IN FACT WE CAN
 
 ---
@@ -2532,7 +2530,7 @@ COOKIES COOKIES COOKIES WE ADORE
 ---
 
 class: purple
-COOKIES COOKIES COOKIES COOKIES <br>
+COOKIES COOKIES COOKIES COOKIES<br>
 WE GO KOOKY EATING COOKIES 
 
 ---
@@ -2592,13 +2590,13 @@ class: blue
 class: blue
 ## LADYBIRD:
 Wait!
-SHOULD WE BE EATING THESE COOKIES <br>
+SHOULD WE BE EATING THESE COOKIES<br>
 OR SHOULD WE RATHER HAVE WORMS 
 
 ---
 
 class: blue
-WORMS ARE A PRODUCT OF NATURE <br>
+WORMS ARE A PRODUCT OF NATURE<br>
 TOAD DID THE BAKING 
 
 ---
@@ -2666,7 +2664,7 @@ WE'RE SO HAPPY EATING COOKIES COOKIES COOKIES COOKIES WE ADORE
 
 
 class:purple
-COOKIES COOKIES COOKIES COOKIES <br>
+COOKIES COOKIES COOKIES COOKIES<br>
 WE GO KOOKY EATING COOKIES
 
 ---
@@ -2695,7 +2693,6 @@ Cookies!!
 
 ---
 
-class: blue
 [gentle music]
 
 ---
@@ -2780,13 +2777,13 @@ I know! I will go and rake Frog's yard and he will have a wonderful surprise.
 ---
 
 ## FROG:
-Hello Toad..
+Hello, Toad.
 
 ---
 
 class: blue
 ## TOAD:
-Hello Frog 
+Hello, Frog.
 
 ---
 
@@ -2866,6 +2863,7 @@ This plan is working perfectly. Toad will never know who raked his yard.
 
 ---
 
+class: blue
 [jazzy piano]
 
 ---
@@ -2915,9 +2913,13 @@ HE'LL STROKE HIS CHIN
 
 ---
 
-class: purple
+
 ## FROG & TOAD:
 AND WONDER HOW HOW
+
+---
+
+class: purple
 Ow, my aching back!
 
 ---
@@ -2956,18 +2958,22 @@ ACHE ACHE ACHE
 
 ---
 
+class: blue
 [jazzy piano continues]
 
 ---
 
+class: blue
 [slide whistles squeak]
 
 ---
 
+class: blue
 [kazoos buzz]
 
 ---
 
+class: blue
 [jazzy music continues]
 
 ---
@@ -3038,7 +3044,15 @@ WAS IT YOU?
 
 ---
 
-NOT ME, WELL THEN WHO?
+class: blue
+NOT ME! 
+
+---
+
+WELL THEN WHO?
+
+---
+
 WHO RAKED UP THE MESS?
 
 ---
@@ -3054,7 +3068,7 @@ I HAVEN'T EVEN A CLUE.
 
 ---
 
-
+class: purple
 ## FROG & TOAD:
 HEE HEE HEE HEE<br>
 HA HA HO HO HO
@@ -3370,30 +3384,26 @@ IT ISN'T VERY GOOD
 
 class: blue
 ## MOTHER FROG:
- WHAT IS THE NEWS?
+WHAT IS THE NEWS?
 
----
 
-class: blue
 ## YOUNG FROG:
+WHAT IS THE NEWS?
+
+
+## MOTHER FROG, YOUNG FROG:
+FATHER FROG,
 WHAT IS THE NEWS?
 
 ---
 
-class: blue
-## MOTHER FROG, YOUNG FROG:
-FATHER FROG<br>
-WHAT IS THE NEWS
-
----
-
 ## FATHER FROG:
-WHEN WE SET OUT ON OUR PICNIC <br>
+WHEN WE SET OUT ON OUR PICNIC<br>
 THE SUN WAS ON THE RIGHT 
 
 ---
 
-AND I COULD TELL DIRECTION <br>
+AND I COULD TELL DIRECTION<br>
 BY THE ANGLE OF THE LIGHT
 
 ---
@@ -3489,9 +3499,7 @@ class: blue
 ## YOUNG FROG:
 Tell me what?
 
----
 
-class: blue
 ## TOAD:
 Tell him what?
 
@@ -3506,9 +3514,7 @@ class: blue
 ## YOUNG FROG:
 What lurks out there?
 
----
 
-class: blue
 ## TOAD:
 What lurks out there?
 
@@ -3558,11 +3564,7 @@ TERRIBLE
 
 class: blue
 ## MOTHER FROG:
-TERRIBLE
-
----
-
-class: blue
+TERRIBLE<br>
 ## TOAD AND YOUNG FROG:
 TERRIBLE?
 
@@ -3571,7 +3573,6 @@ TERRIBLE?
 ## FROG:
 TERRIBLE!
 
----
 
 ## FATHER FROG:
 LARGE AND TERRIBLE FROG! 
@@ -3587,19 +3588,19 @@ AND HIS WRINKLY SKIN IS PASTY GREEN
 
 ---
 
-HE EATS LITTLE BUNNIES <br>
+HE EATS LITTLE BUNNIES<br>
 DIPPED IN DIRT
 
 ---
 
-AND HE LIKES FROG CHILDREN <br>
+AND HE LIKES FROG CHILDREN<br>
 FOR DESSERT
 
 ---
 
 class: blue
 ## TOAD & YOUNG FROG:
-Oh my. 
+Oh my!
 
 ---
 
@@ -3836,7 +3837,7 @@ EVERY NIGHT
 
 ---
 
-SKIPPING HELPS TO GENERATE <br>
+SKIPPING HELPS TO GENERATE<br>
 AN APPETITE 
 
 ---
@@ -3849,12 +3850,12 @@ SOON I WILL BE SNACKING ON A LITTLE FROG
 
 ---
 
-SKIPPY SKIPPY SKIPPY SKIPPY <br>
+SKIPPY SKIPPY SKIPPY SKIPPY<br>
 EVERY NIGHT
 
 ---
 
-SKIPPING HELPS TO GENERATE <br>
+SKIPPING HELPS TO GENERATE<br>
 AN APPETITE
 
 ---
@@ -3925,7 +3926,7 @@ DO?
 ---
 
 ## FROG:
-HE STARTED COMING TOWARD ME <br>
+HE STARTED COMING TOWARD ME<br>
 BUT MY HAND WAS ON THE ROPE 
 
 ---
@@ -3947,20 +3948,20 @@ WHAT HAVE YOU DONE TO ME?
 ---
 
 ## FROG:
-AND THEN I RAN AND RAN AND RAN AND RAN <br>
+AND THEN I RAN AND RAN AND RAN AND RAN<br>
 AND RAN AND RAN AND RAN
 
 ---
 
 ## MOTHER FROG & FATHER FROG:
-HE RAN AND RAN AND RAN AND RAN <br>
+HE RAN AND RAN AND RAN AND RAN<br>
 AND RAN AND RAN AND RAN
 
 ---
 
 class: blue
 ## YOUNG FROG:
-I RAN AND RAN AND RAN AND THEN <br>
+I RAN AND RAN AND RAN AND THEN<br>
 I FOUND MY PARENTS IN A GLEN
 
 ---
@@ -4011,6 +4012,7 @@ BATH
 
 ---
 
+class: blue
 [lively piano music]
 
 ---
@@ -4019,6 +4021,7 @@ BATH
 
 ---
 
+class: blue
 [plodding music, wind howls]
 
 ---
@@ -4036,7 +4039,7 @@ A LETTER THAT WAS WRITTEN BY FROG
 ---
 
 class: blue
-BUT IN THE SNOWY FROSTING <br>
+BUT IN THE SNOWY FROSTING<br>
 RUNNING IS EXHAUSTING
 
 ---
@@ -4073,6 +4076,7 @@ class: blue
 
 ---
 
+class: blue
 [music fades]
 
 ---
@@ -4238,12 +4242,12 @@ class: blue
 
 ---
 
-Here we go.
+Here we go!
 
 ---
 
 ## FROG,TOAD:
-DOWN THE HILL WE ARE SLIDING <br>
+DOWN THE HILL WE ARE SLIDING<br>
 DOWN THE HILL GENTLY GLIDING
 
 ---
@@ -4280,7 +4284,7 @@ THIS IS RATHER PLEASANT, FROG
 ---
 
 ## FROG:
- I TOLD YOU!
+I TOLD YOU!
 
 ---
 
@@ -4300,26 +4304,25 @@ IT'S PLEASANT SLEDDING DOWN THE HILL
 
 ## FROG:
 
-NOW WE GO<br>
-WHERE IT'S STEEPER 
+NOW WE GO WHERE IT'S STEEPER<br>
+AND THE SNOW SOMEWHAT DEEPER
 
 ---
 
 
-AND THE SNOW 
-SOMEWHAT DEEPER <br>
+ 
 DOWN THE HILL
 
 ---
 
 class: blue
 ## TOAD:
-Is it safe Frog?
+Is it safe, Frog?
 
 ---
 
 ## FROG:
-Absolutely Toad.
+Absolutely, Toad.
 
 ---
 
@@ -4337,14 +4340,12 @@ DOWN THE HILL-
 class: blue
 ## TOAD:
 
-
-
 Ahhhhhhhh!
 
 ---
 
 class: blue
-MY THAT WAS INSPIRING <br>
+MY THAT WAS INSPIRING<br>
 RIDING THROUGH THE AIR 
 
 ---
@@ -4371,7 +4372,7 @@ Froooooog!!!
 
 ---
 
-
+class: blue
 ## MOLE 1:
 Frog what are you doing here?
 
@@ -4382,13 +4383,13 @@ Hello, Moles. I was thrown from the sled. And now Toad is going down the hill al
 
 ---
 
-
+class: blue
 ## MOLE 1:
 He'll be fine as long as he doesn't take the path on the left.
 
 ---
 
-
+class: blue
 Which path did he take?
 
 ---
@@ -4398,34 +4399,32 @@ The path on the left.
 
 ---
 
-class: blue
-## MOLES:
-DOWN THE HILL GOING FASTER
 
+## MOLES:
+DOWN THE HILL GOING FASTER<br>
+HEADING STRAIGHT FOR DISASTER
 
 ---
 
-class: blue
-HEADING STRAIGHT FOR DISASTER <br>
+ 
 DOWN THE HILL
 
 ---
 
-
+class: blue
 ## MOLE 1:
 WATCH THE TREES
 
 ---
 
 ## MOLE 2:
-WATCH THE BOULDERS
+WATCH THE BOULDERS<br>
+## MOLES:
+TUCK YOUR KNEES<br>
+TO YOUR SHOULDERS 
 
 ---
 
-class: blue
-## MOLES:
-TUCK YOUR KNEES
-TO YOUR SHOULDERS <br>
 DOWN THE HILL
 
 ---
@@ -4476,7 +4475,7 @@ DOWN THE HILL GOING FASTER
 
 ---
 
-DOWN THE HILL GOING FASTER <br>
+DOWN THE HILL GOING FASTER<br>
 DOWN THE HILL GOING FASTER
 
 ---
@@ -4487,6 +4486,7 @@ Whoooaaaahhhhh!
 
 ---
 
+class: blue
 [music ends abruptly]
 
 ---
@@ -4615,11 +4615,11 @@ THE...
 
 
 SNAIL WITH THE MAIL<br>
-I'LL DELIVER WITHOUT FAIL
+I'LL DELIVER WITHOUT FAIL-
 
 ---
 
-
+class: blue
 ## TOAD:
 Hello, Snail.
 
@@ -4637,7 +4637,7 @@ I have a letter for you.
 
 ---
 
-
+class: blue
 ## TOAD:
 You have?
 
@@ -4649,7 +4649,7 @@ Yes.
 
 ---
 
-
+class: blue
 ## TOAD:
 Thank you, Snail. 
 
@@ -4668,7 +4668,7 @@ You’re welcome. Well, I gotta run.
 class: blue
 ## TOAD:
 [clears throat] 
-"Dear Toad. 
+"Dear Toad, 
 
 ---
 
@@ -4702,6 +4702,7 @@ Your friend Frog."
 
 ---
 
+class: blue
 [melancholy music]
 
 ---
@@ -4755,6 +4756,7 @@ class: blue
 
 ---
 
+class: blue
 [snowball thuds]
 
 ---
@@ -4763,6 +4765,7 @@ class: blue
 
 ---
 
+class: blue
 [jazzy piano music]
 
 ---
@@ -4774,7 +4777,7 @@ I GUESS IT WAS BECAUSE
 ---
 
 
-I MAY HAVE BEEN ASHAMED <br>
+I MAY HAVE BEEN ASHAMED<br>
 OF WHO I AM OR WHAT I WAS
 
 ---
@@ -4821,7 +4824,7 @@ FIND ME A WITNESS
 ---
 
 
-BLOW ON A TRUMPET <br>
+BLOW ON A TRUMPET<br>
 RING A BELL
 
 ---
@@ -4838,13 +4841,13 @@ I'M COMING OUT OF MY SHELL
 ---
 
 
-THERE WERE SLUGS WHO DOUBTED ME <br>
+THERE WERE SLUGS WHO DOUBTED ME<br>
 I GUESS THAT MADE ME NERVOUS
 
 ---
 
 
-I NEVER EVEN DARED TO DREAM <br>
+I NEVER EVEN DARED TO DREAM<br>
 OF LIFE IN CIVIL SERVICE
 
 ---
@@ -4878,13 +4881,13 @@ LOOK AT ME NOW
 ---
 
 
-I'M COMING OUT OF MY- <br>
+I'M COMING OUT OF MY-<br>
 YES I DELIVER
 
 ---
 
 
-I'M COMING OUT OF MY- <br>
+I'M COMING OUT OF MY-<br>
 I'M GOING POSTAL
 
 ---
@@ -4894,13 +4897,19 @@ I'M COMING OUT OF MY SHELL!
 
 ---
 
+class: blue
 [gentle piano]
 
 ---
 
 class: blue
 ## TOAD:
-It's Christmas Eve. The fire is burning. The hot chocolate is ready. But Frog is late. 
+It's Christmas Eve. The fire is burning. 
+
+---
+
+class: blue
+The hot chocolate is ready. But Frog is late. 
 
 ---
 
@@ -4964,6 +4973,7 @@ Frog! Frog! Don't worry, I'll save you! I am prepared for any situation.
 
 ---
 
+class: blue
 [triumphant piano music]
 
 ---
@@ -4987,6 +4997,7 @@ THAT WILL CUT THROUGH THE NIGHT
 
 ---
 
+class: blue
 SO YOU WON'T BUMP YOUR<br>
 HEAD ON THE TREES 
 
@@ -5023,7 +5034,7 @@ WELL I AM BUT I'LL BE BRAVE
 ---
 
 class: blue
-FROG <br>
+FROG<br>
 FROG FROG FROG FROG 
 
 
@@ -5071,7 +5082,7 @@ BUT I'LL BE BRAVE
 
 class: blue
 
-FROG <br>
+FROG<br>
 FROG FROG FROG FROG
 
 ---
@@ -5287,6 +5298,7 @@ I was very worried...
 
 ---
 
+class: blue
 [gentle piano and bells]
 
 ---
@@ -5310,7 +5322,7 @@ ONLY WINTER'S COLD I FEAR
 ---
 
 class: blue
-BUT IT REALLY FEELS LIKE CHRISTMAS <br>
+BUT IT REALLY FEELS LIKE CHRISTMAS<br>
 NOW THAT YOU ARE HERE
 
 ---
@@ -5328,30 +5340,32 @@ SEE THE CLOCK LIT
 
 ---
 
+class: purple
 ## FROG & TOAD:
 NOW IT'S ALMOST CHRISTMAS DAY<br>
 MERRY ALMOST CHRISTMAS
 
 ---
 
-
+class: purple
 HAPPY THAT YOU'RE HERE<br>
 MERRY ALMOST CHRISTMAS
 
 ---
 
-
+class: purple
 HAPPY ALMOST NEW YEAR<br>
 CHRISTMAS FEELS LIKE CHRISTMAS 
 
 ---
 
-
+class: purple
 NOW THAT YOU ARE HERE<br>
 MERRY ALMOST CHRISTMAS 
 
 ---
 
+class: purple
 HAPPY ALMOST NEW YEAR
 
 ---
@@ -5395,6 +5409,7 @@ NOW IT'S ALMOST CHRISTMAS DAY
 
 ---
 
+class: blue
 ## OFFSTAGE CAROLERS:
 MERRY ALMOST CHRISTMAS<br>
 HAPPY THAT YOU'RE HERE
@@ -5403,15 +5418,20 @@ HAPPY THAT YOU'RE HERE
 
 class:purple
 ## ALL: 
-MERRY ALMOST CHRISTMAS <br>
+MERRY ALMOST CHRISTMAS<br>
 HAPPY ALMOST NEW YEAR
+
+---
+
+class:purple
+CHRISTMAS FEELS LIKE CHRISTMAS<br>
+NOW THAT WE ARE HERE
 
 ---
 
 class:purple
 MERRY ALMOST CHRISTMAS<br>
 HAPPY ALMOST NEW YEAR
-
 
 ---
 
@@ -5438,6 +5458,7 @@ Merry Christmas, Toad.
 
 ---
 
+class: blue
 ## CAROLERS:
 HAPPY ALMOST NEW YEAR
 
@@ -5460,7 +5481,7 @@ class: blue
 
 class: blue
 ## THREE BIRDS:
-WE FLEW SOUTH FOR THE WINTER <br>
+WE FLEW SOUTH FOR THE WINTER<br>
 SOUTH FOR THE WINTER
 
 ---
@@ -5544,7 +5565,7 @@ AND OF COURSE HE'S GOT THOSE WARTS
 ---
 
 
-<br>
+
 BUT TOAD HAS BEEN A LOVELY FRIEND TO ME 
 Let me tell you about Toad...
 
@@ -5570,7 +5591,7 @@ OF ALL THE CRITTERS IN THE NEIGHBORHOOD
 
 class: blue
 ## TOAD:
-I LOVE A LIVELY DIALOGUE <br>
+I LOVE A LIVELY DIALOGUE<br>
 WITH MY GOOD FRIEND FROG
 
 ---
@@ -5582,7 +5603,7 @@ CHATTING OVER COZY CUPS OF TEA
 ---
 
 class: blue
-HE KNOWS JUST THE THING TO SAY <br>
+HE KNOWS JUST THE THING TO SAY<br>
 THAT WILL BRIGHTEN UP MY DAY
 
 ---
@@ -5593,7 +5614,7 @@ OH FROG HAS BEEN A LOVELY FRIEND TO ME
 ---
 
 class: blue
-FROG IS VERY KINDLY IN HIS NATURE <br>
+FROG IS VERY KINDLY IN HIS NATURE<br>
 MAGNANIMOUS WHENEVER PLAYING HOST 
 
 ---
@@ -5689,10 +5710,15 @@ This is uncanny.
 
 ## FROG:
 Remarkable. Well, I'm getting ready to wake up, so you better get back to your own
-dream. I'll see you when you wake up.
+dream. 
 
 ---
 
+I'll see you when you wake up.
+
+---
+
+class: purple
 ## FROG, TOAD:
 Whoah!
 
@@ -5745,6 +5771,7 @@ class: blue
 
 ---
 
+class: blue
 [music ends]
 
 ---
@@ -5755,7 +5782,6 @@ class: blue
 
 
 Thank you for joining us today! Please stay seated until your school group is called.
-
 
 ---
 ---
@@ -5783,8 +5809,6 @@ span.dim {
 .remark-slide-content h2:nth-last-child(n+4){
   opacity: 1;
 }
-
-
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,
 h2.-to-{{plum-purple}},

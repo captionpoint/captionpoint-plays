@@ -1,7 +1,7 @@
 import re
 
 # Read in the Markdown file
-with open('ANTIGONE-scratch.md', 'r') as file:
+with open('S-PARADOX-SCRATCH.md', 'r') as file:
     text = file.read()
 
 # Split the text into sentences
