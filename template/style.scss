@@ -176,7 +176,7 @@ blockquote {
     &::before {
       content: '';
       display: block;
-      height: 76px;
+      // height: 76px;
     }
   }
 
@@ -244,16 +244,16 @@ blockquote {
 /*TEMPLATE: NOISE STYLES*/
 .noise {
   text-align: center;
-  p{
-    &:first-child::before,
-    &::before {
-    content: "[";
-    display: inline-block;
-  }
-    &::after {
-    content: "]";
-  }
-  }
+  // p{
+  //   &:first-child::before,
+  //   &::before {
+  //   content: "[";
+  //   display: inline-block;
+  // }
+  //   &::after {
+  //   content: "]";
+  // }
+  // }
 
 }
 /*-----------------------------------------*/
