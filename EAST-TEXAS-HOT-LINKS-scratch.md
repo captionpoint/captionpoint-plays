@@ -2142,7 +2142,11 @@ XL, this man just bought yo’ cheap ass a beer.
 ---
 
 ## COLUMBUS:
-Look at that. It don’t hurt me none. I eats myself three square meals a day. I got everything I need and most the things I want. I’m comfortable. 
+Look at that. It don’t hurt me none. I eats myself three square meals a day. 
+
+---
+
+I got everything I need and most the things I want. I’m comfortable. 
 
 
 ---
@@ -2154,7 +2158,19 @@ You don’t want no more’n what you got?
 ---
 
 ## COLUMBUS:
-Didn’t you just hear me, XL? Didn’t you just hear what I said? I got all I need. You know what a need is? That’s something you can’t live without. Something that if you don’t have it…you die. Air, water…you need food, you need shelter to protect you from the weather. Them’s the basics. Anything beyond that…if you read your Bible…is gluttony.
+Didn’t you just hear me, XL? Didn’t you just hear what I said? I got all I need. 
+
+---
+
+You know what a need is? That’s something you can’t live without. 
+
+---
+
+Something that if you don’t have it…you die. Air, water…you need food, you need shelter to protect you from the weather. 
+
+---
+
+Them’s the basics. Anything beyond that…if you read your Bible…is gluttony.
 
 
 ---
@@ -2202,7 +2218,11 @@ That’s why it ain’t no more to you than the little bit you is. You let Presc
 ---
 
 ## XL:
-I take care of myself. Y’all gon’ get enough of messin’ with me. I’m goin’ to the outhouse. Y’all want anything?
+I take care of myself. Y’all gon’ get enough of messin’ with me. 
+
+---
+
+I’m goin’ to the outhouse. Y’all want anything?
 
 
 ---
@@ -2220,7 +2240,11 @@ You take him to Rusk they’ll give you five pounds of sugar for ‘im if he’s
 ---
 
 ## ADOLPH:
-Yeah, let ‘em study his ass. XL might be some kind’a missing link. Maybe they can make some sense of ‘im. I cain’t.
+Yeah, let ‘em study his ass. XL might be some kind’a missing link. 
+
+---
+
+Maybe they can make some sense of ‘im. I cain’t.
 
 
 ---
@@ -2238,7 +2262,11 @@ Whether he know what he talkin’ ‘bout or not.
 ---
 
 ## CHARLESETTA:
-Been like that fo’ever. He ain’t gon’ change. We got to love his ig’nut ass, though. He one of God’s children. Blessed in other ways…
+Been like that fo’ever. He ain’t gon’ change. We got to love his ig’nut ass, though. 
+
+---
+
+He one of God’s children. Blessed in other ways…
 
 
 ---
@@ -2274,13 +2302,49 @@ You ain’t buyin’ nobody but ‘Lumbus a beer?
 ---
 
 ## XL:
-Ain’t nary one of the rest of you offered to buy me nothin’. Just ‘cause I’mo buy ‘Lumbus a beer don’t mean I want to spend all my money helpin’ the rest of y’all get drunk. That’s what’s wrong with the average colored man now. Take kindness for weakness. I don’t want to be read wrong by nobody. That’s just the way I am. I don’t know no other way to be. I ain’t sayin’ I won’t help somebody…if I can. I don’t mix business and pleasure. If I’mo help you…we can make us a deal…in like a business kinda situation. Shit, beyond that I ain’t got no kids, no wife, everybody in my family got families of they own. I ain’t responsible for nobody but mine own self. Been like that since I was thirteen. Talkin’ ‘bout chains. I ain’t got nothin’ to do with no kind of chains.
+Ain’t nary one of the rest of you offered to buy me nothin’. 
+
+---
+
+Just ‘cause I’mo buy ‘Lumbus a beer don’t mean I want to spend all my money helpin’ the rest of y’all get drunk. 
+
+---
+
+That’s what’s wrong with the average colored man now. Take kindness for weakness. 
+
+---
+
+I don’t want to be read wrong by nobody. That’s just the way I am. 
+
+---
+
+I don’t know no other way to be. I ain’t sayin’ I won’t help somebody…if I can. 
+
+---
+
+I don’t mix business and pleasure. If I’mo help you…we can make us a deal…in like a business kinda situation. 
+
+---
+
+Shit, beyond that I ain’t got no kids, no wife, everybody in my family got families of they own. 
+
+---
+
+I ain’t responsible for nobody but mine own self. Been like that since I was thirteen. 
+
+---
+
+Talkin’ ‘bout chains. I ain’t got nothin’ to do with no kind of chains.
 
 
 ---
 
 ## ADOLPH:
-Every livin’ thing got a part to play. Multiply and subtract is what it add up to. We are hunter and game for each other.
+Every livin’ thing got a part to play. Multiply and subtract is what it add up to. 
+
+---
+
+We are hunter and game for each other.
 
 
 ---
@@ -2304,7 +2368,11 @@ You don’t have to be in the woods to be a hunter.
 ---
 
 ## COLUMBUS:
-Never really had the heart or the stomach for huntin’. Not since I had to help Shirlene birth that first baby she had…
+Never really had the heart or the stomach for huntin’. 
+
+---
+
+Not since I had to help Shirlene birth that first baby she had…
 
 
 ---
@@ -2328,7 +2396,15 @@ Eight.
 ---
 
 ## COLUMBUS:
-If I hadn’t been there and done something that first time though…no tellin’ what would’a happened. That child came out from in between her legs into my hands. Mine was the first face he saw in his life. If I hadn’ta been there, he might not be livin’ today…
+If I hadn’t been there and done something that first time though…no tellin’ what would’a happened. 
+
+---
+
+That child came out from in between her legs into my hands. Mine was the first face he saw in his life. 
+
+---
+
+If I hadn’ta been there, he might not be livin’ today…
 
 
 ---
@@ -2340,7 +2416,11 @@ So he owe you…?
 ---
 
 ## COLUMBUS:
-Naw, XL. If anything, I feel like I owe him. I’m just sayin’ that seein’ that baby be born…gave me a different understandin’ ‘bout killin’. I ain’t so much as wrung a chicken’s neck since that day.
+Naw, XL. If anything, I feel like I owe him. I’m just sayin’ that seein’ that baby be born…gave me a different understandin’ ‘bout killin’. 
+
+---
+
+I ain’t so much as wrung a chicken’s neck since that day.
 
 
 ---
@@ -2394,7 +2474,11 @@ Everything livin’ on this earth can, and if it ain’t careful…hell even if 
 ---
 
 ## XL:
-If he don’t hunt them first. Me myself, I live to eat…not to get ate. I go huntin’…I take my rifle and my dogs…
+If he don’t hunt them first. Me myself, I live to eat…not to get ate. 
+
+---
+
+I go huntin’…I take my rifle and my dogs…
 
 
 ---
@@ -2406,7 +2490,23 @@ Myself…I hate to see something die.
 ---
 
 ## ADOLPH:
-You ain’t never been hungry. When I was in the war you had men tryin’ to kill one ‘nother over a damn grasshopper. Hungry! Hungry enough to need to see something die. That damn starvation is a son ‘ne gun. Starvation of the stomach…the soul…the spirit. When starvation starts to set in…sense steps aside. You stop thinkin’ ‘cause all you can do is feel. Since that shit blew up in my face…my eyes been on a diet of darkness. Truth be told tho’…I see better in the dark. Ain’t even got to close my eyes to dream.
+You ain’t never been hungry. When I was in the war you had men tryin’ to kill one ‘nother over a damn grasshopper. Hungry! 
+
+---
+
+Hungry enough to need to see something die. That damn starvation is a son ‘ne gun. 
+
+---
+
+Starvation of the stomach…the soul…the spirit. When starvation starts to set in…sense steps aside. 
+
+---
+
+You stop thinkin’ ‘cause all you can do is feel. Since that shit blew up in my face…my eyes been on a diet of darkness. 
+
+---
+
+Truth be told tho’…I see better in the dark. Ain’t even got to close my eyes to dream.
 
 
 ---
@@ -2418,13 +2518,41 @@ You remember what things and people look like tho’, don’t you?
 ---
 
 ## ADOLPH:
-Yeah, I got leftovers in my head. I remember what this place used to look like when Baby David ran it. I ‘member what most of you looked like back then. I ‘member what I looked like. I remember ‘bout every book I ever read, too. That’s why I wallow in what I’ve seen and learned. ‘Cause it’s all I get.
+Yeah, I got leftovers in my head. I remember what this place used to look like when Baby David ran it. 
+
+---
+
+I ‘member what most of you looked like back then. I ‘member what I looked like. 
+
+---
+
+I remember ‘bout every book I ever read, too. 
+
+---
+
+That’s why I wallow in what I’ve seen and learned. ‘Cause it’s all I get.
 
 
 ---
 
 ## COLUMBUS:
-Ain’t too much changed that much in the years you been blind. Cotton is still king. Niggahs still sing when they work it. This place been the same place for as long as I been here in it. I like that. Familiar. Everything got a place in time and in the world. If you lucky you know what that is before you die. I know the good and bad in this place…got my feet planted solid on the ground in this place…I know where to walk to keep from steppin’ in shit. 
+Ain’t too much changed that much in the years you been blind. Cotton is still king.
+
+---
+
+ Niggahs still sing when they work it. This place been the same place for as long as I been here in it. 
+
+---
+
+I like that. Familiar. 
+
+---
+
+Everything got a place in time and in the world. If you lucky you know what that is before you die. 
+
+---
+
+I know the good and bad in this place…got my feet planted solid on the ground in this place…I know where to walk to keep from steppin’ in shit. 
 
 
 ---
@@ -2466,7 +2594,11 @@ I ain’t studyin’ you, Roy Moore.
 ---
 
 ## ROY:
-I swear woman you treat me like a stepchild. Tomorrow ain’t promised to you now. You gon’ spend the rest of your life by yourself? You don’t have to. Don’t you want a man to take you places?
+I swear woman you treat me like a stepchild. Tomorrow ain’t promised to you now. 
+
+---
+
+You gon’ spend the rest of your life by yourself? You don’t have to. Don’t you want a man to take you places?
 
 
 ---
@@ -2556,7 +2688,11 @@ It’s the squeaky wheel that gets the oil, XL.
 ---
 
 ## CHARLESETTA:
-Don’t nobody mean you no harm, XL. We just don’t understand you sometimes. But we don’t think you understand you either. We know the good Lord. He ain’t through with you yet.
+Don’t nobody mean you no harm, XL. We just don’t understand you sometimes. 
+
+---
+
+But we don’t think you understand you either. We know the good Lord. He ain’t through with you yet.
 
 
 ---
@@ -2581,7 +2717,11 @@ Tell Roy Moore to quit pickin’ at me. Shut his mouth!
 ---
 
 ## ROY:
-You the one all the time got something stupid to say when you need to just keep your mouth closed. ‘Stead ‘o stickin’ your own foot in your mouth you do better to suck on one ‘a nem hog feet.
+You the one all the time got something stupid to say when you need to just keep your mouth closed. 
+
+---
+
+‘Stead ‘o stickin’ your own foot in your mouth you do better to suck on one ‘a nem hog feet.
 
 
 ---
@@ -2625,7 +2765,11 @@ Buckshot! Buck!
 ---
 
 ## BUCKSHOT:
-Let me have a cold one there, Miss Charlesetta, would you please. See if I can’t wash some of this damn dirt down. What y’all talkin’ ‘bout?
+Let me have a cold one there, Miss Charlesetta, would you please. 
+
+---
+
+See if I can’t wash some of this damn dirt down. What y’all talkin’ ‘bout?
 
 
 ---
@@ -2655,14 +2799,22 @@ In war…all is fair.
 ---
 
 ## ADOLPH:
-Man has a natural attraction to conflict. As in love. In the battle of the sexes…the human rat race…call it what you will…it ain’t much different…’cept maybe the weapons.
+Man has a natural attraction to conflict. As in love. 
+
+---
+
+In the battle of the sexes…the human rat race…call it what you will…it ain’t much different…’cept maybe the weapons.
 
 
 ---
 
 ## BUCKSHOT:
 Mamie got some weapons with her, hot damn.
-Woman ain’t cut her toenails since I married her. Miss Charlesetta, I thought you said you was gon’ get some newer records to put in…
+Woman ain’t cut her toenails since I married her. 
+
+---
+
+Miss Charlesetta, I thought you said you was gon’ get some newer records to put in…
 
 
 ---
@@ -2674,19 +2826,39 @@ It’s time to get rid of that old thing.
 ---
 
 ## CHARLESETTA:
-That jukebox is bought and paid for, thanks to my daddy. Don’t cost me no more’n one or two of these lights to run it. It’s days when that box with all them old records in it bring in more money than this bar. Now you don’t just get rid of a partner like that. As for the records…I ain’t been nowhere to get no new ones. Ain’t had the money.
+That jukebox is bought and paid for, thanks to my daddy. Don’t cost me no more’n one or two of these lights to run it. 
+
+---
+
+It’s days when that box with all them old records in it bring in more money than this bar. 
+
+---
+
+Now you don’t just get rid of a partner like that. As for the records…I ain’t been nowhere to get no new ones. 
+
+---
+
+Ain’t had the money.
 
 
 ---
 
 ## CHARLESETTA:
-Why you askin’ for new records…? You don’t play half the ones that’s in there now. You play that same damn gut bucket blues.
+Why you askin’ for new records…? You don’t play half the ones that’s in there now. 
+
+---
+
+You play that same damn gut bucket blues.
 
 
 ---
 
 ## BUCKSHOT:
-I didn’t say get rid of what’s in there. I mean add to it. A man ought to have a choice when he spends his money.
+I didn’t say get rid of what’s in there. I mean add to it. 
+
+---
+
+A man ought to have a choice when he spends his money.
 
 
 ---
@@ -2710,7 +2882,19 @@ Man, why in the hell would you want to be reminded of that?
 ---
 
 ## BUCKSHOT:
-‘Cause I won. They thought they was lockin’ me up but all they did was to free up my mind. I didn’t have anything I had to think about for three and a half years. My mind was free. It wasn’t ‘till I got out that I had things I had to think about. Like what I’m gon’ eat, or when.
+‘Cause I won. They thought they was lockin’ me up but all they did was to free up my mind. 
+
+---
+
+I didn’t have anything I had to think about for three and a half years. My mind was free. 
+
+---
+
+It wasn’t ‘till I got out that I had things I had to think about. 
+
+---
+
+Like what I’m gon’ eat, or when.
 
 
 ---
@@ -2722,7 +2906,19 @@ Wasn’t you supposed to be thinkin’ ‘bout the reason you was in there?
 ---
 
 ## BUCKSHOT:
-I knew why. I didn’t need to ruminate on that. I let my temper get the best of me. But by myself, behind that wall…in my head, I flew airplanes, and sailed big ass ships all over the world…kickin’ ass in every port. Daydreamin’. I got good at it. I like rememberin’ that. It calmed me down. This gut bucket blues squeezes all the anger out of my life. 
+I knew why. I didn’t need to ruminate on that. I let my temper get the best of me. 
+
+---
+
+But by myself, behind that wall…in my head, I flew airplanes, and sailed big ass ships all over the world…kickin’ ass in every port. 
+
+---
+
+Daydreamin’. I got good at it. I like rememberin’ that. 
+
+---
+
+It calmed me down. This gut bucket blues squeezes all the anger out of my life. 
 
 
 ---
@@ -2734,13 +2930,21 @@ Only your own will understand.
 ---
 
 ## BUCKSHOT:
-My temper ain’t as bad as it was befo’ I did my time. ‘Cause I was pretty much at war with myself when I went in. I had too much pride.
+My temper ain’t as bad as it was befo’ I did my time. 
+
+---
+
+‘Cause I was pretty much at war with myself when I went in. I had too much pride.
 
 
 ---
 
 ## ADOLPH:
-War is the child of pride. Proud people fight for whatever it is they proud of. Pride is the daughter of riches.
+War is the child of pride. Proud people fight for whatever it is they proud of. 
+
+---
+
+Pride is the daughter of riches.
 
 
 ---
@@ -2764,7 +2968,11 @@ XL, my mule got more sense than you.
 ---
 
 ## COLUMBUS:
-Bass ackwards! Boy, you use your brain and your mouth in the wrong order. I bet if you thought about some of the things before you said ‘em…we might not ever hear a peep out of you.
+Bass ackwards! Boy, you use your brain and your mouth in the wrong order. 
+
+---
+
+I bet if you thought about some of the things before you said ‘em…we might not ever hear a peep out of you.
 
 
 ---
@@ -2800,7 +3008,11 @@ Riches.
 ---
 
 ## XL:
-Right! And I axed, Richard who? You gon’ have to break that fancy talk down a little bit more for me Adolph. I can’t digest them big words. Go back to this pride foolishness…
+Right! And I axed, Richard who? You gon’ have to break that fancy talk down a little bit more for me Adolph. 
+
+---
+
+I can’t digest them big words. Go back to this pride foolishness…
 
 
 ---
@@ -2812,7 +3024,11 @@ Foolish pride.
 ---
 
 ## XL:
-Pride ain’t nobody. That’s just a word like ‘Lumbus say. How a word gon’ have a child? Some’a the shit you say don’t even make sense to you, Adolph.
+Pride ain’t nobody. That’s just a word like ‘Lumbus say. 
+
+---
+
+How a word gon’ have a child? Some’a the shit you say don’t even make sense to you, Adolph.
 
 
 ---
@@ -2824,13 +3040,25 @@ Charlesetta! What time you got?
 ---
 
 ## CHARLESETTA:
-It’s time you bought a watch. Who you waitin’ for, Delmus? Don’t be runnin’ in and out my place. If you gon’ wait out by the road…wait out there!
+It’s time you bought a watch. Who you waitin’ for, Delmus? 
+
+---
+
+Don’t be runnin’ in and out my place. If you gon’ wait out by the road…wait out there!
 
 
 ---
 
 ## DELMUS:
-I got business to see to. Tryin’ to see ‘bout some work. You think I plan to be breathin’ this same East Texas air forever you ain’ thinkin’ with your right mind. I’m goin’ places you can’t even dream about. 
+I got business to see to. Tryin’ to see ‘bout some work. 
+
+---
+
+You think I plan to be breathin’ this same East Texas air forever you ain’ thinkin’ with your right mind. 
+
+---
+
+I’m goin’ places you can’t even dream about. 
 
 
 ---
@@ -2866,7 +3094,11 @@ Who you waitin’ on, Delmus? They know you in here if you ain’t out there…i
 ---
 
 ## DELMUS:
-They don’t know me. XL, Mr. Ebert left me a note at the house ‘bout workin’ wit’ him. I want to thank you for puttin’ a word in for me.
+They don’t know me. XL, Mr. Ebert left me a note at the house ‘bout workin’ wit’ him. 
+
+---
+
+I want to thank you for puttin’ a word in for me.
 
 
 ---
@@ -2938,7 +3170,11 @@ Ever since his mama ran off with that musician.
 ---
 
 ## COLUMBUS:
-All his life. And I’ll tell you what caused it. Readin’ them damn funny books when he was growin’ up. Delmus used to live in them damn things. 
+All his life. And I’ll tell you what caused it. Readin’ them damn funny books when he was growin’ up. 
+
+---
+
+Delmus used to live in them damn things. 
 
 
 ---
@@ -2968,13 +3204,21 @@ Grapeland? Who?!
 ---
 
 ## ROY:
-Hot damn, if you don’t sound like you jealous there, girl! I’mo have to write that down with my red Crayola. I ain’t never heard you turn a word for nobody like that.
+Hot damn, if you don’t sound like you jealous there, girl! 
+
+---
+
+I’mo have to write that down with my red Crayola. I ain’t never heard you turn a word for nobody like that.
 
 
 ---
 
 ## CHARLESETTA:
-I like all you knuckleheads. I wouldn’t marry none of you, Roy Moore. I don’t like to see you cuttin’ and eatin’ away at each other. We got to help each other live in this world.
+I like all you knuckleheads. I wouldn’t marry none of you, Roy Moore. 
+
+---
+
+I don’t like to see you cuttin’ and eatin’ away at each other. We got to help each other live in this world.
 
 
 ---
@@ -2998,7 +3242,11 @@ Not me.
 ---
 
 ## COLUMBUS:
-Uh-huh. That boy, Delmus, didn’t grow up in the real world. All that make like shit in them funny books ruint his mind.
+Uh-huh. That boy, Delmus, didn’t grow up in the real world. 
+
+---
+
+All that make like shit in them funny books ruint his mind.
 
 
 ---
@@ -3058,8 +3306,20 @@ If you can learn to read and feed yourself knowledge…eat steak, son…
 ---
 
 ## BUCKSHOT:
-Oh yeah! Glad you said that. Roy Moore! Mamie told me to tell you she got a pot of chitlins on the fire and they be ready ‘bout the time you come through this evenin’.
-That shit ain’t funny. This boy is hell on a pot of wrinkles. He sat up in my kitchen one day last winter and inhaled ‘bout fo’ pounds in a half hour.
+Oh yeah! Glad you said that. Roy Moore! 
+
+---
+
+Mamie told me to tell you she got a pot of chitlins on the fire and they be ready ‘bout the time you come through this evenin’.
+
+
+---
+
+That shit ain’t funny. This boy is hell on a pot of wrinkles. 
+
+---
+
+He sat up in my kitchen one day last winter and inhaled ‘bout fo’ pounds in a half hour.
 
 
 ---
@@ -3071,7 +3331,15 @@ Damn, Roy, did you taste ‘em? Sound like you need to start raisin’ hogs!
 ---
 
 ## BUCKSHOT:
-Ain’t nothin’ wrong ‘bout chitlins. You wash ‘em real good. I can’t stand the smell of ‘em to clean ‘em. I eats ‘em though. Miss Charlesetta, gi’ that boy there a beer. I’ll pay for it. You old enough ain’t you there, Young Delmus?
+Ain’t nothin’ wrong ‘bout chitlins. You wash ‘em real good. 
+
+---
+
+I can’t stand the smell of ‘em to clean ‘em. I eats ‘em though. Miss Charlesetta, gi’ that boy there a beer. 
+
+---
+
+I’ll pay for it. You old enough ain’t you there, Young Delmus?
 
 
 ---
@@ -3107,7 +3375,19 @@ Boochie Reed! Come on over here and look in my hand and tell me when I’mo stri
 ---
 
 ## BOOCHIE:
-I don’t need to look into your hand to tell you the answer to that is never. You got to own some land before you can find oil in it. You ain’t got enough land to bury you in if you drop dead today, or somebody bust a cap off in your skinny little dip stick lookin’ ass. Don’t play with me! Not today.
+I don’t need to look into your hand to tell you the answer to that is never. 
+
+---
+
+You got to own some land before you can find oil in it. 
+
+---
+
+You ain’t got enough land to bury you in if you drop dead today, or somebody bust a cap off in your skinny little dip stick lookin’ ass. 
+
+---
+
+Don’t play with me! Not today.
 
 
 ---
@@ -3137,7 +3417,43 @@ What’s the matter, Boochie? Them boys up on the road musta put a stompin’ on
 ---
 
 ## BOOCHIE:
-I lost more sleep than money. Them young brothers don’t’ know nothin’ ‘bout gamblin’…as a lifestyle. They didn’t break me. Ain’t a card game back up here in these woods that can do that. Fifteen hundred dollars is just fifteen hundred dollars. I had broke all them before midnight, and was reachin’ for my hat to go when they started talkin’ ‘bout how I ought to give them a chance to win they little money back and flashin’ they pistols and carryin’ on. I wanted to tell ‘em everybody got a gun, but I just sat on back down. ‘Cause I had drove down there by myself and it felt like my pistol would’a been the only one in the room not pointin’ at me if anything jumped off. And it woudn’ta been worth my goin’ to jail for killin’ that many people in the same family, on the same night, in the same room. Wasn’t but three hundred of it my money no how. I just paid my way outta there by lettin’ ‘em win back they little piece of change. And even then it took ‘em to sun up this mornin’. I’ll catch up with ‘em again.
+I lost more sleep than money. Them young brothers don’t’ know nothin’ ‘bout gamblin’…as a lifestyle. 
+
+---
+
+They didn’t break me. Ain’t a card game back up here in these woods that can do that. 
+
+---
+
+Fifteen hundred dollars is just fifteen hundred dollars. 
+
+---
+
+I had broke all them before midnight, and was reachin’ for my hat to go when they started talkin’ ‘bout how I ought to give them a chance to win they little money back 
+
+---
+
+and flashin’ they pistols and carryin’ on. 
+
+---
+
+I wanted to tell ‘em everybody got a gun, but I just sat on back down. 
+
+---
+
+‘Cause I had drove down there by myself and it felt like my pistol would’a been the only one in the room not pointin’ at me if anything jumped off. 
+
+---
+
+And it woudn’ta been worth my goin’ to jail for killin’ that many people in the same family, on the same night, in the same room. 
+
+---
+
+Wasn’t but three hundred of it my money no how. I just paid my way outta there by lettin’ ‘em win back they little piece of change. 
+
+---
+
+And even then it took ‘em to sun up this mornin’. I’ll catch up with ‘em again.
 
 
 ---
@@ -3179,13 +3495,25 @@ You deserve better than that.
 ---
 
 ## CHARLESETTA:
-I agree with you on that. How’s Aunt Clara, Uncle Boochie? I know I need to get over there and sit with her. When Daddy took sick she was here everyday seein’ after y’all’s brother.
+I agree with you on that. How’s Aunt Clara, Uncle Boochie? I know I need to get over there and sit with her. 
+
+---
+
+When Daddy took sick she was here everyday seein’ after y’all’s brother.
 
 
 ---
 
 ## BOOCHIE:
-She can’t sit still. Her and Deacon was out in the yard when I come through this mornin’. He was fussin’ with her and threatenin’ to leave her before she drive him to drinkin’. He can’t keep her in the bed ‘less he tie her down.
+She can’t sit still. Her and Deacon was out in the yard when I come through this mornin’. 
+
+---
+
+He was fussin’ with her and threatenin’ to leave her before she drive him to drinkin’. 
+
+---
+
+He can’t keep her in the bed ‘less he tie her down.
 
 
 ---
@@ -3197,7 +3525,15 @@ I looked in on her last week myself. Just to see. We had a nice talk.
 ---
 
 ## BOOCHIE:
-I bet you did. She was out in the yard this mornin’ with a stick in one hand and a Bible in the other tryin’ to catch herself a chicken. Preachin’ at ‘em…chasin’ and callin’ ‘em sinners and heathens. Said she was gon’ fry some chicken to give to the dawg.
+I bet you did. She was out in the yard this mornin’ with a stick in one hand and a Bible in the other tryin’ to catch herself a chicken. 
+
+---
+
+Preachin’ at ‘em…chasin’ and callin’ ‘em sinners and heathens. 
+
+---
+
+Said she was gon’ fry some chicken to give to the dawg.
 
 
 ---
@@ -3209,13 +3545,29 @@ She gon’ crazy?
 ---
 
 ## BOOCHIE:
-Nawh. Said the dawg axed her to fry him some chicken and she didn’t blink a eye. That ain’t crazy. I call it shinin’. Folks tend to shine they brightest just before they go.
+Nawh. Said the dawg axed her to fry him some chicken and she didn’t blink a eye. 
+
+---
+
+That ain’t crazy. I call it shinin’. Folks tend to shine they brightest just before they go.
 
 
 ---
 
 ## CHARLESETTA:
-Yes they do. Daddy didn’t make much sense sometime, neither. Towards the end there…mixin’ up the past with whatever…he was talkin’ bout. If he told me how to set a “good fire” in that pit once, he did it every half hour…and I ain’t set a fire in that pit since he died. He run through every customer he ever had. I couldn’t tell sometimes if he was talkin’ to me or thinkin’ out loud to hisself…you know what I mean?
+Yes they do. Daddy didn’t make much sense sometime, neither. Towards the end there…mixin’ up the past with whatever…he was talkin’ bout. 
+
+---
+
+If he told me how to set a “good fire” in that pit once, he did it every half hour…and I ain’t set a fire in that pit since he died. 
+
+---
+
+He run through every customer he ever had. 
+
+---
+
+I couldn’t tell sometimes if he was talkin’ to me or thinkin’ out loud to hisself…you know what I mean?
 
 
 ---
@@ -3269,13 +3621,21 @@ You gon’ get fat.
 ---
 
 ## XL:
-I can’t get fat. White doctor say my metabolism too fast. I can eat anything I want…as much of it as I want and still stay slender.
+I can’t get fat. White doctor say my metabolism too fast. 
+
+---
+
+I can eat anything I want…as much of it as I want and still stay slender.
 
 
 ---
 
 ## CHARLESETTA:
-Shut up, XL. You the same way with food you is with money. Don’t neither one of ‘em stay with you long enough to do you any good. You turn my stomach talkin’ ‘bout how skinny your fat ass is.
+Shut up, XL. You the same way with food you is with money. Don’t neither one of ‘em stay with you long enough to do you any good. 
+
+---
+
+You turn my stomach talkin’ ‘bout how skinny your fat ass is.
 
 
 ---
@@ -3293,7 +3653,11 @@ Buy me a beer sometime.
 ---
 
 ## DELMUS:
-I can do that this evenin’. You better catch me while you can. ‘Cause pretty soon gon’ come the day y’all have to get on the highway you want to see me.
+I can do that this evenin’. You better catch me while you can. 
+
+---
+
+‘Cause pretty soon gon’ come the day y’all have to get on the highway you want to see me.
 
 
 ---
@@ -3305,7 +3669,15 @@ What highway you gettin’ on? You gon’ leave your Grandma by herself?
 ---
 
 ## DELMUS:
-She be alright. Them people from church do more for her than I do anyhow. I ain’t gon’ spend another summer choppin’ and pullin’ cotton or haulin’ nobody’s pu’p wood…pickin’ nobody’s peas. I won’t never have nothin’ that way.
+She be alright. Them people from church do more for her than I do anyhow. 
+
+---
+
+I ain’t gon’ spend another summer choppin’ and pullin’ cotton or haulin’ nobody’s pu’p wood…pickin’ nobody’s peas. 
+
+---
+
+I won’t never have nothin’ that way.
 
 
 ---
@@ -3335,7 +3707,11 @@ I’m leavin’!
 ---
 
 ## BUCKSHOT:
-Stuck his chest out when he said that didn’t he?! Alright, young Delmus, don’t start swellin’ up on us now. We all friends here.
+Stuck his chest out when he said that didn’t he?! 
+
+---
+
+Alright, young Delmus, don’t start swellin’ up on us now. We all friends here.
 
 
 ---
@@ -3365,13 +3741,21 @@ Who you tryin’ to call, Delmus? That fast tail gal over in Grapeland?
 ---
 
 ## DELMUS:
-She ain’t got no phone. I’m tryin’ to call Mr. Prescott Ebert, XL. Look here. He gave me this number and said to call when I got here. But don’t nobody answer…
+She ain’t got no phone. I’m tryin’ to call Mr. Prescott Ebert, XL. 
+
+---
+
+Look here. He gave me this number and said to call when I got here. But don’t nobody answer…
 
 
 ---
 
 ## XL:
 I’ll call Mr. Ebert’s brothers and let them know you are here.
+
+
+---
+
 Gimme a nickel, Delmus. I am makin’ this call on your behalf.
 
 
@@ -3390,13 +3774,33 @@ Collect call for Mr. Ebert from XL Dancer. He know me. I’ll hold.
 ---
 
 ## ADOLPH:
-Cripus attucks. Man fed the cause of the democracy with his life. A cause that left his children starvin’.
+Cripus attucks. Man fed the cause of the democracy with his life. 
+
+---
+
+A cause that left his children starvin’.
 
 
 ---
 
 ## XL:
-Hello there, Mr. Ebert! It’s me, XL! Yes, sir. I’m over here at the cafe…Top o’ the Hill. Yes sir. Well…do remember that young fellow you asked me about if he was wanting to do some work? Uh-huh…that’s the one. He’s sittin’ here now waitin’ to be picked up. Said one’a y’all left him some kind of note…Well they ain’t here yet. Yes, sir, I’ll tell him. Half hour. Thank you, sir.
+Hello there, Mr. Ebert! It’s me, XL! Yes, sir. I’m over here at the cafe…Top o’ the Hill. 
+
+---
+
+Yes sir. Well…do remember that young fellow you asked me about if he was wanting to do some work? 
+
+---
+
+Uh-huh…that’s the one. He’s sittin’ here now waitin’ to be picked up. 
+
+---
+
+Said one’a y’all left him some kind of note…Well they ain’t here yet. 
+
+---
+
+Yes, sir, I’ll tell him. Half hour. Thank you, sir.
 
 
 ---
@@ -3414,7 +3818,23 @@ My mama’s in Houston.
 ---
 
 ## XL:
-You don’t have to do that. Well, yes sir, I agree. I have earned it. Goin’ on ten, twelve years now, sir. Yes sir…and my daddy…Yes sir he used to tell me ‘bout when you was a cute little baby…Yes sir…I think I could handle that. I’ll make you proud. Yes sir. Glad to be of help. I ‘preciate that. Thank you now. Goodbye. Charlesetta, gi’ me a cold beer would you please. I might buy my house from you sooner than you think, Columbus. The Eberts be by to get you directly.
+You don’t have to do that. Well, yes sir, I agree. I have earned it. Goin’ on ten, twelve years now, sir. 
+
+---
+
+Yes sir…and my daddy…Yes sir he used to tell me ‘bout when you was a cute little baby…Yes sir…I think I could handle that. I’ll make you proud. 
+
+---
+
+Yes sir. Glad to be of help. I ‘preciate that. 
+
+---
+
+Thank you now. Goodbye. Charlesetta, gi’ me a cold beer would you please. 
+
+---
+
+I might buy my house from you sooner than you think, Columbus. The Eberts be by to get you directly.
 
 
 ---
@@ -3456,7 +3876,11 @@ A young man. Let me see your hand.
 ---
 
 ## DELMUS:
-How much you gon’ charge me for the readin’, Mr. Boochie? I ain’t got but so much money on me this evening. I’m tryin’ to save much as I can…Me ‘n my new honey gon’ get out these woods.
+How much you gon’ charge me for the readin’, Mr. Boochie? I ain’t got but so much money on me this evening. 
+
+---
+
+I’m tryin’ to save much as I can…Me ‘n my new honey gon’ get out these woods.
 
 
 ---
@@ -3510,7 +3934,11 @@ Yes, sir. What is it what you see, Mr. Boochie?
 ---
 
 ## BOOCHIE:
-I felt it when I come in. You ain’t no twenty-three. You might not see twenty-three. Somebody means to do you harm. It’s hangin’ over your head. A dark cloud.
+I felt it when I come in. You ain’t no twenty-three. 
+
+---
+
+You might not see twenty-three. Somebody means to do you harm. It’s hangin’ over your head. A dark cloud.
 
 
 ---
@@ -3522,7 +3950,15 @@ I don’t see no cloud over his head. Where it at, Boochie? Look like he got a p
 ---
 
 ## BOOCHIE:
-I’m just tellin’ you what I see. What you do about it is your business. I didn’t know nothin’ ‘bout who you was goin’ to work for…but that just proves my point. I know he your boss, XL but they ain’t…you know I love me some money…but they ain’t made enough to pay me to work for that son of a bitch.
+I’m just tellin’ you what I see. What you do about it is your business. 
+
+---
+
+I didn’t know nothin’ ‘bout who you was goin’ to work for…but that just proves my point. 
+
+---
+
+I know he your boss, XL but they ain’t…you know I love me some money…but they ain’t made enough to pay me to work for that son of a bitch.
 
 
 ---
@@ -3588,7 +4024,11 @@ Sixty-five dollars a week?
 ---
 
 ## DELMUS:
-Found this note in my box this mornin’. Mr. Boochie, could you look again. Maybe you missed something. I mean is I gon’ get this job? I need to make myself some money.
+Found this note in my box this mornin’. Mr. Boochie, could you look again. 
+
+---
+
+Maybe you missed something. I mean is I gon’ get this job? I need to make myself some money.
 
 
 ---
@@ -3600,13 +4040,33 @@ I don’t need to look again.
 ---
 
 ## CHARLESETTA:
-You need money so you can buy things for that gal over in Grapeland? She don’t need you. Half the women in Grapeland is kept by some white man like Prescott Ebert, anyway. How you get your heart wrapped around one of ‘em?
+You need money so you can buy things for that gal over in Grapeland? She don’t need you. 
+
+---
+
+Half the women in Grapeland is kept by some white man like Prescott Ebert, anyway. 
+
+---
+
+How you get your heart wrapped around one of ‘em?
 
 
 ---
 
 ## DELMUS:
-Just luck, I guess. But she sure is nice to me. Pretty, too. I ain’t been able to get to her like I like to since that old truck of mine quit on me. That’s why I need to get me some transportation. Sixty-five dollars a week! I get me a month or two savin’ much as I can…
+Just luck, I guess. But she sure is nice to me. Pretty, too. 
+
+---
+
+I ain’t been able to get to her like I like to since that old truck of mine quit on me. 
+
+---
+
+That’s why I need to get me some transportation. Sixty-five dollars a week! 
+
+---
+
+I get me a month or two savin’ much as I can…
 
 
 ---
@@ -3618,19 +4078,51 @@ What kind of work you think he got for Delmus to do this time of night, XL?
 ---
 
 ## XL:
-What I look like, some kind of mind reader? Boochie he one for that…I done told all’a y’all I don’t keep up with how that man run his business. He don’t pay me no sixty-five dollars no week.
+What I look like, some kind of mind reader? 
+
+---
+
+Boochie he one for that…I done told all’a y’all I don’t keep up with how that man run his business. 
+
+---
+
+He don’t pay me no sixty-five dollars no week.
 
 
 ---
 
 ## BOOCHIE:
-Dark clouds…storms, been known in the past to pass…and not ‘mount o nothin’. Quiet and gentle. I do mean to scare you if I can, young brother. I’d keep my butt unemployed for the time being. You in the middle of something ugly, I know it. Whether you heed me or not…is your choice. But if I know I got to tell you. This is my gift. A God-given asset…to share. I share what I see and what I know. I have had enemies might be sittin’ here drinkin’ and havin’ fun with us now if I had give them half the kindness I just give you. Go on home, son…
+Dark clouds…storms, been known in the past to pass…and not ‘mount o nothin’. Quiet and gentle. 
+
+---
+
+I do mean to scare you if I can, young brother. I’d keep my butt unemployed for the time being. You in the middle of something ugly, I know it. Whether you heed me or not…is your choice. 
+
+---
+
+But if I know I got to tell you. This is my gift. A God-given asset…to share. I share what I see and what I know. 
+
+---
+
+I have had enemies might be sittin’ here drinkin’ and havin’ fun with us now if I had give them half the kindness I just give you. 
+
+---
+
+Go on home, son…
 
 
 ---
 
 ## XL:
-Why don’t y’all go on and let Delmus do what he want to do? Now Delmus, you a grown man. You know how hard it is to find a good job. Boochie Reed don’t work for a livin’. How he gon’ know what’s right for you?
+Why don’t y’all go on and let Delmus do what he want to do? 
+
+---
+
+Now Delmus, you a grown man. You know how hard it is to find a good job. 
+
+---
+
+Boochie Reed don’t work for a livin’. How he gon’ know what’s right for you?
 
 
 ---
@@ -3648,13 +4140,33 @@ Like you his mama…
 ---
 
 ## BOOCHIE:
-Stay close to your own strong house. Keep your ears and eyes open…your head needs to be clear ‘til it passes. Protect always yourself. Expect others are doing the same. Pray.
+Stay close to your own strong house. Keep your ears and eyes open…your head needs to be clear ‘til it passes. 
+
+---
+
+Protect always yourself. Expect others are doing the same. Pray.
 
 
 ---
 
 ## DELMUS:
-Sittin’ up at that house ain’t gone get me what I want. I don’ t mean no disrespect Mr. Boochie and I ‘preciate your concern Charlesetta…I really do, but I’mo have to go to work. Ain’t nothin’ gon’ be happenin’ to this neck in these piney woods. Now when y’all die they gon’ have to come in here to get you to take you to the cemetery. You ain’t got no place else you go but to this black hole in the woods. I got ambition. Ambition need sunshine. 
+Sittin’ up at that house ain’t gone get me what I want. 
+
+---
+
+I don’ t mean no disrespect Mr. Boochie and I ‘preciate your concern Charlesetta…I really do, but I’mo have to go to work. 
+
+---
+
+Ain’t nothin’ gon’ be happenin’ to this neck in these piney woods. 
+
+---
+
+Now when y’all die they gon’ have to come in here to get you to take you to the cemetery. You ain’t got no place else you go but to this black hole in the woods. 
+
+---
+
+I got ambition. Ambition need sunshine. 
 
 
 ---
@@ -3666,7 +4178,11 @@ Who is the girl?
 ---
 
 ## ROY:
-I think you really are jealous, Charlesetta. Y’all listenin’ to her? Talk like she might drive over to Grapeland and get out her car and knock on this woman’s door.
+I think you really are jealous, Charlesetta. Y’all listenin’ to her? 
+
+---
+
+Talk like she might drive over to Grapeland and get out her car and knock on this woman’s door.
 
 
 ---
@@ -3684,7 +4200,11 @@ It’s Reverend Robertson’s daughter…
 ---
 
 ## CHARLESETTA:
-Luretha? You eatin’ out somebody else’s plate son. You don’t need to be goin’ up there to see her.
+Luretha? You eatin’ out somebody else’s plate son. 
+
+---
+
+You don’t need to be goin’ up there to see her.
 
 
 ---
@@ -3702,7 +4222,11 @@ Oh, she just jealous…
 ---
 
 ## COLUMBUS:
-Nawh, now I heard a few things ‘bout that girl myself. S’posed to be real light skinned and pretty. Could pass for white. 
+Nawh, now I heard a few things ‘bout that girl myself. 
+
+---
+
+S’posed to be real light skinned and pretty. Could pass for white. 
 
 
 ---
@@ -3714,7 +4238,11 @@ That’s her. She’s mine.
 ---
 
 ## CHARLESETTA:
-Her mama used to work for the Ebert family. Hair so long she could wipe her ass with it. All them Ebert men got women and high yellow children scattered all over Grapeland.
+Her mama used to work for the Ebert family. Hair so long she could wipe her ass with it. 
+
+---
+
+All them Ebert men got women and high yellow children scattered all over Grapeland.
 
 
 ---
@@ -3726,7 +4254,19 @@ And then white men get mighty pissed off ‘bout any colored messing ‘round wi
 ---
 
 ## DELMUS:
-Not Luretha. .Y’all can say what you want to, you can’t turn me around. She eighteen and she likes me and I likes her. Her daddy keep a pretty tight rein on her. Got her workin’ at the church house with him a lot. She could get me goin’ to church. I’d sit up in church all day if I could get to look at something like Luretha while I sat there.
+Not Luretha. .Y’all can say what you want to, you can’t turn me around. 
+
+---
+
+She eighteen and she likes me and I likes her. Her daddy keep a pretty tight rein on her. 
+
+---
+
+Got her workin’ at the church house with him a lot. She could get me goin’ to church. 
+
+---
+
+I’d sit up in church all day if I could get to look at something like Luretha while I sat there.
 
 
 ---
@@ -3750,7 +4290,15 @@ Where’d you meet her?
 ---
 
 ## DELMUS:
-Coupl’a weeks ago I rode over to Grapeland with Woodrow, to get some scratch for his chickens, and try and find a clutch for that truck of mine, and we run into each other comin’ out the Western Auto. It was two other boys after her, but when I come on the scene she got rid of them.
+Coupl’a weeks ago I rode over to Grapeland with Woodrow, to get some scratch for his chickens, and try and find a clutch for that truck of mine, 
+
+---
+
+and we run into each other comin’ out the Western Auto. 
+
+---
+
+It was two other boys after her, but when I come on the scene she got rid of them.
 
 
 ---
@@ -3798,13 +4346,69 @@ Can’t get much sicker than dead.
 ---
 
 ## BOOCHIE:
-Haven’t been wrong since. Ask anybody. Ask anybody you want to out there in that graveyard. Most of ‘em in there was warned by me when death was tippin’ up behind ‘em. Most of ‘em was walkin’ backwards anyway. So anybody would see where they were goin’ before they would. Gideon Brown cut the cards for me the day before he died. I told him just what I said to young Delmus here. Miss Flozelle wouldn’t pay for her reading…she got so mad. Rest her soul. Begged me to look. Then called me everything but a child of God when I told her what I saw. That’s why I don’t charge if I see bad things no more. ‘Cause most the time I sincerely do hope I’m wrong. That money be my gamblin’ money. If I got five or ten dollars from somebody and saw darkness in they hand or over they head or in they cards…I couldn’t bring myself to spend that money, but I could lay it on a pile in a card game. I provide a service. Not only…am I right about darkness. I got the same record at givin’ good news. Ask Buckshot. I see sunshine too. And be just as right about it. Buck, didn’t I tell you go ahead and plant as much of that sweet corn, that one year, as much as you wanted ‘cause you was walkin’ on fertile ground?
+Haven’t been wrong since. Ask anybody. Ask anybody you want to out there in that graveyard. 
+
+---
+
+Most of ‘em in there was warned by me when death was tippin’ up behind ‘em. Most of ‘em was walkin’ backwards anyway. 
+
+---
+
+So anybody would see where they were goin’ before they would. Gideon Brown cut the cards for me the day before he died. 
+
+---
+
+I told him just what I said to young Delmus here. Miss Flozelle wouldn’t pay for her reading…she got so mad. 
+
+---
+
+Rest her soul. Begged me to look. Then called me everything but a child of God when I told her what I saw. 
+
+---
+
+That’s why I don’t charge if I see bad things no more. ‘Cause most the time I sincerely do hope I’m wrong. 
+
+---
+
+That money be my gamblin’ money. If I got five or ten dollars from somebody and saw darkness in they hand or over they head or in they cards…I couldn’t bring myself to spend that money, 
+
+---
+
+but I could lay it on a pile in a card game. I provide a service. 
+
+---
+
+Not only…am I right about darkness. I got the same record at givin’ good news. Ask Buckshot. 
+
+---
+
+I see sunshine too. And be just as right about it. 
+
+---
+
+Buck, didn’t I tell you go ahead and plant as much of that sweet corn, that one year, as much as you wanted ‘cause you was walkin’ on fertile ground?
 
 
 ---
 
 ## BUCKSHOT:
-Yeah, now he right about that. The year before that I got so mad at that land I set fire to it. I went to Boochie and asked him to take a look and see if it was gon’ be worth my time to work that old piece of earth. He told me that land was fertile. That was twenty years ago. Boochie was a young man. I was, too. But he told me that then and I’ll be damned if that dirt didn’t start to produce. Mamie, too. She got our first child that year. But Boochie was right on that one. 
+Yeah, now he right about that. The year before that I got so mad at that land I set fire to it. 
+
+---
+
+I went to Boochie and asked him to take a look and see if it was gon’ be worth my time to work that old piece of earth. 
+
+---
+
+He told me that land was fertile. That was twenty years ago. 
+
+---
+
+Boochie was a young man. I was, too. But he told me that then and I’ll be damned if that dirt didn’t start to produce. 
+
+---
+
+Mamie, too. She got our first child that year. But Boochie was right on that one. 
 
 
 ---
@@ -3834,7 +4438,15 @@ Can’t you run that dark cloud off, Boochie?
 ---
 
 ## XL:
-Can’t y’all find nothin’ else to talk about other than this silliness?! Damn! He a grown man and he responsible for what he do. Now y’all ain’t got to be getting’ all up in his life and liberty and so on like that…Right, Adolph?
+Can’t y’all find nothin’ else to talk about other than this silliness?! Damn! 
+
+---
+
+He a grown man and he responsible for what he do. 
+
+---
+
+Now y’all ain’t got to be getting’ all up in his life and liberty and so on like that…Right, Adolph?
 
 
 ---
@@ -3846,7 +4458,11 @@ We just don’t want to see anything happen to the boy.
 ---
 
 ## XL:
-Why you so all’a sudden worried ‘bout this boy now? Not too long ago you was talkin’ ‘bout how stupid he is, Columbus…Y’all make me not understand you sometimes. Delmus, you need to make some money…
+Why you so all’a sudden worried ‘bout this boy now? Not too long ago you was talkin’ ‘bout how stupid he is, Columbus…Y’all make me not understand you sometimes. 
+
+---
+
+Delmus, you need to make some money…
 
 
 ---
@@ -3864,7 +4480,11 @@ XL, you call that white man back and tell him ain’t no need in him comin’ �
 ---
 
 ## DELMUS:
-Nawh, I got plans! I better go on and see ‘bout this job, Charlesetta. I can take care of myself. ‘Sides that’s a job and a paycheck…
+Nawh, I got plans! I better go on and see ‘bout this job, Charlesetta. 
+
+---
+
+I can take care of myself. ‘Sides that’s a job and a paycheck…
 
 
 ---
@@ -3894,7 +4514,23 @@ I’ll give you some work, Delmus. You don’t need to go work for that white ma
 ---
 
 ## XL:
-Mr. Ebert pay more, Delmus. And workin’ for ‘Lumbus ain’t nothin’ steady. Don’t let these scaredy cat fools ruin a good thing for you. My family been workin’ for the same ugly white man since he was a ugly little white baby, and that family been good to me. You see that truck I drive out there? Ain’t cost me a penny. They even put gas in it. They take care of they workers. That time I spent in the hospital up in Dallas. They paid for it. You don’t think I had the money?
+Mr. Ebert pay more, Delmus. And workin’ for ‘Lumbus ain’t nothin’ steady. Don’t let these scaredy cat fools ruin a good thing for you. 
+
+---
+
+My family been workin’ for the same ugly white man since he was a ugly little white baby, and that family been good to me. 
+
+---
+
+You see that truck I drive out there? Ain’t cost me a penny. They even put gas in it. 
+
+---
+
+They take care of they workers. That time I spent in the hospital up in Dallas. They paid for it. 
+
+---
+
+You don’t think I had the money?
 
 
 ---
@@ -3930,7 +4566,11 @@ Ebert pay you to find people to work for ‘im?
 ---
 
 ## XL:
-Nawh! Why you say that? Delmus said hisself he needed to make some money and don’t nobody ‘round here pay no more than Ebert. I’m tryin’ to do the boy a favor. 
+Nawh! Why you say that? Delmus said hisself he needed to make some money and don’t nobody ‘round here pay no more than Ebert. 
+
+---
+
+I’m tryin’ to do the boy a favor. 
 
 
 ---
@@ -3960,7 +4600,11 @@ Now y’all let XL alone. He tryin’ to help me. I’mo go outside and wait by 
 ---
 
 ## CHARLESETTA:
-Delmus, didn’t you hear ‘bout the colored men workin’ for Prescott, they can’t find? ‘Bout Ethyl B’s boy they found in a slab of cement…dead?
+Delmus, didn’t you hear ‘bout the colored men workin’ for Prescott, they can’t find? 
+
+---
+
+‘Bout Ethyl B’s boy they found in a slab of cement…dead?
 
 
 ---
@@ -3972,7 +4616,11 @@ Nawh, you lyin’…Yancy?
 ---
 
 ## ROY:
-That’s the one. Stiff as a board. Even still didn’t you just hear Boochie Reed tell you, you got a dark cloud over you and that somebody mean to do you harm?
+That’s the one. Stiff as a board. Even still didn’t you just hear Boochie Reed tell you, 
+
+---
+
+you got a dark cloud over you and that somebody mean to do you harm?
 
 
 ---
@@ -3984,13 +4632,21 @@ Yeah…but…
 ---
 
 ## ADOLPH:
-Yeah, but…? That’s what Julius Cesar told his wife Calpurnia, when she talked ‘bout the storms and such bein’ a sign that they was trouble amiss. “Yeah, but I got to go to work, honey.”
+Yeah, but…? That’s what Julius Cesar told his wife Calpurnia, when she talked ‘bout the storms and such bein’ a sign that they was trouble amiss. 
+
+---
+
+“Yeah, but I got to go to work, honey.”
 
 
 ---
 
 ## BUCKSHOT:
-Miss Charlesetta, could I have one mo’ cold one there while y’all work this out? XL’ll pay fo’ it. Spend some of that silver, boy.
+Miss Charlesetta, could I have one mo’ cold one there while y’all work this out? 
+
+---
+
+XL’ll pay fo’ it. Spend some of that silver, boy.
 
 
 ---
@@ -4002,8 +4658,16 @@ Hell…I’ll buy you a beer.
 ---
 
 ## CHARLESETTA:
-How much it cost to get that pick-up of yours runnin’? I’ll loan you the money if you tell that white man you changed your mind.
-DELMUS & XL:
+How much it cost to get that pick-up of yours runnin’? 
+
+---
+
+I’ll loan you the money if you tell that white man you changed your mind.
+
+---
+
+
+## DELMUS & XL:
 I/He can’t do that!
 
 
@@ -4022,7 +4686,27 @@ What you talkin’ Buck!?
 ---
 
 ## BUCKSHOT:
-They been raisin’ hell every Friday night for ‘bout a month now. You can always tell, ‘cause they been meetin’ back up in Judge Meeks pasture, and Sheriff Hanky’ll leave that young Deputy of his at the gate by the road. I seen the light from the cross they was burnin’ last Friday from my back door. Every now and then I’d hear ‘em whoopin’ and sangin’. Thought I heard some music one night. Mamie was scared to death when I told her what it was. I just loaded up that twelve gauge, and called all my dogs up in the yard. Hot damn, if a cricket had’a broke wind out there I’da made it his last ‘un. I need to know what kind of highway work the man got for him to do this time of evenin’?
+They been raisin’ hell every Friday night for ‘bout a month now. 
+
+---
+
+You can always tell, ‘cause they been meetin’ back up in Judge Meeks pasture, and Sheriff Hanky’ll leave that young Deputy of his at the gate by the road. 
+
+---
+
+I seen the light from the cross they was burnin’ last Friday from my back door. Every now and then I’d hear ‘em whoopin’ and sangin’. 
+
+---
+
+Thought I heard some music one night. Mamie was scared to death when I told her what it was. I just loaded up that twelve gauge, and called all my dogs up in the yard. 
+
+---
+
+Hot damn, if a cricket had’a broke wind out there I’da made it his last ‘un. 
+
+---
+
+I need to know what kind of highway work the man got for him to do this time of evenin’?
 
 
 ---
@@ -4052,7 +4736,15 @@ For what?
 ---
 
 ## COLUMBUS:
-See you ain’t fat but you tryin’ to keep your little belly full. You a greedy man. Some things you eat’ll kill you. How much he pay you to bring this boy to him? I know you, XL. Everybody in here know you don’t do nothin’ nice for nobody.
+See you ain’t fat but you tryin’ to keep your little belly full. You a greedy man. 
+
+---
+
+Some things you eat’ll kill you. How much he pay you to bring this boy to him? 
+
+---
+
+I know you, XL. Everybody in here know you don’t do nothin’ nice for nobody.
 
 
 ---
@@ -4064,7 +4756,11 @@ For nothin’.
 ---
 
 ## COLUMBUS:
-What they want him for…this evenin? I’ll bet a nickel to a fist full of hog shit, you know more ‘bout them other missin’ colored boys than you lettin’ out too…
+What they want him for…this evenin? I’ll bet a nickel to a fist full of hog shit, 
+
+---
+
+you know more ‘bout them other missin’ colored boys than you lettin’ out too…
 
 
 ---
@@ -4148,13 +4844,21 @@ Hush, Roy! XL, say what you know! Right now or so help me…
 ---
 
 ## XL:
-So help you what? I ain’t got to stay here and be treated like this. Don’t nary one of you know what you talkin’ ‘bout.
+So help you what? I ain’t got to stay here and be treated like this. 
+
+---
+
+Don’t nary one of you know what you talkin’ ‘bout.
 
 
 ---
 
 ## ADOLPH:
-Your eyes get bigger than your belly, XL… You eat too much, you get lazy and you go to sleep. That white man will feed off you ‘till ain’t nothin’ left…then he’ll pay somebody else to help him get you out of his hair. 
+Your eyes get bigger than your belly, XL… You eat too much, you get lazy and you go to sleep. 
+
+---
+
+That white man will feed off you ‘till ain’t nothin’ left…then he’ll pay somebody else to help him get you out of his hair. 
 
 
 ---
@@ -4196,7 +4900,11 @@ What it mean?
 ---
 
 ## XL:
-Alright…I shouldn’t say nothin’, but alright. Delmus, the Ebert brothers want to have a talk with you. They ain’t got no work for you to do.
+Alright…I shouldn’t say nothin’, but alright. Delmus, the Ebert brothers want to have a talk with you. 
+
+---
+
+They ain’t got no work for you to do.
 
 
 ---
@@ -4334,7 +5042,11 @@ One’a ‘nem Ebert boys wants her for hisself. Ah…let me go, Buckshot…
 ---
 
 ## BUCKSHOT:
-What you call me a while ago? I ought to cut your boot lickin’ tongue out yo’ mouf! You know what I done to the last fool to call me out my name like that!?? Huh?? Huh???
+What you call me a while ago? I ought to cut your boot lickin’ tongue out yo’ mouf! 
+
+---
+
+You know what I done to the last fool to call me out my name like that!?? Huh?? Huh???
 
 
 ---
@@ -4400,7 +5112,11 @@ Y’all…
 ---
 
 ## XL:
-They told me they wasn’t goin’ hurt the boy…just talk to him and tell him to leave the girl alone. Said they would even offer him a job or some money hisself if he would just forget about the gal and go on…
+They told me they wasn’t goin’ hurt the boy…just talk to him and tell him to leave the girl alone. 
+
+---
+
+Said they would even offer him a job or some money hisself if he would just forget about the gal and go on…
 
 
 ---
@@ -4491,7 +5207,11 @@ It ain’t Prescott. It’s his two brothers.
 ---
 
 ## ROY:
-Yeah it’s two of ‘em sittin’ up in there. He be right out! He went out back to relieve hisself!
+Yeah it’s two of ‘em sittin’ up in there. He be right out! 
+
+---
+
+He went out back to relieve hisself!
 
 
 ---
@@ -4631,7 +5351,11 @@ What you gon’ tell him?
 ---
 
 ## XL:
-I’ll tell ‘im what ‘Lumbus said…that the boy gon’ leave the girl alone. But you gon’ have to do that, Delmus! It’s plenty pretty girls for you to like…
+I’ll tell ‘im what ‘Lumbus said…that the boy gon’ leave the girl alone. 
+
+---
+
+But you gon’ have to do that, Delmus! It’s plenty pretty girls for you to like…
 
 
 ---
@@ -4643,7 +5367,11 @@ That ain’t what I want!
 ---
 
 ## XL:
-You can’t have what you want! These white men gon’ have they way! They the law! They didn’t need me! They could get this boy on his own. Just like Ethyl B’s boy!
+You can’t have what you want! These white men gon’ have they way! They the law! 
+
+---
+
+They didn’t need me! They could get this boy on his own. Just like Ethyl B’s boy!
 
 
 ---
@@ -4655,7 +5383,19 @@ Whyn’t you let ‘em do that then…?
 ---
 
 ## XL:
-They asked me who he was…I told ‘em. Me and Ethyl B’s boy was in Grapeland standin’ there with Mr. Ebert, loadin’ some boxes for ‘im when they seen Delmus and Luretha laughin’ and talkin’ together right out in the middle of public there in town. You a marked man and a damn fool!
+They asked me who he was…I told ‘em. 
+
+---
+
+Me and Ethyl B’s boy was in Grapeland standin’ there with Mr. Ebert, 
+
+---
+
+loadin’ some boxes for ‘im when they seen Delmus and Luretha laughin’ and talkin’ together right out in the middle of public there in town. 
+
+---
+
+You a marked man and a damn fool!
 
 
 ---
@@ -4667,7 +5407,39 @@ She ain’t white!
 ---
 
 ## XL:
-Don’t matter. They claim her so…you can’t have her. That’s a law in Grapeland they ain’t wrote down. That girl is poison. She the one need talkin’ to. If she’d stop flouncin’ herself up in Niggahs’ faces…wouldn’t nobody be messin’ wit’ her. Every chance she get, she sneakin’ off somewhere teasin’ ya with all that hair and rubbin’ up against you. She know what she doin’. She the one wasn’t gon’ be happy ‘til she got somebody killed. All y’all just as black as I am, but Prescott Ebert have helped me when none’a y’all could. Prescott Ebert the only man I ever worked for…what you think I’mo do?! I heard him tell his brothers to set up a meeting, ‘cause she was on the prowl again. I knew. But I wasn’t ‘bout to say nothin’. Yancy, Ethyl B’s boy knew too. He went straight to the sheriff, call hisself gon’ be smart. You seen what that got him? Wasn’t nothin’ I could’a done to help them boys or you but get myself killed.
+Don’t matter. They claim her so…you can’t have her. That’s a law in Grapeland they ain’t wrote down. 
+
+---
+
+That girl is poison. She the one need talkin’ to. If she’d stop flouncin’ herself up in Niggahs’ faces…wouldn’t nobody be messin’ wit’ her. 
+
+---
+
+Every chance she get, she sneakin’ off somewhere teasin’ ya with all that hair and rubbin’ up against you. 
+
+---
+
+She know what she doin’. She the one wasn’t gon’ be happy ‘til she got somebody killed. All y’all just as black as I am, but Prescott Ebert have helped me when none’a y’all could. 
+
+---
+
+Prescott Ebert the only man I ever worked for…what you think I’mo do?! 
+
+---
+
+I heard him tell his brothers to set up a meeting, ‘cause she was on the prowl again. I knew. 
+
+---
+
+But I wasn’t ‘bout to say nothin’. Yancy, Ethyl B’s boy knew too. He went straight to the sheriff, call hisself gon’ be smart. 
+
+---
+
+You seen what that got him? Wasn’t nothin’ I could’a done to help them boys or you but get myself killed.
+
+---
+
+
 They ain’t gon’ sit out there all night…
 
 
@@ -4728,13 +5500,25 @@ They ain’t really had they chance yet.
 ---
 
 ## DELMUS:
-I ain’t goin’ out there. Scare me off…?! How much you get to get me killed? I don’t believe you did this XL…! You wasn’t gon’ tell me?! You knowed what they wanted and you didn’t warn me?! You the one need to die!
+I ain’t goin’ out there. Scare me off…?! How much you get to get me killed? 
+
+---
+
+I don’t believe you did this XL…! You wasn’t gon’ tell me?! 
+
+---
+
+You knowed what they wanted and you didn’t warn me?! You the one need to die!
 
 
 ---
 
 ## COLUMBUS:
-Calm down now, Delmus. They ain’t gon’ do too much in front of everybody here. You be alright in here. XL, what happened to them other boys?
+Calm down now, Delmus. They ain’t gon’ do too much in front of everybody here. 
+
+---
+
+You be alright in here. XL, what happened to them other boys?
 
 
 ---
@@ -4758,14 +5542,30 @@ That’s bullshit!
 ---
 
 ## XL:
-See there fool…if I had’a told you, you wouldn’ta believed me. That first boy was caught kissin’ the very same girl. Yancy just seen more’n he could keep to hisself.
-See now, y’all gon’ mess around and get me killed! I shouldn’ta said nothin’!
+See there fool…if I had’a told you, you wouldn’ta believed me. 
+
+---
+
+That first boy was caught kissin’ the very same girl. 
+
+---
+
+Yancy just seen more’n he could keep to hisself.
+See now, y’all gon’ mess around and get me killed! 
+
+---
+
+I shouldn’ta said nothin’!
 
 
 ---
 
 ## CHARLESETTA:
-Nawh, nawh now Mr. Greedy Skinny man. Mr. I-can-eat-all-I-want…much-of-it-as-I-want. You set up them other boys?
+Nawh, nawh now Mr. Greedy Skinny man. Mr. I-can-eat-all-I-want…much-of-it-as-I-want. 
+
+---
+
+You set up them other boys?
 
 
 ---
@@ -4825,7 +5625,19 @@ You ain’t licked the man’s ass enough?
 ---
 
 ## CHARLESETTA:
-Buckshot, if he move you cut his damn tongue out his mouth and I’ll chunk it in that white man’s face myself. Good goddamn I hate you, XL Dancer! If I had the strength…I’d jerk your heart right out your chest, ‘cause you ain’t usin’ it. Delmus! Here take my keys and git in my car out back…it’s got a tank of gas…and don’t you stop drivin’ for nothin’ or nobody, you hear me?!! Call me collect here tomorrow twelve noon. Let me know where you at. Go on now! Not that way!
+Buckshot, if he move you cut his damn tongue out his mouth and I’ll chunk it in that white man’s face myself. 
+
+---
+
+Good goddamn I hate you, XL Dancer! If I had the strength…I’d jerk your heart right out your chest, ‘cause you ain’t usin’ it. 
+
+---
+
+Delmus! Here take my keys and git in my car out back…it’s got a tank of gas…and don’t you stop drivin’ for nothin’ or nobody, you hear me?!! 
+
+---
+
+Call me collect here tomorrow twelve noon. Let me know where you at. Go on now! Not that way!
 
 
 ---
@@ -4850,7 +5662,11 @@ What for?
 
 ## ROY:
 One of ‘em comin’ round the back.
-XL & DELMUS:
+
+---
+
+
+## XL & DELMUS:
 Oh, shit!
 
 
@@ -4918,13 +5734,29 @@ Yeah, there they go. They ain’t payin’ it no mind.
 ---
 
 ## BUCKSHOT:
-XL pointin’ up here at us. Wait a minute! That’s one mad white man. Slapped XL up side his head with that pistol! Ho! Here he come. Open the door…look like that boy bleedin’.
+XL pointin’ up here at us. Wait a minute! That’s one mad white man. 
+
+---
+
+Slapped XL up side his head with that pistol! Ho! Here he come. 
+
+---
+
+Open the door…look like that boy bleedin’.
 
 
 ---
 
 ## CHARLESETTA:
-Lock it! He deserve what he get! Lock it! I mean it! Butt lickin’ ass! Should’a thought about that. He wasn’t gon’ help that boy Delmus none. Wasn’t no help to Ethyl B’s boy. Let ‘em beat the shit out of ‘im. Good goddamn riddance!
+Lock it! He deserve what he get! Lock it! I mean it! Butt lickin’ ass! 
+
+---
+
+Should’a thought about that. He wasn’t gon’ help that boy Delmus none. Wasn’t no help to Ethyl B’s boy. 
+
+---
+
+Let ‘em beat the shit out of ‘im. Good goddamn riddance!
 
 
 ---
@@ -4936,7 +5768,11 @@ Open the door!
 ---
 
 ## ROY:
-Go to your pick-up like you was talkin’ a while ago! You just keep your ass out. Go drink with them white folks in the woods.
+Go to your pick-up like you was talkin’ a while ago! You just keep your ass out. 
+
+---
+
+Go drink with them white folks in the woods.
 
 
 ---
@@ -4990,19 +5826,31 @@ And anybody like him! It’s enough white mens lined up to kill a colored man wi
 ---
 
 ## COLUMBUS:
-Delmus’ll be alright. Might be a blessin’ in disguise. He say he been itchin’ to leave. He gone. XL didn’t do nothin’…really.
+Delmus’ll be alright. Might be a blessin’ in disguise. 
+
+---
+
+He say he been itchin’ to leave. He gone. XL didn’t do nothin’…really.
 
 
 ---
 
 ## ROY:
-You need to stop defendin’ him, ‘Lumbus. Somethin’ wrong with that boy. He didn’t do nothin’ my ass! Yeah he did. Nothin’!
+You need to stop defendin’ him, ‘Lumbus. Somethin’ wrong with that boy. 
+
+---
+
+He didn’t do nothin’ my ass! Yeah he did. Nothin’!
 
 
 ---
 
 ## CHARLESETTA:
-Nothin’! That’s just what he did. And we can’t just do nothin’. You do nothin’ nothin’ happens…nothin’ changes. You got to do to change things. I want to see him dead.
+Nothin’! That’s just what he did. And we can’t just do nothin’. You do nothin’ nothin’ happens…nothin’ changes. 
+
+---
+
+You got to do to change things. I want to see him dead.
 
 
 ---
@@ -5068,7 +5916,11 @@ Boy you got more nerve than a brass ass cat.
 ---
 
 ## CHARLESETTA:
-You make this the last time you darken my doorway, XL Dancer! You caterin’ to them people feedin’ off us don’t set well with me at all. I mean that. And if anybody even call your name in my presence…I ain’t responsible for what I do. You hear me?
+You make this the last time you darken my doorway, XL Dancer! You caterin’ to them people feedin’ off us don’t set well with me at all. 
+
+---
+
+I mean that. And if anybody even call your name in my presence…I ain’t responsible for what I do. You hear me?
 
 
 ---
@@ -5110,7 +5962,15 @@ They goin’ leave Delmus alone, Mr. Supervisor?
 ---
 
 ## XL:
-They through with it for now…but if they catch him with that girl they gon’ kill him and they don’t care who know about it. I won’t be back, Miss Charlesetta. Maybe you should’a busted me upside my head with that bat. I’d rather die from that than from what them Eberts liable to do now.
+They through with it for now…but if they catch him with that girl they gon’ kill him and they don’t care who know about it. 
+
+---
+
+I won’t be back, Miss Charlesetta. Maybe you should’a busted me upside my head with that bat. 
+
+---
+
+I’d rather die from that than from what them Eberts liable to do now.
 
 
 ---
