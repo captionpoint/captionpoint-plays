@@ -1,6 +1,94 @@
-East Texas Hot Links
-By Eugene Lee
+class: center, middle, smaller
+BEGIN SETTINGS
+---
 
+[//]: # (title settings—give the play a title and author name)
+title: TITLE
+author: Author
+
+[//]: # (color settings—replace "character-_____" with a character name)
+plum-purple: roy
+stiletto-red: xl
+st-tropaz-blue: buckshot
+orange-zest: charlesetta
+lavender-purple: columbus
+green-goblin: adolph
+shocking-pink: boochie
+brown-clay: alfred
+pelorous-aqua: delmus
+magenta: ensemble
+dark-violet: ???
+gold: character-twelve
+dodger-blue: character-thirteen
+cornflower-blue: character-fourteen
+cyan: character-fifteen
+lime-green: character-sixteen
+coral: character-seventeen
+hot-pink: character-eighteen
+orange: character-nineteen
+tomato: character-twenty
+lime: character-twentyone
+layout: true
+---
+name: noise
+class: center, middle, noise
+---
+name: title
+class: center, middle
+---
+name: music
+class: center, middle
+&#9834; &#9834;
+---
+name: song
+class: song
+---
+name: aside
+class: aside
+---
+name: overlap
+class: overlap
+---
+class: characters, smaller
+[//]: # (list of colors)
+## PLUM-PURPLE:
+## STILETTO-RED:
+## ST-TROPAZ-BLUE:
+## ORANGE-ZEST:
+## GREEN-GOBLIN:
+## LAVENDER-PURPLE:
+## SHOCKING-PINK:
+## BROWN-CLAY:
+## PELOROUS-AQUA:
+---
+template: overlap
+[//]: # (list of characters, in color)
+## CHARACTER-ONE:
+## CHARACTER-TWO:
+## CHARACTER-THREE:
+## CHARACTER-FOUR:
+## CHARACTER-FIVE:
+---
+
+class: center, middle, smaller
+END SETTINGS
+---
+---
+template: title
+.big[
+  East Texas Hot Links
+]
+.small[
+  by Eugene Lee
+]
+
+---
+
+[Muddy Waters's "The Same Thing" Plays]
+
+---
+
+[Crickets]
 
 ---
 
@@ -198,7 +286,11 @@ Y’all didn’t play nobody.
 ---
 
 ## ROY:
-True. But we was still better than everybody. 
+True. 
+
+---
+
+But we was still better than everybody. 
 
 ---
 
@@ -260,7 +352,7 @@ You’da had a better shot at playin’ ‘gainst them white boys.
 ---
 
 ## COLUMBUS:
-You ever wish you coulda played ‘gainst ‘em, Roy.
+You ever wish you coulda played ‘gainst ‘em, Roy?
 
 
 ---
@@ -284,7 +376,11 @@ I know it already. I ain’t no fool.
 
 ---
 
-## COLOMBUS:
+[Trash can thumping]
+
+---
+
+## COLUMBUS:
 Professor! Hot damn, speak of the devil…
 
 
@@ -377,11 +473,14 @@ I know woe. Knew him well. He was my best friend.
 
 ‘Til I was introduced to vodka and gin. I don’t know woe no mo’.
 
+---
+
+[phone jingling from change being in]
 
 ---
 
 ## DELMUS:
-What you lyin’ ‘bout tonight, Adolph.
+What you lyin’ ‘bout tonight, Adolph?
 
 
 ---
@@ -468,7 +567,15 @@ Y’all leave that child alone. Delmus, close my door, baby.
 ---
 
 ## ADOLPH:
-Step right up. Feed the bluesbox if you sufferin’ and want to nourish your spirit wit’ a song. Everybody suffers. 
+Step right up. 
+
+---
+
+[Door slam]
+
+---
+## ADOLPH:
+Feed the bluesbox if you sufferin’ and want to nourish your spirit wit’ a song. Everybody suffers. 
 
 ---
 
@@ -528,7 +635,11 @@ You won’t be talkin’ that talk when they sayin’ words over your pickled as
 ---
 
 ## ADOLPH:
-I’ll be well marinated. Burial is but final digestion by the gods. We become waste material. 
+I’ll be well marinated. 
+
+---
+
+Burial is but final digestion by the gods. We become waste material. 
 
 
 ---
@@ -552,7 +663,7 @@ A sufferer speaks!
 ---
 
 ## ROY:
-I don’t suffer nothin’!
+I ain’t suffer nothin’!
 
 
 ---
@@ -576,17 +687,30 @@ I’m a survivor.
 ## ADOLPH:
 Same difference.
 
+---
+
+[Door Slams]
 
 ---
 
 ## DELMUS:
 I’m buyin’ everybody in here a drink! Especially you XL. How ‘bout that!?
 
+---
+
+[Phone jingles from coin being put in]
 
 ---
 
-Well how ‘bout everybody chippin’ in to buy me a drink?... or somethin’?
+Well how ‘bout everybody chippin’ in to buy me a drink?
 
+---
+
+... or somethin’?
+
+---
+
+[Door Slams]
 
 ---
 
@@ -631,7 +755,11 @@ You married her. I ain’t liable no more. Anyway he tellin’ the truth.
 ---
 
 ## COLUMBUS:
-Belinda can cook… some thangs. She make a good breakfast.
+Belinda can cook… 
+
+--- 
+
+some thangs. She make a good breakfast.
 
 
 ---
@@ -1549,7 +1677,11 @@ He for sho’ ain’t in his right mind talkin’ to me like that.
 ---
 
 ## ROY:
-Charlesetta, you know I’m just ribbin’ you. Let me have that trotter in that jar there. 
+Charlesetta, you know I’m just ribbin’ you. 
+
+---
+
+Let me have that trotter in that jar there. 
 
 ---
 
@@ -1914,6 +2046,9 @@ Her beer makes you fatter and your money makes her fatter.
 
 ## CHARLESETTA:
 I might die here but I’ll never kill myself tryin’ to cook for and feed you fools too.
+
+---
+
 That boy sittin’ out there by the road talkin’ to Adolph’s mule. 
 
 
@@ -2222,7 +2357,11 @@ I take care of myself. Y’all gon’ get enough of messin’ with me.
 
 ---
 
-I’m goin’ to the outhouse. Y’all want anything?
+I’m goin’ to the outhouse. 
+
+---
+
+Y’all want anything?
 
 
 ---
@@ -2244,7 +2383,7 @@ Yeah, let ‘em study his ass. XL might be some kind’a missing link.
 
 ---
 
-Maybe they can make some sense of ‘im. I cain’t.
+Maybe they can make some sense of ‘im. I can’t.
 
 
 ---
@@ -2278,7 +2417,7 @@ Maybe…
 ---
 
 ## CHARLESETTA:
-Maybe…
+Maybe…?
 
 
 ---
@@ -2622,7 +2761,11 @@ Tell me no but don’t tell me never. Charlesetta, just tell me that before you 
 ---
 
 ## CHARLESETTA:
-Alright, Roy, Before I die…I might gi’ you some.
+Alright, Roy, Before I die…
+
+---
+
+I might gi’ you some.
 
 
 ---
@@ -2751,15 +2894,22 @@ If you go…you better get in and drive off, ‘cause I ain’t got to go to my 
 ---
 
 ## COLUMBUS:
-Come on now. Y’all ‘bout to get on my nerves now.
+Come on now. 
+
+---
+
+[Door Slam]
 
 
 ---
 
 ## BUCKSHOT:
 How y’all colored folks doin’ this e’nin’?
-ALL:
-Buckshot! Buck!
+
+---
+
+## ALL:
+Hey Buckshot! Hey Bucky!
 
 
 ---
@@ -2769,7 +2919,11 @@ Let me have a cold one there, Miss Charlesetta, would you please.
 
 ---
 
-See if I can’t wash some of this damn dirt down. What y’all talkin’ ‘bout?
+See if I can’t wash some of this damn dirt down. 
+
+---
+
+What y’all talkin’ ‘bout?
 
 
 ---
@@ -2839,6 +2993,12 @@ Now you don’t just get rid of a partner like that. As for the records…I ain�
 ---
 
 Ain’t had the money.
+
+[Jukebox kicks up and plays "Gut Bucket Blues".] 
+
+---
+
+[The others playfully adlib.]
 
 
 ---
@@ -2996,7 +3156,7 @@ If that don’t beat all. It hurts you to think? It’s more wrong with you than
 ---
 
 ## XL:
-It don’t hurt hurt…! All I did was ax a simple question. Adolph said pride was somebody’s daughter…
+It don’t hurt hurt…! All I did was ask a simple question. Adolph said pride was somebody’s daughter…
 
 
 ---
@@ -3030,6 +3190,13 @@ Pride ain’t nobody. That’s just a word like ‘Lumbus say.
 
 How a word gon’ have a child? Some’a the shit you say don’t even make sense to you, Adolph.
 
+---
+
+[Door Slams]
+
+---
+
+[Phone jingles from a coin being put in]
 
 ---
 
@@ -3118,6 +3285,9 @@ Well I ‘preciate it. It ain’t nine-thirty, is it?
 ## CHARLESETTA:
 Shut my door! You lettin’ bugs in!
 
+---
+
+[Door slams]
 
 ---
 
@@ -3333,6 +3503,8 @@ Damn, Roy, did you taste ‘em? Sound like you need to start raisin’ hogs!
 ## BUCKSHOT:
 Ain’t nothin’ wrong ‘bout chitlins. You wash ‘em real good. 
 
+[Car pulling up and car door closing.]
+
 ---
 
 I can’t stand the smell of ‘em to clean ‘em. I eats ‘em though. Miss Charlesetta, gi’ that boy there a beer. 
@@ -3353,6 +3525,9 @@ Yeah.
 ## BUCKSHOT:
 Here’s to you and your honey. Don’t get none on ya!
 
+---
+
+[Door Slam]
 
 ---
 
@@ -3545,7 +3720,7 @@ She gon’ crazy?
 ---
 
 ## BOOCHIE:
-Nawh. Said the dawg axed her to fry him some chicken and she didn’t blink a eye. 
+Nawh. Said the dawg asked her to fry him some chicken and she didn’t blink a eye. 
 
 ---
 
@@ -3636,6 +3811,10 @@ Shut up, XL. You the same way with food you is with money. Don’t neither one o
 ---
 
 You turn my stomach talkin’ ‘bout how skinny your fat ass is.
+
+---
+
+[Door Slam]
 
 
 ---
@@ -3830,7 +4009,11 @@ Yes sir. Glad to be of help. I ‘preciate that.
 
 ---
 
-Thank you now. Goodbye. Charlesetta, gi’ me a cold beer would you please. 
+Thank you now. Goodbye. 
+
+---
+
+Charlesetta, gi’ me a cold beer would you please. 
 
 ---
 
@@ -4964,8 +5147,11 @@ You’ll be as many Niggahs as I want to call you…this evenin’.
 ---
 
 ## XL:
-You bes’ get on out of my face! Ain’t nobody scared of you, “Titty Baby.”
+You bes’ get on out of my face! Ain’t nobody scared of you, 
 
+---
+
+“Titty Baby.”
 
 ---
 
@@ -4979,8 +5165,6 @@ Buckshot!
 Come on now, Buck! He didn’t mean it.
 
 
----
-
 ## XL:
 Damn if I didn’t mean it!
 
@@ -4990,8 +5174,6 @@ Damn if I didn’t mean it!
 ## ROY:
 Let him go, Buckshot! Let him go!
 
-
----
 
 ## COLUMBUS:
 Don’t hurt him, he ain’t worth goin’ to jail for, Buck!
@@ -5003,7 +5185,6 @@ Don’t hurt him, he ain’t worth goin’ to jail for, Buck!
 He too clumsy ‘bout the mouth.
 
 
----
 
 ## BOOCHIE:
 Let ‘im kill ‘im. He need to die.
@@ -5021,7 +5202,6 @@ I’ll tell ya! I’ll tell…! Let me go!
 Talk fast…
 
 
----
 
 ## XL:
 It’s that girl from Grapeland!
@@ -5061,8 +5241,6 @@ Don’t cut him in here! Floor’s hard enough to keep clean as it is.
 Let me go!
 
 
----
-
 ## COLUMBUS:
 Say what you know, XL.
 
@@ -5073,10 +5251,12 @@ Say what you know, XL.
 How much they pay you, XL?
 
 
+## XL:
+They just want to talk to the boy…
+
 ---
 
-## XL:
-They just want to talk to the boy…scare ‘im off. That’s all. They just want him to stay away from that girl.
+scare ‘im off. That’s all. They just want him to stay away from that girl.
 
 
 ---
@@ -5096,6 +5276,7 @@ Son…these is white men we talkin’ about.
 ## BOOCHIE:
 We sittin’ here with a Judas goat.
 
+[Car pulling up]
 
 ---
 
@@ -5131,8 +5312,6 @@ Y’all…!
 And you believed them? You a bigger fool than I thought you was.
 
 
----
-
 ## ROY:
 Yon’ they come y’all.
 
@@ -5142,12 +5321,11 @@ Yon’ they come y’all.
 ## CHARLESETTA:
 Break his neck, Buckshot.
 
-
----
-
 ## XL:
 Nawh! Nawh…nawh. Please…I’m sorry…Please!
 
+---
+[Horn Honking]
 
 ---
 
@@ -5165,6 +5343,9 @@ Yeah, that’s it.
 
 ## ROY:
 That’s him.
+
+---
+
 He be right out!
 
 
@@ -5207,10 +5388,11 @@ It ain’t Prescott. It’s his two brothers.
 ---
 
 ## ROY:
-Yeah it’s two of ‘em sittin’ up in there. He be right out! 
+Yeah it’s two of ‘em sittin’ up in there. 
 
 ---
 
+He be right out! 
 He went out back to relieve hisself!
 
 
@@ -5318,10 +5500,12 @@ They ain’t out there. I don’t know where they at.
 Back off in the woods?
 
 
+## BUCKSHOT:
+The goddamned Klan! 
+
 ---
 
-## BUCKSHOT:
-The goddamned Klan! You ain’t goin’ nowhere…no count, skinny ass, goddamn…!
+You ain’t goin’ nowhere…no count, skinny ass, goddamn…!
 
 
 ---
@@ -5438,8 +5622,9 @@ But I wasn’t ‘bout to say nothin’. Yancy, Ethyl B’s boy knew too. He wen
 You seen what that got him? Wasn’t nothin’ I could’a done to help them boys or you but get myself killed.
 
 ---
+[Horn Honk]
 
-
+---
 They ain’t gon’ sit out there all night…
 
 
@@ -5546,11 +5731,17 @@ See there fool…if I had’a told you, you wouldn’ta believed me.
 
 ---
 
-That first boy was caught kissin’ the very same girl. 
+That first boy was caught kissin’ the very same gal. 
 
 ---
 
 Yancy just seen more’n he could keep to hisself.
+
+---
+[Horn Honk]
+
+---
+
 See now, y’all gon’ mess around and get me killed! 
 
 ---
@@ -5737,6 +5928,9 @@ Yeah, there they go. They ain’t payin’ it no mind.
 XL pointin’ up here at us. Wait a minute! That’s one mad white man. 
 
 ---
+[Thud]
+
+---
 
 Slapped XL up side his head with that pistol! Ho! Here he come. 
 
@@ -5760,6 +5954,7 @@ Let ‘em beat the shit out of ‘im. Good goddamn riddance!
 
 
 ---
+[Knocking]
 
 ## XL:
 Open the door!
@@ -5820,7 +6015,7 @@ Come on now, Charlesetta…
 ---
 
 ## CHARLESETTA:
-And anybody like him! It’s enough white mens lined up to kill a colored man without one of your own getting’ in line to help ‘em.
+And anybody like him! It’s enough white men lined up to kill a colored man without one of your own getting’ in line to help ‘em.
 
 
 ---
@@ -5866,6 +6061,7 @@ I don’t claim him. He’s death in the flesh.
 
 
 ---
+[Knocking]
 
 ## XL:
 Open the door! I got to talk to y’all!
@@ -5997,6 +6193,10 @@ We ain’t goin’ nowhere.
 ## XL:
 I’m sorry y’all. I’m gone.
 
+---
+
+[Door Slams]
+[Car starts and drives away]
 
 ---
 
@@ -6041,7 +6241,15 @@ Nawh, Niggers like that live forever.
 ---
 
 ## CHARLESETTA:
-Lord let me stop shakin’. Y’all want a taste? On me. Calm my nerves. They would’a killed that boy. 
+Lord let me stop shakin’. Y’all want a taste? 
+
+---
+
+On me. 
+
+---
+
+They would’a killed that boy. 
 
 ---
 
@@ -6126,6 +6334,9 @@ Damn, I’mo have to find somebody else to rent that house. And spend the rest o
 ## CHARLESETTA:
 Play C-6.
 
+---
+[Nina Simone's "Chilly Winds Don't Blow" plays]
+
 
 ---
 
@@ -6164,8 +6375,6 @@ Oh Lord no!
 What’s the matter, Uncle Boochie?
 
 
----
-
 ## BOOCHIE:
 No, no…! Lord, Nawh! Nawh!
 
@@ -6182,8 +6391,6 @@ What’s wrong, Boochie? Sit down.
 XL comin’ back. Ebert’s pullin’ up behind him.
 
 
----
-
 ## CHARLESETTA:
 I’ll kill that Niggah. Why he bringin’ ‘em back here?
 
@@ -6191,7 +6398,7 @@ I’ll kill that Niggah. Why he bringin’ ‘em back here?
 ---
 
 ## ROY:
-Get down y’all…they got rifles!
+Get down y’all…they got rifles! Get Down!
 
 
 ---
@@ -6199,15 +6406,186 @@ Get down y’all…they got rifles!
 ## CHARLESETTA:
 Turn out the lights.
 
-
----
-
-## COLUMBUS:
-XL, You son of a bitch!
-
-
----
-
 ## CHARLESETTA:
 God damn you XL Dancer. God damn you boy!
-End of Play.
+
+---
+[16 Gunshots. Screaming.]
+
+---
+
+[Explosion]
+
+---
+---
+
+template: title
+class: smaller
+Open Captioning for this performance was made possible by CaptionPoint.
+---
+---
+<style>
+/* 2022 styles to match hackmd.io */
+.remark-slide-content { font-size: 4rem;}
+.remark-slide-content p {padding-bottom: 2%;}
+.remark-slide-content > p:first-child::before {
+  height: 50px;
+}
+
+
+/* CENTERED CAPTIONS */
+/* .remark-slide {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.remark-slide-content {
+  display: block;
+  height: auto;
+}
+
+.remark-slide>.middle {
+  margin: auto;
+
+}
+ */
+
+/* TURN OFF H2 FADE */
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+span.dim {
+  opacity: 1;
+}
+.remark-slide-content p:nth-last-child(n+4),
+.remark-slide-content h2:nth-last-child(n+4){
+  opacity: 1;
+}
+h2.{{plum-purple}},
+h2.{{plum-purple}}-,
+h2.-to-{{plum-purple}},
+h2[class^='{{plum-purple}}'],
+h2.plum-purple {color: #862d86;}
+
+h2.{{magenta}},
+h2.{{magenta}}-,
+h2.-to-{{magenta}},
+h2[class^='{{magenta}}'],
+h2.magenta {color: #FF00FF;}
+
+h2.{{dark-violet}},
+h2.{{dark-violet}}-,
+h2.-to-{{dark-violet}},
+h2[class^='{{dark-violet}}'],
+h2.dark-violet {color: #9400D3;}
+
+h2.{{stiletto-red}},
+h2.{{stiletto-red}}-,
+h2.-to-{{stiletto-red}},
+h2[class^='{{stiletto-red}}'],
+h2.stiletto-red {color: #9e2e2e;}
+
+h2.{{tomato}},
+h2.{{tomato}}-,
+h2.-to-{{tomato}},
+h2[class^='{{tomato}}'],
+h2.tomato {color: #FF6347;}
+
+h2.{{st-tropaz-blue}},
+h2.{{st-tropaz-blue}}-,
+h2.-to-{{st-tropaz-blue}},
+h2[class^='{{st-tropaz-blue}}'],
+h2.st-tropaz-blue {color: #2966a3;}
+
+h2.{{orange-zest}},
+h2.{{orange-zest}}-,
+h2.-to-{{orange-zest}},
+h2[class^='{{orange-zest}}'],
+h2.orange-zest {color: #df8020;}
+
+h2.{{orange}},
+h2.{{orange}}-,
+h2.-to-{{orange}},
+h2[class^='{{orange}}'],
+h2.orange {color: #FFA500;}
+
+h2.{{gold}},
+h2.{{gold}}-,
+h2.-to-{{gold}},
+h2[class^='{{gold}}'],
+h2.gold {color: #FFD700;}
+
+h2.{{green-goblin}},
+h2.{{green-goblin}}-,
+h2.-to-{{green-goblin}},
+h2[class^='{{green-goblin}}'],
+h2.green-goblin {color: #3d8f3d;}
+
+h2.{{lime}},
+h2.{{lime}}-,
+h2.-to-{{lime}},
+h2[class^='{{lime}}'],
+h2.lime {color: #32CD32;}
+
+h2.{{lavender-purple}},
+h2.{{lavender-purple}}-,
+h2.-to-{{lavender-purple}},
+h2[class^='{{lavender-purple}}'],
+h2.lavender-purple {color: #9177AC;}
+
+h2.{{shocking-pink}},
+h2.{{shocking-pink}}-,
+h2.-to-{{shocking-pink}},
+h2[class^='{{shocking-pink}}'],
+h2.shocking-pink {color: #e085b3;}
+
+h2.{{coral}},
+h2.{{coral}}-,
+h2.-to-{{coral}},
+h2[class^='{{coral}}'],
+h2.coral {color: #FF7F50;}
+
+h2.{{hot-pink}},
+h2.{{hot-pink}}-,
+h2.-to-{{hot-pink}},
+h2[class^='{{hot-pink}}'],
+h2.hot-pink {color: #FF69B4;}
+
+h2.{{brown-clay}},
+h2.{{brown-clay}}-,
+h2.-to-{{brown-clay}},
+h2[class^='{{brown-clay}}'],
+h2.brown-clay {color: #996633;}
+
+h2.{{lime-green}},
+h2.{{lime-green}}-,
+h2.-to-{{lime-green}},
+h2[class^='{{lime-green}}'],
+h2.lime-green {color: #00FF00;}
+
+h2.{{pelorous-aqua}},
+h2.{{pelorous-aqua}}-,
+h2.-to-{{pelorous-aqua}},
+h2[class^='{{pelorous-aqua}}'],
+h2.pelorous-aqua {color: #40bfbf;}
+
+h2.{{dodger-blue}},
+h2.{{dodger-blue}}-,
+h2.-to-{{dodger-blue}},
+h2[class^='{{dodger-blue}}'],
+h2.dodger-blue {color: #1E90FF;}
+
+h2.{{cornflower-blue}},
+h2.{{cornflower-blue}}-,
+h2.-to-{{cornflower-blue}},
+h2[class^='{{cornflower-blue}}'],
+h2.cornflower-blue {color: #6495ED;}
+
+h2.{{cyan}},
+h2.{{cyan}}-,
+h2.-to-{{cyan}},
+h2[class^='{{cyan}}'],
+h2.cyan {color: #00FFFF;}
+
+</style>
