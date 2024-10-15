@@ -2723,7 +2723,11 @@ My dear Hastings, look what I hold in my hand. A special delivery letter from Fr
 ---
 
 ## PAUL MCQUEEN:
-“Monsieur Poirot, I am in need of the services of a detective. I am convinced that men from my past wish my immediate and violent death. I beg you lose no time in crossing to France. I will send a car to meet you at the Merlinville station. Yours, Paul McQueen.”
+“Monsieur Poirot, I am in need of the services of a detective. I am convinced that men from my past wish my immediate and violent death. 
+
+---
+
+I beg you lose no time in crossing to France. I will send a car to meet you at the Merlinville station. Yours, Paul McQueen.”
 
 ---
 
@@ -2733,7 +2737,11 @@ Paul McQueen’s that American oil man. Will you go?
 ---
 
 ## POIROT:
-We both will go. Merlinville is known for those little green links which I believe are of such interest to you and your little sticks. The Continental Express leaves Victoria at 11 o’clock. You will accompany me, mon ami?
+We both will go. Merlinville is known for those little green links which I believe are of such interest to you and your little sticks. 
+
+---
+
+The Continental Express leaves Victoria at 11 o’clock. You will accompany me, mon ami?
 
 ---
 
@@ -2743,9 +2751,11 @@ Let me pack my clubs.
 ---
 
 ## HASTINGS:
-“We wasted no time in catching the next boat train. However, when we arrived we found no car waiting for us, so we took a taxi to the home of Paul McQueen where we were surprised by...”
+“We wasted no time in catching the next boat train. 
 
 ---
+
+However, when we arrived we found no car waiting for us, so we took a taxi to the home of Paul McQueen where we were surprised by...”
 
 ---
 
@@ -2762,7 +2772,11 @@ I am. This is my associate Captain Hastings. We are here at the invitation of Mr
 ---
 
 ## INSPECTOR GIRAUD:
-“I am convinced that men from my past wish my immediate and violent death.” You have arrived too late. Paul McQueen has been murdered.
+“I am convinced that men from my past wish my immediate and violent death.” 
+
+---
+
+You have arrived too late. Paul McQueen has been murdered.
 
 ---
 
@@ -2811,7 +2825,11 @@ But of course.
 ---
 
 ## INSPECTOR GIRAUD:
-Monsieur McQueen was killed between midnight and two o’clock in the morning. He was stabbed with this letter opener. No fingerprints. He was wearing this suit.
+Monsieur McQueen was killed between midnight and two o’clock in the morning. 
+
+---
+
+He was stabbed with this letter opener. No fingerprints. He was wearing this suit.
 
 ---
 
@@ -2866,7 +2884,11 @@ The lead pipe is not important.
 ---
 
 ## POIROT:
-I grant it is not blood-stained. I grant it seems not to have been used in the attack. But its presence is, contrary to your opinion, very significant.
+I grant it is not blood-stained. I grant it seems not to have been used in the attack. 
+
+---
+
+But its presence is, contrary to your opinion, very significant.
 
 ---
 
@@ -2898,7 +2920,11 @@ Can you tell us, madame, what happened last night?
 ---
 
 ## MRS. MCQUEEN:
-We had retired around midnight, there was a knock at our bedroom door. My husband opened it, two men forced their way in and tied me up.
+We had retired around midnight, there was a knock at our bedroom door. 
+
+---
+
+My husband opened it, two men forced their way in and tied me up.
 
 ---
 
@@ -2959,7 +2985,11 @@ You and your husband are from America, aren’t you?
 ---
 
 ## MRS. MCQUEEN:
-That’s where Paul built his company. There were a lot of rough and tumble men in those oil fields. I can only imagine some old business reared its head.
+That’s where Paul built his company. There were a lot of rough and tumble men in those oil fields. 
+
+---
+
+I can only imagine some old business reared its head.
 
 ---
 
@@ -2974,7 +3004,11 @@ Why did you come here from America?
 ---
 
 ## MRS. MCQUEEN:
-It was Paul’s dream to retire to France. We’d only been here a month or so. We hadn’t even begun to learn the language...
+It was Paul’s dream to retire to France. We’d only been here a month or so. 
+
+---
+
+We hadn’t even begun to learn the language...
 
 ---
 
@@ -2984,7 +3018,11 @@ Mother, I came as soon as I heard.
 ---
 
 ## MRS. MCQUEEN:
-Jack? Erm, this is Inspector Giraud, and Mr. Poirot and Captain Hastings whom your father engaged. This is my son, Jack. I thought you’d be on the boat to New York by now.
+Jack? Erm, this is Inspector Giraud, and Mr. Poirot and Captain Hastings whom your father engaged. 
+
+---
+
+This is my son, Jack. I thought you’d be on the boat to New York by now.
 
 ---
 
@@ -2994,7 +3032,11 @@ New York? By way of..?
 ---
 
 ## JACK:
-Cherbourg. I spent the night there. The ship was to set sail this morning, but when I saw the news of father’s death in the papers, I came back to Merlinville.
+Cherbourg. I spent the night there. 
+
+---
+
+The ship was to set sail this morning, but when I saw the news of father’s death in the papers, I came back to Merlinville.
 
 ---
 
@@ -3059,7 +3101,11 @@ Is that…?
 ---
 
 ## INSPECTOR GIRAUD:
-Madame McQueen has agreed to make the official identification of the body. Are you sure you want to go through with this?
+Madame McQueen has agreed to make the official identification of the body. 
+
+---
+
+Are you sure you want to go through with this?
 
 ---
 
@@ -3099,7 +3145,11 @@ So, Poirot, you will be returning to London now, I think?
 ---
 
 ## POIROT:
-No, Giraud, I will not be returning to London now, I think. I was engaged by letter to protect Paul McQueen’s life.
+No, Giraud, I will not be returning to London now, I think. 
+
+---
+
+I was engaged by letter to protect Paul McQueen’s life.
 
 ---
 
@@ -3198,7 +3248,11 @@ I remember it. Tres tragique.
 ---
 
 ## COMTESSE DELABEGASSIER:
-I take pills for the pain, and the pills make me sleep, and when I sleep, I am dead to the world. Martha stays with me.
+I take pills for the pain, and the pills make me sleep, and when I sleep, I am dead to the world. 
+
+---
+
+Martha stays with me.
 
 ---
 
@@ -3231,9 +3285,15 @@ And now if you will excuse, it is time for my nap. Martha?
 ---
 
 ## MARTHA:
-Yes, Comtesse. Oh, Monsieur Poirot. You asked if there had been any unusual activity. It wasn’t last night, but the day before yesterday. The Comtesse’s bedroom window overlooks the garden of the McQueen’s house. In the
+Yes, Comtesse. Oh, Monsieur Poirot. You asked if there had been any unusual activity. It wasn’t last night, but the day before yesterday. 
 
-afternoon while the Comtesse was napping, I overheard an argument between Mr. McQueen and a man I’d never seen before.
+---
+
+The Comtesse’s bedroom window overlooks the garden of the McQueen’s house. 
+
+---
+
+In the afternoon while the Comtesse was napping, I overheard an argument between Mr. McQueen and a man I’d never seen before.
 
 ---
 
@@ -3243,7 +3303,11 @@ So you did more than hear this argument, you also peeked?
 ---
 
 ## MARTHA:
-The man was asking for money. Mr.and Mrs. McQueen threatened to put the law on him. I couldn’t tell much about the man except that he wore a shabby suit. He looked like a tramp.
+The man was asking for money. Mr.and Mrs. McQueen threatened to put the law on him. 
+
+---
+
+I couldn’t tell much about the man except that he wore a shabby suit. He looked like a tramp.
 
 ---
 
@@ -3323,7 +3387,15 @@ What do you mean?
 ---
 
 ## POIROT:
-My little mustaches, they are tingling. A husband stabbed to death. The wife tied up. And anxious eyes. The details of this crime recall another case many years ago. It is like a Punch and Judy show in which all the heads have been switched. I must find a library and seek out a book. I leave you in charge. I will tell Inspector Giraud to treat you as he would me, by which I mean he will insult you.
+My little mustaches, they are tingling. A husband stabbed to death. The wife tied up. And anxious eyes. The details of this crime recall another case many years ago. 
+
+---
+
+It is like a Punch and Judy show in which all the heads have been switched. I must find a library and seek out a book. 
+
+---
+
+I leave you in charge. I will tell Inspector Giraud to treat you as he would me, by which I mean he will insult you.
 
 ---
 
@@ -3334,8 +3406,6 @@ What shall I do while you’re gone?
 
 ## POIROT:
 To quote the man who was Mark Twain, you must ruin a good walk. Golf!
-
----
 
 ---
 
@@ -3413,6 +3483,10 @@ Well, I...
 
 ## BELLA:
 The body was found right here?
+
+---
+
+
 
 Was it so, so terrible?
 
@@ -3563,7 +3637,13 @@ And it was used to open him. May I touch it?
 ---
 
 ## HASTINGS:
-I’m not sure that would be proper. Strictly speaking, we shouldn’t be here at all without police supervis-INSPECTOR GIRAUD (FROM OFF) Captain Hastings?
+I’m not sure that would be proper. Strictly speaking, we shouldn’t be here at all without police supervis-
+
+---
+
+
+## INSPECTOR GIRAUD: 
+(FROM OFF) Captain Hastings?
 
 ---
 
@@ -3669,9 +3749,19 @@ Erm, any idea who it is?
 ---
 
 ## INSPECTOR GIRAUD:
-No identification, but the tailor’s markings on the suit say “Paul McQueen.” The victim was stabbed. No weapon found.
+No identification, but the tailor’s markings on the suit say “Paul McQueen.” 
+
+---
+
+The victim was stabbed. No weapon found.
+
+
+
+---
 
 The wound was made with a blade like the one used to kill Monsieur McQueen.
+
+---
 
 But where is it?
 
@@ -3684,7 +3774,11 @@ Where’s what?
 
 ## INSPECTOR GIRAUD:
 
-The blade. Someone has taken the letter opener. I will see if one of my men is having it examined. Are you sure there was no one here with you?
+The blade. Someone has taken the letter opener. I will see if one of my men is having it examined. 
+
+---
+
+Are you sure there was no one here with you?
 
 ---
 
@@ -3696,12 +3790,20 @@ I was quite alone.
 ## INSPECTOR GIRAUD:
 I believe you completely.
 
+---
+
+
+
 Touch nothing.
 
 ---
 
 ## POIROT:
 Quickly, Hastings, the corpse, before the inspector returns.
+
+---
+
+
 
 Rigor mortis has come and gone, so he has been dead likely two days. Ruddy complexion, hands rough, dirt beneath the fingernails.
 
@@ -3760,8 +3862,6 @@ The man was stabbed after he was dead. A dead body does not bleed. And the foam 
 
 ---
 
----
-
 ## MRS. MCQUEEN:
 I cannot help you. This tramp showed up two days ago, he wanted a hand out, we told him to leave, we never saw him again.
 
@@ -3793,12 +3893,19 @@ So, then, who do you suspect?
 ---
 
 ## POIROT:
-When a husband is murdered, it is sensible to suspect the wife. But someone did tie you up, those cuts on your wrists prove that. The one thing I cannot dismiss from my mind is the reaction you had to seeing your husband’s corpse.
+When a husband is murdered, it is sensible to suspect the wife. 
+
+---
+
+But someone did tie you up, those cuts on your wrists prove that. 
+
+---
+
+The one thing I cannot dismiss from my mind is the reaction you had to seeing your husband’s corpse.
 
 ---
 
 ## MRS. MCQUEEN:
-
 It was shock.
 
 ---
@@ -3904,7 +4011,11 @@ Mon dieu, Hastings, this is marvelous!
 ---
 
 ## HASTINGS:
-Yes, well, then, when she found out I was helping you with the murder investigation, she immediately became interested and wanted me to show her the body and the evidence.
+Yes, well, then, when she found out I was helping you with the murder investigation, 
+
+---
+
+she immediately became interested and wanted me to show her the body and the evidence.
 
 ---
 
@@ -3925,7 +4036,15 @@ Hastings
 ---
 
 ## HASTINGS:
-She was very insistent! I took her to the morgue and showed her the body. When we heard Inspector Giraud’s voice, she scarpered. It was then the letter opener disappeared. I have a feeling she might have nicked it.
+She was very insistent! I took her to the morgue and showed her the body. 
+
+---
+
+When we heard Inspector Giraud’s voice, she scarpered. It was then the letter opener disappeared. 
+
+---
+
+I have a feeling she might have nicked it.
 
 ---
 
@@ -4046,11 +4165,6 @@ Hastings, will you call the Hotel d’Angleterre and ask them the last name of t
 
 ---
 
-## HASTINGS:
-picks up the desk phone.
-
----
-
 ## JACK:
 Don’t. It’s... Duveen.
 
@@ -4062,7 +4176,6 @@ Arabella Duveen. Inspector, what was written on the note found in Paul McQueen�
 ---
 
 ## INSPECTOR GIRAUD:
-
 “I love you. If I can’t have you, no one will.” B.D.
 
 ---
@@ -4073,7 +4186,6 @@ Bella Duveen. B.D. Was Miss Duveen having an affair with your husband?
 ---
 
 ## MRS. MCQUEEN:
-
 With Paul?
 
 ---
@@ -4115,7 +4227,15 @@ That makes much more sense. This was a secret relationship?
 ---
 
 ## JACK:
-Bella’s an actress. We’d been seeing each other every time her little troupe came through town. I kept it to myself because I didn’t think mother would approve, but I figured my father would get a kick out of it, so I gave him that photo to show him what she looks like.
+Bella’s an actress. We’d been seeing each other every time her little troupe came through town. 
+
+---
+
+I kept it to myself because I didn’t think mother would approve, 
+
+---
+
+but I figured my father would get a kick out of it, so I gave him that photo to show him what she looks like.
 
 ---
 
@@ -4195,9 +4315,15 @@ Actresses and servants, a mother’s tragedy. I take it this too was a secret re
 ---
 
 ## JACK:
-Not because of me. It was Martha who didn’t want anyone to know. She wanted to elope. But I had to tell Bella. Bella came here to the house. Father overheard us. He became furious, waving around that photo, saying how could I marry
+Not because of me. It was Martha who didn’t want anyone to know. She wanted to elope. 
 
-Martha, I’d be breaking Bella’s heart!
+---
+
+But I had to tell Bella. Bella came here to the house. Father overheard us. 
+
+---
+
+He became furious, waving around that photo, saying how could I marry Martha, I’d be breaking Bella’s heart!
 
 ---
 
@@ -4217,7 +4343,15 @@ Yes, Captain Hastings can attest to that. You say she sent you the note two days
 ---
 
 ## JACK:
-The day of father’s murder. It was in my overcoat when he ordered me to go to New York. I was so angry after our argument that when I left I must’ve grabbed the wrong coat. Didn’t realize it until I saw my own at --
+The day of father’s murder. It was in my overcoat when he ordered me to go to New York. 
+
+---
+
+I was so angry after our argument that when I left I must’ve grabbed the wrong coat. 
+
+---
+
+Didn’t realize it until I saw my own at --
 
 ---
 
@@ -4237,7 +4371,11 @@ Yeah, we had a big damn row.
 ---
 
 ## INSPECTOR GIRAUD:
-Which brings me to the official police business on which I have come. Do you know who benefits from your father’s estate?
+Which brings me to the official police business on which I have come. 
+
+---
+
+Do you know who benefits from your father’s estate?
 
 ---
 
@@ -4279,7 +4417,11 @@ But Jack wasn’t even here when Paul was killed, he was in Cherbourg that night
 ---
 
 ## INSPECTOR GIRAUD:
-We have asked in Cherbourg at the train station and all the hotels. Your son was not in Cherbourg on the night of the murder as he did claim. Perhaps he can explain just where he was.
+We have asked in Cherbourg at the train station and all the hotels. 
+
+---
+
+Your son was not in Cherbourg on the night of the murder as he did claim. Perhaps he can explain just where he was.
 
 ---
 
@@ -4300,7 +4442,11 @@ Why?
 ---
 
 ## INSPECTOR GIRAUD:
-You argued with your father, you thought you would inherit half of his estate, and you have no alibi for the time of his murder. Jack McQueen, I am arresting you pending the coroner’s inquest.
+You argued with your father, you thought you would inherit half of his estate, and you have no alibi for the time of his murder. 
+
+---
+
+Jack McQueen, I am arresting you pending the coroner’s inquest.
 
 ---
 
@@ -4400,7 +4546,11 @@ Who are you calling?
 ---
 
 ## POIROT:
-The police station, to make sure Martha and Jack do not speak to each other before the inquest. Hastings, go to the Hotel d’Angleterre! Find Bella Duveen.
+The police station, to make sure Martha and Jack do not speak to each other before the inquest. 
+
+---
+
+Hastings, go to the Hotel d’Angleterre! Find Bella Duveen.
 
 ---
 
@@ -4411,13 +4561,8 @@ So, I went to the hotel, but Bella had checked out. The coroner’s inquest was 
 
 ---
 
----
-
 ## HASTINGS:
----
-
-Poirot
-, what have I missed?
+Poirot, what have I missed?
 
 ---
 
@@ -4443,7 +4588,11 @@ If you must.
 ---
 
 ## POIROT:
-Monsieur McQueen, you have admitted you did remain here in Merlinville on the night of the murder. Do you know that Mademoiselle Martha has given the police a statement that says you stayed in order to see her?
+Monsieur McQueen, you have admitted you did remain here in Merlinville on the night of the murder. 
+
+---
+
+Do you know that Mademoiselle Martha has given the police a statement that says you stayed in order to see her?
 
 ---
 
@@ -4455,16 +4604,18 @@ Monsieur McQueen, you have admitted you did remain here in Merlinville on the ni
 ## POIROT:
 Is what she told the police true?
 
+---
+
+## JACK:
 Erm, yes.
 
+---
+
+## POIROT:
 Why did you do this?
 
 ---
 
-## JACK:
-POIROT
-
----
 
 ## JACK:
 I.. wanted to see Martha before I left for America.
@@ -4570,6 +4721,10 @@ Bella.
 ## BELLA:
 I can’t let this go on.
 
+---
+
+
+
 Your honor, my name is Bella Duveen. I wish to give myself up. I killed Paul McQueen.
 
 ---
@@ -4620,7 +4775,12 @@ Poirot, you’ve got to do something.
 ---
 
 ## POIROT:
-But why? The woman confessed, the mystery is over. HASTINGS Damn you, Poirot, can’t you see she’s innocent?
+But why? The woman confessed, the mystery is over. 
+
+---
+
+## HASTINGS: 
+Damn you, Poirot, can’t you see she’s innocent?
 
 ---
 
@@ -4650,7 +4810,12 @@ He’s worth it.
 ---
 
 ## HASTINGS:
-That girl’s a wonder. Martha has every right to be jealous, yet there’s not a flicker of the “green-eyed monster.” POIROT Mon dieu! Poirot, tu es un idiot! I deserve to be kicked from here to the Folies Bergère!
+That girl’s a wonder. Martha has every right to be jealous, yet there’s not a flicker of the “green-eyed monster.”
+
+---
+
+## POIROT:
+Mon dieu! Poirot, tu es un idiot! I deserve to be kicked from here to the Folies Bergère!
 
 ---
 
@@ -4702,7 +4867,11 @@ Ah, you wanted to kill Jack!
 ---
 
 ## BELLA:
-You read the note I sent. “If I can’t have you, no one will.” In the dark, I mistook Mr. McQueen for Jack and I stabbed him.
+You read the note I sent. “If I can’t have you, no one will.” 
+
+---
+
+In the dark, I mistook Mr. McQueen for Jack and I stabbed him.
 
 ---
 
@@ -4727,7 +4896,11 @@ Mrs. McQueen’s dress/ing --?
 ---
 
 ## POIROT:
-/And after you killed him, you forgot to take the letter opener with you but then remembered you forgot and tricked Captain Hastings into taking you to the morgue so you could take it back.
+/And after you killed him, you forgot to take the letter opener with you 
+
+---
+
+but then remembered you forgot and tricked Captain Hastings into taking you to the morgue so you could take it back.
 
 ---
 
@@ -4787,7 +4960,15 @@ Stop it!
 ---
 
 ## POIROT:
-You didn’t kill Paul McQueen. You thought Jack killed him, that Jack’s fingerprints would be on the letter opener, so you took it to protect him. But Jack was arrested anyway, and the only thing you could think to save him was to make a false confession.
+You didn’t kill Paul McQueen. 
+
+---
+
+You thought Jack killed him, that Jack’s fingerprints would be on the letter opener, so you took it to protect him. 
+
+---
+
+But Jack was arrested anyway, and the only thing you could think to save him was to make a false confession.
 
 ---
 
@@ -4878,7 +5059,11 @@ Oh, now, this is too much!
 ---
 
 ## POIROT:
-/Yes, yes, and there is an explanation, is there not, Monsieur Jack? At the inquest you wanted to say something to me. If you wish a second chance, now would be the time.
+/Yes, yes, and there is an explanation, is there not, Monsieur Jack? 
+
+---
+
+At the inquest you wanted to say something to me. If you wish a second chance, now would be the time.
 
 ---
 
@@ -4893,7 +5078,15 @@ Why not?
 ---
 
 ## JACK:
-Because on the night he was murdered, I didn’t stay in Merlinville to see Martha, I stayed to see Bella. I wanted to talk to her, to try to explain. I ended up spending the night with her at the Hotel d’Angleterre, until morning.
+Because on the night he was murdered, I didn’t stay in Merlinville to see Martha, 
+
+---
+
+I stayed to see Bella. I wanted to talk to her, to try to explain. 
+
+---
+
+I ended up spending the night with her at the Hotel d’Angleterre, until morning.
 
 ---
 
@@ -4923,7 +5116,11 @@ But if Bella and Jack were together, why did she not say that instead of confess
 ---
 
 ## POIROT:
-Bella knew that if she said Jack spent the night with her, it would hurt him in the eyes of his fiancee. Instead, Bella, so to speak, fell on her letter opener. She is a very special woman.
+Bella knew that if she said Jack spent the night with her, it would hurt him in the eyes of his fiancee. 
+
+---
+
+Instead, Bella, so to speak, fell on her letter opener. She is a very special woman.
 
 ---
 
@@ -4933,7 +5130,11 @@ Yes.
 ---
 
 ## POIROT:
-So, Jack is Bella’s alibi, and Bella is Jack’s alibi. Just as Martha was Jack’s alibi, albeit briefly. So many clever people trying to out-clever each other.
+So, Jack is Bella’s alibi, and Bella is Jack’s alibi. Just as Martha was Jack’s alibi, albeit briefly. 
+
+---
+
+So many clever people trying to out-clever each other.
 
 ---
 
@@ -4958,7 +5159,19 @@ It’s not one of his better known ones.
 ---
 
 ## POIROT:
-Because it was a failure. It was called the Berenger Case. I re-read it just today at the Merlinville library. The Berenger Case is identical to the McQueen case in almost every way. At the end of Dr. Watson’s story, a man named Georges Conneau is wanted for the murder of Arnold Berenger and flees France with a beautiful young maid. But Holmes says that one day, “a lamp will be shone on the case,” revealing George Conneau to have been “an honest man.”
+Because it was a failure. It was called the Berenger Case. I re-read it just today at the Merlinville library. 
+
+---
+
+The Berenger Case is identical to the McQueen case in almost every way. 
+
+---
+
+At the end of Dr. Watson’s story, a man named Georges Conneau is wanted for the murder of Arnold Berenger and flees France with a beautiful young maid. 
+
+---
+
+But Holmes says that one day, “a lamp will be shone on the case,” revealing George Conneau to have been “an honest man.”
 
 ---
 
@@ -4978,17 +5191,37 @@ Diogenes.
 ---
 
 ## POIROT:
-Brava! Diogenes searched for an honest man. Today, I sent a telegram to the Diogenes Club in London, inquiring if the club had a member named Georges Conneau, known perhaps as ‘an honest man.’ One hour ago, I received a reply: a package delivered to me by special air courier with this note...
+Brava! Diogenes searched for an honest man. 
+
+---
+
+Today, I sent a telegram to the Diogenes Club in London, inquiring if the club had a member named Georges Conneau, known perhaps as ‘an honest man.’ 
+
+---
+
+One hour ago, I received a reply: a package delivered to me by special air courier with this note...
 
 ---
 
 ## CLUB SECRETARY (VO): 
-“Dear Mr. Poirot, The Diogenes Club is interested to learn that the “Georges Conneau” affair has, in the words of Mycroft Holmes, ‘come alive again.’ Herewith, enclosed are all the relevant documents in the case. The Diogenes Club wishes you good hunting.’ Your servant, Miles Messervy, Club Secretary.”
+“Dear Mr. Poirot, The Diogenes Club is interested to learn that the “Georges Conneau” affair has, in the words of Mycroft Holmes, ‘come alive again.’ 
+
+---
+
+Herewith, enclosed are all the relevant documents in the case. 
+
+---
+
+The Diogenes Club wishes you good hunting.’ Your servant, Miles Messervy, Club Secretary.”
 
 ---
 
 ## POIROT:
-In the package was a dossier containing an account of the Berenger case written not by Dr. Watson - but by Sherlock Holmes! With newsclippings, trial transcripts, photographs.
+In the package was a dossier containing an account of the Berenger case written not by Dr. Watson - but by Sherlock Holmes! 
+
+---
+
+With newsclippings, trial transcripts, photographs.
 
 ---
 
@@ -4998,7 +5231,11 @@ You think that case is connected to Paul McQueen’s murder?
 ---
 
 ## POIROT:
-Man is an unoriginal animal. If a man commits a crime, any other crime he commits will resemble it. The mind behind the murder of Paul McQueen was the same mind behind the murder of Arnold Berenger.
+Man is an unoriginal animal. If a man commits a crime, any other crime he commits will resemble it. 
+
+---
+
+The mind behind the murder of Paul McQueen was the same mind behind the murder of Arnold Berenger.
 
 ---
 
@@ -5018,7 +5255,11 @@ In a sense, yes. Mrs. McQueen, quel est votre prenom?
 ---
 
 ## POIROT:
-I know you understand French, you understood when I told you in French not to become agitated. What is your Christian name?
+I know you understand French, you understood when I told you in French not to become agitated. 
+
+---
+
+What is your Christian name?
 
 ---
 
@@ -5053,7 +5294,15 @@ Lily Berenger.
 ---
 
 ## COMTESSE DELABEGASSIER:
-Hello, Georges. Or should I call you Paul McQueen? If I call you Georges Conneau, you’ll be arrested for murder and lose everything: your wealth, your wife, your son, your head. The guillotine is still comme il faut, is it not? A short, sharp shock?
+Hello, Georges. Or should I call you Paul McQueen? 
+
+---
+
+If I call you Georges Conneau, you’ll be arrested for murder and lose everything: your wealth, your wife, your son, your head. 
+
+---
+
+The guillotine is still comme il faut, is it not? A short, sharp shock?
 
 ---
 
@@ -5078,7 +5327,11 @@ No. I gave birth to a girl. All that for nothing.
 ---
 
 ## POIROT:
-When her daughter was born, Lily Berenger abandoned the child at an orphanage, then continued her life of crime. It is called the confidence game. Tricking people out of money, men mostly.
+When her daughter was born, Lily Berenger abandoned the child at an orphanage, then continued her life of crime. 
+
+---
+
+It is called the confidence game. Tricking people out of money, men mostly.
 
 ---
 
@@ -5155,12 +5408,20 @@ I dropped my cocktail.
 ---
 
 ## POIROT:
-For ten years, Lily does not tell Martha that she is her daughter. And then they arrived at Merlinville.
+For ten years, Lily does not tell Martha that she is her daughter. 
+
+---
+
+And then they arrived at Merlinville.
 
 ---
 
 ## PAUL MCQUEEN:
 A daughter.
+
+---
+
+
 
 Does she have your lips, your smile?
 
@@ -5212,7 +5473,11 @@ Martha wants to keep the marriage a secret, but Jack tells Bella, and his father
 ---
 
 ## MRS. MCQUEEN:
-Jack can’t marry Martha, you know why he can’t! If we don’t do something, she and Lily will have a hold over us for the rest of our lives!
+Jack can’t marry Martha, you know why he can’t! 
+
+---
+
+If we don’t do something, she and Lily will have a hold over us for the rest of our lives!
 
 ---
 
@@ -5222,7 +5487,11 @@ Shhh! I’ll come up with a plan.
 ---
 
 ## POIROT:
-And then fate enters. A man, a tramp, comes into the McQueen’s garden and dies of an epileptic fit. There in that garden, Paul comes up his plan.
+And then fate enters. A man, a tramp, comes into the McQueen’s garden and dies of an epileptic fit. 
+
+---
+
+There in that garden, Paul comes up his plan.
 
 ---
 
@@ -5232,13 +5501,16 @@ The only way to get free of their clutches is if I’m dead.
 ---
 
 ## MRS. MCQUEEN:
-
 Dead? No, you /can’t!
 
 ---
 
 ## PAUL MCQUEEN:
-/Eloise, hear me out! I won’t die. This poor man will play my corpse. I’ll stab him with that letter opener of yours, and /then...
+/Eloise, hear me out! I won’t die. This poor man will play my corpse. 
+
+---
+
+I’ll stab him with that letter opener of yours, and /then...
 
 ---
 
@@ -5268,7 +5540,11 @@ Where will you go?
 ---
 
 ## PAUL MCQUEEN:
-I’ll slip away over the golf course and stowaway on a ship to New York. I’ll send Jack there ahead of me. In a month or so, you’ll join us.
+I’ll slip away over the golf course and stowaway on a ship to New York. 
+
+---
+
+I’ll send Jack there ahead of me. In a month or so, you’ll join us.
 
 ---
 
@@ -5348,7 +5624,15 @@ I’m sorry, but it’s got to look right.
 ---
 
 ## POIROT:
-He goes to the garden. He stabs the corpse with the letter opener. He gets a length of pipe and is about to disfigure the tramp’s face when something stops him. A shadow on the 16th green. He goes to investigate...
+He goes to the garden. He stabs the corpse with the letter opener. 
+
+---
+
+He gets a length of pipe and is about to disfigure the tramp’s face when something stops him. 
+
+---
+
+A shadow on the 16th green. He goes to investigate...
 
 ---
 
@@ -5398,7 +5682,15 @@ I assume you’re accusing me of murdering Paul.
 ---
 
 ## POIROT:
-Mais, no. You could not have murdered Paul McQueen. You are in that chair. No, everyone here has an alibi. You were in your room, mort au monde, dead to the world. Bella was with Jack, Jack was with Bella, Mrs. McQueen was tied up. Everyone except...
+Mais, no. You could not have murdered Paul McQueen. You are in that chair. 
+
+---
+
+No, everyone here has an alibi. You were in your room, mort au monde, dead to the world. 
+
+---
+
+Bella was with Jack, Jack was with Bella, Mrs. McQueen was tied up. Everyone except...
 
 ---
 
@@ -5408,7 +5700,11 @@ Why are you looking at me?
 ---
 
 ## POIROT:
-You did have an alibi, briefly, when you lied about Jack spending the night with you. But that was not to give Jack an alibi, it was to give you an alibi.
+You did have an alibi, briefly, when you lied about Jack spending the night with you. 
+
+---
+
+But that was not to give Jack an alibi, it was to give you an alibi.
 
 ---
 
@@ -5420,7 +5716,15 @@ What? No.
 ## POIROT:
 For years you had dreamed of escaping this woman who raised you to be a criminal, who made you do unspeakable things.
 
-Then Jack McQueen asks you to marry him. At last your dream is about to come true. And then, while she is taking her nap in the bedroom that overlooks the McQueen’s garden, you overhear:
+---
+
+
+
+Then Jack McQueen asks you to marry him. At last your dream is about to come true. 
+
+---
+
+And then, while she is taking her nap in the bedroom that overlooks the McQueen’s garden, you overhear:
 
 ---
 
@@ -5430,7 +5734,11 @@ Jack can’t marry Martha, you know why he can’t.
 ---
 
 ## POIROT:
-What are they talking about? Your mother has never told you the truth. But you have overheard Paul McQueen make his plan of escape, so when Paul goes out that night...
+What are they talking about? Your mother has never told you the truth. 
+
+---
+
+But you have overheard Paul McQueen make his plan of escape, so when Paul goes out that night...
 
 ---
 
@@ -5560,7 +5868,16 @@ I didn’t!
 ---
 
 ## POIROT:
-You are the only person who could have done so. Unless your mother can give you an alibi for the time of the murder. MARTHA But she can! It wasn’t like I said, I was in her bedroom with her, all night, she knows that, she saw me! Tell them, Comtesse - Mother? - Help me!
+You are the only person who could have done so. Unless your mother can give you an alibi for the time of the murder. 
+
+---
+
+## MARTHA: 
+But she can! It wasn’t like I said, I was in her bedroom with her, all night, she knows that, she saw me! 
+
+---
+
+Tell them, Comtesse - Mother? - Help me!
 
 ---
 
@@ -5622,7 +5939,15 @@ You monster!
 ## COMTESSE DELABEGASSIER:
 Oh, Eloise, stop. Always so emotional.
 
-When she was my maid, she’d cry over Georges so much her tears got in the tea. As I said, an entertaining evening, but if there’s nothing more…
+---
+
+
+
+When she was my maid, she’d cry over Georges so much her tears got in the tea. 
+
+---
+
+As I said, an entertaining evening, but if there’s nothing more…
 
 ---
 
@@ -5677,7 +6002,15 @@ No one thought about fingerprints then. We do now.
 ---
 
 ## COMTESSE DELABEGASSIER:
-You tricky little Belgian fop. If I were younger I’d melt your mustache wax. You think you have me? I deny everything. If there are fingerprints on that scalpel, they’re not mine. Those fingerprints and that scalpel belong to Dr. John Watson. I...
+You tricky little Belgian fop. If I were younger I’d melt your mustache wax. 
+
+---
+
+You think you have me? I deny everything. If there are fingerprints on that scalpel, they’re not mine. 
+
+---
+
+Those fingerprints and that scalpel belong to Dr. John Watson. I...
 
 ---
 
@@ -5758,7 +6091,15 @@ How in heaven’s name did you know Martha was George Conneau’s daughter?
 ---
 
 ## POIROT:
-It was you gave me the clue when you said the line from Shakespeare: “The green eyed monster.” Very much like what Sherlock Holmes wrote: “The eyes have it.” Martha’s eyes are green just as George Conneau’s were green.
+It was you gave me the clue when you said the line from Shakespeare: “The green eyed monster.” 
+
+---
+
+Very much like what Sherlock Holmes wrote: “The eyes have it.” 
+
+---
+
+Martha’s eyes are green just as George Conneau’s were green.
 
 ---
 
@@ -5768,7 +6109,11 @@ And you know Georges Conneau’s eyes were green because...?
 ---
 
 ## POIROT:
-From Dr. Watson’s story. Lily Berenger testified, quote: “Georges’ green, glowing eyes were filled with jealous madness!” Even in death, as the late Paul McQueen, his eyes were green, a color that only occurs if the parents pass down the correct genetic code.
+From Dr. Watson’s story. Lily Berenger testified, quote: “Georges’ green, glowing eyes were filled with jealous madness!” 
+
+---
+
+Even in death, as the late Paul McQueen, his eyes were green, a color that only occurs if the parents pass down the correct genetic code.
 
 ---
 
@@ -5793,7 +6138,11 @@ Oh, she has been released, I saw to that.
 ---
 
 ## HASTINGS:
-Thank God. I want to take her from away all this intrigue, give her a breath of fresh air. She and I have a true sympathy and common sensibility that --
+Thank God. I want to take her from away all this intrigue, give her a breath of fresh air. 
+
+---
+
+She and I have a true sympathy and common sensibility that --
 
 ---
 
@@ -5881,7 +6230,11 @@ So, erm, Poirot, in Holmes’ dossier...
 ---
 
 ## POIROT:
-Yes, the dossier, we must keep safe. But for you, Hastings, I give this: the original manuscript of Dr. Watson’s story. You see the title there?
+Yes, the dossier, we must keep safe. But for you, Hastings, I give this: the original manuscript of Dr. Watson’s story. 
+
+---
+
+You see the title there?
 
 ---
 
@@ -5912,6 +6265,10 @@ Sussex?
 
 ## POIROT:
 It is the county in England where a certain retired detective keeps his bees.
+
+---
+
+
 
 THE END
 
