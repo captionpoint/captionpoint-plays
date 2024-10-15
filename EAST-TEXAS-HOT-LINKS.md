@@ -755,11 +755,7 @@ You married her. I ain’t liable no more. Anyway he tellin’ the truth.
 ---
 
 ## COLUMBUS:
-Belinda can cook… 
-
---- 
-
-some thangs. She make a good breakfast.
+Belinda can cook… some thangs. She make a good breakfast.
 
 
 ---
