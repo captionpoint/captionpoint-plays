@@ -86,7 +86,6 @@ By Jeffrey Hatcher & Steve Hendrickson
 
 ---
 
-
 ## HOLMES:
 “A body with a blade. Any type will do, so long as it’s sharp enough to cut through fabric, flesh and bone.”
 
@@ -389,10 +388,16 @@ Mrs. Berenger, may I present Mr. Sherlock Holmes.
 ---
 
 ## LILY: 
-Mr. Holmes. Mrs. Berenger.
+Mr. Holmes.
 
 ---
 
+## HOLMES:
+Mrs. Berenger.
+
+---
+
+## LILY:
 Eloise, tea. 
 
 ---
@@ -428,7 +433,7 @@ I know. I may have overreacted to this news about my heritage.
 ---
 
 ## HOLMES:
-You mean your claim to being a member of the Russian royal family
+You mean your claim to being a member of the Russian royal family?
 
 ---
 
@@ -521,7 +526,7 @@ Russia is rife with plots and counterplots. The last czar was assassinated, the 
 
 ---
 
-Anyone revealed to be in the line of succession would be vulnerable to kidnapping, ransom, murder by any of the rival revolutionary factions.
+Anyone revealed to be in the royal line of succession would be vulnerable to kidnapping, ransom, murder by any of the rival revolutionary factions.
 
 ---
 
@@ -572,6 +577,12 @@ Good lord. Watson. Come all the way to Paris to practice more of your medical qu
 Berenger. Who’s this?
 
 ---
+
+## ARNOLD:
+Who's this?
+
+---
+
 
 ## LILY:
 Allow me to introduce my husband Arnold and his business partner Georges Conneau. This is Mr. Sherlock Holmes.
@@ -897,9 +908,15 @@ Desist, cease, stop! La femme est folle!
 
 ## FRAULEIN BUNDT:
 
-Kiki. Pardon.
+Kiki.
 
 ---
+
+## MADEMOISELLE RASPAIL:
+Pardon.
+
+---
+
 
 ## FRAULEIN BUNDT:
 Madame Berenger does not want it revealed that her mother used little restraint in matters of affection. 
@@ -1354,7 +1371,7 @@ Well...
 ---
 
 ## HOLMES:
-Mr. Berenger was killed but not tied up. Mrs. Berenger was tied up but not killed. 
+Arnold Berenger was killed but not tied up. Lily Berenger was tied up but not killed. 
 
 ---
 
@@ -1426,9 +1443,15 @@ Mr. Holmes. John says you have a theory.
 ---
 
 ## HOLMES:
-I do. Would you be kind enough to show Dr. Watson your hands? LILY Certainly.
+I do. Would you be kind enough to show Dr. Watson your hands? 
 
 ---
+
+## LILY:
+Certainly.
+
+---
+
 
 ## HOLMES:
 Watson, what do you see?
@@ -1525,6 +1548,17 @@ Please hurry, John, it stings!
 
 ---
 
+## HOLMES:
+You will forgive me, Mrs. Berenger, I would not inconvience you if I hadn't a reason. 
+
+
+---
+
+Problem, Watson?
+
+---
+
+
 ## WATSON:
 I can’t find my scalpel. Here, I’ll untie you.
 
@@ -1581,7 +1615,7 @@ How dare you? How dare you? My husband is dead, I may be next and you suggest I 
 ---
 
 ## WATSON:
-Holmes isn’t saying --
+Holmes isn’t  saying --
 
 ---
 
@@ -1905,7 +1939,7 @@ Why couldn’t he, Eloise?
 ---
 
 ## ELOISE:
-Because I know his heart. Georges Conneau, he is a good man.
+Because I know his heart. Georges Conneau, he is an honest man.
 
 ---
 
@@ -1924,15 +1958,15 @@ And then the accused took the stand...”
 
 ## ADVOCATE (V.O.)
 
-Madame Berenger, you told the police that on the night in question, 
+Madame Berenger, you told the police that on the night of the murder, 
 
 ---
 
-two Russians tied you up with rope and stabbed your husband Arnold Berenger to death. 
+two Russians tied you up with rope and stabbed your husband to death. 
 
 ---
 
-Please tell the court, is this the truth?
+Please tell the court, is this true?
 
 ---
 
@@ -1956,7 +1990,7 @@ Yes. And it has driven me nearly mad to keep it all inside until now.
 ---
 
 ## ADVOCATE (V.O.):
-What in truth happened the night of your husband’s murder?
+What did happen the night of your husband’s murder?
 
 ---
 
@@ -2014,30 +2048,13 @@ His death. I will kill him, and we will say the Russians did it.
 
 ---
 
-Only: there are no Russians.
+Lily, say that you love me!
 
 ---
 
 ## LILY:
-What?
+No! I don't love you! I could never love you!
 
----
-
-## GEORGES:
-I paid Fraulein Bundt to fabricate that genealogical tree, to make it look as though you were related to the House of Romanov. 
-
----
-
-Now everyone believes you and Arnold are in mortal danger from these murderous Russians. 
-
----
-
-But there is only me. Lily, say that you love me!
-
----
-
-## LILY:
-No! I don’t love you! I could never love you!
 
 ---
 
@@ -2079,30 +2096,11 @@ so the police would think I had nothing to do with Arnold’s murder.
 ---
 
 ## ADVOCATE (V.O.):
-Madame Berenger, you say the two Russians were a fabrication. 
+Madame Berenger, until today you have told nothing but lies about the case.
 
 ---
 
-But Sherlock Holmes and John Watson testified that they followed two such individuals that night.
-
----
-
-## LILY:
-Those two individuals were Fraulein Bundt and Mademoiselle Raspail, in disguise. 
-
----
-
-Georges had enlisted them to lure Mr. Holmes and Dr. Watson away from the hotel. 
-
----
-
-As for their deaths, I can only assume Georges feared they knew too much or wanted too much money, so he killed them.
-
----
-
-## ADVOCATE (V.O.):
-
-Until today you have not told the truth about any of this. Why should the court believe you now?
+Why should the court believe you now?
 
 ---
 
@@ -2245,7 +2243,7 @@ He does not.
 ---
 
 ## HOLMES:
-But you had a different idea.
+So you had a different idea.
 
 ---
 
@@ -2343,18 +2341,12 @@ Once they commenced to lead us on a chase, you let Georges Conneau into your hot
 ---
 
 ## ARNOLD:
-Georges?
+Georges? What are you doing here?
 
 
 ---
-
 
 Aggh!
-
----
-
-## ARNOLD:
-What’re you doing here?
 
 ---
 
@@ -2447,7 +2439,29 @@ So, he cannot be the father. The father is Georges Conneau.
 ---
 
 ## LILY:
-My, I am a terrible person. But only Georges Conneau could confirm what you’ve alleged, and he has disappeared.
+My, I am a terrible person. But apparently not clever enough to avoid being tried for murder.
+
+---
+
+## HOLMES:
+That was your masterstroke: to orchestrate your own arrest so that you could give that performance today in court.
+
+---
+
+Watching you tear the truth out of yourself, it was like the last act of MEDEA.
+
+---
+
+I wasn't surprised to learn that previous to your marriage, you were an actress.
+
+---
+
+## LILY:
+I never played MEDEA, Mr. Holmes, just maids. Well, this is absolutely mesmerizing.
+
+---
+
+Unfortunately, only Georges Conneau could confirm what you've alleged, and he has disappeared.
 
 ---
 
@@ -2533,7 +2547,7 @@ What are you talking about?
 ---
 
 ## HOLMES:
-I wouldn’t drink from it if I were you. Mrs. Berenger is responsible for three deaths already, she intended to make you the fourth. 
+I wouldn’t drink from it if I were you. Lily Berenger is responsible for three deaths already, she intended to make you the fourth. 
 
 ---
 
@@ -2635,12 +2649,12 @@ Then the message to Mademoiselle Eloise will be a shake of the head and you must
 ---
 
 ## LILY:
-My, what a mastermind you make me out to be.
+My. I am a mastermind.
 
 ---
 
 ## HOLMES:
-All that remains is that I send Georges Conneau the message that you have put the blame on him and insist that the Judge halt the trial until his arrival.
+All that remains is that I send word to Georges Conneau that you have put the blame on him and insist that the Judge halt the trial until his arrival.
 
 ---
 
@@ -2733,7 +2747,7 @@ Now you understand why you will not insist that the judge halt the trial nor sen
 ---
 
 ## HOLMES:
-I have been bested by a woman only once before, but you have no equal of your sex in cunning and ruthlessness. 
+I have been bested by a woman only once before, but you, madam, have no equal of your sex in cunning and ruthlessness. 
 
 ---
 
@@ -2757,7 +2771,7 @@ Good hunting, Mr. Holmes.
 ---
 
 ## WATSON:
-The charges against Lily have been dismissed.
+Lily Berenger has been acquitted..
 
 ---
 
@@ -3024,7 +3038,7 @@ Let me pack my clubs.
 
 ---
 
-However, when we arrived we found no car waiting for us, so we took a taxi to the home of Paul McQueen where we were surprised by...”
+However, when we arrived at the station we found no car waiting for us, so we took a taxi to the home of Paul McQueen where we were surprised by...”
 
 ---
 
@@ -3070,7 +3084,7 @@ At the 16th hole of the Merlinville Golf Course.
 ---
 
 ## HASTINGS:
-Poirot, you promised me a trip to the links, didn’t think it would be so soon.
+Poirot, you promised me a trip to the links, but I didn’t think it would be so soon.
 
 ---
 
@@ -3279,7 +3293,7 @@ Why did you come here from America?
 ---
 
 ## MRS. MCQUEEN:
-It was Paul’s dream to retire to France. We’d only been here a month or so. 
+It was Paul’s dream to retire to France. We’d only been here a few months. 
 
 ---
 
@@ -3478,12 +3492,12 @@ D’accord.
 ---
 
 ## POIROT:
-And on that subject, how close is the golf course to the McQueen’s house?
+And on that subject, how close is the golf course to Chez McQueen?
 
 ---
 
 ## INSPECTOR GIRAUD:
-It is adjacent.
+The McQueen house borders the 16th green.
 
 ---
 
@@ -3493,14 +3507,14 @@ Are there other houses nearby?
 ---
 
 ## INSPECTOR GIRAUD:
-Just the villa of the Comtesse Delabegassier. She lives there with her companion.
+Just the villa of the Comtesse Delabegassier. She lives there with her lady's companion.
 
 ---
 
 ---
 
 ## COMTESSE DELABEGASSIER:
-Paul McQueen dead? So terrible! Martha and I came to Merlinville only two months ago, but he was in every way a charming neighbor.
+Paul McQueen dead? So terrible! Martha and I came to Merlinville only a months ago, but he was in every way a charming neighbor.
 
 ---
 
@@ -3546,13 +3560,13 @@ Yes.
 
 
 ## POIROT:
-All night? All
+All night? 
 
 ---
 
 
 ## MARTHA:
-night.
+All night.
 
 ---
 
@@ -3617,8 +3631,14 @@ He returned from Cherbourg when he learned of his father’s death.
 
 ---
 
+## MARTHA:
+Poor Jack.
+
+---
+
+
 ## COMTESSE DELABEGASSIER:
-Poor Jack. Martha.
+Martha.
 
 ---
 
@@ -3787,12 +3807,12 @@ It was, rather. He was stabbed to death.
 ---
 
 ## BELLA:
-Stabbed with what? A
+Stabbed with what? 
 
 ---
 
 ## HASTINGS:
-letter opener.
+A letter opener.
 
 ---
 
@@ -3948,13 +3968,13 @@ Is that a policeman?
 ---
 
 ## HASTINGS:
-Erm, let me -- Captain
+Erm, let me -- 
 
 ---
 
 ## INSPECTOR GIRAUD:
 (FROM OFF)
-Hastings!
+Captain Hastings!
 
 ---
 
@@ -4008,6 +4028,16 @@ A second murder has been committed.
 
 ---
 
+## HASTINGS:
+A second murder?
+
+---
+
+## POIROT:
+You will or will not be surprised to learn where it was discovered.
+
+---
+
 ## INSPECTOR GIRAUD:
 This man was found in the McQueen garden, in the border between the houses and the 16th green.
 
@@ -4058,7 +4088,7 @@ The wound was made with a blade like the one used to kill Monsieur McQueen.
 
 ---
 
-But where is it?
+La vache! But where is it?
 
 ---
 
@@ -4289,6 +4319,11 @@ Looking for something that makes sense of that note found in the overcoat worn b
 
 ---
 
+"I love you. If I can't have you, no one will. B.D."
+
+---
+
+
 ## HASTINGS:
 Erm, Poirot, I feel a need to confess something to you. On the golf course today I, erm... I met a woman.
 
@@ -4498,7 +4533,7 @@ Arabella Duveen. Inspector, what was written on the note found in Paul McQueen�
 ---
 
 ## POIROT:
-Bella Duveen. B.D. Was Miss Duveen having an affair with your husband?
+Arabella Duveen. Bella Duveen. B.D. Was Miss Duveen having an affair with your husband?
 
 ---
 
@@ -4562,10 +4597,14 @@ This was when?
 ---
 
 ## JACK:
-Six, eight weeks ago. And the note?
+Six, eight weeks ago.
 
 ---
 
+## POIROT:
+And the note?
+
+---
 
 ## JACK:
 Bella sent that to me after I broke things off with her.
@@ -4590,7 +4629,7 @@ Two days ago.
 ---
 
 
-## HASTINGS/POIROT:
+## HASTINGSPOIROT:
 Because?
 
 ---
@@ -5034,7 +5073,7 @@ Oui, mademoiselle, and you are, I believe...
 
 ---
 
-## JACK/HASTINGS:
+## JACKHASTINGS:
 Bella.
 
 ---
@@ -5086,16 +5125,6 @@ Bella, you can’t be the murderer, I don’t believe it!
 
 ## BELLA:
 I’m sorry, Arthur.
-
----
-
-## HASTINGS:
-Bella... darling... there’s something I must tell you-
-
----
-
-## BELLA: 
-And I, you, Arthur!
 
 ---
 
@@ -5456,7 +5485,7 @@ Instead, Bella, so to speak, fell on her letter opener. She is a very special wo
 
 ---
 
-## HASTINGS/JACK:
+## HASTINGSJACK:
 Yes.
 
 ---
@@ -5543,12 +5572,12 @@ One hour ago, I received a reply: a package delivered to me by special air couri
 
 ---
 
-## CLUB SECRETARY (VO): 
-“Dear Mr. Poirot, The Diogenes Club is interested to learn that the “Georges Conneau” affair has, 
+## MYCROFT HOLMES (VO): 
+“Dear Mr. Poirot, The Diogenes Club is not surprised to learn that the “Georges Conneau” affair has, 
 
 ---
 
-in the words of Mycroft Holmes, ‘come alive again.’ 
+as brother Sherlock predicted, ‘come alive again.’ 
 
 ---
 
@@ -5556,7 +5585,7 @@ Herewith, enclosed are all the relevant documents in the case.
 
 ---
 
-The Diogenes Club wishes you good hunting.’ Your servant, Miles Messervy, Club Secretary.”
+The Diogenes Club wishes you good hunting.’ Your servant, Mycroft Holmes.”
 
 ---
 
@@ -5772,9 +5801,15 @@ Does she have your lips, your smile?
 ---
 
 ## COMTESSE DELABEGASSIER:
-She has your eyes. They’re watching us from the villa. MARTHA Who was that you were talking to?
+She has your eyes. They’re watching us from the villa. 
 
 ---
+
+## MARTHA:
+Who was that you were talking to?
+
+---
+
 
 ## COMTESSE DELABEGASSIER:
 A very rich man. Now go seduce his son.
@@ -5812,7 +5847,7 @@ No! I don’t want the Comtesse to find out, not yet. Let’s elope. Please?
 ---
 
 ## POIROT:
-Martha wants to keep the marriage a secret, but Jack tells Bella, and his father finds out.
+Martha wants to keep the engagement a secret, but Jack tells Bella, and his father finds out.
 
 ---
 
@@ -5835,7 +5870,7 @@ And then fate enters. A man, a tramp, comes into the McQueen’s garden and dies
 
 ---
 
-There in that garden, Paul comes up his plan.
+There in that garden, Paul comes up with his plan.
 
 ---
 
@@ -5868,8 +5903,8 @@ And then I’ll disfigure his face! I’ll beat it to a pulp with a piece of pip
 
 ---
 
-## MRS. MCQUEEN:
-Oh, my God.
+## POIROT:
+Leadpipe.
 
 ---
 
@@ -5942,19 +5977,14 @@ Don’t argue with me, Jack, just do as you’re told!
 ---
 
 ## POIROT:
-He changes his will.
+He changes his will. That night, at midnight he switches his good suit with the tramp's poor one.
 
 ---
 
-## PAUL MCQUEEN:
-Signed, Paul MacQueen.
+He dons his son's overcoat.
 
 ---
 
-## POIROT:
-That night, at midnight, he switches his good suit with the tramp’s poor one. He dons his son’s overcoat.
-
----
 
 ## POIROT:
 He ties up his wife Eloise, correcting the mistake he made when he tied up Lily Berenger 25 years before.
@@ -5990,7 +6020,7 @@ What are you doing out here?
 ---
 
 ## POIROT:
-And sees his murderer.
+And sees his murderer, waiting for him.
 
 ---
 
@@ -6190,9 +6220,14 @@ You abandoned me to that woman!
 ---
 
 ## PAUL MCQUEEN:
-As far as I was concerned you didn’t exist! Aggh!
+As far as I was concerned you didn’t exist! 
 
 ---
+
+Aggh!
+
+---
+
 
 ## MARTHA:
 How can you think that of me?
@@ -6324,7 +6359,7 @@ She didn’t run away, she went up to the Comtesse’s room!
 ---
 
 ## COMTESSE DELABEGASSIER:
-What’s that you’re holding?
+Martha, what are you doing?
 
 ---
 
@@ -6478,7 +6513,7 @@ a color that only occurs if the parents pass down the correct genetic code.
 ---
 
 ## HASTINGS:
-Genetic?
+Genetic code?
 
 ---
 
@@ -6498,7 +6533,7 @@ Oh, she has been released, I saw to that.
 ---
 
 ## HASTINGS:
-Thank God. I want to take her from away all this intrigue, give her a breath of fresh air. 
+Thank God. I want to take her away from all this intrigue, give her a breath of fresh air. 
 
 ---
 
@@ -6542,7 +6577,7 @@ In a moment, Jack. Captain Hastings... Arthur... I owe you my life. Well, what w
 ---
 
 ## HASTINGS:
-Hmm?
+Hmm, what?
 
 ---
 
@@ -6612,17 +6647,18 @@ Was it? Curious what one notices about a woman and what one doesn’t.
 ---
 
 ## POIROT:
-When I heard those words, I knew it was a clue to follow. Which is what we shall tell them when we arrive in Sussex.
+When I heard those words, I knew it was a clue to follow. Which is what we shall tell them when we arrive in Sussex where a certain retired detective keeps his bees.
 
 ---
 
 ## HASTINGS:
-Sussex?
+A bee-keeping detective?
 
 ---
 
 ## POIROT:
-It is the county in England where a certain retired detective keeps his bees.
+One almost as great as myself. Sherlock Holmes.
+
 
 ---
 ---
@@ -6634,7 +6670,7 @@ Open Captioning for this performance was made possible by CaptionPoint.
 
 <style>
 /* 2022 styles to match hackmd.io */
-.remark-slide-content { font-size: 3.5rem;}
+.remark-slide-content { font-size: 4.5rem;}
 .remark-slide-content p {padding-bottom: 2%;}
 .remark-slide-content > p:first-child::before {
   height: 50px;
