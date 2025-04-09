@@ -244,16 +244,16 @@ blockquote {
 /*TEMPLATE: NOISE STYLES*/
 .noise {
   text-align: center;
-  // p{
-  //   &:first-child::before,
-  //   &::before {
-  //   content: "[";
-  //   display: inline-block;
-  // }
-  //   &::after {
-  //   content: "]";
-  // }
-  // }
+  p{
+    &:first-child::before,
+    &::before {
+    content: "[";
+    display: inline-block;
+  }
+    &::after {
+    content: "]";
+  }
+  }
 
 }
 /*-----------------------------------------*/
@@ -457,7 +457,7 @@ h2[id*="nine-"] {
 
 @page {
   // 908px 681px for 4/3 slides
-  size: 1210px 681px;
+  // size: 1210px 681px;
   margin: 0;
 }
 
@@ -485,3 +485,5 @@ h2[id*="nine-"] {
     color: $purple-header;
   }
 }
+
+
