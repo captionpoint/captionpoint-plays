@@ -911,8 +911,6 @@ Shall I call you by today’s name?
 ## REN:
 Whisper it to me.
 
-(Fallon leans over, speaks low into her ear. Ren laughs, whispers into his ear. They kiss as, elsewhere, the lights come up on Olivia in a cafe. She’s looking around, clearly annoyed.)
-
 ---
 
 ## OLIVIA:
@@ -963,7 +961,9 @@ How about you?
 ## OLIVIA:
 Believe it or not, I’m wonderful too. This may be a first. Both of us wonderful at the same time.
 
---- ordered you a caramel latte. Twenty minutes ago, glacier standard time.
+--- 
+
+I ordered you a caramel latte. Twenty minutes ago, glacier standard time.
 
 ---
 
@@ -983,7 +983,11 @@ Sugar too now? Then why did you want to meet here?
 ---
 
 ## OLIVIA:
-Because you love your sweets. So go for it. Although I think our server might have gone back to theatre school—I haven’t seen him since I sat down.
+Because you love your sweets. So go for it. 
+
+---
+
+Although I think our server might have gone back to theatre school—I haven’t seen him since I sat down.
 
 ---
 
@@ -999,7 +1003,9 @@ What? Why?
 ## OLIVIA:
 I don’t know … I’ve been thinking about marriages that seem to kind of work, and, seriously I’m finding hardly any, but yours did come to mind. 
 
---- don’t know. I guess that’s something… I might want… at some point. I would say. … So.
+--- 
+
+I don’t know. I guess that’s something… I might want… at some point. I would say. … So.
 
 ---
 
@@ -1009,7 +1015,11 @@ What is? Marriage?
 ---
 
 ## OLIVIA:
-Well, happy marriage. But I have this horrible feeling that once the initial excitement dies down, the most I’ll be left with is some vague sense of comfort. 
+Well, happy marriage. 
+
+---
+
+But I have this horrible feeling that once the initial excitement dies down, the most I’ll be left with is some vague sense of comfort. 
 
 ---
 
@@ -1023,7 +1033,11 @@ You might be surprised.
 ---
 
 ## OLIVIA:
-Nah. I think I’m happiest when I’m feeling just on the edge of uncomfortable. That’s m’ sweet spot. So I just wondered… I mean you and Dad seem comfortable and I wondered… 
+Nah. I think I’m happiest when I’m feeling just on the edge of uncomfortable. 
+
+---
+
+That’s m’ sweet spot. So I just wondered… I mean you and Dad seem comfortable and I wondered… 
 
 ---
 
@@ -1133,7 +1147,9 @@ No. That’s not really it, though, is it? It’s trust, right? Faith. Deciding 
 
 Don’t make the leap, we’re all safe but alone. Make the leap and … it’s still a total crapshoot. 
 
----’m just realizing how really small the chances are of finding the one person on the planet you’re meant to be with.
+---
+
+I’m just realizing how really small the chances are of finding the one person on the planet you’re meant to be with.
 
 ---
 
@@ -1232,7 +1248,9 @@ Oh. Well, Ma, I didn’t mean—
 ## REN:
 No, don’t apologize. I asked. But. I’ve started something new that I think might just surprise you.
 
----t’s like nothing I’ve ever done before.
+---
+
+It’s like nothing I’ve ever done before.
 
 ---
 
@@ -1274,7 +1292,9 @@ A house? Really? Why?
 ## FALLON:
 Because we were eleven. And it was just a dilapidated old farm house, a sort of relic, abandoned years earlier. 
 
----t was hunkered down in the middle of a scrubby field where nothing grew. 
+---
+
+It was hunkered down in the middle of a scrubby field where nothing grew. 
 
 ---
 
@@ -1290,13 +1310,17 @@ So you set fire to it.
 ## FALLON:
 We did. I’m not really sure at this point how that came about actually. 
 
----t strikes me now that one minute Malloy and I were simply standing there with the dusk coming on, and the next minute the idea occurred to us both at the same time. I don’t remember speaking about it. 
+---
+
+It strikes me now that one minute Malloy and I were simply standing there with the dusk coming on, and the next minute the idea occurred to us both at the same time. I don’t remember speaking about it. 
 
 ---
 
 Although we must’ve. In any case, we acted as a unit. We went all around the building, dropping lit matches. 
 
----t was all very somber and formalritualistic in a way—deeply, deeply seductive. And thrilling when the flames began to take hold. 
+---
+
+It was all very somber and formalritualistic in a way—deeply, deeply seductive. And thrilling when the flames began to take hold. 
 
 ---
 
@@ -1376,7 +1400,11 @@ Yes, I know. But if the place had been deserted—
 ---
 
 ## FALLON:
-No place is ever completely empty, though, is it? Memories bank up in the hallways, you know. Stories collect in the corners and blow in and out through cracks in the windowpanes.
+No place is ever completely empty, though, is it? Memories bank up in the hallways, you know. 
+
+---
+
+Stories collect in the corners and blow in and out through cracks in the windowpanes.
 
 ---
 
@@ -1455,12 +1483,28 @@ Thanks. I love it when you’re flip.
 ---
 
 ## REN:
-I’m sorry. I didn’t mean to be flip. It’s only that it seems like a big step, and I don’t blame you for not knowing if you want to take it. Has it gotten that serious? OLIVIA Um … I kinda think it maybe has.
+I’m sorry. I didn’t mean to be flip. It’s only that it seems like a big step, and I don’t blame you for not knowing if you want to take it. Has it gotten that serious? 
+
+---
+
+## OLIVIA: 
+Um … I kinda think it maybe has.
 
 ---
 
 ## REN:
-Oh, sweetie. Enjoy itOLIVIA I knowREN But be careful with yourself.
+Oh, sweetie. Enjoy it
+
+---
+
+## OLIVIA:
+I know
+
+
+---
+
+## REN: 
+But be careful with yourself.
 
 ---
 
@@ -1560,13 +1604,19 @@ I’m going to just go fix myself a quick one. I’ll catch up. Sorry. Excuse me
 ---
 
 ## OLIVIA:
-I mean, OK yes, I still have insomnia sometimes and anxiety now and then, and sure, I’m a mess overall, but not any worse than anyone else I can think of—certainly not any worse than you, Mom—
+I mean, OK yes, I still have insomnia sometimes and anxiety now and then, and sure, I’m a mess overall, 
+
+---
+
+but not any worse than anyone else I can think of—certainly not any worse than you, Mom—
 
 ---
 
 and I just don’t understand why it’s still so important to you to see me as broken. 
 
----’m not. Broken.
+---
+
+I’m not. Broken.
 
 ---
 
@@ -1640,7 +1690,9 @@ You’re fixed.
 ## OLIVIA:
 Yes. I’ve processed. I’m past it. It’s been absorbed. You know? I live with myself very well these days—I like me—I really do—and so now I need you guys to show just a little bit of trust in that. 
 
---- feel like I can’t even breathe sometimes—
+--- 
+
+I feel like I can’t even breathe sometimes—
 
 ---
 
@@ -1749,14 +1801,20 @@ Yes, you are. Your eyes have that wet look. God, I hate this.
 ---
 
 ## REN:
-I don’t know what you want, Ollie. You come over here and you seem to have this expectation that I’m going to tell you no, you can’t go on a trip with your new friend—. I… I have never stopped you from doing the things you want to do. Have I? Please tell me.
+I don’t know what you want, Ollie. You come over here and you seem to have this expectation that I’m going to tell you no, you can’t go on a trip with your new friend—. 
+
+---
+
+I… I have never stopped you from doing the things you want to do. Have I? Please tell me.
 
 ---
 
 ## OLIVIA:
 You have! Of course you have. But it was back when… oh, man. Let’s not dredge it all up.
 
----’m going with him. I’m doing it. I’ll be in touch when I get back.
+---
+
+I’m going with him. I’m doing it. I’ll be in touch when I get back.
 
 ---
 
@@ -1795,7 +1853,11 @@ She comes and practically tugs my sleeve as if she needs both my permission and 
 ---
 
 ## MARILYN:
-Look on the bright side. Maybe this guy’ll turn out to be the one. They’ll get married and live happily ever after and you can stop spending so much energy on this.
+Look on the bright side. Maybe this guy’ll turn out to be the one. 
+
+---
+
+They’ll get married and live happily ever after and you can stop spending so much energy on this.
 
 ---
 
@@ -1873,7 +1935,15 @@ How can that not play at least a small part in your bedrock philosophy?
 ---
 
 ## REN:
-Have we established that I even have a bedrock philosophy? Here we’re throwing this term around and I’m not even sure I know what it means. I mean, really, there are certain tropes we cling to and hope are real and true. But do they actually constitute a philosophy? Aren’t they only as strong as the given situation plus all the variables?
+Have we established that I even have a bedrock philosophy? Here we’re throwing this term around and I’m not even sure I know what it means. 
+
+---
+
+I mean, really, there are certain tropes we cling to and hope are real and true. 
+
+---
+
+But do they actually constitute a philosophy? Aren’t they only as strong as the given situation plus all the variables?
 
 ---
 
@@ -1893,7 +1963,11 @@ Well. They don’t.
 ---
 
 ## REN:
-No, seriously. And I’ll give you an example. Suppose I were to tell you I’d killed someone. Not recently. A long time ago. Before you knew me. What would you say?
+No, seriously. And I’ll give you an example. Suppose I were to tell you I’d killed someone. 
+
+---
+
+Not recently. A long time ago. Before you knew me. What would you say?
 
 ---
 
@@ -1917,7 +1991,11 @@ Oh no, I could have. You think because you’ve known me all these years you can
 
 ---
 
-But you don’t really—not at all. My point is, if you found out that I’d committed a murder you would have to either change your perception of me or of the act of murder.
+But you don’t really—not at all. 
+
+---
+
+My point is, if you found out that I’d committed a murder you would have to either change your perception of me or of the act of murder.
 
 ---
 
@@ -2042,7 +2120,7 @@ How do you know?
 ---
 
 ## MARILYN:
-(Laughing but annoyed) You know what you’re really saying? 
+You know what you’re really saying? 
 
 ---
 
@@ -2523,10 +2601,10 @@ She’s told us what she needs, and we’re doing our best to give it to her. It
 ## OLIVIA:
 Buenas noches, parental units! I want you to meet Marcus Fallon!
 
+---
 
-ACT II
 
-(About three years earlier. Ren is pacing in a hotel room. There is a knock on the door—the code knock, first time ever. Ren crosses and opens the door to find Fallon standing there.)
+[There is a knock on the door—the code knock]
 
 ---
 
@@ -2537,8 +2615,6 @@ Well, hello. … I like your knock.
 
 ## FALLON:
 Thank you. made it up. Just now. … So? May I come in?
-
-(Ren laughs at herself and steps aside so that he can pass into the room. They look each other over frankly.)
 
 ---
 
@@ -2578,7 +2654,7 @@ Truthfully? Not at all.
 ---
 
 ## REN:
-(Chuckling but with a cringe) The truth is overrated.
+The truth is overrated.
 
 ---
 
@@ -2608,7 +2684,7 @@ Ha. Nicely done. Why don’t you call me … Valmont.
 ---
 
 ## REN:
-All right. … “Valmont,” I’m just going to say it: you’re younger than I thought you’d be.
+All right…“Valmont,” I’m just going to say it: you’re younger than I thought you’d be.
 
 ---
 
@@ -2620,7 +2696,11 @@ And you’re older than thought you’d be.
 ## REN:
 Hey. I’m older than I thought I’d be.
 
-(Fallon laughs. Ren crosses and sits on the bed.) So tell me.
+
+---
+
+
+So tell me.
 
 ---
 
@@ -2655,7 +2735,19 @@ Hopes, then. Wishes? Druthers?
 ---
 
 ## FALLON:
-Mmm. … I suppose I hoped you’d be beautiful. And right there, that’s a yes. That you’d be bright. And funny. So far, so good, but I’m taking a wait and see. … That you’d be someone who enjoys physical pleasure and intelligent conversation and knows damn well she’s after both. Someone very alive, you know? Someone both curious and fascinating. … Now you.
+Mmm. … I suppose I hoped you’d be beautiful. And right there, that’s a yes. 
+
+---
+
+That you’d be bright. And funny. So far, so good, but I’m taking a wait and see. 
+
+---
+
+… That you’d be someone who enjoys physical pleasure and intelligent conversation and knows damn well she’s after both. 
+
+---
+
+Someone very alive, you know? Someone both curious and fascinating. … Now you.
 
 ---
 
@@ -2715,23 +2807,21 @@ Mmm. Let’s say they would have to represent true feeling … without apology o
 ---
 
 ## FALLON:
-Ahh. Yes, I think I see now. … And I believe I can promise all of that. And as we seem to have come to it, may I kiss you now?
+Ahh. Yes, I think I see now. … And I believe I can promise all of that. 
 
-(He crosses to her, sits on the bed by her side, and kisses her.)
+---
+
+And as we seem to have come to it, may I kiss you now?
 
 ---
 
 ## FALLON:
-(Cont’d.) Well. That was very nice. May try another?
-
-(He kisses her again—longer this time.)
+Well. That was very nice. May try another?
 
 ---
 
 ## REN:
-(So softly) And hope that you’d be a good kisser…
-
-(The lights shift to Olivia’s apartment. She is sprawled on the floor eating from a carton of ice cream and looking blankly ahead. There is a deliberateness to this process—it’s clear she means to eat it all. She looks disheveled—a hot mess—and her clothes are way too big on her. Her hair, longer than it was in the first act, is all over the place. She looks as if she hasn’t slept in a week, and she probably hasn’t. The doorbell rings. Olivia hides the ice cream under a magazine She goes to the door and comes back with Ren, who seems a bit businesslike in her approach to Olivia compared to the first act—and tired. A brief silence.)
+And hope that you’d be a good kisser…
 
 ---
 
@@ -2801,7 +2891,11 @@ Because you need a change. Besides that shaggy look went out when you were in hi
 ---
 
 ## OLIVIA:
-Listen to you. “A nice little bob.” Oh, hey, I know! I’ll make sure I look like every other loser on the planet. I’ll get a nice little bob. If I get a bob, I’ll look like you.
+Listen to you. “A nice little bob.” Oh, hey, I know! I’ll make sure I look like every other loser on the planet. 
+
+---
+
+I’ll get a nice little bob. If I get a bob, I’ll look like you.
 
 ---
 
@@ -2823,7 +2917,7 @@ Hey. Really now: Are you OK?
 ## OLIVIA:
 You’ve just gotta stop asking me that.
 
-(Ren notices the magazine and moves it aside with her foot. Turns and looks at Olivia, who sighs and looks away.)
+---
 
 So what? Hello. I’m a fucking adult. I can eat it all if I feel like it.
 
@@ -2845,12 +2939,20 @@ And would be right? Are you doing it again?
 ---
 
 ## OLIVIA:
-No. Jesus, Mother, fuck off—you’re suffocating me! … Oh god, I’m sorry, I didn’t even mean that, but you’re making me insane—you push and you push and that just makes me say all these really shitty things to you.
+No. Jesus, Mother, fuck off—you’re suffocating me! … Oh god, I’m sorry, I didn’t even mean that, but you’re making me insane—
+
+---
+
+you push and you push and that just makes me say all these really shitty things to you.
 
 ---
 
 ## REN:
-Well, I suppose you’ve got a right. I know I must come across as some kind of monster at times. But you know, sweetie, all I really want is for you to grab hold of your life with both hands.
+Well, I suppose you’ve got a right. I know I must come across as some kind of monster at times. 
+
+---
+
+But you know, sweetie, all I really want is for you to grab hold of your life with both hands.
 
 ---
 
@@ -2860,7 +2962,11 @@ Take a big, juicy bite out of it?
 ---
 
 ## REN:
-If you’ve absolutely gotta have a slogan. I just want you to have a future, honey—a big, wide-open life with work you love, choices you make for yourself … … Your dad and I want to give you money to go back to school.
+If you’ve absolutely gotta have a slogan. I just want you to have a future, honey—a big, wide-open life with work you love, choices you make for yourself … 
+
+---
+
+… Your dad and I want to give you money to go back to school.
 
 ---
 
@@ -2870,7 +2976,11 @@ What for?
 ---
 
 ## REN:
-Ollie. …You’ve gotta start thinking about where this is all headed and pull yourself up out of this hole before it gets too late. You’re depressed, and I really get that, but—
+Ollie. …You’ve gotta start thinking about where this is all headed and pull yourself up out of this hole before it gets too late. 
+
+---
+
+You’re depressed, and I really get that, but—
 
 ---
 
@@ -2880,7 +2990,15 @@ But going back to school is your solution.
 ---
 
 ## REN:
-At least you’d be trying to help yourself. Come on, Ollie, life isn’t just something to get through. And you’re not going to be young forever. If you’re not careful, you could wake up one day and find yourself in this… strange landscape. And you won’t even know how you got there. But by then—please just trust me on this—it will be so hard to leave.
+At least you’d be trying to help yourself. Come on, Ollie, life isn’t just something to get through. 
+
+---
+
+And you’re not going to be young forever. If you’re not careful, you could wake up one day and find yourself in this… strange landscape. 
+
+---
+
+And you won’t even know how you got there. But by then—please just trust me on this—it will be so hard to leave.
 
 ---
 
@@ -2890,7 +3008,15 @@ Uh-huh. So am supposed to be living the life you only dreamed of or something?
 ---
 
 ## REN:
-You honestly think you can say anything you want to me, don’t you? … Oh, well. Why should you respect me—you don’t respect yourself. My god, kid, you used to be so curious. You were the most enthusiastic child—always questioning, questioning.
+You honestly think you can say anything you want to me, don’t you? 
+
+---
+
+… Oh, well. Why should you respect me—you don’t respect yourself. My god, kid, you used to be so curious. 
+
+---
+
+You were the most enthusiastic child—always questioning, questioning.
 
 ---
 
@@ -2900,9 +3026,15 @@ I don’t remember.
 ---
 
 ## REN:
-It just really just kills me that you’re so uninvested in your own journey. It’s not too late to turn things around—really it isn’t. Your dad and I can help, but we cannot do it for you.
+It just really just kills me that you’re so uninvested in your own journey. 
 
-(Beat) What would you do if you could do anything you wanted?
+---
+
+It’s not too late to turn things around—really it isn’t. Your dad and I can help, but we cannot do it for you.
+
+---
+
+What would you do if you could do anything you wanted?
 
 ---
 
@@ -2918,8 +3050,6 @@ I’m serious, Ollie. Think about this. In a world of possibles, what would you 
 
 ## OLIVIA:
 I don’t know. I’d … maybe… God, don’t know, Mom! … Maybe … work with people who went through what I did?
-
-(Beat)
 
 ---
 
@@ -2944,7 +3074,9 @@ I think … maybe … yeah, I think might.
 ---
 
 ## REN:
-Then please. Take us up on our offer. Will you think about it, sweetheart? (Olivia nods slowly.)
+Then please. Take us up on our offer. Will you think about it, sweetheart?
+
+---
 
 And do you want me to put that back in the freezer?
 
@@ -2953,14 +3085,10 @@ And do you want me to put that back in the freezer?
 ## OLIVIA:
 Nope. I’m going to eat it all right now. You can watch me if you want.
 
-(Olivia picks up the ice cream and puts a huge spoonful into her face, smiling at Ren, who chuckles and shakes her head. Elsewhere, Fallon enters a hotel room. Ren turns and watches him for a moment.)
-
 ---
 
 ## FALLON:
 I’ve brought you something.
-
-(Ren crosses out of the scene with Olivia to join him.)
 
 ---
 
@@ -2985,12 +3113,20 @@ Traditional Day of the Dead candies. I found them at a Mexican bodega by my plac
 ---
 
 ## REN:
-Never. I took four years of Spanish in college and then never even got around to visiting Mexico. Maybe I’ll go there with you someday—I’d love that. … Oh. I’m sorry.
+Never. I took four years of Spanish in college and then never even got around to visiting Mexico. 
+
+---
+
+Maybe I’ll go there with you someday—I’d love that. … Oh. I’m sorry.
 
 ---
 
 ## FALLON:
-No. No worries. But you really should go. There’s a wonderful city in the south of the country called Oaxaca. … It’s the only place I’ve ever visited where I’ve actually thought I might drop everything, go down there, and just … begin again.
+No. No worries. But you really should go. There’s a wonderful city in the south of the country called Oaxaca. 
+
+---
+
+… It’s the only place I’ve ever visited where I’ve actually thought I might drop everything, go down there, and just … begin again.
 
 ---
 
@@ -3000,12 +3136,67 @@ Yeah?... Tell me.
 ---
 
 ## FALLON:
-The first time I was there, about twenty-five years ago now, I arrived quite by accident on the Day of the Dead. I wasn’t expecting to, but I immediately fell in love with both the place and the holiday. Picture ancient Aztecan polytheism banging straight into Catholicism and coexisting all these centuries later. Extraordinary really. Entire families visit the cemetery where their kinsmen have been laid to rest. They spruce up the graves and eat and drink and tell stories of their dead—all these small epics full of laughter and yearning and, I don’t know … reverence, I suppose. Later there are fireworks and music in the town square. Children run through the streets with little jointed wooden skeletons that jump when they pull a string. There are processions and santos, candles and singing, but it’s all so celebratory. They’re not celebrating their heroes. They celebrate all their dead. Old-age dead, car-wreck dead, alcoholic livercollapse dead, the whole pantheon…
+The first time I was there, about twenty-five years ago now, I arrived quite by accident on the Day of the Dead. 
 
-My mother died some years ago. Fifty-six years old. Cancer. Brutal. Ugly. Very drawn-out. In the end, it robbed her of everything. She was yellow, desiccated. A husk. When I went to see her she couldn’t speak—she’d simply clutch my arm and close her eyes. She wanted to be done with it all, you see, but I didn’t have the strength to make that happen for her. She lived months longer than the doctors had forecast—the whole time in pain that no drug could touch. At any rate. One late afternoon. I got the call. She was gone. Well. I’d been expecting it so long… Still, when it happens.… I remember I poured a couple fingers of whiskey into a teacup. I stood at the smudged window of my apartment looking out over buildings and cement. I hadn’t had even one sip of that whiskey when I was blasted by this overpowering—this unstoppable need to go
+---
 
+I wasn’t expecting to, but I immediately fell in love with both the place and the holiday. Picture ancient Aztecan polytheism banging straight into Catholicism and coexisting all these centuries later. 
 
-dancing. To move to fast, percussive music and rub up against sweating women, to drink and laugh and sing, to talk nonsense and stay out all night long.
+---
+
+Extraordinary really. Entire families visit the cemetery where their kinsmen have been laid to rest. 
+
+---
+
+They spruce up the graves and eat and drink and tell stories of their dead—all these small epics full of laughter and yearning and, I don’t know … reverence, I suppose. 
+
+---
+
+Later there are fireworks and music in the town square. Children run through the streets with little jointed wooden skeletons that jump when they pull a string. There are processions and santos, candles and singing, but it’s all so celebratory. 
+
+---
+
+They’re not celebrating their heroes. They celebrate all their dead. 
+
+---
+
+Old-age dead, car-wreck dead, alcoholic livercollapse dead, the whole pantheon…
+
+---
+
+My mother died some years ago. Fifty-six years old. Cancer. Brutal. Ugly. Very drawn-out. 
+
+---
+
+In the end, it robbed her of everything. She was yellow, desiccated. A husk. 
+
+---
+
+When I went to see her she couldn’t speak—she’d simply clutch my arm and close her eyes. 
+
+---
+
+She wanted to be done with it all, you see, but I didn’t have the strength to make that happen for her. 
+
+---
+
+She lived months longer than the doctors had forecast—the whole time in pain that no drug could touch. 
+
+---
+
+At any rate. One late afternoon. I got the call. She was gone. Well. I’d been expecting it so long… 
+
+---
+
+Still, when it happens.… I remember I poured a couple fingers of whiskey into a teacup. I stood at the smudged window of my apartment looking out over buildings and cement. 
+
+---
+
+I hadn’t had even one sip of that whiskey when I was blasted by this overpowering—this unstoppable need to go dancing. 
+
+---
+
+To move to fast, percussive music and rub up against sweating women, to drink and laugh and sing, to talk nonsense and stay out all night long.
 
 ---
 
@@ -3027,14 +3218,24 @@ And did you?
 ## FALLON:
 Of course I did.
 
-(Ren slowly smiles, nods, and leans in to kiss him. The lights crossfade to Marilyn in her office, on the phone. Ren glances over and then crosses into Marilyn’s office. Marilyn waves at Ren then holds up a finger.)
-
 ---
 
 ## MARILYN:
-Tell me we’re not doing this again.… Because, Todd, that’s not how it works. Let me ask you this. Which is more important to you: me as your friend or me as your agent?… That’s what I thought. And as your agent, I’m telling you: all you have to do is wait.… Two days tops… yes. I promise. It’s a done deal, Todd. All we’re waiting for is ink. OK?… I’ll call you. Smooches.
+Tell me we’re not doing this again.… Because, Todd, that’s not how it works. 
 
-(Marilyn hangs up, shaking her head at Ren.)
+---
+
+Let me ask you this. Which is more important to you: me as your friend or me as your agent?
+
+---
+
+… That’s what I thought. And as your agent, I’m telling you: all you have to do is wait.
+
+---
+
+… Two days tops… yes. I promise. It’s a done deal, Todd. All we’re waiting for is ink. OK?… I’ll call you. Smooches.
+
+---
 
 Writers. How are you?
 
@@ -3046,7 +3247,11 @@ Who was that?
 ---
 
 ## MARILYN:
-My hot L.A. teenager with the six-figure Penguin Random House deal, thank you very much. M. Todd Apple. He’s twenty-four. Brilliant. Bristling with attitude. Muscular prose. Pulsing intelligence.
+My hot L.A. teenager with the six-figure Penguin Random House deal, thank you very much. 
+
+---
+
+M. Todd Apple. He’s twenty-four. Brilliant. Bristling with attitude. Muscular prose. Pulsing intelligence.
 
 ---
 
@@ -3058,7 +3263,17 @@ Nice ass?
 ## MARILYN:
 He’s darling—can’t even raise a beard!
 
-(She rises and twirls around) What do you think? New diet. Wheat grass and sea vegetables. Well, and smoking. I’ve lost six pounds in four days. But I’m about to switch over to that new one where you can only eat animal fat and bitter greens. A colleague of mine tried it and she looks spectacular. Absolutely cadaverous.
+---
+
+What do you think? New diet. Wheat grass and sea vegetables. Well, and smoking. 
+
+---
+
+I’ve lost six pounds in four days. But I’m about to switch over to that new one where you can only eat animal fat and bitter greens. 
+
+---
+
+A colleague of mine tried it and she looks spectacular. Absolutely cadaverous.
 
 ---
 
@@ -3073,7 +3288,11 @@ Okayyyy …?
 ---
 
 ## REN:
-Well. It’s been a very long time since you’ve been able to do anything with my work and… I don’t want to put you on the spot or anything, but… on the other hand, you’re in this business to make money …
+Well. It’s been a very long time since you’ve been able to do anything with my work and… 
+
+---
+
+I don’t want to put you on the spot or anything, but… on the other hand, you’re in this business to make money …
 
 ---
 
@@ -3108,7 +3327,15 @@ I don’t know.
 ---
 
 ## MARILYN:
-Come on, you said brutally honest, so I’m gonna level with you. Ever since the whole Olivia mess—and don’t get me wrong, I know that was super hard for you and I’m not trying to simplify it—but since then your work has lost its edge and gone really dark. It’s bleak, Ren, and it’s depressing. Know what I’m saying?
+Come on, you said brutally honest, so I’m gonna level with you. Ever since the whole Olivia mess—and don’t get me wrong, 
+
+---
+
+I know that was super hard for you and I’m not trying to simplify it—but since then your work has lost its edge and gone really dark. 
+
+---
+
+It’s bleak, Ren, and it’s depressing. Know what I’m saying?
 
 ---
 
@@ -3118,7 +3345,11 @@ I think so. Louder, faster, funnier, dumber?
 ---
 
 ## MARILYN:
-Exactly! Yes, for god’s sake, I’d be thrilled to get a loud, fast, funny, dumb script outa you. Maybe a comedy about four hilariously horny older broads on a road trip or something.
+Exactly! Yes, for god’s sake, I’d be thrilled to get a loud, fast, funny, dumb script outa you. 
+
+---
+
+Maybe a comedy about four hilariously horny older broads on a road trip or something.
 
 ---
 
@@ -3128,9 +3359,11 @@ No. God, hate that cutesy, crusty old lady crap.
 ---
 
 ## MARILYN:
-Yeah, I hate it too. But it makes money. Here’s the thing: Whatever ya do next, Ren, throw some sex in there while you’re at it, OK? And let’s you and me try to make us some a that money.
+Yeah, I hate it too. But it makes money. Here’s the thing: Whatever ya do next, Ren, throw some sex in there while you’re at it, OK? 
 
-(The lights pick up Ted, drink in hand, in the living room. Ren, lost in thought, crosses to the living room, where she stands looking out. Beat.)
+---
+
+And let’s you and me try to make us some a that money.
 
 ---
 
@@ -3180,7 +3413,15 @@ We should at least notice the things we have. Don’t you think?
 ---
 
 ## TED:
-Well. I mean. I notice them. But it’s peripheral. I know that this chair is comfortable, and therefore I’m happy when I sit in it. If I no longer look at the details of that painting, it’s only because I now appreciate it on a more… mundane level, I suppose you’d say. Because it’s part of the way things are here. And I like the way things are.
+Well. I mean. I notice them. But it’s peripheral. I know that this chair is comfortable, and therefore I’m happy when I sit in it. 
+
+---
+
+If I no longer look at the details of that painting, it’s only because I now appreciate it on a more… mundane level, I suppose you’d say. 
+
+---
+
+Because it’s part of the way things are here. And I like the way things are.
 
 ---
 
@@ -3205,7 +3446,11 @@ But you can replace the painting if you want to. I won’t kick.
 ---
 
 ## REN:
-No. It’s all right. Oh. I didn’t tell you. Ollie aced every single one of her classes this semester. And she’s shortlisted for a really competitive internship this summer.
+No. It’s all right. Oh. I didn’t tell you. Ollie aced every single one of her classes this semester. 
+
+---
+
+And she’s shortlisted for a really competitive internship this summer.
 
 ---
 
@@ -3272,14 +3517,10 @@ I like having my kid in the same town with me. (Beat) Sometimes I’m scared too
 ## TED:
 Yes. I do know that.
 
-(Ren looks back to the painting, as traffic sounds fade in and, elsewhere, Fallon enters and stands alone, looking off.)
-
 ---
 
 ## REN:
 You’re right. It’s fine. We’ll just leave it.
-
-(The lights dim on Ted and Ren and brighten on Fallon. After a moment Olivia enters. Her hair has been cut in a neat little bob. She looks quite put together—just as she did in Act I. She stops when she sees Fallon and stands watching him until he finally turns to her.)
 
 ---
 
@@ -3294,7 +3535,11 @@ Sorry?
 ---
 
 ## OLIVIA:
-I noticed you in there. You were listening in such a particular way. I couldn’t stop noticing you. And then I saw you notice me. Noticing you.
+I noticed you in there. You were listening in such a particular way. I couldn’t stop noticing you. 
+
+---
+
+And then I saw you notice me. Noticing you.
 
 ---
 
@@ -3324,7 +3569,11 @@ Lumpy. I see. And what do you mean by that?
 ---
 
 ## OLIVIA:
-I mean: I love his ideas. He really gets the whole thing. The way life can consume you and then spit you back out, then try to reconstitute you. But then he lapses into these kinda cutesy similes and over-the-top metaphors, and that just kinda gets in my way.
+I mean: I love his ideas. He really gets the whole thing. The way life can consume you and then spit you back out, then try to reconstitute you. 
+
+---
+
+But then he lapses into these kinda cutesy similes and over-the-top metaphors, and that just kinda gets in my way.
 
 ---
 
@@ -3366,12 +3615,20 @@ In suicide.
 ## OLIVIA:
 It’s kind of a hobby.
 
-(Laughing at his expression) Oh god, your face! I’m joking! I read a quote from him in the Campus Herald where he said something like “The most profound thing about clinical depression is also its bestkept secret: that, for the most part, it feels utterly and completely ridiculousespecially to the sufferer.” And you know, he’s right. It is. So here I am.
+Oh god, your face! I’m joking! 
+
+---
+
+I read a quote from him in the Campus Herald where he said something like “The most profound thing about clinical depression is also its bestkept secret: that, for the most part, it feels utterly and completely ridiculousespecially to the sufferer.” 
+
+---
+
+And you know, he’s right. It is. So here I am.
 
 ---
 
 ## FALLON:
-(Gazing at her intently) Have we met?
+Have we met?
 
 ---
 
@@ -3443,8 +3700,6 @@ Olivia.
 ## FALLON:
 Olivia. How absolutely lovely. I’m Marcus. Marcus Fallon.
 
-(He extends his hand. Olivia shakes it rather formally. Olivia heads off as lights pick up Ren in a hotel. She picks up a sketchpad and begins sketching, as Fallon, turns to her. He crosses away from Olivia while still looking back at her, and moves to take a pose near Ren. A few moments of silence.)
-
 ---
 
 ## FALLON:
@@ -3463,14 +3718,42 @@ Ya keep moving. Stay still. … Gahhhh. Looks more like my Aunt Ila.
 ---
 
 ## REN:
-About Ila? Ohhhhh. … She was a professional dancer until she got sidelined by an injury. She was very long and thin. Beautiful. Elegant. With this amazing neck. Every summer she’d come visit my family at our lake cottage. She’d show up in a snazzy little sportscar, blow into the cottage on a cloud of White Shoulders perfume, and plant bright red kisses all over our faces. She always reminded me of some colorful, exotic
+About Ila? Ohhhhh. … She was a professional dancer until she got sidelined by an injury. 
+
+---
+
+She was very long and thin. Beautiful. Elegant. With this amazing neck. Every summer she’d come visit my family at our lake cottage. 
+
+---
+
+She’d show up in a snazzy little sportscar, blow into the cottage on a cloud of White Shoulders perfume, and plant bright red kisses all over our faces. 
+
+---
+
+She always reminded me of some colorful, exotic
 
 
-bird. She’d never been married or tied down in any way … and she … she just seemed so free. So glamorous. And so lucky. She was just very witty too, always making sly little jokes and throwing her head back to laugh and snort. We all adored her—we’d imitate her for weeks after she left. Tip your chin up a little, please.
+bird. 
 
-(Fallon does.)
+---
 
-Anyway. One August when I was maybe sixteen, she arrived as usual for her visit. Same car, same gifts. Same wild lipstick. But … her voice had something new in it.
+She’d never been married or tied down in any way … and she … she just seemed so free. So glamorous. And so lucky. 
+
+---
+
+She was just very witty too, always making sly little jokes and throwing her head back to laugh and snort. 
+
+---
+
+We all adored her—we’d imitate her for weeks after she left. Tip your chin up a little, please.
+
+---
+
+Anyway. One August when I was maybe sixteen, she arrived as usual for her visit. Same car, same gifts. 
+
+---
+
+Same wild lipstick. But … her voice had something new in it.
 
 ---
 
@@ -3482,11 +3765,25 @@ And what was that?
 ## REN:
 Fear, I think. And shame.
 
-(She adds some shading to the drawing.)
+---
 
-She must’ve been about fifty-something by then. Still gorgeous, still dressed like a fashion model, but beginning to fade a little around the edges, you know. … And during that visit, I remember my father kept getting impatient with her. He’d cut her off right in the middle of one of her raucous, insanely complicated stories—just snapped at her like she was some ridiculous child. Told her to stop acting like an moron. Later, my brother snickered behind his hand that Aunt Ila had teeth like a horse. And I looked and sure enough, her teeth had gotten long and yellow and her gums were all pulled back.
+She must’ve been about fifty-something by then. Still gorgeous, still dressed like a fashion model, but beginning to fade a little around the edges, you know. 
 
-(Ren stops drawing and rips the sheet off the pad. Holds it out to Fallon who studies it a moment.)
+---
+
+… And during that visit, I remember my father kept getting impatient with her. 
+
+---
+
+He’d cut her off right in the middle of one of her raucous, insanely complicated stories—just snapped at her like she was some ridiculous child. 
+
+---
+
+Told her to stop acting like an moron. Later, my brother snickered behind his hand that Aunt Ila had teeth like a horse. 
+
+---
+
+And I looked and sure enough, her teeth had gotten long and yellow and her gums were all pulled back.
 
 ---
 
@@ -3501,23 +3798,45 @@ Shall I tell you how it was with your aunt?
 ---
 
 ## FALLON:
-Somewhere along the way, she’d met a man. He’d seen her dance, I think, and was captivated by her beauty and grace. Her elegance. Her swanlike neck. They were instantly mad for each other. Beyond the lust, he found that he could really talk to her because … well, because she was so thoroughly independent of him—she had a real life, you know, one she’d chosen for herself and seemed to live quite happily with or without him. He found in her a light that both excited and comforted him. And in his company she was completely happy. Looking into his eyes, she saw herself reflected. And the woman she saw there was still beautiful and desirable. But every so often, he’d disappear on vacation with his family or go away on business, leaving her alone often for weeks at a time. And it was always then that her worlds—one with him, the rest without—came to seem so starkly sheared off from one another. At which point, she couldn’t help projecting herself into a snarled future of darkness, confusion, abandonment, and finally death.
+Somewhere along the way, she’d met a man. He’d seen her dance, I think, and was captivated by her beauty and grace. 
+
+---
+
+Her elegance. Her swanlike neck. They were instantly mad for each other. 
+
+---
+
+Beyond the lust, he found that he could really talk to her because … well, because she was so thoroughly independent of him—she had a real life, you know, one she’d chosen for herself and seemed to live quite happily with or without him. 
+
+---
+
+He found in her a light that both excited and comforted him. And in his company she was completely happy. Looking into his eyes, she saw herself reflected. 
+
+---
+
+And the woman she saw there was still beautiful and desirable. But every so often, he’d disappear on vacation with his family or go away on business, leaving her alone often for weeks at a time. 
+
+---
+
+And it was always then that her worlds—one with him, the rest without—came to seem so starkly sheared off from one another. 
+
+---
+
+At which point, she couldn’t help projecting herself into a snarled future of darkness, confusion, abandonment, and finally death.
 
 ---
 
 ## REN:
 (Very softly) And what happened?
 
-(Beat. Fallon spreads his hands and shrugs slightly) You scare me sometimes.
+---
 
-(Ren looks away, lost in thought, and gazes over to Olivia who has entered another area and sat down in a café, a small cake in front of her.)
+You scare me sometimes.
 
 ---
 
 ## OLIVIA:
 Right. I’ve only been off sugar for two years.
-
-(Ren pulls herself together in the hotel room and crosses into the café.)
 
 ---
 
@@ -3527,7 +3846,11 @@ Well, it’s your birthday and I forgot—
 ---
 
 ## OLIVIA:
-No, ya didn’t. Ya wanted cake and ya thought you’d bully me into having it with you. I’ve told you so many times: I’m better when I’m off sugar. I stay more balanced.
+No, ya didn’t. Ya wanted cake and ya thought you’d bully me into having it with you. 
+
+---
+
+I’ve told you so many times: I’m better when I’m off sugar. I stay more balanced.
 
 ---
 
@@ -3544,7 +3867,9 @@ It’s tiny.
 ## REN:
 Well. Happy birthday anyhow.
 
-(She nibbles at cake. Then…) So? How is he?
+---
+
+So? How is he?
 
 ---
 
@@ -3559,7 +3884,11 @@ Ollie, it’s time, don’t you think? I want to meet your new … friend? Boyfr
 ---
 
 ## OLIVIA:
-I’m sorry, Ma. I swear I’m not trying to upset you. I just want to keep him all to myself a tiny bit longer. He’ll probably tarnish—they always do. But…
+I’m sorry, Ma. I swear I’m not trying to upset you. I just want to keep him all to myself a tiny bit longer. 
+
+---
+
+He’ll probably tarnish—they always do. But…
 
 ---
 
@@ -3575,8 +3904,6 @@ I do sometimes find myself wishing could crawl right up inside his ear. Do you k
 
 ## REN:
 Oh, yes. Yes, I think so.
-
-(Longish beat; Ren picks away at the cake. Beat.)
 
 ---
 
@@ -3611,12 +3938,20 @@ Why?
 ---
 
 ## OLIVIA:
-Well, they always say you should do one thing each day that scares you. I figure I’ll get about a year’s worth done on the first day. I’ll be advising the peer counselors. Pretty ironic, huh?
+Well, they always say you should do one thing each day that scares you. 
+
+---
+
+I figure I’ll get about a year’s worth done on the first day. I’ll be advising the peer counselors. Pretty ironic, huh?
 
 ---
 
 ## REN:
-Well. You’ll be great at it. They won’t be able to dream up anything you didn’t try. (Laughing but moved) You’re really something, kid. You just knock me out sometimes.
+Well. You’ll be great at it. They won’t be able to dream up anything you didn’t try. 
+
+---
+
+(Laughing but moved) You’re really something, kid. You just knock me out sometimes.
 
 ---
 
@@ -3641,7 +3976,11 @@ Oh! Is that wise?
 ---
 
 ## OLIVIA:
-I followed standard protocols and tapered off really slowly. You haven’t noticed any change and it’s been almost three months. I feel pretty great actually. Think I’m OK.
+I followed standard protocols and tapered off really slowly. You haven’t noticed any change and it’s been almost three months. 
+
+---
+
+I feel pretty great actually. Think I’m OK.
 
 ---
 
@@ -3693,10 +4032,6 @@ I’m just… so damn proud of you.
 ## OLIVIA:
 Are you, Mom? Don’t take this wrong . . but do you know how long it’s been since you’ve said that to me?
 
-.
-
-(They are both suddenly a little choked up. Ren reaches out and touches Olivia’s cheek, and Olivia grabs her hand and holds it there. Then, embarrassed, they both pull away. Olivia picks up her fork and takes a small nibble of the cake. Ren smiles as the lights pick up Fallon’s apartment; he enters carrying a fancy tea tray. In the café, Olivia looks at her phone suddenly and rises.)
-
 ---
 
 ## OLIVIA:
@@ -3712,12 +4047,18 @@ Ahh. His name is Marcus.
 ## OLIVIA:
 Thanks so much for the cake, Ma … it’s been a fantastic birthday. Truly.
 
-(Olivia kisses Ren and, crossing out of the café, hurries over to meet Fallon. He has put the tray down and is pouring out tea. Olivia sits down and watches him. He hands her a cup.)
-
 ---
 
 ## OLIVIA:
-You have so many rituals. The way you pour the tea… raise, pour, raise, lower, pause, set down. You’re so gentle with the pot. On most people that would be a habit. But on you it’s a ritual…. I think I need a couple of nice rituals. … I think about you. Off and on all day long.
+You have so many rituals. The way you pour the tea… raise, pour, raise, lower, pause, set down. You’re so gentle with the pot. 
+
+---
+
+On most people that would be a habit. But on you it’s a ritual…. I think I need a couple of nice rituals. 
+
+---
+
+… I think about you. Off and on all day long.
 
 ---
 
@@ -3762,10 +4103,15 @@ Maybe. But I do wonder what you think. When you think about me.
 ---
 
 ## FALLON:
-Well. I’ll tell you what I thought the first time I ever saw you. At the suicide poet’s reading. I thought… what an incredibly lovely… astonishingly sad person.
+Well. I’ll tell you what I thought the first time I ever saw you. At the suicide poet’s reading. 
 
+---
 
-(He turns over her wrists and looks at the scars, then traces them with his finger. Slowly, he kisses first one wrist and then the other.)t’s… cellular, your sadness, and deep in your bones. … Oh, Livvie, I’m so sorry—I’ve made you self-conscious.
+I thought… what an incredibly lovely… astonishingly sad person.
+
+---
+
+It’s… cellular, your sadness, and deep in your bones. … Oh, Livvie, I’m so sorry—I’ve made you self-conscious.
 
 ---
 
@@ -3807,8 +4153,6 @@ Ah-ah, now you’re pretending again.
 ## OLIVIA:
 But am I really?
 
-(They kiss. Then …)
-
 ---
 
 ## FALLON:
@@ -3822,7 +4166,11 @@ What? Where’s Wahhh…?
 ---
 
 ## FALLON:
-Oaxaca. It’s a magical city in Mexico, and you’ll adore it. It’s just about my favorite place on earth. And I’m going there in ten days for the Day of the Dead. Come with me. Say yes.
+Oaxaca. It’s a magical city in Mexico, and you’ll adore it. It’s just about my favorite place on earth. 
+
+---
+
+And I’m going there in ten days for the Day of the Dead. Come with me. Say yes.
 
 ---
 
@@ -3844,8 +4192,6 @@ Again?
 ## FALLON:
 Let me take you there, Livvie. We’ll call it a late birthday present.
 
-(She leans in and kisses him as the lights shift to Marilyn in her office. Ren enters, talking very fast.)
-
 ---
 
 ## REN:
@@ -3859,7 +4205,15 @@ Ren, I’ve been trying to reach you—
 ---
 
 ## REN:
-About the rules we live by. Remember? And you were so right. We do have rules. But they’re not really ours. I mean, we think they are—they’re so ingrained we think we must have made them up. But actually we’ve been marinating in them since birth.
+About the rules we live by. Remember? And you were so right. We do have rules. 
+
+---
+
+But they’re not really ours. I mean, we think they are—they’re so ingrained we think we must have made them up. 
+
+---
+
+But actually we’ve been marinating in them since birth.
 
 ---
 
@@ -3869,7 +4223,19 @@ You OK?
 ---
 
 ## REN:
-I mean, what did we know, really, when we were growing up, going to college, marrying, having kids? We knew it was what we were supposed to do. We didn’t invent the rules that made the system work—we just carried them out, mindlessly, like insects. And we go through these lives, day after regimented day, vaguely aware that something’s not quite right, but we don’t question it because, well, we have our rules after all. We’re used to them and we like them, by God. We love them, in fact, we absolutely depend on them to keep things on track—
+I mean, what did we know, really, when we were growing up, going to college, marrying, having kids? 
+
+---
+
+We knew it was what we were supposed to do. We didn’t invent the rules that made the system work—we just carried them out, mindlessly, like insects. 
+
+---
+
+And we go through these lives, day after regimented day, vaguely aware that something’s not quite right, but we don’t question it because, well, we have our rules after all. 
+
+---
+
+We’re used to them and we like them, by God. We love them, in fact, we absolutely depend on them to keep things on track—
 
 ---
 
@@ -3879,7 +4245,23 @@ Ren—
 ---
 
 ## REN:
-But why?! See, it occurred to me today: Olivia’s off on vacation with her new whatever-the-hell-he-is. OK. So what is that really? My grown-ass daughter is out of town with some guy I’ve never met. For the first time since she was in lockup, I haven’t been in touch with her for days on end. And, my God, it’s so freeing. I was on my way here today, and I was thinking—I don’t know—I could become a flamenco dancer! … I could learn a new language. Pick up a musical instrument and join a rock band … ! I could leave Ted. Start over. I could hike the Pacific Crest Trail, for god’s sake. Travel anywhere in the world … by myself. Vienna! Budapest! Oaxaca!
+But why?! See, it occurred to me today: Olivia’s off on vacation with her new whatever-the-hell-he-is. OK. 
+
+---
+
+So what is that really? My grown-ass daughter is out of town with some guy I’ve never met. For the first time since she was in lockup, I haven’t been in touch with her for days on end. 
+
+---
+
+And, my God, it’s so freeing. I was on my way here today, and I was thinking—I don’t know—I could become a flamenco dancer! … I could learn a new language. 
+
+---
+
+Pick up a musical instrument and join a rock band … ! I could leave Ted. Start over. 
+
+---
+
+I could hike the Pacific Crest Trail, for god’s sake. Travel anywhere in the world … by myself. Vienna! Budapest! Oaxaca!
 
 ---
 
@@ -3894,7 +4276,15 @@ What?
 ---
 
 ## MARILYN:
-I’m really sorry, babe, but you’re gonna have to scram. This client’s kind of a pill—he’s a big goddam baby-man if ya want the truth—but I can’t afford to alienate him, and this is the only time I could work out a meeting. So … raincheck?
+I’m really sorry, babe, but you’re gonna have to scram. 
+
+---
+
+This client’s kind of a pill—he’s a big goddam baby-man if ya want the truth—but I can’t afford to alienate him, and this is the only time I could work out a meeting. 
+
+---
+
+So … raincheck?
 
 ---
 
@@ -3909,16 +4299,20 @@ I did try to call you. And want to hear all about it. Just. Not right now. OK, b
 ---
 
 ## REN:
-(Backing out of the office, embarrassed) Definitely flamenco.
-
-(As the lights cross, Ren moves to join Ted in the dimly lit living room. She pulls her laptop out of her bag and sits down, very pensive. Lights tighten on her as she begins to work. We hear rain start to thrum against the windowpanes. Distant traffic sounds fade in. Ren speaks softly, intently, as she writes.)
+Definitely flamenco.
 
 ---
 
 ## REN:
-“Interior. Hotel room. Dusk. … The room is quiet and full of shadow. It’s the eleventh day. The sound of rain drumming steadily against the windows. Serena sits on the bed alone. It’s clear that she’s been there, waiting, for quite a while. She checks her phone for the time. Five-thirty. Her expression says it all. He’s not coming… he’s not coming… he’s not coming.”
+“Interior. Hotel room. Dusk. … The room is quiet and full of shadow. It’s the eleventh day. 
 
-(The lights fade on her but she remains silhouetted in the dim light. Ted and Ren move to assume the positions they occupied during the final scene of Act I. Elsewhere, Olivia and Fallon enter a separate light.)
+---
+
+The sound of rain drumming steadily against the windows. Serena sits on the bed alone. It’s clear that she’s been there, waiting, for quite a while. 
+
+---
+
+She checks her phone for the time. Five-thirty. Her expression says it all. He’s not coming… he’s not coming… he’s not coming.”
 
 ---
 
@@ -3933,11 +4327,13 @@ We should have called.
 ---
 
 ## OLIVIA:
-No, no, it’s better this way. Rip off that band-aid. Wait! … OK, you do it. (Fallon moves to the door.)
+No, no, it’s better this way. Rip off that band-aid. Wait! … OK, you do it.
+
+---
 
 No wait!
 
-(Olivia grabs him and kisses him. Beat.)
+---
 
 OK. Let’s go—let’s do this. Go on, go on! Do it!
 
@@ -3950,14 +4346,16 @@ OK. Let’s go—let’s do this. Go on, go on! Do it!
 ---
 
 ## OLIVIA:
-Buenas noches, parental units! I want to introduce you to my fiancé—Marcus Fallon. (To Fallon, laughing) Well, come on in. I know they look fierce, but they won’t actually bite you, I promise.
+Buenas noches, parental units! I want to introduce you to my fiancé—Marcus Fallon. 
+
+---
+
+Well, come on in. I know they look fierce, but they won’t actually bite you, I promise.
 
 ---
 
 ## TED:
 Well, this is fantastic. Come in, Marcus, come in, and welcome. Ted Gelman. And this is my wife, Renata—Ren.
-
-(Fallon clears his throat, pastes a smile on, and steps forward. Ren tries to get hold of her composure, but she backs away from them with her hands up in front of her.)
 
 ---
 
@@ -3967,7 +4365,11 @@ Whoa. … Mom, what’s up?
 ---
 
 ## REN:
-Honey, I’m really not feeling well—I think I’m going to be sick. You should go—I don’t want you to get whatever this is ... Will you do that please? Will you go now? Please.
+Honey, I’m really not feeling well—I think I’m going to be sick. You should go—I don’t want you to get whatever this is 
+
+---
+
+... Will you do that please? Will you go now? Please.
 
 ---
 
@@ -3982,14 +4384,16 @@ What is happening, Mom?
 ---
 
 ## REN:
-Oh, Olivia, please, honey—you really don’t understand. Listen to me: This is … this can’t happen! I can’t do this. You’ve just gotta trust me, honey, please. Please! I can’t—
+Oh, Olivia, please, honey—you really don’t understand. Listen to me: This is … this can’t happen! 
+
+---
+
+I can’t do this. You’ve just gotta trust me, honey, please. Please! I can’t—
 
 ---
 
 ## TED:
 Ren. That’s enough now.
-
-(Ren turns and exits.)
 
 ---
 
@@ -4005,8 +4409,6 @@ No. She’s right. We need to go. Come on, Livvie—
 
 ## TED:
 I don’t know what to… I’m so sorry.
-
-(Fallon nods, waves him away. He takes Olivia’s arm and pulls her away with him. A slamming sound, which fades to silence as Ren and Fallon cross into the hotel room and stand facing each other.)
 
 ---
 
@@ -4026,7 +4428,11 @@ I never meant for this to happen. Of course you must know that. There was no way
 ---
 
 ## REN:
-I’m not blaming you. But right now we need to solve the problem. Can we please just do that? And then you and I will never need to meet again. It’ll be all over.
+I’m not blaming you. But right now we need to solve the problem. Can we please just do that? 
+
+---
+
+And then you and I will never need to meet again. It’ll be all over.
 
 ---
 
@@ -4046,7 +4452,11 @@ You really think I’d tell her anything about this?
 ---
 
 ## REN:
-But how will you break it off? You have to be very gentle with her. She’s not as strong as she might seem to you. … Why are you looking at me? You do agree it can’t go on.
+But how will you break it off? You have to be very gentle with her. She’s not as strong as she might seem to you. 
+
+---
+
+… Why are you looking at me? You do agree it can’t go on.
 
 ---
 
@@ -4061,7 +4471,11 @@ What?
 ---
 
 ## FALLON:
-No, of course I’m not. I’m in love with her. I want to marry her. I said this can’t go on. This. What’s here between us.
+No, of course I’m not. I’m in love with her. I want to marry her. 
+
+---
+
+I said this can’t go on. This. What’s here between us.
 
 ---
 
@@ -4076,7 +4490,11 @@ Oh, I am though. I love her.
 ---
 
 ## REN:
-No. No. It’s impossible. Every time you open your mouth, you’ll be lying to her, covering your tracks. How can you? Is it that incredibly easy for you to lie? Don’t answer that. Of course it is. You’ll just play her the way you did me—
+No. No. It’s impossible. Every time you open your mouth, you’ll be lying to her, covering your tracks. How can you? 
+
+---
+
+Is it that incredibly easy for you to lie? Don’t answer that. Of course it is. You’ll just play her the way you did me—
 
 ---
 
@@ -4098,7 +4516,19 @@ It was not a game.
 ---
 
 ## REN:
-Then why are you doing this? You can’t. Please don’t do this. Break it off clean and walk away. She’ll be hurt. For a time! But then her life will go on. All our lives will go on. … Do you expect me to sit back and let you … ? She is my child. Listen to me. I have spent years teaching Olivia how to be honest with me, with others, with herself. But now, you’re suggesting a lifetime of lying. And I cannot let that happen. I can’t. Please—this is my family.
+Then why are you doing this? You can’t. Please don’t do this. Break it off clean and walk away. 
+
+---
+
+She’ll be hurt. For a time! But then her life will go on. All our lives will go on. … Do you expect me to sit back and let you … ? She is my child. 
+
+---
+
+Listen to me. I have spent years teaching Olivia how to be honest with me, with others, with herself. 
+
+---
+
+But now, you’re suggesting a lifetime of lying. And I cannot let that happen. I can’t. Please—this is my family.
 
 ---
 
@@ -4128,7 +4558,19 @@ You’re not talking about what Olivia needs. Listen to yourself.
 ---
 
 ## REN:
-She’s finally starting to straighten herself out and along you come. My God, there’s timing for ya. … Ya want to hear a story, “Marcus”? Well, I’ve got a good one for ya. I’m going to tell you about a young woman I know. We’ll call her Olivia. As a child she was curious. Creative. Hilarious. A real charmer—everyone said so. But she hit her teens with a primal scream, and suddenly she got loud and kinetic. Aggressive. A liar.
+She’s finally starting to straighten herself out and along you come. My God, there’s timing for ya. 
+
+---
+
+… Ya want to hear a story, “Marcus”? Well, I’ve got a good one for ya. I’m going to tell you about a young woman I know. We’ll call her Olivia. 
+
+---
+
+As a child she was curious. Creative. Hilarious. A real charmer—everyone said so. 
+
+---
+
+But she hit her teens with a primal scream, and suddenly she got loud and kinetic. Aggressive. A liar.
 
 ---
 
@@ -4138,7 +4580,23 @@ Don’t do this.
 ---
 
 ## REN:
-That went on almost three years. The day after her seventeenth birthday she was rushed to the emergency room. A collapsed lung: a complication of severe malnutrition. That’s how we found out about her eating disorders. It’s astounding, you know. The things you don’t notice when you see them every day. We almost lost her that time. But against the odds, she recovered. And soon after, she took up with an older guy whose appetite for drugs matched her own. At eighteen she aborted his baby by jumping out of a moving car. She can’t have children—has she told you that?
+That went on almost three years. The day after her seventeenth birthday she was rushed to the emergency room. 
+
+---
+
+A collapsed lung: a complication of severe malnutrition. That’s how we found out about her eating disorders. It’s astounding, you know. The things you don’t notice when you see them every day. 
+
+---
+
+We almost lost her that time. But against the odds, she recovered. 
+
+---
+
+And soon after, she took up with an older guy whose appetite for drugs matched her own. 
+
+---
+
+At eighteen she aborted his baby by jumping out of a moving car. She can’t have children—has she told you that?
 
 ---
 
@@ -4148,7 +4606,19 @@ That’s enough now. Stop it.
 ---
 
 ## REN:
-The lying. The drugs. The screaming. Every day something new. Finally, they got busted for trying to sell meth to an undercover cop. The guy went to jail. Olivia was remanded to my custody. She lived in her room. She saw no one. Strangely, one day followed the next, and order of a certain kind, took hold. Idiot that I am, I started to relax. Until the day I came home and found her lying in a tub full of dark red water in our upstairs bathroom.
+The lying. The drugs. The screaming. Every day something new. Finally, they got busted for trying to sell meth to an undercover cop. 
+
+---
+
+The guy went to jail. Olivia was remanded to my custody. She lived in her room. She saw no one. 
+
+---
+
+Strangely, one day followed the next, and order of a certain kind, took hold. 
+
+---
+
+Idiot that I am, I started to relax. Until the day I came home and found her lying in a tub full of dark red water in our upstairs bathroom.
 
 ---
 
@@ -4158,7 +4628,15 @@ I know all this—she’s told me.
 ---
 
 ## REN:
-The steam. Her little, white face. Stricken. Gasping. Her eyes wild, as if she couldn’t imagine how this terrible thing had happened to her. … I suppose she told you we put her away. Well, it’s true. There wasn’t anything else we could do. … There’s a piece of Olivia that will always be missing. And when someone can’t be whole, you must treat that person with great care.
+The steam. Her little, white face. Stricken. Gasping. Her eyes wild, as if she couldn’t imagine how this terrible thing had happened to her. 
+
+---
+
+… I suppose she told you we put her away. Well, it’s true. There wasn’t anything else we could do. 
+
+---
+
+… There’s a piece of Olivia that will always be missing. And when someone can’t be whole, you must treat that person with great care.
 
 ---
 
@@ -4174,8 +4652,6 @@ You are not going to marry my daughter. Do you think I can’t stop it?
 
 ## FALLON:
 You wouldn’t do that to her.
-
-(They stare at each other levelly for a moment. Fallon exits. Elsewhere, Ted has entered the living room and stands with his back to the audience. Ren, crossing to enter the living room, is startled to find him there.)
 
 ---
 
@@ -4205,7 +4681,23 @@ All right. I’ll sit down.
 ---
 
 ## TED:
-Have you straightened things out with Olivia? Have you explained yourself to her? And I’d really like to know too while we’re at it. What the hell is going on with you, Ren? What could have induced you to treat our daughter like that? How could you try to ruin her happiness? You have no respect. … I want you to listen to me now. Here’s what’s going to happen. We’re going to go to see Olivia. The two of us. Right now. And you are going to make this right.
+Have you straightened things out with Olivia? Have you explained yourself to her? 
+
+---
+
+And I’d really like to know too while we’re at it. What the hell is going on with you, Ren? 
+
+---
+
+What could have induced you to treat our daughter like that? How could you try to ruin her happiness? 
+
+---
+
+You have no respect. … I want you to listen to me now. Here’s what’s going to happen. 
+
+---
+
+We’re going to go to see Olivia. The two of us. Right now. And you are going to make this right.
 
 ---
 
@@ -4215,7 +4707,15 @@ I see. And then what?
 ---
 
 ## TED:
-And then we’ll invite the two of them to dinner. Just like any other sane parents might do. We’ll make something special. Lamb, maybe. You’ll charm him. You’ll sit there and talk to him until you find out everything you want to know about the man Olivia has chosen to be with.
+And then we’ll invite the two of them to dinner. Just like any other sane parents might do. 
+
+---
+
+We’ll make something special. Lamb, maybe. You’ll charm him. 
+
+---
+
+You’ll sit there and talk to him until you find out everything you want to know about the man Olivia has chosen to be with.
 
 ---
 
@@ -4237,9 +4737,11 @@ Well, now. That sounds very dire.
 ## TED:
 I’m talking now.
 
-(Ren flinches at his tone, and he softens a bit) I know how much you love Olivia—that’s not the issue here. I know you do all this damage because you care so very deeply, because you want her life to be this incredible, joyful thing… but, Ren…
+(Ren flinches at his tone, and he softens a bit) I know how much you love Olivia—that’s not the issue here. 
 
-(Ted shakes his head and trails off helplessly.)
+---
+
+I know you do all this damage because you care so very deeply, because you want her life to be this incredible, joyful thing… but, Ren…
 
 ---
 
@@ -4249,12 +4751,24 @@ Oh, go on. Say it.
 ---
 
 ## TED:
-You can’t teach her something you’ve never known yourself. You’re afraid for her. I get that. You always have been. But that doesn’t make it right.
+You can’t teach her something you’ve never known yourself. You’re afraid for her. I get that. 
+
+---
+
+You always have been. But that doesn’t make it right.
 
 ---
 
 ## REN:
-I’ve been paying attention too. I’ve watched you fade and duck away from every major decision that ever had to be made about Olivia. You just crouched at the edge of the room and waited for it to be over. Do you think I wanted to do it all alone? I begged you to be there. But the truth is someone had to make the tough decisions.
+I’ve been paying attention too. I’ve watched you fade and duck away from every major decision that ever had to be made about Olivia. 
+
+---
+
+You just crouched at the edge of the room and waited for it to be over. Do you think I wanted to do it all alone? 
+
+---
+
+I begged you to be there. But the truth is someone had to make the tough decisions.
 
 ---
 
@@ -4264,17 +4778,25 @@ The truth is this isn’t your decision.
 ---
 
 ## REN:
-Sure, what difference does it make to you as long as you’ve got a bottle handy? (Beat) Oh, Jesus, Ted. I’m sorry. I didn’t mean that.
+Sure, what difference does it make to you as long as you’ve got a bottle handy?
+
+---
+
+Oh, Jesus, Ted. I’m sorry. I didn’t mean that.
 
 ---
 
 ## TED:
-Yes you did. And you’re right. You’re also right that I left most of the tough calls to you. I shouldn’t have. Because for all your writhing around and trying to assign blame, and for all your poking and prodding at things, you never do get to the root of the problem.
+Yes you did. And you’re right. You’re also right that I left most of the tough calls to you. 
+
+---
+
+I shouldn’t have. Because for all your writhing around and trying to assign blame, and for all your poking and prodding at things, you never do get to the root of the problem.
 
 ---
 
 ## REN:
-(Rising and moving to exit) I wish still smoked.
+I wish still smoked.
 
 ---
 
@@ -4284,18 +4806,46 @@ Don’t you dare walk out of here. You’re going listen while I do the talking 
 ---
 
 ## REN:
-(Turning on him, furious) Oh what? You mean you’re actually going to share some opinion—some expression of feeling—beyond what a nice dinner I cooked up for you or how comfy it is to plop yourself in that goddam chair every night? Maybe I do poke at things. Life sometimes makes me curious, Ted. That’s something you just wouldn’t understand.
+Oh what? You mean you’re actually going to share some opinion—some expression of feeling—beyond what a nice dinner I cooked up for you or how comfy it is to plop yourself in that goddam chair every night? 
+
+---
+
+Maybe I do poke at things. Life sometimes makes me curious, Ted. That’s something you just wouldn’t understand.
 
 ---
 
 ## TED:
 See now, that’s where you’re wrong, m’love. I know all about curiosity.
 
-(Something in his tone stops Ren, and she watches him closely.)
+---
 
-For a while I was curious every time I’d come home from work and find you all flushed, done up and freshly showered at the end of the day. I’d hear that shivery little upbeat in your voice. That made me curious, I remember. And that little graze of a kiss across my eyebrow. Your insistence on fixing me a drink, which you poured heavy but then again your hands were shaking just a little, weren’t they, as you twittered and drew out of me what was to you, I knew damn well, deeply stultifying commentary on my day. You could say all that made me good and curious. For a time. But you know. Gradually it came to be just another part of our life. I was less curious about it the longer it went on. That’s usually the way, isn’t it? With curiosity, I mean.
+For a while I was curious every time I’d come home from work and find you all flushed, done up and freshly showered at the end of the day. 
 
-(Ren is silent.)
+---
+
+I’d hear that shivery little upbeat in your voice. That made me curious, I remember. 
+
+---
+
+And that little graze of a kiss across my eyebrow. 
+
+---
+
+Your insistence on fixing me a drink, which you poured heavy but then again your hands were shaking just a little, weren’t they, 
+
+---
+
+as you twittered and drew out of me what was to you, I knew damn well, deeply stultifying commentary on my day. You could say all that made me good and curious. 
+
+---
+
+For a time. But you know. Gradually it came to be just another part of our life. 
+
+---
+
+I was less curious about it the longer it went on. That’s usually the way, isn’t it? With curiosity, I mean.
+
+---
 
 You are going to make things right with Olivia. Because if you don’t, I swear, you will not recognize the broken world you’ve made for yourself.
 
@@ -4315,8 +4865,6 @@ Marcus?
 ## REN:
 No, honey … it’s your mom.
 
-(After a moment, Olivia opens the door and walks back into the room without acknowledging Ren, who enters behind her.)
-
 ---
 
 ## REN:
@@ -4335,14 +4883,28 @@ Olivia… do you know what would give to see you happy?
 ---
 
 ## OLIVIA:
-No. No, god dammit! That is the wrong way to start this time. Jesus Christ, Mother, this is my life. I don’t think you get that. Really, I think you see me in the abstract. “The Hypothetical Life of My Daughter Olivia.” But believe it or not, I have a life outside your imagination. And you have been screwing that up for me ever since I can remember.
+No. No, god dammit! That is the wrong way to start this time. Jesus Christ, Mother, this is my life. 
+
+---
+
+I don’t think you get that. Really, I think you see me in the abstract. “The Hypothetical Life of My Daughter Olivia.” But believe it or not, I have a life outside your imagination. 
+
+---
+
+And you have been screwing that up for me ever since I can remember.
 
 ---
 
 ## REN:
-I’m sorry. I don’t know how to do this. I don’t know what to say. I hate that we haven’t been able to ... I just ... I haven’t been sleeping much, and I’ve been thinking about you all the time.
+I’m sorry. I don’t know how to do this. I don’t know what to say. 
 
-(Beat) This is the longest we’ve ever gone without talking.
+---
+
+I hate that we haven’t been able to ... I just ... I haven’t been sleeping much, and I’ve been thinking about you all the time.
+
+---
+
+This is the longest we’ve ever gone without talking.
 
 ---
 
@@ -4362,7 +4924,31 @@ Yup. Even then.
 ---
 
 ## REN:
-Oh, Ollie. You’re so young. When I was your age… there just didn’t seem to be as many choices. And the ones I made… well. I guess somewhere in the back of my mind I always figured that … next week, next year, five years from now, my real life would begin—and I just knew it was going to be so beautiful ... But in the meantime, you know, I had to get on with my temporary life. So I did all the things: I went to college, grad school, I married your dad, I got pregnant, and I had you. Thank God. I had you. … But somewhere along the line, your father and I, without realizing it, we turned into very friendly business partners. No. That’s not even fair. It had always been that way between us; it’s just that while you were growing up, I had so many distractions. Even those rotten years we went through, well, it was never dull, was it?
+Oh, Ollie. You’re so young. When I was your age… there just didn’t seem to be as many choices. 
+
+---
+
+And the ones I made… well. I guess somewhere in the back of my mind I always figured that … next week, next year, five years from now, my real life would begin—and I just knew it was going to be so beautiful 
+
+---
+
+... But in the meantime, you know, I had to get on with my temporary life. 
+
+---
+
+So I did all the things: I went to college, grad school, I married your dad, I got pregnant, and I had you. Thank God. I had you. 
+
+---
+
+… But somewhere along the line, your father and I, without realizing it, we turned into very friendly business partners. No. That’s not even fair. 
+
+---
+
+It had always been that way between us; it’s just that while you were growing up, I had so many distractions. 
+
+---
+
+Even those rotten years we went through, well, it was never dull, was it?
 
 ---
 
@@ -4372,7 +4958,11 @@ Are you trying to tell me you never really loved Dad? Because that would really 
 ---
 
 ## REN:
-Of course I loved him. I still do. But after you moved out on your own… I got ... I was lonely. And I had too much time to think. I saw how things really were. I saw that this was my real life.
+Of course I loved him. I still do. But after you moved out on your own… I got ... I was lonely. 
+
+---
+
+And I had too much time to think. I saw how things really were. I saw that this was my real life.
 
 ---
 
@@ -4402,7 +4992,19 @@ Jesus Christ.
 ---
 
 ## REN:
-It went on for almost two years. But … it wasn’t really about the sex. Mostly, we talked. There was this incredible intimacy. I shared things about myself, about how I feel inside myself—things I’d never told anyone else. With him … I came back to myself. Because he seemed to recognize that part of me I thought I’d lost. … Can you understand? It felt like my real life had finally come—the one I’d waited for so long. It seemed … essential.
+It went on for almost two years. But … it wasn’t really about the sex. Mostly, we talked. There was this incredible intimacy. 
+
+---
+
+I shared things about myself, about how I feel inside myself—things I’d never told anyone else. 
+
+---
+
+With him … I came back to myself. Because he seemed to recognize that part of me I thought I’d lost. 
+
+---
+
+… Can you understand? It felt like my real life had finally come—the one I’d waited for so long. It seemed … essential.
 
 ---
 
@@ -4412,7 +5014,15 @@ Why are you telling me this? I don’t want to hear anymore. You’re disgusting
 ---
 
 ## REN:
-You need to hear it all, Olivia. I know how it sounds, but I will not apologize for it. Because it was right for us. At the time. I thought it was real, that it was the truth. And I didn’t think that could really be wrong.
+You need to hear it all, Olivia. I know how it sounds, but I will not apologize for it. 
+
+---
+
+Because it was right for us. At the time. I thought it was real, that it was the truth. 
+
+---
+
+And I didn’t think that could really be wrong.
 
 ---
 
@@ -4434,12 +5044,10 @@ Why?
 ## REN:
 Because he met you.
 
-(There is a moment of slow dawning as Olivia continues to stare at Ren.)
-
 ---
 
 ## OLIVIA:
-(Finally, in a whisper) You have to go now.
+You have to go now.
 
 ---
 
@@ -4454,14 +5062,24 @@ I believe you. Now get out.
 ---
 
 ## REN:
-You can’t marry him, Ollie. It won’t work. You have to understand: He’s just a fantasy, an illusion—that’s what I came here to tell you, honey—it’s not real, any of it!
+You can’t marry him, Ollie. It won’t work. 
 
-(She catches Olivia’s hand in hers tries to pull her into an embrace. Olivia shakes her off violently and backs away.)
+---
+
+You have to understand: He’s just a fantasy, an illusion—that’s what I came here to tell you, honey—it’s not real, any of it!
 
 ---
 
 ## OLIVIA:
-Get your fucking hands off me! You don’t have to worry anymore—I’m safe. He was here a little while ago. He told me we couldn’t be together, that it wasn’t fair to me, that I was too attached and he knew he would only hurt me. So you see everything’s all right now! You won, Mother! You won. Now go home.
+Get your fucking hands off me! You don’t have to worry anymore—I’m safe. 
+
+---
+
+He was here a little while ago. He told me we couldn’t be together, that it wasn’t fair to me, that I was too attached and he knew he would only hurt me. 
+
+---
+
+So you see everything’s all right now! You won, Mother! You won. Now go home.
 
 ---
 
@@ -4481,9 +5099,11 @@ I’m not going without you.
 ---
 
 ## OLIVIA:
-(Screaming) Stay away from me! Don’t you ever come back here. I don’t want to see you ever again, do you hear me? You’re fucking crazy! You’re crazy! You’re crazy!
+Stay away from me! Don’t you ever come back here. I don’t want to see you ever again, do you hear me? 
 
-(She keeps repeating this until Ren finally backs away and exits. A brief interlude, with music, as time passes. Sounds of a city street fade in as the lights shift to Marilyn, alone at a café table, with a sheaf of papers in front of her.)
+---
+
+You’re fucking crazy! You’re crazy! You’re crazy!
 
 ---
 
@@ -4493,26 +5113,46 @@ How are ya, Ren?
 ---
 
 ## REN:
-Ohhh … I’m good, but I’ve been working too much. I think I really need to take a little time away. Maybe get out of town for a while.
+Ohhh … I’m good, but I’ve been working too much. I think I really need to take a little time away. 
+
+---
+
+Maybe get out of town for a while.
 
 ---
 
 ## MARILYN:
 Well, wherever you end up going, I hope it’s warm. Gawd, I hate it when it starts getting cold this early, don’t you?
 
-(They sit looking at one another for a moment or two. Finally…)
+---
 
 Hey. I just want to say it again. The new script is fabulous. It’s a brilliant piece of work, Ren, and I hope you know that.
 
 ---
 
 ## REN:
-(With a dry smile) Ahh, but does it have edge?
+Ahh, but does it have edge?
 
 ---
 
 ## MARILYN:
-It’s got edge straight up the ass, babe. I’m telling you it’s the breakout we’ve been looking for. A huge leap; it’s just incredible. Synergy is slobbering all over it; they want it and they’re a hundred percent ready to jump. And as it’s been such a long-ass time since they’ve allowed me to play anywhere in the vicinity of their sandbox, you shoulda heard the way I made them beg. They’re talking Julianne Moore in the lead—how about that? So! In the next day or two I should know what exactly they’re thinking in terms of future rights, but I’ve got a real good feeling. They’re excited. And I’m excited.
+It’s got edge straight up the ass, babe. I’m telling you it’s the breakout we’ve been looking for. 
+
+---
+
+A huge leap; it’s just incredible. Synergy is slobbering all over it; they want it and they’re a hundred percent ready to jump. 
+
+---
+
+And as it’s been such a long-ass time since they’ve allowed me to play anywhere in the vicinity of their sandbox, you shoulda heard the way I made them beg. 
+
+---
+
+They’re talking Julianne Moore in the lead—how about that? So! In the next day or two I should know what exactly they’re thinking in terms of future rights, but I’ve got a real good feeling. 
+
+---
+
+They’re excited. And I’m excited.
 
 ---
 
@@ -4532,14 +5172,24 @@ I’m very excited.
 ---
 
 ## MARILYN:
-You oughta be—this one’s the real deal, Ren, the complete package, and when have you ever heard me say that? That scene in the bar where he catches the glint off her earring as she’s dancing and he flashes back to the two of them setting that old house on fire? Woof. I tell you what: I got chills just reading it!
+You oughta be—this one’s the real deal, Ren, the complete package, and when have you ever heard me say that? 
+
+---
+
+That scene in the bar where he catches the glint off her earring as she’s dancing and he flashes back to the two of them setting that old house on fire? Woof. 
+
+---
+
+I tell you what: I got chills just reading it!
 
 ---
 
 ## REN:
 That’s great. Thanks.
 
-(Marilyn’s cell phone begins to ring. Ren gestures for her to take the call. Marilyn instead silences the phone and drops it into her bag. Beat.)
+---
+
+(Marilyn’s cell phone begins to ring)
 
 ---
 
@@ -4554,7 +5204,11 @@ Did you?
 ---
 
 ## MARILYN:
-I did. In the produce aisle at the supermarket. I was standing there comparing two bunches of kale— ya know, as if one might suddenly speak to me. I look up and there she is, right next to me.
+I did. In the produce aisle at the supermarket. I was standing there comparing two bunches of kale— ya know, as if one might suddenly speak to me. 
+
+---
+
+I look up and there she is, right next to me.
 
 ---
 
@@ -4564,18 +5218,34 @@ How is she?
 ---
 
 ## MARILYN:
-Aww, you know, she’s always kinda hated my guts; she didn’t have a whole lot to say. Frosty but polite—same as always—but … she looked great. Healthy. Told me with no prodding that she loves her work. … How long has it been since you saw her? … … … Ya know, babe, if you ever want to talk about what’s going on between you two … I don’t know that I could help, but I’m a really good ear, you know that. … … Heyyy, let’s you and me take a hop up to the Berkshires this weekend, just the two of us. What do you say? … I’m worried about you.
+Aww, you know, she’s always kinda hated my guts; she didn’t have a whole lot to say. 
+
+---
+
+Frosty but polite—same as always—but … she looked great. Healthy. Told me with no prodding that she loves her work. … How long has it been since you saw her? … … 
+
+---
+
+… Ya know, babe, if you ever want to talk about what’s going on between you two … I don’t know that I could help, but I’m a really good ear, you know that. 
+
+---
+
+… … Heyyy, let’s you and me take a hop up to the Berkshires this weekend, just the two of us. What do you say? 
+
+---
+
+… I’m worried about you.
 
 ---
 
 ## REN:
 Don’t be worried. I’m good. We’ll do it next time, I promise. You had some paperwork for me?
 
-(Marilyn looks at her sadly, finally pushes the sheaf of documents toward her. Ren scans it as the lights shift. Transitional music as time again passes. Eventually the sound morphs into the strains of a far-off brass band, drawing Ren out of the scene with Marilyn. The sound of firecrackers popping in the distance. Ren shucks off her coat and, grabbing a rolling suitcase along the way, crosses into a hotel room in Oaxaca, Mexico. The lighting is slightly amber, reminiscent of lighting you might see on a film location at sunset.)
+---
+
+
+## REN:
+No, gracias, señor, no necessito nada ahora. Estoy bien. Muchisimas gracias, eh?
 
 ---
 
-## REN:
-(Speaking to an unseen person outside the door) No, gracias, señor, no necessito nada ahora. Estoy bien. Muchisimas gracias, eh?
-
-(For a moment, Ren peers around the room, taking it all in. She crosses and sits down on the bed. The band, far away in the town square, plays on. The sound of children running by outside, laughing and jabbering in Spanish down in the street. The lights go slightly more amber. Ren sits quietly for a few moments, her hands folded in her lap. The sound of a procession approaching outside—footsteps and quiet singing in Spanish. She moves to the window where she stands looking out into the street below. The hushed, prayerlike singing grows nearer until it is right under her window. After a moment, her expression changes from one of loss and regret to one of the intrigue of a new place, a new path, a new way of life. Lights continue to fade amber around her until, finally, they fall to black. End of play.)
