@@ -288,7 +288,7 @@ POPS. Let the dog clean his ass with it! I’m a ex-cop, war veteran Senior Citi
 JUNIOR. Alright then, I’m out
 
 POPS.
- Hey -- drop off my check to Lubenthal & Lubenthal on your way, it’s on my dresser............................ What?!
+Hey -- drop off my check to Lubenthal & Lubenthal on your way, it’s on my dresser............................ What?!
 
 JUNIOR. I didn’t say nothing -- you hear me say something?! 
 

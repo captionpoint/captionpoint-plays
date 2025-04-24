@@ -131,8 +131,8 @@ html {
   
 }
 /* 2022 styles to match hackmd.io */
-.remark-slide-content { font-size: 12rem; width: 300rem; padding: 0 3%; transform: scaleX(0.55); /* Or whatever scale looks “unstretched” */
-  transform-origin: center center;}
+.remark-slide-content { font-size: 15rem; width: 500rem; padding: 0 3%; transform: scaleX(0.55); /* Or whatever scale looks “unstretched” */
+  transform-origin: left center;}
 .remark-slide-content p {padding-bottom: 2%;}
 .remark-slide-content > p:first-child::before {
   height: 50px;
