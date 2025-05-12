@@ -1,4 +1,5 @@
 # The CaptionPoint App
+
 - currently (2/2022) a fork of [Backslide](https://github.com/sinedied/backslide.git)
 - CLI tool for making presentations with [remark.js](https://github.com/gnab/remark)
 - adds sass, preview server, self-contained HTML export
@@ -8,11 +9,15 @@
 
 # The Backslide Documentation:
 
-[![NPM version](https://img.shields.io/npm/v/backslide.svg)](https://www.npmjs.com/package/backslide)
+![NPM version](https://img.shields.io/npm/v/backslide.svg)
+
 ![Node version](https://img.shields.io/node/v/backslide.svg)
-[![Build Status](https://github.com/sinedied/backslide/workflows/build/badge.svg)](https://github.com/sinedied/backslide/actions)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+![Build Status](https://github.com/sinedied/backslide/workflows/build/badge.svg)
+
+![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > CLI tool for making HTML presentations with [Remark.js](https://github.com/gnab/remark) using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -114,7 +119,7 @@ If you have images, it's best to include them as [data-uri](https://css-tricks.c
 If you have set a `title` variable in your document (like this `title: My Awesome Presentation`), it will be used as the HTML document title, otherwise the file name will be used.
 
 > ???
- you can strip presenter notes from the exported HTML using the `--strip-notes` option, and remove slide fragments with the `--handouts` option.
+> you can strip presenter notes from the exported HTML using the `--strip-notes` option, and remove slide fragments with the `--handouts` option.
 
 #### As a website
 
@@ -127,7 +132,7 @@ Files within the `template` folder and from the `assets`, `images` and `img` fol
 Use `bs pdf` to export your all `.md` files as PDF presentations.
 
 > ???
- you can remove slide fragements with the `--handouts` option.
+> you can remove slide fragements with the `--handouts` option.
 
 This feature is based on [Decktape](https://github.com/astefanutti/decktape/).
 
