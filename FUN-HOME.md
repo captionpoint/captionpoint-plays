@@ -7,23 +7,23 @@ title: TITLE
 author: Author
 
 [//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-orange-zest: character-four
-lavender-purple: character-five
-green-goblin: character-six
+plum-purple: alison
+stiletto-red: bruce
+st-tropaz-blue: helen
+orange-zest: roy
+lavender-purple: small-alison
+green-goblin: family
 shocking-pink: character-seven
-brown-clay: character-eight
+brown-clay: christian
 pelorous-aqua: character-nine
-magenta: character-ten
-dark-violet: character-eleven
+magenta: john
+dark-violet: medium-alison
 gold: character-twelve
-dodger-blue: character-thirteen
+dodger-blue: pete
 cornflower-blue: character-fourteen
 cyan: character-fifteen
 lime-green: character-sixteen
-coral: character-seventeen
+coral: joan
 hot-pink: character-eighteen
 orange: character-nineteen
 tomato: character-twenty
@@ -48,6 +48,9 @@ class: aside
 ---
 name: overlap
 class: overlap
+---
+name: 2col
+class: col2
 ---
 class: characters, smaller
 [//]: # (list of colors)
@@ -74,67 +77,68 @@ class: center, middle, smaller
 END SETTINGS
 ---
 ---
----
-Welcome to Theater Latté Da!Please take this moment to check that all cellphones are silenced.
+template: title
+Welcome to Theater Latté Da!  Please take this moment to check that all cellphones are silenced.
 
 ---
-
+template: title
 Note that the taking of photographs and use of recording devices is not permitted.
 
 ---
-
+template: title
 Our performers will be making use of the aisles, so please keep them clear of your personal belongings.
 
 ---
-
+template: title
 We invite you to consider a contribution to support our mission.
 
 ---
-
-
-ON SUNDAY(Please join us for a post-show discussion immediately following the show.)
-
----
-
-And now, Theater Latté Da’s production of FUN HOME
+template: title
+Please join us for a post-show discussion immediately following the show.
 
 ---
-
+template: title
+And now, Theater Latté Da’s production of FUN HOME.
 
 ---
+---
 
-## SMALL ALLISON:
-DADDY, HEY DADDY, COME HERE, OKAY? I NEED YOU.
+## SMALL ALISON:
+DADDY, HEY DADDY, COME HERE, OKAY? I NEED YOU.<br>
 WHAT ARE YOU DOING? I SAID COME HERE!
 
 ---
 
 
-YOU NEED TO DO WHAT I TELL YOU TO DO!
+YOU NEED TO DO WHAT I TELL YOU TO DO!<br>
 LISTEN TO ME.
 
 ---
 
 
-DADDY!
+DADDY!<br>
 COME HERE, HEY RIGHT HERE, RIGHT NOW, YOU’RE MAKING ME MAD.
 
 ---
 
 
-LISTEN TO ME.
-LISTEN TO ME.
+LISTEN TO ME.<br>
 LISTEN TO ME.
 
 ---
 
-I WANNA PLAY AIRPLANE
-I WANNA PLAY AIRPLANE
+LISTEN TO ME.
+
+---
+
+I WANNA PLAY AIRPLANE<br>
 I WANNA PLAY AIRPLANE
 
 ---
 
+I WANNA PLAY AIRPLANE
 
+---
 
 I WANNA PUT MY ARMS OUT AND FLY
 
@@ -145,7 +149,7 @@ Like the Red Baron in his Sopwith Camel! No wait –
 ---
 
 
---LIKE SUPERMAN
+--LIKE SUPERMAN<br>
 UP IN THE SKY
 
 ---
@@ -155,10 +159,10 @@ UP IN THE SKY
 
 ---
 
+template: 2col
 ## BRUCE:
 Hey, gimme a hand.
 
----
 
 ## ALISON:
 Right, right, right.
@@ -197,52 +201,43 @@ No –
 
 ---
 
-
-
 LINEN
+
 THIS IS… LINEN
 
 ---
 
-
-GORGEOUS IRISH LINEN
+GORGEOUS IRISH LINEN<br>
 SEE HOW I CAN TELL?
 
 ---
 
-
-RIGHT HERE, THIS FLOATING THREAD, YOU SEE?
+RIGHT HERE, THIS FLOATING THREAD, YOU SEE?<br>
 THAT’S WHAT MAKES IT DAMASK
 
 ---
 
-
-AND THE WEIGHT, THE WEIGHT, THIS DRAPE
+AND THE WEIGHT, THE WEIGHT, THIS DRAPE<br>
 AND THE PATTERN, CRISP AND CLEAR
 
 ---
 
-
-SEE HOW IT’S MADE FROM MATTE AND SHINE
+SEE HOW IT’S MADE FROM MATTE AND SHINE<br>
 IT’S TATTERED HERE, BUT ALL THE REST – 
 
 ---
 
-
-HOW BEAUTIFUL
+HOW BEAUTIFUL<br>
 HOW FINE
 
 ---
 
-
-
 Okay, okay… What else?
-Crap…
+
+Crap… Crap...
 
 ---
 
-
-Crap…
 Dead mouse.
 
 ---
@@ -254,69 +249,76 @@ Ooh, can I have it?
 
 ## BRUCE:
 It’s all yours.
+
+---
+
 What’s this?
 
 ---
 
-
-
 SILVER
+
 IS THIS… SILVER?
 
 ---
 
-
-IS THIS JUNK OR SILVER?
+IS THIS JUNK OR SILVER?<br>
 WITH POLISH WE CAN TELL
 
 ---
 
-
-I LOVE HOW TARNISH MELTS AWAY
+I LOVE HOW TARNISH MELTS AWAY<br>
 OPENING TO LUSTER
 
 ---
 
 
-AND THE MARK, IS THERE A MARK?
+AND THE MARK, IS THERE A MARK?<br>
 YES, THIS STAMP, YOU SEE RIGHT HERE?
 
 ---
 
 
 THAT’S HOW THE CRAFTSMAN LEAVES A SIGN
+
 THAT HE WAS HERE AND MADE HIS WORK 
+
+---
+
 SO BEAUTIFUL, SO FINE
 
 ---
 
 
 
-THIS HAS TRAVELED CONTINENTS TO GET HERE
+THIS HAS TRAVELED CONTINENTS TO GET HERE<br>
 AND CROSSED AN OCEAN OF TIME
 
 ---
 
-
 AND SOMEHOW LANDED IN THIS BOX UNDER A LAYER OF GRIME
+
+---
+
 I CAN’T ABIDE ROMANTIC NOTIONS OF SOME VAGUE “LONG AGO”
 
 ---
 
 
 I WANT TO KNOW WHAT’S TRUE,
+
 DIG DEEP INTO WHO
 
 ---
 
 
-AND WHAT AND WHY AND WHEN,
+AND WHAT AND WHY AND WHEN,<br>
 UNTIL NOW GIVES WAY TO THEN
 
 ---
 
 ## ALISON:
-Did you ever imagine I’d hang onto your stuff, Dad? Me neither. 
+Did you ever imagine *I’d* hang onto your stuff, Dad? Me neither. 
 
 ---
 
@@ -332,47 +334,92 @@ And I need real things to draw from because I don’t trust memory.
 
 ---
 
-
-
-BUT GOD, THIS THING IS GHASTLY!
+BUT GOD, THIS THING IS GHASTLY!<br>
 YOU WERE SO ECSTATIC WHEN YOU FOUND IT AT A YARD SALE
 
 ---
 
 
-NO, NO, WAIT – 
+NO, NO, WAIT – <br>
 IN MR. GIBBONS BARN
 
 ---
 
 
-IT ALL COMES BACK, IT ALL COMES BACK, IT ALL COMES BACK
-THERE’S YOU
-AND THERE’S ME
+IT ALL COMES BACK, IT ALL COMES BACK, IT ALL COMES BACK<br>
+THERE’S YOU AND THERE’S ME
 
 ---
 
 
-BUT NOW I’M THE ONE WHO’S FORTY-THREE
-AND STUCK
+BUT NOW I’M THE ONE WHO’S FORTY-THREE AND STUCK<br>
 I CAN’T FIND MY WAY THROUGH
 
 ---
 
-JUST LIKE YOU
+JUST LIKE YOU<br>
 AM I JUST LIKE YOU?
 
 ---
 
+template: 2col
+## BRUCE
+A SIGN THAT HE WAS HERE<br>
+AND DID HIS WORK
+
+## ALISON
+I CAN’T ABIDE ROMANTIC NOTIONS <br>
+OF SOME VAGUE “LONG AGO”
+
+---
+
 ## ALISON AND BRUCE:
-I WANT TO KNOW WHAT’S TRUE,
+I WANT TO KNOW WHAT’S TRUE,<br>
 DIG DEEP INTO WHO
 
 ---
 
-
-AND WHAT AND WHY AND WHEN,
+AND WHAT AND WHY AND WHEN,<br>
 UNTIL NOW GIVES WAY TO THEN
+
+---
+
+template: 2col
+## SMALL ALISON:
+DADDY, HEY DADDY, COME HERE, OKAY? I NEED YOU.
+
+## BRUCE AND ALISON:
+WHAT IS TRUE
+
+---
+
+template: 2col
+## SMALL ALISON:
+WHAT ARE YOU DOING? I SAID COME HERE!
+
+
+## BRUCE:
+THIS HAS TRAVELED TO GET HERE
+
+---
+
+template: 2col
+## ALISON AND SMALL ALISON:
+I WANNA PLAY AIRPLANE<br>
+I WANNA PLAY AIRPLANE
+
+## BRUCE: 
+SO BEAUTIFUL
+
+---
+
+template: 2col
+## BRUCE: 
+BEAUTIFUL IS<br>
+WHAT IS TRUE
+
+## ALISON: 
+WHAT IS TRUE
 
 ---
 
@@ -387,7 +434,7 @@ I see everything!
 ---
 
 ## ALISON:
-Caption: My dad and I were nothing alike.
+Caption: My dad and I were *nothing* alike.
 
 ---
 
@@ -397,7 +444,7 @@ I’m Superman!
 ---
 
 ## ALISON:
-My dad and I…
+My dad and I…<br>
 My dad and I…
 
 ---
@@ -412,6 +459,9 @@ Caption: Sometimes my father appeared to enjoy having children, but the real obj
 
 ---
 
+
+---
+
 ## BRUCE:
 I just got a call from Eleanor Bochner! Allegheny Historical Society! She was calling about the house tour!
 
@@ -423,7 +473,7 @@ Oh, that’s wonderful!
 ---
 
 ## BRUCE:
-She’s on her way over right now. I’m not sure what to do. This place is turned upside-down… I’m not even dressed…
+She’s on her way over right now. I’m not sure what to do. This place is turned upside-down… I’m not even dressed—
 
 ---
 
@@ -453,85 +503,79 @@ This is one of those times you need to do what I say quickly and without any she
 
 
 
-HE WANTS THE HEPPLEWHITE SUITE CHAIRS BACK IN THE PARLOR
-MOVE THE GI JOE
+HE WANTS THE HEPPLEWHITE SUITE CHAIRS <br>
+BACK IN THE PARLOR
 
 ---
 
-
+MOVE THE GI JOE<br>
 IT CAN’T BE ON THE FLOOR
-HE WANTS THE DRESDEN FIGURINES BACK IN THE BREAKFRONT
+
+---
+
+HE WANTS THE DRESDEN FIGURINES <br>
+BACK IN THE BREAKFRONT
 
 ---
 
 
-A SLINKY MESSES UP 
+A SLINKY MESSES UP <br>
 THE PERIOD DÉCOR
 
 ---
 
 
-GET THE LEMON PLEDGE AND DUST THE—
+GET THE LEMON PLEDGE AND DUST THE—<br>
 THESE SHOULD FACE THE SAME DIRECTION
 
 ---
 
 
-HE WANTS IT VACUUMED
-THE SURFACE GLEAMING
+HE WANTS IT VACUUMED, THE SURFACE GLEAMING<br>
 HE WANTS IT CLOSER TO THE DOOR
 
 ---
 
 
 
-HE WANTS—
-HE WANTS—
-HE WANTS—
+HE WANTS— HE WANTS— HE WANTS—
 
 ---
 
-
-
-HE WANTS THE BRASS CANDELABRA SET AT AN ANGLE
-THE CRAYONS AND THE GLUE 
+HE WANTS THE BRASS CANDELABRA <br>
+SET AT AN ANGLE
 
 ---
 
-
+THE CRAYONS AND THE GLUE <br>
 SHOULD GO BACK IN THE DRAWER
-HE WANTS THE BUST OF QUIXOTE SQUARE ON THE MANTEL
+
+---
+
+HE WANTS THE BUST OF QUIXOTE <br>
+SQUARE ON THE MANTEL
 
 ---
 
 
-SWEEP THAT LINT AWAY 
+SWEEP THAT LINT AWAY <br>
 IT’S WHAT A BROOM IS FOR
 
 ---
 
 
-GENTLY WIPE THE EUCALYPTUS
+GENTLY WIPE THE EUCALYPTUS<br>
 POLISH UP THE CRYSTAL PRISMS
 
 ---
 
 
-WHEN HE COMES DOWN HERE
-HE WANTS IT READY
+WHEN HE COMES DOWN HERE HE WANTS IT READY<br>
 WE’VE GOT TO GET IT DONE BEFORE – 
 
 ---
 
-
-
-HE WANTS –
-HE WANTS – 
-HE WANTS – 
-
----
-
-
+HE WANTS – HE WANTS – HE WANTS – 
 
 ---
 
@@ -546,126 +590,88 @@ It’s in the—
 ---
 
 ## ALISON:
-WELCOME TO OUR HOUSE ON MAPLE AVENUE
+WELCOME TO OUR HOUSE ON MAPLE AVENUE<br>
 SEE HOW WE POLISH AND WE SHINE
-WE REARRANGE AND REALIGN
 
 ---
 
-
+WE REARRANGE AND REALIGN<br>
 EVERYTHING IS BALANCED AND SERENE
+
+---
+
 LIKE CHAOS NEVER HAPPENS IF IT’S NEVER SEEN
 
 ---
 
 ## ALISON AND HELEN:
 EV’RY NEED WE ANTICIPATE AND FILL
+
+---
+
 AND STILL – 
 
 ---
 
+
+---
+
 ## HELEN AND SMALL ALISON:
-HE WANTS THE REAL FEATHER DUSTER USED ON THE BOOKCASE
+HE WANTS THE REAL FEATHER DUSTER <br>
+USED ON THE BOOKCASE
 
 ---
 
 ## HELEN AND CHRISTIAN:
-FIND ALL THE BOOKS WE READ 
+FIND ALL THE BOOKS WE READ <br>
 AND CAREFULLY RESTORE
 
 ---
 
 ## HELEN AND JOHN:
-HE WANTS THEM ALPHABETIZED BY CLASSIFICATION
+HE WANTS THEM ALPHABETIZED BY <br>
+CLASSIFICATION
 
 ---
 
 ## HELEN:
-A VOLUME OUT OF PLACE
+A VOLUME OUT OF PLACE<br>
 COULD START A THIRD WORLD WAR
 
 ---
 
 ## HELEN AND THE KIDS:
-That’s an inch out of position
-Watch it, that’s a first edition
+THAT'S AN INCH OUT OF POSITION<br>
+WATCH IT, THAT'S A FIRST EDITION
 
 ---
 
 ## HELEN:
-What are we missing?
-What have we left out?
+WHAT ARE WE MISSING?<br>
+WHAT HAVE WE LEFT OUT?
 
 ---
 
-
-When he comes down here what’s in store?
+WHEN HE COMES DOWN HERE WHAT'S IN STORE?
 
 ---
 
 ## HELEN AND THE KIDS:
-HE WANTS—
-HE WANTS—
-HE WANTS—
+HE WANTS— HE WANTS— HE WANTS—
 
 ---
 
-## HELEN, CHRISTIAN, JOHN:
-WELCOME TO OUR HOUSE ON MAPLE AVENUE
-
----
-
-## ALISON AND SMALL ALISON:
-WELCOME TO OUR HOUSE ON MAPLE AVENUE
-
----
-
-## HELEN, CHRISTIAN, JOHN:
+## HELEN AND THE KIDS (OVERLAPPING):
+WELCOME TO OUR HOUSE ON MAPLE AVENUE<br>
 SEE HOW WE POLISH AND WE SHINE
 
 ---
 
-## ALISON AND SMALL ALISON:
-SEE HOW WE POLISH AND WE SHINE
-
----
-
-## HELEN, CHRISTIAN, JOHN:
-WE REARRANGE AND REALIGN
-
----
-
-## ALISON AND SMALL ALISON:
-WE REARRANGE AND REALIGN
-
----
-
-## HELEN, CHRISTIAN, JOHN:
+WE REARRANGE AND REALIGN<br>
 EVERYTHING IS BALANCED AND SERENE
 
 ---
 
-## BRUCE:
-EVERYTHING BALANCED AND SERENE
-
----
-
-## ALISON AND SMALL ALISON:
-EVERYTHING BALANCED AND SERENE
-
----
-
-## HELEN, CHRISTIAN, JOHN:
-LIKE CHAOS NEVER HAPPENS IF IT’S NEVER SEEN
-
----
-
-## BRUCE:
-LIKE CHAOS NEVER HAPPENS IF IT’S NEVER SEEN
-
----
-
-## ALISON AND SMALL ALISON:
 LIKE CHAOS NEVER HAPPENS IF IT’S NEVER SEEN
 
 ---
@@ -681,17 +687,15 @@ AND YET—
 ---
 
 ## BRUCE:
-NOT TOO BAD, IF I SAY SO MYSELF
+NOT TOO BAD, IF I SAY SO MYSELF<br>
 I MIGHT STILL BREAK A HEART OR TWO
 
 ---
 
-
-SOMETIMES THE FIRE BURNS SO HOT
+SOMETIMES THE FIRE BURNS SO HOT<br>
 I DON’T KNOW WHAT I’LL DO.
 
 ---
-
 
 NOT TOO BAD, IF I SAY SO MYSELF
 
@@ -700,7 +704,99 @@ NOT TOO BAD, IF I SAY SO MYSELF
 ## BRUCE AND ALISON:
 NOT TOO BAD
 
+---
 
+## BRUCE:
+Mrs. Bochner, pleasure to meet you, come on in!
+
+---
+
+template: 2col
+## FAMILY (UNDERNEATH, THROUGHOUT):
+DEET DEET DEET<br>
+DEET DEET DEET DEET…
+
+
+## BRUCE: 
+Thank you. Obviously still a work in progress.
+
+---
+
+## BRUCE:
+Oh yes, I’ve done all the work myself. That’s how we’re able to afford the place. 
+
+---
+
+No, no, historic restoration is an avocation, but that’s very flattering.
+
+---
+ 
+ ## BRUCE: 
+I teach English at Beech Creek High, and the Bechdel Funeral Home is our family business. 
+
+---
+
+template: 2col
+## FAMILY:
+WHAT IS HE AFTER?<br>
+WHAT ARE WE DOING?
+
+
+## BRUCE:
+So I’m also a funeral director. [CONTINUES THROUGHOUT]
+
+---
+
+template: 2col
+## ALISON:
+IT ALL COMES BACK...
+
+
+## FAMILY:
+RIGHT FOOT IS TAPPING
+
+THAT MEANS HE’S STEWING
+
+---
+
+template: 2col
+## FAMILY: 
+STAY VERY STILL AND<br>
+MAYBE WE’LL PLEASE HIM 
+
+## BRUCE: 
+Actually I believe Rococo Revival.
+
+---
+
+template: 2col
+## ALISON: 
+IT ALL COMES BACK...
+
+
+## FAMILY:
+MAKE ONE WRONG MOVE AND<br>
+DEMONS WILL SEIZE HIM
+
+---
+
+template: 2col
+## BRUCE:
+Absolutely. Would you like one with this family?
+
+
+## FAMILY: 
+TRY HARD. WHAT ELSE IS FAMILY FOR?
+
+---
+
+## BRUCE:
+Kids! Mrs. Bochner wants to take a photo.
+
+---
+
+## FAMILY:
+HE WANTS— HE WANTS— HE WANTS—
 
 ---
 
@@ -715,42 +811,44 @@ HE WANTS MORE
 ---
 
 Caption:
-My dad and I both grew up in the same small 
-Pennsylvania town
+My dad and I both grew up in the same small Pennsylvania town
 
 ---
 
 
 And he was gay
+
 And I was gay
 
 ---
 
 
 And he killed himself
+
+---
+
 And I became a lesbian cartoonist.
 
 ---
 
 ## MEDIUM ALISON:
-NOT TOO BAD, IF I SAY SO MYSELF
+NOT TOO BAD, IF I SAY SO MYSELF<br>
 THIS OUTSHINES THE FIRST ONE I DREW
 
 ---
 
 
 I DON’T KNOW WHICH WAY’S UP
+
 I DON’T KNOW WHAT I’M SUPPOSED TO DO!
 
 ---
 
 
-NOT TOO BAD 
+NOT TOO BAD <br>
 IF I SAY SO MYSELF…
 
 ---
-
-
 
 [PHONE RINGS]
 
@@ -791,7 +889,7 @@ No, it’s not that, it’s just… stupid stuff.
 
 ---
 
-In Modern Classics today the professor told us that Jakes’s renewal in Spain in “The Sun Also Rises” is really an allusion to Jungian rebirth.
+In Modern Classics yesterday the professor said that Jakes’s renewal in Spain in “The Sun Also Rises” is really an allusion to *Jungian rebirth.*
 
 ---
 
@@ -806,7 +904,7 @@ I almost screamed, “That's bullshit!”
 ---
 
 ## BRUCE:
-That’s bullshit! Jakes’ not a symbol, he’s Hemingway! That book is a roman-a-clef.
+That’s bullshit! Jakes’ not a *symbol,* he’s Hemingway! That book is a roman-a-clef.
 
 ---
 
@@ -838,11 +936,7 @@ One surprising thing you learn when you go away to college: people just aren’t
 
 ---
 
-Trust your instincts, kid. You don’t need to twist yourself in knots trying to impress people who are Not Worthy Of You. 
-
----
-
-Got it?
+Trust your instincts, kid. You don’t need to twist yourself in knots trying to impress people who are Not Worthy Of You. Got it?
 
 ---
 
@@ -891,7 +985,7 @@ Just had a good talk with Dad and I feel so much better. (Underline, underline, 
 
 ---
 
-I’m going to spend four years reading books and drawing. And that’s fine. 
+I’m going to spend four years reading books and drawing. And that’s *fine.* 
 
 ---
 
@@ -905,7 +999,10 @@ It’s not the world anyway! It’s Oberlin College!
 ---
 
 ## ALISON:
-Wow. I had no idea what was coming.
+[LAUGHING] Woah, I had no idea what was coming.
+
+---
+
 
 ---
 
@@ -945,7 +1042,7 @@ Of course. Let’s—
 ---
 
 ## PETE:
-No, I’ll, I’ll take these home.
+No, no, I’ll take these home.
 
 ---
 
@@ -959,8 +1056,23 @@ Thanks, Bruce.
 
 ---
 
+
+---
+
 ## BRUCE:
-Kids, get out of there. NOW! Where’s John? How many times have you been told Do Not Get In the Caskets?
+Kids, get out of there. 
+
+---
+
+NOW! 
+
+---
+
+Where’s John? 
+
+---
+
+How many times have you been told Do Not Get In the Caskets?
 
 ---
 
@@ -1015,7 +1127,7 @@ He fell off a ladder. Broke his neck. Get this cleaned up. It’s going to be a 
 ---
 
 ## CHRISTIAN:
-When you break your neck is it just like crack you’re instantly dead?
+When you break your neck is it just like *crack* you’re instantly dead?
 
 ---
 
@@ -1060,6 +1172,9 @@ My turn!
 
 ## SMALL ALISON:
 Shhh!
+
+---
+
 
 ---
 
@@ -1120,19 +1235,27 @@ Fun Home commercial. Take seven million billion thousand.
 
 ## JOHN:
 YOUR UNCLE DIED
+
 YOU’RE FEELING LOW
 
 ---
 
 
-YOU’VE GOT TO BURY YOUR MOMMA BUT YOU DON’T KNOW WHERE TO GO
-YOUR PAPA NEEDS HIS FINAL REST
+YOU’VE GOT TO BURY YOUR MOMMA 
+
+BUT YOU DON’T KNOW WHERE TO GO
+
+---
+
+YOUR PAPA NEEDS <br>
+HIS FINAL REST
 
 ---
 
 
-YOU GOT, YOU GOT, YOU GOT TO GIVE THEM THE BEST
-OH—
+YOU GOT, YOU GOT, YOU GOT 
+
+TO GIVE THEM THE BEST, OH—
 
 ---
 
@@ -1146,15 +1269,15 @@ THAT’S THE BECHDEL FUNERAL HOME, BABY
 
 ---
 
-SMALL ALISON AND CHRISTIAN	
+## SMALL ALISON AND CHRISTIAN:	
 THE BECHDEL FUN HOME
 
 ---
 
+template: 2col
 ## JOHN:
 NEXT TO BAKER’S DEPARTMENT STORE
 
----
 
 ## THREE KIDS:
 In Beech Creek!
@@ -1167,46 +1290,59 @@ THE BECHDEL FUN HOME
 ---
 
 ## JOHN:
-WE TAKE DEAD BODIES EV’RY DAY OF THE WEEK SO
+WE TAKE DEAD BODIES EV’RY DAY OF THE WEEK, SO
 
 ---
 
 ## THREE KIDS:
 YOU’VE GOT NO REASON TO ROAM
+
 USE THE BECHDEL FUNERAL HOME
 
 ---
 
-
-
-WHAT IT IS, WHAT IT IS
-HOO HOO HOO
+WHAT IT IS, WHAT IT IS, HOO HOO HOO<br>
 WHAT IT IS, WHAT IT IS NOW BABY
 
+---
 
+## SMALL ALISON AND CHRISTIAN:
+SOCK IT TO ME<br>
+SOCK IT TO ME
 
 ---
 
-## CHRISTIAN:
-OUR CASKETS
+template: 2col
+## SMALL ALISON AND CHRISTIAN:
+SOCK IT TO ME<br>
+SOCK IT TO ME
 
-SMALL ALISON AND JOHN
-OOH!
+
+## JOHN
+HERE COME DA JUDGE<br>
+HERE COME DA JUDGE, BABY
 
 ---
 
+template: 2col
 ## CHRISTIAN:
+OUR CASKETS<br>
 ARE SATIN LINED
 
----
 
-## SMALL ALISON AND JOHN:
-OOH!
+## SMALL ALISON AND JOHN
+OOH!<br>
+OOH! 
 
 ---
 
 ## CHRISTIAN:
-AND WE GOT SO MANY MODELS GUARANTEED TO BLOW YOUR MIND 
+AND WE GOT SO MANY MODELS <br>
+GUARANTEED TO BLOW YOUR MIND 
+
+---
+
+## CHRISTIAN:
 YOU KNOW OUR MOURNERS—
 
 ---
@@ -1222,11 +1358,7 @@ THEY LIKE, THEY LIKE, THEY LIKE
 ---
 
 ## THREE KIDS:
-OUR FORMALDEHYDE!
-
----
-
-## SMALL ALISON:
+OUR FORMALDEHYDE!<br>
 YEAH!
 
 ---
@@ -1253,37 +1385,42 @@ WE GOT KLEENEX AND YOUR CHOICE OF PSALM
 
 ## THREE KIDS:
 STOP BY THE FUN HOME
+
+---
+
+## CHRISTIAN:
 THINK OF BECHDEL WHEN YOU NEED TO EMBALM
 
 ---
 
-
+## THREE KIDS:
 YOU’VE GOT NO REASON TO ROAM
+
 USE THE BECHDEL FUNERAL HOME
 
 ---
 
 
-WHAT IT IS, WHAT IT IS
+WHAT IT IS, WHAT IT IS<br>
 HOO HOO HOO
 
 ---
 
-
-WHAT IT IS, WHAT IT IS
+WHAT IT IS, WHAT IT IS<br>
 HOO HOO
 
 ---
 
 ## CHRISTIAN:
 TELL ‘EM WHAT WE GOT
-TELL ‘EM HAVE WE GOT, TITO
+
+TELL ‘EM WHAT WE GOT, TITO
 
 ---
 
 
-WHAT ELSE HAVE WE GOT?
-WHAT ELSE HAVE WE GOT? WHAAAA!
+WHAT ELSE HAVE WE GOT?<br>
+WHAT ELSE HAVE WE GOT YOU GUYS?
 
 ---
 
@@ -1299,6 +1436,7 @@ Folding chairs that open easy!
 
 ## CHRISTIAN:
 These are cool, you know what they are? 
+
 Flags with magnets for your car!
 
 ---
@@ -1324,44 +1462,46 @@ This is called an aneurysm hook! En garde!
 ---
 
 ## THREE KIDS:
-COME TO THE FUN HOME
+COME TO THE FUN HOME<br>
 AMPLE PARKING DOWN THE STREET
 
 ---
 
 
-HERE AT THE FUN HOME
+HERE AT THE FUN HOME<br>
 BODY PREP THAT CAN’T BE BEAT
 
 ---
 
-
-YOU’LL LIKE THE FUN HOME
+YOU’LL LIKE THE FUN HOME<br>
 IN OUR HEARSE THERE’S A BACKWARDS SEAT!
 
 ---
 
 
-THAT’S WHY WE MADE UP THIS POEM
+THAT’S WHY WE MADE UP THIS POEM<br>
 WE’RE THE BECHDEL FUNERAL HOME
 
 ---
 
 
 
-WHAT IT IS, WHAT IT IS
+WHAT IT IS, WHAT IT IS<br>
 HOO HOO HOO
 
 ---
 
 
-WHAT IT IS, WHAT IT IS NOW BABY
+WHAT IT IS, WHAT IT IS NOW BABY<br>
 HOO! HOO! HOO!
 
 ---
 
+
+---
+
 ## BRUCE:
-Alison? Alison, would you come here, please?
+Alison? Alison, would you come in here, please?
 
 ---
 
@@ -1386,7 +1526,18 @@ I don’t know.
 ---
 
 ## BRUCE:
-Alison! Hand me those scissors on the tray.
+Alison! 
+
+---
+
+
+---
+
+## BRUCE:
+Hand me those scissors on the tray.
+
+---
+
 
 ---
 
@@ -1396,18 +1547,28 @@ Is that all?
 ---
 
 ## BRUCE:
-What? Oh, yeah.
+What? 
+
+Oh, yeah.
+
+---
+
 
 ---
 
 ## ALISON:
 “Dad showed me a dead body today
+
+---
+
 Went swimming
 
 ---
 
-
 Got a new Hardy Boy book
+
+---
+
 Had egg salad for lunch”
 
 ---
@@ -1418,15 +1579,15 @@ What was that about, Dad? Why did you call me back there?
 
 ---
 
-Is that the way your father showed you your first dead body? 
-
----
-
-Was it some Bechdel rite of passage? 
+Is that the way your father showed you your first dead body? Was it some Bechdel rite of passage? 
 
 ---
 
 Or, am I reading too much into this? Maybe you just needed the scissors.
+
+
+---
+
 
 ---
 
@@ -1451,12 +1612,14 @@ Uh, no. Uh, German Club?
 ---
 
 ## JOAN:
-Oh. Over there.
+Ah. Over there.
 
 ---
 
 ## MEDIUM ALISON:
 Thanks. Danke! 
+
+---
 
 ---
 
@@ -1466,7 +1629,10 @@ Please god, don’t let me be a lesbian. Please don’t let me be a homosexual.
 ---
 
 
-Oh my god, Danke???
+Oh my god, *Danke???*
+
+---
+
 
 ---
 
@@ -1510,10 +1676,10 @@ They are.
 
 ---
 
+template: 2col
 ## JOHN:
 I wanna see!
 
----
 
 ## CHRISTIAN:
 Me too!
@@ -1545,7 +1711,7 @@ Hey, you look like a guy I met the other day. Are you that same guy?
 
 ---
 
-I remember what he looked like upside down.
+I remember what he looked like upside down. Raaahr!
 
 ---
 
@@ -1559,11 +1725,7 @@ Ah, Mrs. Bechdel, yeah, I’m Roy—sorry, I know who you are, my aunt and uncle
 
 ---
 
-they see your plays, they’re crazy about you. 
-
----
-
-They’re always saying you’re so much better than Irma Hornbacher.
+they see your plays, they’re crazy about you. They’re always saying you’re so much better than Irma Hornbacher.
 
 ---
 
@@ -1617,10 +1779,10 @@ Hey Roy, did you see Herbie Rides Again?
 
 ---
 
+template: 2col
 ## CHRISTIAN:
 Oh, yeah! It’s the best movie.
 
----
 
 ## JOHN:
 Herbie is a car!
@@ -1682,7 +1844,7 @@ Hauling. Other things. I don’t know.
 ---
 
 ## HELEN:
-Oh. So… You’re thinking he’s going to be working here, at the house?
+Oh. So, you’re thinking he’s going to be working here, at the house?
 
 ---
 
@@ -1702,16 +1864,17 @@ Arnie recommended him, okay?
 ---
 
 ## HELEN:
-Okay. I’m just, I’m trying to get a sense // of—
+Okay. I’m just, I’m trying to get a sense of—
 
 ---
 
 ## BRUCE:
-Crissakes, I know him. He was my student a few years back. 
+Crissakes, I know him. He was my student a few years back. Okay?
 
 ---
 
-Okay? What, do you think I’m bringing some bum around? 
+## BRUCE: 
+What, do you think I’m bringing some bum around? 
 
 ---
 
@@ -1737,12 +1900,14 @@ Raaahr! Okay, that’s enough. Come on, Roy, let’s go inside. I’ll show you 
 
 ---
 
+[KIDS PROTESTING]
 
-
-
+---
 
 ## BRUCE:	
-Enough! Bunch of little monsters.
+Enough! 
+
+Bunch of little monsters.
 
 ---
 
@@ -1758,12 +1923,13 @@ Sure.
 
 ## ALISON:
 I WANT TO KNOW WHAT’S TRUE,
+
 DIG DEEP INTO WHO
 
 ---
 
 
-AND WHAT AND WHY AND WHEN,
+AND WHAT AND WHY AND WHEN,<br>
 UNTIL NOW GIVES WAY TO THEN…
 
 ---
@@ -1827,13 +1993,18 @@ Alison, find something to do. I’m practicing.
 
 ---
 
+
+---
+
 ## SMALL ALISON:
 Did Choppin’ write Chopsticks?
 
 ---
 
 ## HELEN:
-It’s Sho-PAHN. Alison, stop bothering me.
+It’s SHO-pan. 
+
+Alison, stop bothering me.
 
 ---
 
@@ -1852,16 +2023,14 @@ Don’t wanna sweat all over your nice stuff.
 ---
 
 ## BRUCE:
-What are you talking about, it’s furniture for chrissakes. 
-
----
-
-Go ahead. Stretch out if you want.
+What are you talking about, it’s *furniture* for chrissakes. Go ahead. Stretch out if you want.
 
 ---
 
 ## ROY:
-This place is like a museum. What’s that stuff?
+This place is like a museum. 
+
+What’s that stuff?
 
 ---
 
@@ -1885,11 +2054,7 @@ Okay, sure. I remember this house before you moved in.
 
 ---
 
-We used to ride our bikes over here when we were kids. 
-
----
-
-You’ve done a shitload of work.
+We used to ride our bikes over here when we were kids. You’ve done a shitload of work.
 
 ---
 
@@ -1904,13 +2069,15 @@ You must be in good shape, old man.
 ---
 
 ## BRUCE:
-NOT TOO BAD IF I SAY SO MYSELF
+NOT TOO BAD IF I SAY SO MYSELF<br>
 I MIGHT STILL BREAK A HEART OR TWO
 
 ---
 
 
 YOU’D BE SURPRISED AT WHAT A GUY MY AGE KNOWS HOW TO DO
+
+---
 
 Want it?
 
@@ -1937,35 +2104,105 @@ Don’t worry about her.
 ---
 
 ## HELEN:
-LA LA LA LA
-LA LA LA LA LA
+LA LA LA LA<br>
+LA LA LA LA LA (ETC.)
+
+---
+
 
 ---
 
 ## HELEN:
-MAYBE NOT RIGHT NOW
+MAYBE NOT RIGHT NOW<br>
 MAYBE NOT RIGHT NOW
 
+---
 
+template: 2col
+## HELEN (UNDERNEATH, THROUGHOUT):
+LA LA LA LA…
+
+## BRUCE:
+I WANT, I WANT, I WANT— I— 
 
 ---
 
 ## ROY:
-I KNOW THIS TYPE
+I KNOW THIS TYPE<br>
 THIS TYPE OF MARRIED GUY
 
 ---
 
-
-I COULD JUST GIVE HIM THE SLIP BUT WHY
+I COULD JUST GIVE HIM THE SLIP BUT WHY<br>
 IT’S NOT A BIG DEAL
 
 ---
 
-
 I KNOW HE WANTS ME
 
+---
 
+template: 2col
+## KIDS:
+BA BA BA BA <br>
+BA BA BA BA
+
+
+## HELEN:
+I WANT I WANT 
+
+I WANT I—
+
+---
+
+template: 2col
+## ROY:
+I KNOW THIS TYPE, THIS TYPE OF MARRIED GUY
+
+
+## BRUCE:
+I MIGHT STILL
+
+---
+
+template: 2col
+## ROY:
+I COULD JUST GIVE HIM THE SLIP 
+
+
+## BRUCE:
+BREAK A HEART
+
+---
+
+template: 2col
+## ROY:
+BUT WHY, IT'S NOT A BIG DEAL. I KNOW
+
+
+## BRUCE: 
+OR TWO
+
+---
+
+template: 2col
+## ROY:
+HE WANTS JUST
+
+
+## BRUCE:
+I WANT JUST
+
+---
+
+## ALL:
+ME AND HIM<br>
+ME AND HIM
+
+---
+
+## ALL:
+ME AND HIM
 
 ---
 
@@ -1983,6 +2220,8 @@ They sell a kind here that I swear is made of paste.
 
 ---
 
+
+---
 
 Nothing else worth writing home about. Har har. 	
 
@@ -2019,17 +2258,24 @@ Just some simple drawing, right? Sure. So you want it to say…
 ---
 
 ## JOAN:
-We just need really good “No Nukes” posters.
+We just need some really good “No Nukes” posters.
 
 ---
 
 ## MEDIUM ALISON:
-Right, okay, so something like maybe…
+Right, okay. So, something like maybe…
 
 ---
 
 ## JOAN:
-Oh, that’s funny. That’s really good.
+Oh, that’s funny. 
+
+---
+
+
+---
+
+That’s really good.
 
 ---
 
@@ -2049,7 +2295,7 @@ My dad.
 ---
 
 ## JOAN:
-That’s your dad?
+That’s your *dad?*
 
 ---
 
@@ -2089,7 +2335,7 @@ A bunch of things, actually. He’s a historical society, house restoration kind
 
 ---
 
-he’s a high-school English teacher, he runs the // local - - 
+he’s a high-school English teacher, he runs the local— 
 
 ---
 
@@ -2183,7 +2429,7 @@ Yeah.
 ---
 
 ## JOAN:
-Your father sent you Colette?
+Your father sent you *Colette?*
 
 ---
 
@@ -2197,7 +2443,7 @@ I don’t know. It’s just… He’s like the opposite of my dad.
 
 ---
 
-He’s just like sending you lesbian books?
+He’s just, like, sending you lesbian books?
 
 ---
 
@@ -2212,7 +2458,7 @@ Oh, she was.
 ---
 
 ## MEDIUM ALISON:
-Okay, but he sent it to me because he thought I’d be interested in the whole Paris… Arts… Bohemian… Scene.
+Okay... But he sent it to me because he thought I’d be interested in the whole Paris… Arts… Bohemian… Scene.
 
 ---
 
@@ -2275,7 +2521,7 @@ With who what?
 ---
 
 ## ALISON:
-Oh god.
+Oh, god.
 
 ---
 
@@ -2285,12 +2531,14 @@ Who were you with?
 ---
 
 ## MEDIUM ALISON:
-Nobody. NOBODY! Oh my god, I’m so embarrassed.
+Nobody. 
+
+*NOBODY!* Oh my god, I am so embarrassed.
 
 ---
 
 ## ALISON:
-Oh god.
+Oh, god!
 
 ---
 
@@ -2305,7 +2553,7 @@ In a bookstore? Nice.
 ---
 
 ## MEDIUM ALISON:
-What? NO! Two weeks ago I was downtown and I wandered into the bookstore, 
+What? *NO!* Two weeks ago I was downtown and I wandered into the bookstore, 
 
 ---
 
@@ -2333,14 +2581,22 @@ Gay?
 ---
 
 ## MEDIUM ALISON:
-Gay. Yes. And then I was like, “Oh my god! I’m
+Gay. Yes. And *then* I was like, “Oh my god, 
+
+---
+
+template: 2col
+## MEDIUM ALISON: 
+*I’m* a lesb—
 
 
+## JOAN: 
+A dyke.
 
 ---
 
 ## MEDIUM ALISON:
-Yes. A dyke. Yes. And I totally flipped out and shoved the book back onto the shelf and I left. 
+Yes! A dyke, yes. And I totally flipped out and shoved the book back onto the shelf and I left. 
 
 ---
 
@@ -2356,12 +2612,18 @@ And then I made myself go to the meeting at the Gay Union.
 
 ---
 
-And then, and then, it’s now. Hi.
+And then, and then, it’s now. 
+
+Hi.
 
 ---
 
 ## JOAN:
-Hello. 	That’s a powerful book.
+Hello. 	
+
+---
+
+That’s a powerful book.
 
 ---
 
@@ -2401,6 +2663,9 @@ Cool. I’ll see you then. Bye, Alison.
 
 ## MEDIUM ALISON:
 Bye, Joan.
+
+---
+
 
 ---
 
@@ -2445,6 +2710,7 @@ Tough titty.
 
 ## SMALL ALISON:
 I DESPISE THIS DRESS
+
 WHAT’S THE MATTER WITH BOYS’ SHIRTS AND PANTS?
 
 ---
@@ -2457,13 +2723,11 @@ You’re a girl.
 ## SMALL ALISON:
 THIS DRESS MAKES ME FEEL LIKE A CLOWN.
 
----
-
-
-
 I hate it!
 
-BRUCE	
+---
+
+## BRUCE:	
 That’s enough. We’re late.
 
 ---
@@ -2482,11 +2746,15 @@ What? What? Your jean jacket? Trousers? S’alright with me.
 
 ---
 
-You understand you’ll be the only girl there not wearing a dress, right? 
+You understand you’ll be the *only* girl there not wearing a dress, right? 
 
 ---
 
-Is that what you want? You want everybody talking about you behind your back. S’alright with me, change your clothes. 
+Is that what you want? You want everybody talking about you behind your back. 
+
+---
+
+S’alright with me, change your clothes. 
 
 ---
 
@@ -2495,7 +2763,7 @@ Well? Go ahead. You gonna change?
 ---
 
 ## SMALL ALISON:
-MAYBE NOT RIGHT NOW
+MAYBE NOT RIGHT NOW<br>
 MAYBE NOT RIGHT NOW
 
 ---
@@ -2508,7 +2776,48 @@ Dear Mom and Dad—
 ## BRUCE:
 Good.
 
+---
 
+## MEDIUM ALISON:
+—I'm trying to tell you something and I'm having a hard time because it’s kind of a big deal. 
+
+---
+
+template: 2col
+## MEDIUM ALISON:
+It’s *not* that big of a deal! 
+
+
+## SMALL ALISON:
+LA LA LA <br>
+LA LA LA LA
+
+---
+
+template: 2col
+## MEDIUM ALISON:
+It might be a big deal! I don't know! 
+
+
+## SMALL ALISON:
+LA LA LA LA <br>
+LA LA LA LA
+
+---
+
+## MEDIUM ALISON:
+I WANT— I WANT— I WANT—<br>
+I—
+
+---
+
+—am a lesbian!
+
+---
+
+Dear Mom and Dad, 
+
+I am a lesbian.
 
 ---
 
@@ -2558,7 +2867,7 @@ Oh.
 ---
 
 ## MEDIUM ALISON:
-But I feel so… tough! So sure of myself. 
+But I feel so… *tough!* So sure of myself. 
 
 ---
 
@@ -2642,7 +2951,9 @@ With who?
 ---
 
 ## MEDIUM ALISON:
-The lesbians. The real lesbians. You know what I mean. 
+The lesbians. 
+
+The real lesbians. You know what I mean. 
 
 ---
 
@@ -2658,13 +2969,11 @@ I am. I’m not attracted to men but that doesn’t necessarily mean I’m attra
 
 ---
 
-## JOAN:
-Okay.
 
 ---
 
 ## ALISON:
-Oh my god it’s so embarrassing. 
+[LAUGHING] Oh my god, it’s so embarrassing. 
 
 ---
 
@@ -2677,6 +2986,9 @@ A lot of political talk. Almost too much, but ultimately a reasonable amount.”
 ---
 
 What does that mean?
+
+---
+
 “I signed up to help organize a ‘Take Back the Night March.’ 
 
 ---
@@ -2685,7 +2997,7 @@ I don’t know why I did it. I don’t know what that is.”
 
 ---
 
-Oh my god.
+[LAUGHING] Oh my god.
 
 ---
 
@@ -2695,213 +3007,223 @@ ARE YOU REALLY HERE?
 
 ---
 
+JOAN, JOAN, JOAN, JOAN, JOAN
 
-JOAN JOAN JOAN JOAN JOAN
+---
+
 HI JOAN! DON’T WAKE UP, JOAN
 
 ---
 
-
 OH MY GOD LAST NIGHT
-OH MY GOD OH MY GOD OH MY GOD OH MY GOD LAST NIGHT
+
+---
+
+OH MY GOD OH MY GOD OH MY GOD<br>
+OH MY GOD LAST NIGHT
 
 ---
 
 
-I GOT SO EXCITED
+I GOT SO EXCITED<br>
 I WAS TOO ENTHUSIASTIC
 
 ---
 
 
-THANK YOU FOR NOT LAUGHING
+THANK YOU FOR NOT LAUGHING<br>
 WELL YOU LAUGHED A LITTLE BIT
 
 ---
 
 
-AT ONE POINT WHEN I WAS TOUCHING YOU
+AT ONE POINT WHEN I WAS TOUCHING YOU<br>
 AND SAID I MIGHT LOSE CONSCIOUSNESS
 
 ---
 
-
-WHICH YOU SAID WAS ADORABLE
+WHICH YOU SAID WAS ADORABLE<br>
 AND I JUST HAVE TO TRUST
 
 ---
 
 
-THAT YOU DON’T THINK I AM AN IDIOT
+THAT YOU DON’T THINK I'M AN IDIOT
+
 OR SOME KIND OF AN ANIMAL
-I NEVER LOST CONTROL
 
 ---
 
-
+I NEVER LOST CONTROL<br>
 DUE TO OVERWHELMING LUST
+
+---
+
 BUT I MUST SAY THAT I’M
 
 ---
 
-
-
 CHANGING MY MAJOR TO JOAN
+
+---
+
+I’M CHANGING MY MAJOR TO SEX WITH JOAN
+
+---
+
 I’M CHANGING MY MAJOR TO SEX WITH JOAN
 
 ---
 
 
-I’M CHANGING MY MAJOR TO SEX WITH JOAN
 WITH A MINOR IN KISSING JOAN
 
 ---
 
 
-FOREIGN STUDY TO JOAN’S INNER THIGHS
+FOREIGN STUDY TO JOAN’S INNER THIGHS<br>
 A SEMINAR ON JOAN’S ASS IN HER LEVIS
+
+---
+
 AND JOAN’S CRAZY BROWN EYES
 
 ---
 
-
-
-JOAN, I FEEL LIKE HERCULES
+JOAN, I FEEL LIKE HERCULES<br>
 OH GOD THAT SOUNDS RIDICULOUS
 
 ---
 
 
-JUST KEEP ON SLEEPING THROUGH THIS
+JUST KEEP ON SLEEPING THROUGH THIS<br>
 AND I’LL WORK ON CALMING DOWN
 
 ---
 
 
-SO BY THE TIME YOU’VE WOKEN UP
+SO BY THE TIME YOU’VE WOKEN UP<br>
 I’LL BE COOL, I’LL BE COLLECTED
 
 ---
 
 
-AND I’LL HAVE FOUND SOME DIGNITY
+AND I’LL HAVE FOUND SOME DIGNITY<br>
 BUT WHO NEEDS DIGNITY?
 
 ---
 
 
-‘CAUSE THIS IS SO MUCH BETTER
+‘CAUSE THIS IS SO MUCH BETTER<br>
 I’M RADIATING HAPPINESS
 
 ---
 
 
-WILL YOU STAY HERE WITH ME
+WILL YOU STAY HERE WITH ME<br>
 FOR THE REST OF THE SEMESTER?
 
 ---
 
 
-WE WON’T NEED ANY FOOD
+WE WON’T NEED ANY FOOD<br>
 WE’LL LIVE ON SEX ALONE
+
+---
+
 SEX WITH JOAN!
 
 ---
 
-
-
-I AM WRITING A THESIS ON JOAN!
+I AM WRITING A THESIS ON JOAN!<br>
 IT’S A CUTTING EDGE FIELD AND MY MIND IS BLOWN 
 
 ---
 
-
-I WILL GLADLY STAY UP EV’RY NIGHT TO HONE
+I WILL GLADLY STAY UP EV’RY NIGHT TO HONE<br>
 MY COMPULSORY SKILLS WITH JOAN
 
 ---
 
 
-I WILL STUDY MY WAY DOWN HER SPINE
+I WILL STUDY MY WAY DOWN HER SPINE<br>
 FAMILIARIZE MYSELF WITH HER WELL-MADE OUTLINE
+
+---
+
 WHILE SHE RESEARCHES MINE!
 
 ---
 
-
-
-I DON’T KNOW WHO I AM 
+I DON’T KNOW WHO I AM <br>
 I’VE BECOME SOMEONE NEW
 
 ---
 
-
-NOTHING I JUST DID
+NOTHING I JUST DID<br>
 IS ANYTHING I WOULD DO
 
 ---
 
-
-OVERNIGHT EVERYTHING CHANGED, I AM NOT PREPARED
-I’M DIZZY I’M NAUSEOUS I’M SHAKY 
+OVERNIGHT EVERYTHING CHANGED, I AM NOT PREPARED<br>
+I’M DIZZY, I’M NAUSEOUS, I’M SHAKY 
 
 ---
 
-
 I’M SCARED
+
+---
+
 AM I FALLING INTO NOTHINGNESS
 
 ---
 
 
-OR FLYING INTO SOMETHING SO SUBLIME?
-I DON’T KNOW!
-BUT I’M
+OR FLYING INTO SOMETHING SO SUBLIME?<br>
+I DON’T KNOW! BUT I’M
 
 ---
 
-
-
 CHANGING MY MAJOR TO JOAN
+
+---
+
 I THOUGHT ALL MY LIFE I’D BE ALL ALONE
 
 ---
 
-
-BUT THAT WAS BEFORE I WAS LYING PRONE
+BUT THAT WAS BEFORE I WAS LYING PRONE<br>
 IN THIS DORM ROOM BED WITH JOAN
 
 ---
 
-
-LOOK, SHE DROOLED ON THE PILLOW—SO SWEET!
+LOOK, SHE DROOLED ON THE PILLOW—SO SWEET!<br>
 ALL SWEATY AND TANGLED-UP IN MY BED SHEET
 
 ---
 
-
-AND MY HEART FEELS…
+AND MY HEART FEELS…<br>
 COMPLETE
 
 ---
 
-
-
-LET’S NEVER LEAVE THIS ROOM
+LET’S NEVER LEAVE THIS ROOM<br>
 HOW’ BOUT WE STAY HERE ‘TIL FINALS
 
 ---
 
-
 I’LL GO TO SCHOOL FOREVER
+
+---
+
 I’LL TAKE OUT A DEMENTEDLY HUGE HIGH-INTEREST LOAN
 
 ---
 
-
-‘CAUSE I’M CHANGING
-MY MAJOR
+‘CAUSE I’M CHANGING MY MAJOR<br>
 TO JOAN
+
+---
 
 
 ---
@@ -2915,8 +3237,7 @@ and four months later my father killed himself by stepping in front of a truck.
 
 ---
 
-
-While I was at college, exploding into my new life, you were sitting here reading a book.
+While I was in college, exploding into my new life, you were sitting here reading a book.
 
 ---
 
@@ -2941,7 +3262,11 @@ Bleecker?
 ---
 
 ## SMALL ALISON:
-Yeah, good. Mom, I have a question.
+Yeah, good. 
+
+---
+
+Mom, I have a question.
 
 ---
 
@@ -2956,18 +3281,16 @@ When Dad was in the Army and you lived in Germany what color was your house?
 ---
 
 ## HELEN:
-Well, it was an apartment, not a house. 
-
----
-
-And – I don’t remember what color it was.
+Well, it was an apartment, not a house. And I don’t remember what color it was.
 
 ---
 
 ## SMALL ALISON:
 Alright something else about what it looked like then.
 
-HELEN 
+---
+
+## HELEN: 
 Uh… Well, we had a balcony, we had a lovely balcony and in the mornings friends of ours would come over 
 
 ---
@@ -2997,12 +3320,14 @@ Yes.
 ---
 
 ## SMALL ALISON:
-Oh, I know! Daddy, you saw the Leaning Tower of Pisa one time, right?
+Ooh, I know! Daddy, you saw the Leaning Tower of Pisa one time, right?
 
 ---
 
 ## BRUCE:
-I did. What’s that?
+I did. 
+
+What’s that?
 
 ---
 
@@ -3054,7 +3379,7 @@ Ooh, I know. John, Christian, me. See? Floating in bubbles because we’re not b
 ---
 
 ## BRUCE:
-Okay, that’s interesting but let me show you how you can make it better. 
+Okay, that’s... interesting but let me show you how you can make it better. 
 
 ---
 
@@ -3112,7 +3437,9 @@ That’s too much. Watch this.
 
 ---
 
-I’m going to draw our mountains. See that? How I’m shading them? 
+I’m going to draw our mountains. 
+
+See that? How I’m shading them? 
 
 ---
 
@@ -3120,28 +3447,21 @@ See how that gives them dimension.
 
 ---
 
-
-
-MAKE THIS PART LOOK RUGGED…
-HM MM
-
----
-
+MAKE THIS PART LOOK RUGGED… HM MM
 
 ALLEGHENY PLATEAU…
-THIS DARK SHADED STRIPE 
 
 ---
 
 
-BUM BUM BUM 
+THIS DARK SHADED STRIPE, BUM, BUM, BUM <br>
 IS THE FRONT
 
 ---
 
 
-PAINT THE LONG RIDGES AND VALLEYS BELOW
-HM MM
+PAINT THE LONG RIDGES <br>
+AND VALLEYS BELOW
 
 ---
 
@@ -3189,7 +3509,8 @@ What do you mean it doesn’t matter? She’s taking it to school.
 
 ---
 
-She’s showing it in class. You know what, never mind. 
+She’s showing it in class. <br>
+You know what, never mind. 
 
 ---
 
@@ -3206,39 +3527,43 @@ No, I like the one you did, Daddy.
 
 ---
 
-## ALISON:
-MAKE THIS PART LOOK RUGGED…
-MM MM
 
 ---
 
+## ALISON:
+MAKE THIS PART LOOK RUGGED… HM MM
 
 ALLEGHENY PLATEAU…
-THIS DARK SHADED STRIPE 	
 
 ---
 
-BUM BUM BUM 
+THIS DARK SHADED STRIPE, BUM, BUM, BUM <br>
 IS THE FRONT
-PAINT THE LONG RIDGES AND VALLEYS BELOW
 
 ---
 
 
-MM MM
+PAINT THE LONG RIDGES AND <br>
+VALLEYS BELOW
+
+
+---
+
+
+MM MM<br>
 OUR TOWN IS THIS… DOT.
 
 ---
 
 
 
-QUICK DASHES MARK THE PROPERTY ENDS
+QUICK DASHES MARK THE PROPERTY ENDS<br>
 BEECH CREEK, A ROPE THAT TURNS AND BENDS
 
 ---
 
 
-LITTLE SQUARES FOR HOUSES STRUNG ALONG ROADS
+LITTLE SQUARES FOR HOUSES STRUNG ALONG ROADS<br>
 THE LAND TRANSFIGURED INTO TOPOGRAPHIC CODES
 
 ---
@@ -3246,12 +3571,14 @@ THE LAND TRANSFIGURED INTO TOPOGRAPHIC CODES
 
 
 MAPS SHOW YOU WHAT IS SIMPLE AND TRUE
+
 TRY LAYING OUT A BIRD’S EYE VIEW
 
 ---
 
 
 NOT WHAT HE TOLD YOU, JUST WHAT YOU SEE
+
 WHAT DO YOU KNOW THAT’S NOT YOUR DAD’S MYTHOLOGY?
 
 ---
@@ -3259,46 +3586,54 @@ WHAT DO YOU KNOW THAT’S NOT YOUR DAD’S MYTHOLOGY?
 
 
 DAD WAS BORN ON THIS FARM
+
 HERE’S OUR HOUSE
 
 ---
 
 
 HERE’S THE SPOT WHERE HE DIED
-I CAN DRAW A CIRCLE
+
+---
+
+I CAN DRAW A CIRCLE<br>
 HIS WHOLE LIFE FITS INSIDE
 
 ---
 
-
-
 FOUR MILES FROM OUR DOOR
+
 I-80 RAN FROM SHORE TO SHORE
 
 ---
 
 
-ON ITS WAY FROM THE CASTRO TO CHRISTOPHER STREET
+ON ITS WAY FROM THE CASTRO TO CHRISTOPHER STREET<br>
 THE ROAD NOT TAKEN, JUST FOUR MILES FROM OUR DOOR
 
 ---
 
 
 
-YOU WERE BORN ON THIS FARM
+YOU WERE BORN ON THIS FARM<br>
 HERE’S OUR HOUSE
 
 ---
 
 
 HERE’S THE SPOT WHERE YOU DIED
-I CAN DRAW A CIRCLE
+
+---
+
+I CAN DRAW A CIRCLE<br>
 I CAN DRAW A CIRCLE
 
 ---
 
-
 YOU LIVED YOUR LIFE INSIDE
+
+---
+
 
 ---
 
@@ -3308,7 +3643,7 @@ Hey, Mark. Is that you?
 ---
 
 ## MARK:
-Oh. Hey, Mr. Bechdel.
+Oh. Hi, Mr. Bechdel.
 
 ---
 
@@ -3323,12 +3658,16 @@ I’m not goin’ far.
 ---
 
 ## BRUCE:
-I’m happy to give you a ride. Let me move these groceries. Get in. So, Mark. How’s your summer? You got a job?
+I’m happy to give you a ride. Let me move these groceries. Get in. 
+
+---
+
+So, Mark. How’s your summer? You got a job?
 
 ---
 
 ## MARK:
-Yeah, working in the stockroom at Cosgrove’s.
+Yeah, I'm working in the stockroom at Cosgrove’s.
 
 ---
 
@@ -3344,6 +3683,9 @@ I don’t… I don’t think I better.
 
 ## BRUCE:
 It’s okay. There’s some in the bag.
+
+---
+
 
 ---
 
@@ -3377,6 +3719,9 @@ Ah, right.
 
 ---
 
+
+---
+
 ## MEDIUM ALISON:
 Dear Mom and Dad, 
 
@@ -3393,42 +3738,32 @@ I’d really love some sort of response.
 
 ## BOBBY JEREMY AND THE SUSAN DEYS ON TV:
 I guess you’re not too bad… for a manager.
+
 [TV LAUGHTER]
 
 ---
-
 
 And I guess you kids aren’t so bad either—even if you do wear chicken feathers.
+
 [TV LAUGHTER]
 
 ---
-
 
 A-one, a-two, a-one two three four—
 
 ---
 
+[SONG ON TV PLAYS]
 
-
-BA BA BA BA…
-EVERYTHING’S ALRIGHT, BABE
-
----
-
-
-WHEN WE’RE TOGETHER
-WHEN WE’RE TOGETHER
-
----
-
-
-‘CAUSE YOU ARE LIKE A RAINCOAT
-MADE OUT OF LOVE…
+BA BA BA BA <br>
+BA BA BA BA—
 
 ---
 
 ## BRUCE:
 God, it’s inane.
+
+[TV MUSIC STOPS]
 
 ---
 
@@ -3453,7 +3788,7 @@ I know what it’s about. Read a book.
 ---
 
 ## SMALL ALISON:
-How come you’re wearing a suit?
+Why are you wearing a suit?
 
 ---
 
@@ -3473,7 +3808,7 @@ Yes.
 ---
 
 ## SMALL ALISON:
-You are?
+You *are?*
 
 ---
 
@@ -3516,7 +3851,7 @@ Oh.
 ---
 
 ## SMALL ALISON:
-He said he’s going to see a psychiatrist?
+He said he has to see a psychiatrist?
 
 ---
 
@@ -3545,7 +3880,7 @@ Move?? Where would we go??
 ---
 
 ## HELEN:
-We don’t have to move. The judge said your dad could—could—see someone instead. 
+We don’t have to move. The judge said your dad could—could... see someone instead. 
 
 ---
 
@@ -3554,46 +3889,108 @@ I can’t explain it any better. You don’t need to worry. Everything’s going
 ---
 
 ## ALISON:
-Oh yes, it’s all gonna be just fine. Slam. Crash.
-
-
+Oh yes, everything’s going to be just fine. Slam. Crash.
 
 ---
 
-## THE KIDS, BOBBY JEREMY, AND THE SUSAN DEYS:
-BA BA BA BA
-BA BA BA BA
+template: 2col
+## BRUCE:
+Who fucking left these here?
+I just varnished this table!
+
+
+## ALISON: 
+[REPEATING BRUCE]
+“...Varnish…”
 
 ---
 
+## HELEN:
+Bruce—
 
-BA BA BA BA
-BA BA BA BA BA
+Bruce, what are you doing!?
+Those are library books!! Stop it!
+
+---
+
+template: 2col
+## BRUCE:
+Take these back to the library, you stupid, crazy bitch!
+
+
+## SMALL ALISON:
+[UNDERNEATH, THROUGOUT]
+
+BA BA BA BA (etc.)
+
+---
+
+template: 2col
+## HELEN:
+Go! Go! Just go! You’re going to be late for your appointment. Just go.
+
+
+## BRUCE:
+Don’t fucking tell me what to do!
+
+---
+
+## HELEN:
+Bruce, if you miss this appointment we are in a lot of trouble.
+
+---
+
+template: 2col
+## HELEN:
+Do you understand that?
+
+
+## BRUCE:
+Thank you for the lecture. I can handle my own business!
+
+---
+
+template: 2col
+## HELEN:
+If you’re not home for dinner, I’m throwing it in the toilet!
+
+
+## BOBBY JEREMY AND THE SUSAN DEYS:
+BA BA BA BA<br>
+BA BA BA BA (etc)
 
 ---
 
 ## BOBBY JEREMY:
-TODAY I WOKE UP WITH A FEELING THAT I DID NOT RECOGNIZE
+TODAY I WOKE UP WITH A FEELING <br>
+THAT I DID NOT RECOGNIZE
 
 ---
 
-## KIDS, SUSAN DEYS:
-STRANGE FEELING YEAH
+## THE SUSAN DEYS:
+STRANGE FEELING, YEAH
 
 ---
 
 ## BOBBY JEREMY:
-OUR HAPPY LIFE SEEMED FAR AWAY AND EVERYTHING WAS MADE OF LIES
+OUR HAPPY LIFE SEEMED FAR AWAY <br>
+AND EVERYTHING WAS MADE OF LIES
 
 ---
 
-## KIDS, SUSAN DEYS:
+## THE SUSAN DEYS:
 LIES YEAH
 
 ---
 
 ## BOBBY JEREMY:
-THE SKY WAS TURNING DARK WHEN BABY I LOOKED IN YOUR EYES AND THAT’S WHEN I KNEW
+THE SKY WAS TURNING DARK <br>
+WHEN BABY I LOOKED IN YOUR EYES 
+
+---
+
+AND THAT’S WHEN I KNEW<br>
+WOAH OH OH OH
 
 ---
 
@@ -3607,14 +4004,23 @@ WHEN WE’RE TOGETHAH
 
 ---
 
-## FAMILY AND SUSAN DEYS:
+## FAMILY AND THE SUSAN DEYS:
 WHEN WE’RE TOGETHER
-
-
 
 ---
 
-## FAMILY AND SUSAN DEYS:
+template: 2col
+## BOBBY JEREMY:
+CUZ YOU ARE LIKE A RAINCOAT<br>
+MADE OUT OF LOVE
+
+
+## FAMILY AND THE SUSAN DEYS:
+YOU ARE LIKE A RAINCOAT
+
+---
+
+## FAMILY AND THE SUSAN DEYS:
 KEEPIN’ ME DRY!
 
 ---
@@ -3629,7 +4035,7 @@ PROTECTING ME FROM BAD WEATHAH
 
 ---
 
-## FAMILY AND SUSAN DEYS:
+## FAMILY AND THE SUSAN DEYS:
 RAIN FROM THE SKY
 
 ---
@@ -3639,18 +4045,21 @@ YOU ARE LIKE A RAINCOAT!
 
 ---
 
+template: 2col
 ## BOBBY JEREMY:
 MADE OUT OF LOVE
 
----
 
-## FAMILY AND SUSAN DEYS:
-BA BA BA BA BA BA
+## FAMILY AND THE SUSAN DEYS:
+BA BA BA BA 
 
 ---
 
 ## ALL:
 A RAINCOAT OF LOVE LOVE LOVE LOVE LOVE!
+
+---
+
 EVERYTHING’S ALL RIGHT BABE
 
 ---
@@ -3660,8 +4069,8 @@ WHEN WE’RE TOGETHAH
 
 ---
 
-## FAMILY AND SUSAN DEYS:
-WHEN WE’RE TOGETHAH
+## FAMILY AND THE SUSAN DEYS:
+WHEN WE’RE TOGETHER
 
 ---
 
@@ -3675,7 +4084,7 @@ MADE OUT OF LOVE
 
 ---
 
-## HELEN AND THE KIDS:
+## FAMILY AND THE SUSAN DEYS:
 KEEPIN’ ME DRY!
 
 ---
@@ -3690,9 +4099,7 @@ PROTECTING ME FROM BAD WEATHAH
 
 ---
 
-
-
-## HELEN, KIDS AND THE SUSAN DEYS:
+## FAMILY AND THE SUSAN DEYS:
 RAIN FROM THE SKY
 
 ---
@@ -3702,23 +4109,64 @@ YOU ARE LIKE A RAINCOAT!
 
 ---
 
+template: 2col
 ## BOBBY JEREMY:
 MADE OUT OF LOVE
+
+
+## FAMILY AND THE SUSAN DEYS:
+LOVE LOVE LOVE LOVE LOVE
+
+---
+
+template: 2col
+## BOBBY JEREMY:
 A RAINCOAT OF LOVE
 
 
+## FAMILY AND THE SUSAN DEYS:
+LOVE LOVE LOVE LOVE LOVE
+
+---
+
+template: 2col
+## BOBBY JEREMY, BRUCE, AND HELEN:
+EVERYTHING’S ALL RIGHT BABE,<br>
+WHEN WE’RE TOGETHAH
+
+
+## THE SUSAN DEYS AND THE KIDS:
+BA BA BA BA (etc.)
+
+---
+
+## BOBBY JEREMY, BRUCE, AND HELEN:
+EVERYTHING’S ALL RIGHT BABE,<br>
+WHEN WE’RE TOGETHAH
 
 ---
 
 ## BRUCE:
+EVERYTHING’S ALL RIGHT BABE,
+WHEN WE’RE TOGETHAH
+
+---
+
 EVERYTHING’S ALL RIGHT
+
 EVERYTHING’S ALL RIGHT
+
+---
+
 EVERYTHING’S ALL RIGHT
 
 ---
 
 ## ALISON:
 It’s only writing, it’s only drawing. I’m remembering something, that’s all.
+
+---
+
 
 ---
 
@@ -3743,7 +4191,9 @@ Land Shark. You have to say Land Shark.
 ---
 
 ## BRUCE:
-Kids, let him in. Don’t play in the hall like that. 
+Kids, let him in. 
+
+Don’t play in the hall like that. 
 
 ---
 
@@ -3756,11 +4206,15 @@ Okay, okay, caption… Caption… Uh…
 
 ---
 
-Clueless in New York. In denial in New York. 
+Clueless in New York. 
+
+In denial in New York. 
 
 ---
 
-Family Fun in New York. Child neglect in New York. I don’t know…
+Family Fun in New York. 
+
+Child neglect in New York. I don’t know…
 
 ---
 
@@ -3802,31 +4256,27 @@ Oh yeah.
 ## CHRISTIAN:
 Remember this song? 
 (singing)
+
 “Shit Richie, Shit Richie”
 
 ---
 
 ## SMALL ALISON:
-That was so funny. Remember the song about the… tits and ass?
-
----
-
-## CHRISTIAN:
-Oh yeah.
+That was so funny! Remember the song about the *tits and ass?*
 
 ---
 
 ## BRUCE:
-Kids, wash up.
+Kids.
 
 ---
 
 ## ALISON:
-Okay… Sleeping bags. Shopping bags. Window was open. Really hot. 
+Okay… Sleeping bags. Shopping bags. Window was open. Really hot. Stinky—
 
 ---
 
-Stinky—no, no… Humectant. “The humectant air.” Something on “the humectant air.” 
+Stinky—no, no… *Humectant. “The humectant air.”* Something on *“the humectant air.”*
 
 ---
 
@@ -3875,11 +4325,13 @@ Yeah. Come on. Lay down. Go to sleep. Big day tomorrow.
 ---
 
 ## ALISON:
-Oh, my sleeping bag! I loved that sleeping bag. Kids In Bags. 
+Oh, my sleeping bag! I *loved* that sleeping bag. 
+
+Kids In Bags. 
 
 ---
 
-And… four locks on the front door. Amazing. Oh yeah. 
+And… *four locks* on the front door. Amazing. Oh yeah. 
 
 ---
 
@@ -3887,7 +4339,7 @@ Coat hook with jackets piled like… twenty deep on the one arm. Crazy.
 
 ---
 
-Oh yes, that basket with the Village Voices.
+Ooh, that basket with the Village Voices.
 
 ---
 
@@ -3919,46 +4371,55 @@ I said. I’m going out for a paper. Alright?
 
 ---
 
-
 You want me to sing to you?
+
+---
+
 
 ---
 
 ## BRUCE:
 PONY GIRL RIDE, RIDE AWAY
+
 I KNEW YOU’D BREAK MY HEART SOMEDAY
 
 ---
 
-
-SOME FOLKS GET THE CALL TO GO
+SOME FOLKS GET THE CALL TO GO<br>
 SOME FOLKS ARE BOUND TO STAY
 
 ---
 
 
-OH RIDE, RIDE, RIDE AWAY
+OH <br>
 RIDE, RIDE, RIDE AWAY
+
+---
+
+RIDE, RIDE, RIDE AWAY<br>
 RIDE, RIDE…
 
 ---
 
-## ALISON:
-Caption: Dad goes out. Dad gets a newspaper. 
 
 ---
 
+## ALISON:
+Caption: Dad goes out. 
+
+Dad gets a newspaper. 
+
+---
 
 Dad goes… cruising? 
 
 ---
 
-
 Dad picks up a hustler? 
+
 No, he didn’t. 
 
 ---
-
 
 Maybe he did. I don’t really know. Who knows?
 
@@ -3979,15 +4440,12 @@ Oh my god. What does he say?
 
 ---
 
-
-
 ## MEDIUM ALISON:
 “Dear Al,
 
 ---
 
-
-Sorry for being out of touch. Big week at here Fun Home. 
+Sorry for being out of touch. Big week here at the Fun Home. 
 
 ---
 
@@ -4047,7 +4505,7 @@ I’m sorry.
 ---
 
 ## MEDIUM ALISON:
-The tone is what I can’t stand. It’s so typical. So all-knowing. 
+The *tone* is what I can’t stand. It’s so typical. So all-knowing. 
 
 ---
 
@@ -4055,15 +4513,18 @@ He has to be the expert. Lots of wisdom and advice about things he doesn’t kno
 
 ---
 
-I’m gay. Which means I’m not like him, and I’ve never been like him, and he can’t handle that. 
+I’m gay. Which means I’m not like him, and I’ve *never* been like him, and he can’t handle that. 
 
 ---
 
-He still wants to be the… the intellectual, broadminded, liberal, bohemian but he can’t pull it off 
+He still wants to be the… the intellectual, broadminded, liberal, *bohemian* but he can’t pull it off 
 
 ---
 
 because he can’t deal with me, and you know what? He never could. He never could.
+
+---
+
 
 ---
 
@@ -4079,6 +4540,10 @@ She left. Lorna’s on now.
 
 ## BRUCE:
 Oh. 
+
+---
+
+## BRUCE:
 Huh.
 
 ---
@@ -4113,8 +4578,10 @@ If I see you without it again I’ll whale you.
 
 ---
 
-
 Go find Lorna. I need coffee.
+
+---
+
 
 ---
 
@@ -4123,112 +4590,138 @@ You didn’t notice her at first but I saw her the moment she walked in.
 
 ---
 
-She was a delivery woman; she came in with a handcart full of packages. She was an old-school butch.
+She was a delivery woman; she came in with a handcart full of packages. 
+
+---
+
+She was an old-school butch.
 
 ---
 
 ## SMALL ALISON:
-SOMEONE JUST CAME IN THE DOOR
+SOMEONE JUST CAME IN THE DOOR<br>
 LIKE NO ONE I EVER SAW BEFORE
 
 ---
 
-
+I FEEL – <br>
 I FEEL – 
-I FEEL – 
-I DON’T KNOW WHERE YOU CAME FROM
 
 ---
 
-
+I DON’T KNOW WHERE YOU CAME FROM<br>
 I WISH I DID, I FEEL SO DUMB
+
+---
+
 I FEEL – 
 
 ---
 
-
-
-YOUR SWAGGER AND YOUR BEARING
+YOUR SWAGGER AND YOUR BEARING<br>
 AND THE JUST-RIGHT CLOTHES YOU’RE WEARING
 
 ---
 
 
-YOUR SHORT HAIR AND YOUR DUNGAREES AND YOUR LACE UP BOOTS
-AND YOUR KEYS, OH, YOUR RING OF KEYS
+YOUR SHORT HAIR AND YOUR DUNGAREES <br>
+AND YOUR LACE UP BOOTS
 
 ---
 
+AND YOUR KEYS, OH<br>
+YOUR RING OF KEYS
 
+---
 
-I THOUGHT IT WAS SUPPOSED TO BE WRONG
+I THOUGHT IT WAS SUPPOSED TO BE WRONG<br>
 BUT YOU SEEM OKAY WITH BEING STRONG
 
 ---
 
-
 I WANT – 
+
 YOU’RE SO –
+
+---
+
 IT’S PROB’LY CONCEITED TO SAY
 
 ---
 
 
 BUT I THINK WE’RE ALIKE IN A CERTAIN WAY
+
+---
+
 I, UM – 
 
 ---
 
-
-
-YOUR SWAGGER AND YOUR BEARING
+YOUR SWAGGER AND YOUR BEARING<br>
 AND THE JUST-RIGHT CLOTHES YOU’RE WEARING
 
 ---
 
 
-YOUR SHORT HAIR AND YOUR DUNGAREES AND YOUR LACE UP BOOTS
-AND YOUR KEYS, OH, YOUR RING OF KEYS
+YOUR SHORT HAIR AND YOUR DUNGAREES <br>
+AND YOUR LACE UP BOOTS
 
 ---
 
+AND YOUR KEYS, OH<br>
+YOUR RING OF KEYS
 
+---
 
-DO YOU FEEL MY HEART SAYING HI?
-IN THIS WHOLE LUNCHEONETTE WHY AM I THE ONLY ONE 
+DO YOU FEEL MY HEART <br>
+SAYING HI?
+
+---
+
+IN THIS WHOLE LUNCHEONETTE <br>
+WHY AM I THE ONLY ONE 
+
+---
+
 WHO SEES YOU’RE BEAUTIFUL—
 
+No.
+
 ---
 
-
-No.
 I MEAN… HANDSOME
 
 ---
 
-
-
 YOUR SWAGGER AND YOUR BEARING
+
+
 AND THE JUST-RIGHT CLOTHES YOU’RE WEARING
 
 ---
 
+YOUR SHORT HAIR AND YOUR DUNGAREES <br>
+AND YOUR LACE UP BOOTS
 
-YOUR SHORT HAIR AND YOUR DUNGAREES AND YOUR LACE UP BOOTS
-AND YOUR KEYS
-OH, YOUR RING OF KEYS
+---
+
+AND YOUR KEYS, OH <br>
+YOUR RING OF KEYS
+
+---
+
+I KNOW YOU <br>
+I KNOW YOU
+
+---
+
+I KNOW YOU
 
 ---
 
 
-
-I KNOW YOU 
-I KNOW YOU
-I KNOW YOU
-
 ---
-
-
 
 [PHONE RINGS]
 
@@ -4255,7 +4748,7 @@ I got your response to my letter.
 ---
 
 ## BRUCE:
-Oh. Oh good. 
+Oh. Oh, good. 
 
 ---
 
@@ -4275,7 +4768,7 @@ Yes, I got it.
 ---
 
 ## BRUCE:
-You better damn well identify with every page!
+You better damn well identify with every last page!
 
 ---
 
@@ -4317,7 +4810,50 @@ How are you? How’s your school work?
 ## MEDIUM ALISON:
 It’s… fine. Are you ever going to talk to me about my letter?
 
+---
 
+## HELEN:
+I’m—I’m really at odds here. I feel responsible—
+
+---
+
+template: 2col
+## HELEN: 
+I do feel children should be allowed to make their own mistakes, you know that. 
+
+
+## MEDUIM ALISON:
+Mom, you didn’t cause this—That’s not how this works!
+
+---
+
+## HELEN: 
+And you know that I don’t like parents who meddle, but in this case I’m uniquely qualified
+
+---
+
+template: 2col
+## HELEN:
+to warn you against romanticizing this path. 
+
+
+## MEDIUM ALISON:
+Oh, please!
+
+---
+
+## HELEN: 
+Alison, you probably don’t know that on more than one occasion catastrophe has been 
+
+---
+
+template: 2col
+## HELEN: 
+narrowly averted and it is difficult for me to – 
+
+
+## MEDIUM ALISON:
+Catastrophe? Could you be a little more overdramatic?
 
 ---
 
@@ -4341,7 +4877,7 @@ There was the thing with Roy.
 ---
 
 ## MEDIUM ALISON:
-Our yard guy? Our babysitter???
+Our yard guy? Our *babysitter???*
 
 ---
 
@@ -4370,7 +4906,7 @@ Your father? Tell the truth? Please.
 ---
 
 ## JOAN:
-No. What? Your dad??? Oh my god. Are you okay?
+No, what?? Your *dad???* Oh my god. Are you okay?
 
 ---
 
@@ -4385,11 +4921,11 @@ Are you sure? Do you need to talk about it?
 ---
 
 ## MEDIUM ALISON:
-No. No, I don’t want to talk about it, I don’t want to think about it. 
+No. No, I don’t want to talk about it, I don’t want to think about it. I want to—
 
 ---
 
-I want to—I don’t know. Let’s go see what’s happening at the Gay Union.
+I don’t know. Let’s go see what’s happening at the Gay Union.
 
 ---
 
@@ -4409,7 +4945,7 @@ Caption: My newfound queerness—No.
 
 ---
 
-Unable to process this tsunami-like revelation from my father—Tsunami-like??? No.
+Unable to process this tsunami-like revelation from my father—"Tsunami-like???"" No.
 
 ---
 
@@ -4443,7 +4979,7 @@ I should have been paying attention.
 
 ---
 
-Caption: I should have been paying attention.
+*Caption:* I should have been paying attention.
 
 ---
 
@@ -4463,12 +4999,12 @@ Oh.
 ---
 
 ## ALISON:
-And I—Caption! I was, I guess I was mad at you, Dad.
+And I—*Caption!* I was, I guess I was *mad* at you, Dad.
 
 ---
 
 ## BRUCE:
-Well, where’s Christian?
+Where’s Christian?
 
 ---
 
@@ -4498,11 +5034,11 @@ I didn’t know, Dad, I had no way of knowing that my beginning would be your en
 ---
 
 ## HELEN:
-Oh my god. The Brinley. Oh my god, what happened? Did it fall? Bruce, the painting. 
+Oh my god. The Brinley. Oh my god, what happened? Did it fall?
 
 ---
 
-What happened?
+Bruce, the painting. What happened?
 
 ---
 
@@ -4527,19 +5063,21 @@ Bruce I don’t know what’s –
 ---
 
 ## BRUCE:
-Because no one fucking helps me around here! 
+Because no one fucking helps me around here! Because I can’t stand the sound of your hectoring,
 
 ---
 
-Because I can’t stand the sound of your hectoring, // shrewish voice, your histrionics, your—
+template: 2col
+## HELEN:
+You *stop.* You’re blaming *me?* After what you’ve put me through? 
+
+
+## BRUCE:
+shrewish voice, your histrionics, your—
 
 ---
 
 ## HELEN:
-You stop. You’re blaming me? After what you’ve put me through? // 
-
----
-
 I’m on edge every minute. You’re so—
 
 ---
@@ -4549,18 +5087,22 @@ Every single person in this town knows what kind of a man I am! You’re the one
 
 ---
 
+
+---
+
 ## HELEN:
-I have to go to school. I’ll be at meetings until late.
+I have to go to school. <br>
+I’ll be at meetings until late.
 
 ---
 
 ## ALISON:
-I’m drawing. I’m drawing. I’m just drawing. I’m remembering something, that’s all.
+I’m drawing. I’m drawing. I’m just drawing. I’m remembering something, that’s *all.*
 
 ---
 
 ## MEDIUM ALISON:
-Oh my god, I don’t wanna go in.
+God, I don’t wanna go in.
 
 ---
 
@@ -4574,7 +5116,7 @@ How’s it going to be okay? Everything’s… Who knows? Who knows?
 
 ---
 
-Come on in, let me introduce you to my gay dad. It’s only been three months since I left here! 
+Come on in, let me introduce you to my *gay dad.* It’s only been three months since I left here! 
 
 ---
 
@@ -4662,6 +5204,9 @@ Hey, Kiddo, you wanna go for a drive later?
 
 ## MEDIUM ALISON:
 Sure.
+
+---
+
 So.
 
 ---
@@ -4687,24 +5232,34 @@ Sure?
 ---
 
 ## MEDIUM ALISON:
-Yeah, we stopped at a diner on the way. But you should go ahead and eat.
+Yeah, we stopped at a diner on our way here. But you should go ahead and eat.
 
 ---
 
 ## HELEN:
-No, I’m fine. I might have a glass of wine though. 
+I’m fine. I might have a glass of wine though. Would either of you like a glass of wine?
 
 ---
 
-Would either of you like a glass of wine?
+template: 2col
+## JOAN:
+Oh, no that’s okay, Mrs. Bechdel. 
 
+
+## MEDIUM ALISON:
+Uh…
 
 ---
 
+## JOAN:
+Uh... Maybe you two would like a chance to talk?
+
+---
+
+template: 2col
 ## MEDIUM ALISON:
 Huh?
 
----
 
 ## HELEN:
 Oh.
@@ -4712,7 +5267,7 @@ Oh.
 ---
 
 ## JOAN:
-Cuz I actually wouldn’t mind laying down a little bit. 
+Cuz I actually wouldn’t mind laying down for a little bit. 
 
 ---
 
@@ -4721,7 +5276,7 @@ I’m still pretty wiped out from last week.
 ---
 
 ## MEDIUM ALISON:
-Okay. Uh—I thought I’d put her in the lilac room?
+Okay. Uh—I thought I’d put her up in the lilac room?
 
 ---
 
@@ -4747,6 +5302,13 @@ You must be tired too.
 
 ## MEDIUM ALISON:
 I’m okay. 
+
+---
+
+
+---
+
+## MEDIUM ALISON:
 So. How’ve things been here?
 
 ---
@@ -4761,7 +5323,7 @@ Oh yeah, I think he mentioned it in one of his letters.
 
 ---
 
-I’ve been getting two, three, sometimes four a week. They’re kind of // manic—
+I’ve been getting two, three, sometimes four a week. They’re kind of manic—
 
 ---
 
@@ -4774,7 +5336,7 @@ it was too far gone and that was back then so I don’t know why now that it’s
 
 ---
 
-he’s decided he can fix it up. I’m sure he can.
+he’s decided he can fix it up. He probably can.
 
 ---
 
@@ -4838,145 +5400,155 @@ I don’t know how you’ve done it.
 ---
 
 ## HELEN:
-WELCOME TO OUR HOUSE ON MAPLE AVENUE
+WELCOME TO OUR HOUSE ON MAPLE AVENUE<br>
 SEE HOW WE POLISH AND WE SHINE
 
 ---
 
-
 WE REARRANGE AND REALIGN
+
 EVERYTHING IS BALANCED AND… 
+
+---
+
 AND…
 
 ---
 
+DAYS AND DAYS AND DAYS <br>
+THAT’S HOW IT HAPPENS
 
+---
 
-DAYS AND DAYS AND DAYS 
+DAYS AND DAYS AND DAYS
+
+---
+
+MADE OF LUNCHES AND CAR RIDES <br>
+AND SHIRTS AND SOCKS 
+
+---
+
+AND GRADES AND PIANO AND <br>
+NO ONE CLOCKS THE DAY YOU DISAPPEAR
+
+---
+
+DAYS AND DAYS AND DAYS <br>
 THAT’S HOW IT HAPPENS
 
 ---
 
 
 DAYS AND DAYS AND DAYS
-MADE OF LUNCHES AND CAR RIDES AND SHIRTS AND SOCKS 
+
+---
+
+MADE OF POSING AND BRAGGING <br>
+AND FITS OF RAGE
 
 ---
 
 
-AND GRADES AND PIANO AND NO ONE CLOCKS
-THE DAY YOU DISAPPEAR
+AND BOYS, MY GOD, <br>
+SOME OF THEM UNDERAGE
+
+---
+
+AND OH, HOW DID IT ALL HAPPEN HERE?
+
+---
+
+THERE WAS A TIME <br>
+YOUR FATHER SWEPT ME OFF MY FEET WITH WORDS
+
+---
+
+WE READ BOOKS, <br>
+STROLLED THROUGH MUNICH AT NIGHT
 
 ---
 
 
-
-DAYS AND DAYS AND DAYS 
-THAT’S HOW IT HAPPENS
-
----
-
-
-DAYS AND DAYS AND DAYS
-MADE OF POSING AND BRAGGING AND FITS OF RAGE
+DRANK BEER WITH FRIENDS, <br>
+DISCUSSED THE PLACES WE WOULD GO 
 
 ---
 
-
-AND BOYS, MY GOD, SOME OF THEM UNDERAGE
-AND OH HOW DID IT ALL HAPPEN HERE?
-
----
-
-
-
-THERE WAS A TIME YOUR FATHER SWEPT ME OFF MY FEET WITH WORDS
-WE READ BOOKS, STROLLED THROUGH MUNICH AT NIGHT
+AND HE SAID I UNDERSTOOD <br>
+HOW THE WORLD MADE HIM ACHE
 
 ---
 
-
-DRANK BEER WITH FRIENDS, DISCUSSED THE PLACES WE WOULD GO 
-AND HE SAID I UNDERSTOOD HOW THE WORLD MADE HIM ACHE
-
----
-
-
-BUT NO
+BUT NO<br>
 BUT NO
 
 ---
 
-
-
 THAT’S HOW IT HAPPENS
-DAYS MADE OF BARGAINS I MADE BECAUSE I THOUGHT AS A WIFE
 
 ---
 
-
-I WAS MEANT TO AND NOW MY LIFE IS SHATTERED AND LAID BARE
-DAYS AND DAYS AND DAYS AND DAYS 
+DAYS MADE OF BARGAINS <br>
+I MADE BECAUSE I THOUGHT AS A WIFE
 
 ---
 
+I WAS MEANT TO <br>
+AND NOW MY LIFE IS SHATTERED AND LAID BARE
 
+---
+
+DAYS AND DAYS AND DAYS AND DAYS <br>
 AND DAYS AND DAYS AND DAYS
 
 ---
 
-
-
-WELCOME TO OUR HOUSE ON MAPLE AVENUE
-`	SEE HOW WE POLISH AND WE SHINE
+WELCOME TO OUR HOUSE ON MAPLE AVENUE<br>
+SEE HOW WE POLISH AND WE SHINE
 
 ---
 
-
-WE REARRANGE AND REALIGN
+WE REARRANGE AND REALIGN<br>
 EVERYTHING IS BALANCED AND SERENE
 
 ---
 
-
 LIKE CHAOS NEVER HAPPENS 
+
 IF IT’S NEVER SEEN
 
 ---
 
-
-
 DON’T YOU COME BACK HERE
+
 I DIDN’T RAISE YOU
 
 ---
 
-
-TO GIVE AWAY YOUR DAYS
+TO GIVE AWAY YOUR DAYS<br>
 LIKE ME
-
 
 ---
 
 ## BRUCE:
-THAT’S HOW MAVIS AND PEARL AND CAROL
+"THAT’S HOW MAVIS AND PEARL AND CAROL
+
 IN FANCY HATS AND PARASOLS
 
 ---
 
-
-ENDED UP TOGETHER INSIDE THAT BARREL
+ENDED UP TOGETHER INSIDE THAT BARREL<br>
 TUMBLING DOWN NIAGARA FALLS!
 
 ---
 
-
+BA DA BA DA BA<br>
 BA DA BA DA BA
-BA DA BA DA BA
-BA DA BA DA BA!
 
 ---
 
+BA DA BA DA BA!"
 
 And we sang it for the dean’s wife!
 
@@ -5078,18 +5650,19 @@ Dad!
 
 ## BRUCE:
 Come on.
+
 HEART AND SOUL—
 
 ---
 
 ## BRUCE AND MEDIUM ALISON:
-JEAN STAFFORD MUST HAVE LOVED ROBERT LOWELL
+JEAN STAFFORD MUST HAVE LOVED ROBERT LOWELL<br>
 BECAUSE HE TREATED HER BADLY
 
 ---
 
-
 THEY TOOK THE SAME ROMANTIC PATH
+
 AS HUGHES AND PLATH—
 
 ---
@@ -5119,6 +5692,9 @@ I’m gonna go help your mom with dinner.
 
 ---
 
+
+---
+
 ## BRUCE:
 Joan’s a great gal.
 
@@ -5138,7 +5714,6 @@ Oh yeah. Quick. Bright.
 Yeah, she is. Yeah. 
 
 ---
-
 
 Hey, Dad?
 
@@ -5160,15 +5735,18 @@ Yeah?
 ---
 
 ## MEDIUM ALISON:
-I was just wondering… if you knew what you were doing when you gave me that Colette book.
+I was just wondering if you knew what you were doing when you gave me that Colette book.
 
 ---
 
 ## BRUCE:
-I… I don’t know. You ready to go for that drive? Kiddo? 
+I… I don’t know. 
 
 ---
 
+You, uh, you ready to go for that drive? Kiddo? 
+
+---
 
 Alison? You ready?
 
@@ -5194,75 +5772,62 @@ So… It’s, uh… It’s, uh… You, uh…
 
 ---
 
-
 That too much air?
 
 ---
 
-## ALISON:
-Um-mm.
 
 ---
 
 ## ALISON:
-TELEPHONE WIRE
+Mm-mm.
+
+---
+
+## ALISON:
+TELEPHONE WIRE<br>
 RUN AND RUN
 
 ---
 
-
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 SUN DOWN ON THE CREEK
 
 ---
 
-
-PARTLY FROZEN, PARTLY FLOWING,
+PARTLY FROZEN, PARTLY FLOWING,<br>
 MUST BE WINDY, TREES ARE BENDING,
 
 ---
 
-
-JUNCTION 50,
-FIELD NEEDS MOWING
-
----
-
-
-FEELS LIKE THE
-CAR IS FLOATING
+JUNCTION 50, FIELD NEEDS MOWING<br>
+FEELS LIKE THE CAR IS FLOATING
 
 ---
 
-
-
-SAY SOMETHING, TALK TO HIM
+SAY SOMETHING, TALK TO HIM<br>
 SAY SOMETHING, ANYTHING
 
 ---
 
-
-AT THE LIGHT AT THE LIGHT
-AT THE LIGHT AT THE LIGHT
-
----
-
-
-
-AT THE LIGHT AT THE LIGHT
+AT THE LIGHT AT THE LIGHT<br>
 AT THE LIGHT AT THE LIGHT
 
 ---
 
+AT THE LIGHT AT THE LIGHT<br>
+AT THE LIGHT AT THE LIGHT!
 
+---
 
-LIKE, YOU COULD SAY,
-SO HOW DOES IT FEEL TO KNOW THAT YOU AND I ARE BOTH—
+LIKE, YOU COULD SAY, SO HOW DOES IT FEEL 
+
+TO KNOW THAT YOU AND I ARE BOTH—
 
 ---
 
 ## BRUCE:
-Hey
+Hey.
 
 ---
 
@@ -5283,139 +5848,122 @@ Oh. I don’t know.
 
 ## BRUCE:
 I KNOW A BAR
+
 IT’S KIND OF HIDDEN AWAY
 
 ---
 
+SEEDY CLUB FOR FOLKS LIKE… 
 
-SEEDY CLUB
-FOR FOLKS LIKE… YOU KNOW.
-COULD BE FUN
+YOU KNOW. COULD BE FUN
 
 ---
 
 ## ALISON:
 BUT DAD
+
 I’M NOT TWENTY-ONE
 
 ---
 
+
+---
+
 ## BRUCE:
-Oh yeah. Right.
+Oh, yeah. Right.
 
 ---
 
 ## ALISON:
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 LONG BLACK LINE
 
 ---
 
-
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 FINELY THREADED SKY
 
 ---
 
-
-THERE’S THE POND WHERE I WENT WADING,
+THERE’S THE POND WHERE I WENT WADING,<br>
 THERE’S THE SIGN FOR SUGAR VALLEY,
 
 ---
 
-
-ON THE MOUNTAIN LIGHT IS FADING
+ON THE MOUNTAIN LIGHT IS FADING<br>
 I GO BACK TO SCHOOL TOMORROW
 
 ---
 
-
-
-SAY SOMETHING, TALK TO HIM
+SAY SOMETHING, TALK TO HIM<br>
 SAY SOMETHING, ANYTHING
 
 ---
 
-
-
-AT THE LIGHT AT THE LIGHT
+AT THE LIGHT AT THE LIGHT<br>
 AT THE LIGHT AT THE LIGHT
 
 ---
 
-
-
-AT THE LIGHT AT THE LIGHT
-AT THE LIGHT AT THE LIGHT
+AT THE LIGHT AT THE LIGHT<br>
+AT THE LIGHT AT THE LIGHT!
 
 ---
 
-
-
-DOESN’T MATTER WHAT YOU SAY
+DOESN’T MATTER WHAT YOU SAY<br>
 JUST MAKE THE FEAR IN HIS EYES GO AWAY
 
 ---
 
 ## BRUCE:
-THERE WAS A BOY
+THERE WAS A BOY<br>
 IN COLLEGE
 
 ---
 
-
-MY FIRST YEAR THERE
+MY FIRST YEAR THERE<br>
 NORRIS JONES
 
 ---
 
-
-HE HAD BLACK WAVY HAIR
+HE HAD BLACK WAVY HAIR<br>
 NORRIS JONES
 
 ---
-
 
 WHERE IS HE NOW?
-FOURTEEN YEARS OLD
 
 ---
 
-
-IN SWENSEN’S BARN
-IT WAS COLD
+FOURTEEN YEARS OLD<br>
+IN SWENSEN’S BARN IT WAS COLD
 
 ---
 
-
-LOTS OF BOYS MESSED AROUND, YOU KNOW
+LOTS OF BOYS MESSED AROUND, YOU KNOW<br>
 FOR THEM, IT WAS A GAME THEY OUTGREW
 
 ---
-
 
 BUT I ALWAYS KNEW
 
 ---
 
 ## ALISON:
-DAD, ME TOO! 
+DAD, ME TOO! <br>
 SINCE, LIKE FIVE, I GUESS
 
 ---
 
-
-I PREFERRED TO WEAR BOYS’ SHIRTS AND PANTS
+I PREFERRED TO WEAR BOYS’ SHIRTS AND PANTS<br>
 I FELT ABSURD IN A DRESS
 
 ---
 
-
-I REALLY TRIED TO DENY MY FEELINGS FOR GIRLS
+I REALLY TRIED TO DENY MY FEELINGS FOR GIRLS<br>
 BUT I WAS LIKE YOU 
 
 ---
-
 
 DAD, ME TOO
 
@@ -5442,61 +5990,58 @@ Dad?
 ---
 
 ## BRUCE:
-Did I mention I’ve taken on a new project? 
+Did I tell you I’ve taken on a new project? 
 
 ---
 
-That old house out on Route 150! You’ve seen it, Al. 
+That old house out on Route 150. You’ve seen it, Al. It’s been sitting empty out there for forty, 
 
 ---
 
-It’s been sitting empty out there for forty // fifty years at least.
+template: 2col
+## BRUCE:
+fifty years at least.
 
----
 
 ## ALISON:
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 STOP! TOO FAST!
 
 ---
 
-
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 MAKE THIS NOT THE PAST
 
 ---
-
 
 THIS CAR RIDE!
 
 ---
 
-
-
-THIS IS WHERE IT HAS TO HAPPEN
+THIS IS WHERE IT HAS TO HAPPEN<br>
 THERE MUST BE SOME OTHER CHANCES
 
 ---
 
-
-THERE’S A MOMENT I’M FORGETTING WHERE YOU CAN TELL ME YOU SEE ME 
-SAY SOMETHING, TALK TO ME!
-
----
-
-
-SAY SOMETHING, ANYTHING!
+THERE’S A MOMENT I’M FORGETTING<br>
+WHERE YOU TELL ME YOU SEE ME 
 
 ---
 
+SAY SOMETHING, <br>
+TALK TO ME!
 
+---
 
-AT THE LIGHT! 
+SAY SOMETHING, <br>
+ANYTHING!
+
+---
+
+AT THE LIGHT! <br>
 AT THE LIGHT!
 
 ---
-
-
 
 THIS CAN’T BE OUR LAST – 
 
@@ -5507,222 +6052,312 @@ That was fun. It’s earlier than I thought. Comin’ in?
 
 ---
 
+
+---
+
 ## ALISON:
-TELEPHONE WIRE
+TELEPHONE WIRE<br>
 THAT WAS OUR LAST NIGHT
 
 ---
 
+
+---
+
 ## ALISON:
-What’s this? Table in the living room with – Jack in the pulpit. 
+What’s this? Table in the living room with – Jack in the pulpit. No, I was going to draw that
 
 ---
 
-Oh. Oh. That’s, uh, I was going to draw that // in this panel.
-
----
-
+template: 2col
 ## BRUCE:
 Dear Al, It was great to have you home.
 
 
+## ALISON:
+in this panel.
+
+---
+
+template: 2col
+## BRUCE:
+I’ve been flying high ever since you were here.
+
+
+## ALISON:
+What’s this? This. I can draw this… Draw this in the… 
+
+---
+
+template: 2col
+## BRUCE:
+Dear Al, I’ll admit I’m somewhat envious 
+
+
+## ALISON:
+Oh.
+
+---
+
+template: 2col
+## BRUCE:
+of the ‘new’ freedom that appears on campuses today.
+
+
+## ALISON:
+This is good. This is good. I could… I could…
 
 ---
 
 ## BRUCE:
-I FUCKING LOVE BEGINNINGS
+Dear Al, Did you receive that Winogrand article I was telling you about? You should have gotten it by now. 
+
+---
+
+template: 2col
+## ALISON:
+What did it feel like to step in front of a truck, Dad?
+
+
+## BRUCE:
+Do you know I was never even in New York until I was about twenty?
+
+---
+
+template: 2col
+## ALISON:
+What did it feel like to see it coming right at you and not move?
+
+## BRUCE:
+Dear Al, I just re-read Araby. That could have been me – 
+
+---
+
+template: 2col
+## ALISON:
+And just let it hit you?
+
+
+## BRUCE:
+I was rather sensitive when I was little, you know—
+
+---
+
+template: 2col
+## ALISON:
+*Why?* Was it because of me? Did it have *nothing* to do with me?
+
+
+## BRUCE:
+Dear Al, I’ve been working like mad on that house I told you about. 
+
+---
+
+## ALISON:
+*What happened?*
+
+## BRUCE:
+Can’t think about much else. 
+
+---
+
+## BRUCE:
+Can’t sleep – 
+
+Dear Al—
+
+---
+
+I FUCKING LOVE BEGINNINGS<br>
 FLYING HIGH
 
 ---
 
-
-HARD TO KNOW WHERE TO START
+HARD TO KNOW WHERE TO START<br>
 IT’S ALL SO FAST I’M TRYING NOT TO SPIN
 
 ---
 
-
 I GUESS I’M OLDER
+
 AND IT’S HARDER WHEN YOU’RE OLDER TO BEGIN
 
 ---
 
-
-
-PEELING PLASTER, SAGGING ROOF,
+PEELING PLASTER, SAGGING ROOF,<br>
 TWO MISSING STAIRS, A BUCKLED WALL
 
 ---
 
-
 I’M FIRED UP TO DO THIS
+
 BUT ON MY OWN IT ALL…
 
 ---
 
-
-
-SO MUCH DAMAGE, BROKEN WINDOWS,
+SO MUCH DAMAGE, BROKEN WINDOWS,<br>
 PIPES ARE SHIT, CRAP VENEER
 
 ---
 
+IT’S HOUR LATER, JESUS 
 
-IT’S HOUR LATER, JESUS, I’M STILL STANDING HERE
+I’M STILL STANDING HERE
+
+---
+
 STILL STANDING HERE
 
 ---
 
-
-
-BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL
+BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL<br>
 AT CERTAIN TIMES OF DAY
 
 ---
 
-
-I SEE HOW FINE THIS HOUSE COULD BE
+I SEE HOW FINE THIS HOUSE COULD BE<br>
 I SEE IT SO DAMN CLEAR
 
 ---
 
+WHAT’S THE MATTER? 
 
-WHAT’S THE MATTER? WHY AM I STANDING HERE?
+WHY AM I STANDING HERE?
 
 ---
 
-
-
-BAD FOUNDATION, TWISTING FLOORBOARDS,
+BAD FOUNDATION, TWISTING FLOORBOARDS,<br>
 SHODDY PIPES, A GAPING HOLE
 
 ---
 
-
-IT’S A LOT, IT’S A LOT TO KEEP UNDER CONTROL
-SOMETHING CRACKING, SOMETHING ROTTING
+IT’S A LOT, IT’S A LOT <br>
+TO KEEP UNDER CONTROL
 
 ---
 
-
+SOMETHING CRACKING, SOMETHING ROTTING<br>
 PILES OF RUIN AND DEBRIS
+
+---
+
 KILLING ME! CRUSHING ME! PUSHING ME!
 
 ---
 
-
-
-BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL
+BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL<br>
 AT CERTAIN TIMES OF DAY
 
 ---
 
-
-I SEE HOW FINE THIS HOUSE COULD BE
+I SEE HOW FINE THIS HOUSE COULD BE<br>
 I SEE IT SO DAMN CLEAR
 
 ---
 
+WHAT’S THE MATTER? 
 
-WHAT’S THE MATTER? WHY AM I STANDING HERE?
+WHY AM I STANDING HERE?
 
 ---
 
-
-
 DEAR AL, I’M SCARED.
+
 I HAD A LIFE I THOUGHT I UNDERSTOOD.
 
 ---
 
-
-I TOOK IT AND I SQUEEZED OUT EVERY BIT OF LIFE I COULD. 
-BUT THE EDGES OF THE WORLD THAT HELD ME UP HAVE GONE AWAY
+I TOOK IT AND I SQUEEZED OUT <br>
+EVERY BIT OF LIFE I COULD
 
 ---
 
+BUT THE EDGES OF THE WORLD <br>
+THAT HELD ME UP HAVE GONE AWAY
 
-AND I’M FALLING INTO NOTHINGNESS
+---
+
+AND I’M FALLING INTO NOTHINGNESS<br>
 OR FLYING INTO SOMETHING SO SUBLIME
 
 ---
 
-
 AND I’M 
-A MAN I DON’T KNOW
 
 ---
 
-
+A MAN I DON’T KNOW<br>
 WHO AM I NOW? WHERE DO I GO?
 
 ---
 
-
-I CAN’T GO BACK
+I CAN’T GO BACK<br>
 I CAN’T FIND MY WAY THROUGH
 
 ---
-
 
 I MIGHT STILL BREAK A HEART OR TWO
 
 ---
 
-
-
-BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL
+BUT WHEN THE SUNLIGHT HITS THE PARLOR WALL<br>
 AT CERTAIN TIMES OF DAY
 
 ---
 
-
-I SEE HOW FINE THIS HOUSE COULD BE
+I SEE HOW FINE THIS HOUSE COULD BE<br>
 I SEE IT SO DAMN CLEAR
 
 ---
 
-
-OH MY GOD!
+OH MY GOD!<br>
 WHY AM I STANDING HERE?
+
+---
+
 
 ---
 
 ## ALISON:
 Caption.
-Caption.
 
 ---
 
+Caption.
+
+---
 
 Caption. Caption. 
-Caption.
 
 ---
 
+Caption!
+
+---
 
 I’m the only one here. 
+
+---
+
 This is what I have of you: 
 
 ---
 
-
 You ordering me to sweep and dust the parlor
+
 You steaming off the wallpaper
 
 ---
 
-
 You in front of a classroom of bored students
+
 Digging up a dogwood tree
 
 ---
 
-
 You working on the house, smelling like sawdust and sweat and designer cologne
 
 ---
-
 
 You calling me at college to tell me how I’m supposed to feel about Faulkner or Hemingway
 
@@ -5733,58 +6368,79 @@ You… standing on the shoulder of Route 150 bracing yourself against the pulse 
 
 ---
 
-
 You… succumbing to a rare moment of physical contact with me
 
 ---
 
-DADDY (COMMA) HEY DADDY
-COME HERE OKAY (QUESTION MARK)
+DADDY... COMMA... HEY DADDY<br>
+COME HERE OKAY... QUESTION MARK
 
 ---
 
-
-I NEED // YOU
-
----
-
+template: 2col
 ## SMALL ALISON:
-DADDY, HEY, DADDY, COME HERE, OKAY, I NEED YOU.
+DADDY, HEY, DADDY, COME HERE, OKAY? I NEED YOU
+
+
+## ALISON:
+I NEED YOU
 
 ---
 
 ## MEDIUM ALISON:
-AT THE LIGHT AT THE LIGHT.
-AT THE LIGHT AT THE LIGHT.
+AT THE LIGHT AT THE LIGHT<br>
+AT THE LIGHT AT THE LIGHT
 
 ---
 
 ## ALISON:
-WHAT ARE YOU DOING (QUESTIONS MARK)
+WHAT ARE YOU DOING... QUESTION MARK<br>
 I SAID COME HERE
 
 ---
 
-
-YOU NEED // TO DO WHAT I TELL YOU TO DO
-
----
-
+template: 2col
 ## SMALL ALISON:
 WHAT ARE YOU DOING?
 I SAID COME HERE!
 
+
+## ALISON:
+YOU NEED TO DO 
+
 ---
 
+template: 2col
+## ALISON:
+WHAT I TELL YOU TO DO
 
+
+## SMALL ALISON:
 YOU NEED TO DO WHAT I TELL YOU TO DO.
 
+---
 
+## SMALL ALISON
+LISTEN TO ME. DADDY! COME HERE
 
 ---
 
+template: 2col
+## SMALL ALISON:
+HEY RIGHT HERE, RIGHT NOW. YOU’RE MAKING ME MAD.
+
+
 ## MEDIUM ALISON:
-THAT YOU AND I – 
+AT THE LIGHT
+
+---
+
+template: 2col
+## MEDIUM ALISON:
+HOW DOES IT FEEL TO KNOW—
+
+## SMALL ALISON:
+LISTEN TO ME. LISTEN TO ME. LISTEN TO ME.
 
 ---
 
@@ -5803,10 +6459,20 @@ I WANNA PLAY AIRPLANE
 
 ---
 
+template: 2col
+## MEDIUM ALISON:
+THAT YOU AND I – 
+
+
+## SMALL ALISON:
+I WANNA PLAY AIRPLANE
+
+---
+
+template: 2col
 ## ALISON:
 I WANNA PUT MY ARMS OUT AND FLY
 
----
 
 ## MEDIUM ALISON:
 I WAS LIKE YOU
@@ -5819,20 +6485,20 @@ LIKE SUPERMAN
 
 ---
 
+template: 2col
 ## ALISON:
 UP IN THE SKY
 
----
 
 ## MEDIUM ALISON:
 SAY SOMETHING
 
 ---
 
+template: 2col
 ## ALISON:
 ‘TIL I CAN SEE ALL OF PENNSYLVANIA
 
----
 
 ## MEDIUM ALISON:
 SAY SOMETHING
@@ -5840,14 +6506,40 @@ SAY SOMETHING
 ---
 
 ## SMALL ALISON:
-PUT YOUR FEET HERE LIKE THIS, DADDY, DO WHAT I SAY
+PUT YOUR FEET HERE LIKE THIS,<br>
+DADDY, DO WHAT I SAY
 
 ---
 
 ## ALISON:
 THERE YOU ARE, DAD.
 
+---
 
+## SMALL ALISON
+TAKE MY HANDS, GIVE ME YOURS
+BEND YOUR KNEES, NOT THAT WAY
+
+---
+
+template: 2col
+## ALISON:
+THERE YOU ARE
+
+
+## SMALL ALISON:
+WHEN I SAY GO, YOU START
+PUSHING ME UP— 
+
+---
+
+template: 2col
+## SMALL ALISON:
+OKAY?
+
+
+## MEDIUM ALISON:
+OKAY
 
 ---
 
@@ -5856,8 +6548,17 @@ DON’T LET GO YET
 
 ---
 
-## SMALL ALISON:
+## SMALL ALISON AND MEDIUIM ALISON:
 OKAY HIGHER
+
+---
+
+template: 2col
+## ALISON:
+DON’T LET GO YET
+
+
+## SMALL ALISON
 JUST A LITTLE
 
 ---
@@ -5887,18 +6588,29 @@ FLY
 
 ---
 
-
-
+## SMALL ALISON:
 OUR HOUSE IS OVER THERE 
 AND THERE’S OUR CAR
 
 ---
 
-
 THE FUN HOME, I SEE IT!
 I’M UP SO FAR
 
+---
 
+Daddy, there’s your school!
+And there’s Grandma’s house!
+
+---
+
+template: 2col
+## MEDIUM ALISON:
+SO FAR
+
+
+## SMALL ALISON:
+There’s Uncle Pete’s farm!
 
 ---
 
@@ -5907,12 +6619,10 @@ I CAN SEE ALL OF
 
 ---
 
-
-
+template: 2col
 ## SMALL ALISON AND MEDIUM ALISON:
 PENNSYLVANIA
 
----
 
 ## ALISON:
 I CAN SEE ALL OF PENNSYLVANIA
@@ -5947,6 +6657,42 @@ AND I DON’T EVEN CARE THAT IT PUSHES MY STOMACH IN.
 ## ALISON:
 MADE OF LITTLE MARKS
 
+---
+
+## SMALL ALISON:
+FLY
+
+---
+
+template: 2col
+## SMALL ALISON:
+UP SO HIGH
+
+
+## ALISON:
+BEAUTIFUL
+
+---
+
+## THREE ALISONS
+FLY
+
+---
+
+## SMALL ALISON: 
+UP SO HIGH
+
+---
+
+## THREE ALISONS
+FLY
+
+---
+
+## SMALL ALISON: 
+UP SO HIGH
+
+---
 
 
 ---
@@ -5958,6 +6704,7 @@ I CAN SEE ALL OF PENNSYLVANIA
 
 ## ALISON:
 Caption: Every so often there was a rare moment of perfect balance when I soared above him.
+
 ---
 ---
 
@@ -5972,8 +6719,8 @@ html {
 }
 
 /* 2022 styles to match hackmd.io */
-.remark-slide-content { font-size: 15rem; width: 500rem; padding: 0 3%; transform: scaleX(0.55); /* Or whatever scale looks “unstretched” */
-  transform-origin: left center;}
+/* .remark-slide-content { font-size: 15rem; width: 500rem; padding: 0 3%; transform: scaleX(0.55); transform-origin: left center;} */
+.remark-slide-content { font-size: 10.5rem; padding: 1% 3%;}
 .remark-slide-content p {padding-bottom: 2%; line-height: 1;}
 .remark-slide-content h2,
 .remark-slide-content h3 {line-height: 1;}
@@ -5991,6 +6738,12 @@ span.dim {
 .remark-slide-content h2:nth-last-child(n+4){
   opacity: 1;
 }
+
+/*-----------------------------------------*/
+/*SIDE BY SIDE STYLES */
+
+
+
 h2.{{plum-purple}},
 h2.{{plum-purple}}-,
 h2.-to-{{plum-purple}},

@@ -165,7 +165,7 @@ blockquote {
   }
 
   p {
-    line-height: 1.1;
+    line-height: 1;
     padding-bottom: 5%;
     opacity: 1;
     margin: 0;
@@ -267,6 +267,50 @@ blockquote {
     margin-top: -9px;
   }
 }
+/*-----------------------------------------*/
+.col2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 6rem 1fr 1fr;
+  grid-gap: 20px 50px;
+}
+
+.col2 h2, .col2 p {
+  margin: 0;
+}
+
+/* First column */
+.col2 h2:is(:first-of-type) {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.col2 h2:is(:first-of-type) + p {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.col2 h2:is(:first-of-type) + p + p {
+  grid-column: 1;
+  grid-row: 3;
+}
+
+/* Second column */
+.col2 h2:is(:last-of-type) {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.col2 h2:is(:last-of-type) + p {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.col2 h2:is(:last-of-type) + p + p {
+  grid-column: 2;
+  grid-row: 3;
+}
+
 
 /*-----------------------------------------*/
 /*DIMMING STYLES */

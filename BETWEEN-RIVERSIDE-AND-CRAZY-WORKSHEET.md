@@ -1897,7 +1897,15 @@ I told Audrey, let the man finish his beer.
 ---
 
 ## DETECTIVE O'CONNOR: 
-Again -- what could I do? So he finishes the beer, we carry him in, hand him off to triage, but now I’m ready to go back to the Precinct and report Walter to my captain -- seconds were precious and he was wasting time giving the guy cigarettes and beer.
+Again -- what could I do? So he finishes the beer, we carry him in, hand him off to triage, 
+
+---
+
+but now I’m ready to go back to the Precinct and report Walter to my captain 
+
+---
+
+-- seconds were precious and he was wasting time giving the guy cigarettes and beer.
 
 ---
 
@@ -1912,12 +1920,24 @@ Wait, I don’t get it.
 ---
 
 ## POPS: 
-See, the man, Lulu, he was in shock from his injury -- and the second they pulled that knife out from his head, he was only gonna just hemorrhage and be immediately dead. Couldn’t happen any other way. That’s just the luck of the draw when you got a big knife in your head -- or any foreign object embedded that deep for that matter. So I had a beer with him. The man was gonna die alone -- I figured he didn’t have to drink alone too. Ya know?
+See, the man, Lulu, he was in shock from his injury -- and the second they pulled that knife out from his head, he was only gonna just hemorrhage and be immediately dead. 
+
+---
+
+Couldn’t happen any other way. That’s just the luck of the draw when you got a big knife in your head -- or any foreign object embedded that deep for that matter. 
+
+---
+
+So I had a beer with him. The man was gonna die alone -- I figured he didn’t have to drink alone too. Ya know?
 
 ---
 
 ## LIEUTENANT CARO: 
-See, that’s what we used to call; “Doing the Wrong thing to do the Right thing” -- not like that no more, Mr. Washington, and it’s a Goddamn shame. Salud!
+See, that’s what we used to call; “Doing the Wrong thing to do the Right thing” 
+
+---
+
+-- not like that no more, Mr. Washington, and it’s a Goddamn shame. Salud!
 
 ---
 
@@ -1937,7 +1957,19 @@ Um, no Lulu. I’m afraid they couldn’t.
 ---
 
 ## LIEUTENANT CARO: 
-Your father, Junior, I never did have the pleasure to work with him, but everything Audrey tells me is nothing but he was one of the great ones -- and I don’t just hear that from Audrey. And by the way -- your comment before about your father’s take home pay? You oughta keep in mind that when your father came up in the force in the late ‘70s -- being a Black guy didn’t exactly put him on the fast track for career advancement, yet he served with distinction and valor. And to that I say once more; “Salud, Mr. Washington.”
+Your father, Junior, I never did have the pleasure to work with him, but everything Audrey tells me is nothing but he was one of the great ones -- 
+
+---
+
+and I don’t just hear that from Audrey. And by the way -- your comment before about your father’s take home pay? 
+
+---
+
+You oughta keep in mind that when your father came up in the force in the late ‘70s -- being a Black guy didn’t exactly put him on the fast track for career advancement, yet he served with distinction and valor. 
+
+---
+
+And to that I say once more; “Salud, Mr. Washington.”
 
 ---
 
@@ -1962,7 +1994,15 @@ Yep -- I can see the brass.
 ---
 
 ## LIEUTENANT CARO: 
-I miss the action though, Walter. I’m a glorified paper shuffler now. Audrey had to put me on that Paleo diet -- all this inactivity, I mean I’m a guy who likes taking his shirt off when I wash the car or mow the lawn -- you know what I mean?
+I miss the action though, Walter. I’m a glorified paper shuffler now. 
+
+---
+
+Audrey had to put me on that Paleo diet -- all this inactivity, I mean I’m a guy who likes taking his shirt off when I wash the car or mow the lawn -- 
+
+---
+
+you know what I mean?
 
 ---
 
@@ -1987,7 +2027,23 @@ Fuckin Giuliani -
 ---
 
 ## LIEUTENANT CARO: 
-Oh Amen to that, Walter! You know, we had dinner with that miserable Giuliani cocksucker last week me and Audrey -- a departmental brass thing -- some crappy French place costs ten dollars for a Diet Coke -- and do you know what that pretentious Guinea windbag ordered? A fuckin’ pigeon! A pigeon Walter -- like his shit don’t stink! Like; “Ooo La La, bring me zee pigeon” -- like he ain’t the son of a two bit Sing Sing Ex-con from East Flatbush -- I wanted to spit in his “foie gras” or whatever the fuck they call that over priced duck grease they’re slinging over there.
+Oh Amen to that, Walter! 
+
+---
+
+You know, we had dinner with that miserable Giuliani cocksucker last week me and Audrey -- a departmental brass thing -- some crappy French place costs ten dollars for a Diet Coke -- 
+
+---
+
+and do you know what that pretentious Guinea windbag ordered? A fuckin’ pigeon! 
+
+---
+
+A pigeon Walter -- like his shit don’t stink! Like; “Ooo La La, bring me zee pigeon” -- like he ain’t the son of a two bit Sing Sing Ex-con from East Flatbush -- 
+
+---
+
+I wanted to spit in his “foie gras” or whatever the fuck they call that over priced duck grease they’re slinging over there.
 
 ---
 
@@ -2007,7 +2063,11 @@ Anyway, what I was trying to say -- Guiliani aside --
 ---
 
 ## LIEUTENANT CARO: 
--- I’m sorry. Just hearing his name -- it causes my rear end to do that that sudden jabbing startling what the fuck just happened maybe I got cancer sneak attack ass-flinch thing. You know the one?
+-- I’m sorry. Just hearing his name -- 
+
+---
+
+it causes my rear end to do that that sudden jabbing startling what the fuck just happened maybe I got cancer sneak attack ass-flinch thing. You know the one?
 
 ---
 
@@ -2017,7 +2077,15 @@ Are you done? ...
 ---
 
 ## LIEUTENANT CARO: 
-I’m done. And please forgive my profanity. And I won’t even get into him sitting in the Yankee dugout. The audacity, wearing the friggin’ uniform like he’s Joe Pepitone with a toupee -the jerk. Okay. I’m done now. God Bless Al Sharpton and Let’s Go Mets.
+I’m done. And please forgive my profanity. 
+
+---
+
+And I won’t even get into him sitting in the Yankee dugout. The audacity, wearing the friggin’ uniform like he’s Joe Pepitone with a toupee -the jerk. 
+
+---
+
+Okay. I’m done now. God Bless Al Sharpton and Let’s Go Mets.
 
 ---
 
@@ -2062,7 +2130,11 @@ Sure, baby.
 ---
 
 ## JUNIOR: 
-You gonna be alright, Pop, with Oswaldo & Lulu looking over things for a few days? Cuz I don’t have to go -- not at all.
+You gonna be alright, Pop, with Oswaldo & Lulu looking over things for a few days? 
+
+---
+
+Cuz I don’t have to go -- not at all.
 
 ---
 
@@ -2102,7 +2174,11 @@ She calls you “Dad”, Walter?
 ---
 
 ## POPS: 
-They all call me that and I’ve given up objecting... So now, Audrey, Dave: what’s this about you two getting married?
+They all call me that and I’ve given up objecting... 
+
+---
+
+So now, Audrey, Dave: what’s this about you two getting married?
 
 ---
 
@@ -2122,7 +2198,15 @@ Can’t put a price tag on happiness, Walter.
 ---
 
 ## POPS: 
-That’s what I like to hear. Still, I’m no jeweler, but this looks like some serious Audrey Hepburn Cartier Kim Kardashian shit right here. You didn’t rob a bank to make the down payment, did you? 
+That’s what I like to hear. 
+
+---
+
+Still, I’m no jeweler, but this looks like some serious Audrey Hepburn Cartier Kim Kardashian shit right here. 
+
+---
+
+You didn’t rob a bank to make the down payment, did you? 
 
 ---
 
@@ -2182,7 +2266,11 @@ Who’s that?
 ---
 
 ## LIEUTENANT CARO: 
-He’s a guy, Walter. That’s the thing, they’re all just guys. Anyway, the next morning, I took Audrey directly to Tiffanys, told the gal behind the counter; “I got thirty grand to spend and I don’t want a penny change”.
+He’s a guy, Walter. That’s the thing, they’re all just guys. 
+
+---
+
+Anyway, the next morning, I took Audrey directly to Tiffanys, told the gal behind the counter; “I got thirty grand to spend and I don’t want a penny change”.
 
 ---
 
@@ -2242,7 +2330,11 @@ Yeah, she woulda. She up there smiling though.
 ---
 
 ## DETECTIVE O'CONNOR: 
-Yes she is. Wow. Oh my God. That is the best news I’ve heard in -- wow...... And hey, you know what? I think on that joyous note -
+Yes she is. Wow. Oh my God. That is the best news I’ve heard in -- wow...... 
+
+---
+
+And hey, you know what? I think on that joyous note -
 
 ---
 
@@ -2267,7 +2359,11 @@ It’s late, Dave, I really think
 ---
 
 ## POPS:
- Audrey. It’s okay. I’d like a coffee too if you don’t mind. With a shot of cognac. You want a shot of cognac, Dave?
+ Audrey. It’s okay. I’d like a coffee too if you don’t mind. With a shot of cognac. 
+
+---
+
+You want a shot of cognac, Dave?
 
 ---
 
@@ -2292,7 +2388,15 @@ I said it’s time to go.
 ---
 
 ## POPS: 
-Hey hey, no bickering on my account. Dave: why don’t you just say whatever it is you’ve obviously come here to say, and then, you can take all the coffee & fritters you want to-go on your way back to Long Island -- how’s that sound?
+Hey hey, no bickering on my account. 
+
+---
+
+Dave: why don’t you just say whatever it is you’ve obviously come here to say, and then, 
+
+---
+
+you can take all the coffee & fritters you want to-go on your way back to Long Island -- how’s that sound?
 
 ---
 
@@ -2307,7 +2411,11 @@ It’s all good, Audrey. Let your man say what he need to say.
 ---
 
 ## LIEUTENANT CARO: 
-Do I really need to say it?....... Okay. You gotta drop this civil suit and settle, Walter. It’s an election year. And the Mayor’s office is already catching enough flack off of this bogus Williams shooting.
+Do I really need to say it?....... Okay. You gotta drop this civil suit and settle, Walter. 
+
+---
+
+It’s an election year. And the Mayor’s office is already catching enough flack off of this bogus Williams shooting.
 
 ---
 
@@ -2317,7 +2425,11 @@ Yeah, I read about that one. Seems the department hasn’t gotten any better at 
 ---
 
 ## LIEUTENANT CARO: 
-Hey, I hear you, Walter, don’t think I don’t, but I mean, if I may, what are you holding out for after how many -- eight -- years already? Eight years, Walter -- I mean, your lawyers, what? The phrase “strike while the iron’s hot”, that’s like -- an old wives’ tale to them?
+Hey, I hear you, Walter, don’t think I don’t, but I mean, if I may, what are you holding out for after how many -- eight -- years already? 
+
+---
+
+Eight years, Walter -- I mean, your lawyers, what? The phrase “strike while the iron’s hot”, that’s like -- an old wives’ tale to them?
 
 ---
 
@@ -2327,7 +2439,19 @@ My lawyers act on my instructions.
 ---
 
 ## LIEUTENANT CARO: 
-You’re a proud man, I get it. And 8 years ago, when you were in the newspapers every day, public opinion running high, the outrage, the call for justice-- then absolutely, hold out for all you can get off those bastards -- but now? The truth is nobody cares about your case anymore except you -- and maybe the Village Voice. And Walter, who the fuck reads the Village Voice these days?! Look, do yourself a favor. Sign the non disclosure. Cash a check with a little weight to it. Live your life a happy man instead of --
+You’re a proud man, I get it. And 8 years ago, when you were in the newspapers every day, public opinion running high, the outrage, the call for justice-- 
+
+---
+
+then absolutely, hold out for all you can get off those bastards -- but now? The truth is nobody cares about your case anymore except you --
+
+---
+
+and maybe the Village Voice. And Walter, who the fuck reads the Village Voice these days?! 
+
+---
+
+Look, do yourself a favor. Sign the non disclosure. Cash a check with a little weight to it. Live your life a happy man instead of --
 
 ---
 
@@ -2352,7 +2476,11 @@ How you know about that?
 ---
 
 ## DETECTIVE O'CONNOR: 
-They’ll toss you out of here, Walter. You’re paying 1500 a month for a palatial mansion on Riverside Drive worth ten times that -- you don’t think they want you out of here?
+They’ll toss you out of here, Walter. 
+
+---
+
+You’re paying 1500 a month for a palatial mansion on Riverside Drive worth ten times that -- you don’t think they want you out of here?
 
 ---
 
@@ -2362,12 +2490,24 @@ I got a lease and it’s legal -
 ---
 
 ## DETECTIVE O'CONNOR: 
-Walter, I read the affidavits. When Delores was alive, you had a clean and upstanding home and you had leverage with the city because they had nothing on you. But since she’s passed, Walter, you’ve brought undo attention to yourself with unsavory characters, pot smoking complaints, bottles thrown out windows, vandalism, weird strangeness, criminal allegations -- all violations to the terms of your lease. The City takes notice of these things, Walter, and now they’re the ones with the leverage, they need your case to go away, and unfortunately, you gave them their opening.
+Walter, I read the affidavits. When Delores was alive, you had a clean and upstanding home and you had leverage with the city because they had nothing on you. 
+
+---
+
+But since she’s passed, Walter, you’ve brought undo attention to yourself with unsavory characters, pot smoking complaints, bottles thrown out windows, vandalism, weird strangeness, criminal allegations -- 
+
+---
+
+all violations to the terms of your lease. The City takes notice of these things, Walter, and now they’re the ones with the leverage, they need your case to go away, and unfortunately, you gave them their opening.
 
 ---
 
 ## LIEUTENANT CARO: 
-But they can’t do shit and won’t do shit if they receive the right call from Downtown. Come on, Walter -- you think we like Landlords?! Who likes Landlords?! Fuck Landlords!! We’re on your side!
+But they can’t do shit and won’t do shit if they receive the right call from Downtown. 
+
+---
+
+Come on, Walter -- you think we like Landlords?! Who likes Landlords?! Fuck Landlords!! We’re on your side!
 
 ---
 
@@ -2387,7 +2527,11 @@ Walter, please, we’re here to help –
 ---
 
 ## LIEUTENANT CARO: 
-No, Audrey, Walter’s absolutely right. But the thing is, Walter -- the City means business here -- and we both know that no one beats City Hall, however, there’s a way to handle this where everybody wins and it doesn’t have to get ugly --
+No, Audrey, Walter’s absolutely right. But the thing is, Walter -- the City means business here -- and we both know that no one beats City Hall, 
+
+---
+
+however, there’s a way to handle this where everybody wins and it doesn’t have to get ugly --
 
 ---
 
@@ -2407,7 +2551,15 @@ Get the fuck out my house, motherfucker -- how’s that for an answer?!
 ---
 
 ## LIEUTENANT CARO: 
-Okay. First of all -- and believe me I would never do this -- but we both know I could lock you up right now as an accessory to grand larceny for the little “discount store” your son is running out of his bedroom -- second room on the left, right? No disrespect, Walter -- but what’s the chances I go into that room right now and don’t find a bunch of electronical items without the proper receipts?
+Okay. First of all -- and believe me I would never do this -- 
+
+---
+
+but we both know I could lock you up right now as an accessory to grand larceny for the little “discount store” your son is running out of his bedroom -- 
+
+---
+
+second room on the left, right? No disrespect, Walter -- but what’s the chances I go into that room right now and don’t find a bunch of electronical items without the proper receipts?
 
 ---
 
@@ -2417,7 +2569,15 @@ He gets the point, Dave -
 ---
 
 ## LIEUTENANT CARO: 
-Or how about I go into the next room by the bathroom -- where the other convicted felon lives? Or how about I make an inquiry into your son’s girlfriend, Walter -- because I’ll eat my hat if she ain’t a pro and for all we know Junior is her pimp --
+Or how about I go into the next room by the bathroom -- where the other convicted felon lives? 
+
+---
+
+Or how about I make an inquiry into your son’s girlfriend, Walter -- 
+
+---
+
+because I’ll eat my hat if she ain’t a pro and for all we know Junior is her pimp --
 
 ---
 
@@ -2427,12 +2587,24 @@ I was a highly decorated cop -
 ---
 
 ## LIEUTENANT CARO: 
-You weren’t. I’m sorry. You weren’t a highly decorated cop. You were an okay cop. Better than some, no worse than some others. No shame in that. Be smart. Take the money. Eight years ago, you caught a bad break –
+You weren’t. I’m sorry. You weren’t a highly decorated cop. You were an okay cop. 
+
+---
+
+Better than some, no worse than some others. No shame in that. Be smart. Take the money. 
+
+---
+
+Eight years ago, you caught a bad break –
 
 ---
 
 ## POPS: 
-Bad break?! When’s the last time a Black cop shot a fuckin’ White cop six times “accidentally” -- and they chalked it up as a “bad break”?!
+Bad break?! When’s the last time a Black cop shot a fuckin’ White cop six times “accidentally” -- 
+
+---
+
+and they chalked it up as a “bad break”?!
 
 ---
 
@@ -2457,7 +2629,15 @@ Goddamn right I’m Black!
 ---
 
 ## LIEUTENANT CARO: 
-No one’s saying you aren’t Black. Who’s saying you’re not Black? No one’s saying anything about anything -- except to offer you a settlement you should’ve taken eight years ago. We’re all cops here, Walter, right? No black, no white -- just Blue.
+No one’s saying you aren’t Black. Who’s saying you’re not Black? 
+
+---
+
+No one’s saying anything about anything -- except to offer you a settlement you should’ve taken eight years ago. 
+
+---
+
+We’re all cops here, Walter, right? No black, no white -- just Blue.
 
 ---
 
@@ -2492,7 +2672,15 @@ Hey, man, calm down. Believe me, we came here as a courtesy.
 ---
 
 ## POPS: 
-I know full well why you came here -- any opportunity to curry favor with the bosses! Bet it went something like this: “Yes sir, Boss: My fiance was his partner. So I can get that Old Bitter Monkey Ass Nigger to sign that non-disclosure, cuz I’m like the Horse Whisperer of getting Niggers to sign shit!
+I know full well why you came here -- any opportunity to curry favor with the bosses! 
+
+---
+
+Bet it went something like this: “Yes sir, Boss: My fiance was his partner. So I can get that Old Bitter Monkey Ass Nigger to sign that non-disclosure, 
+
+---
+
+cuz I’m like the Horse Whisperer of getting Niggers to sign shit!
 
 ---
 
@@ -2502,7 +2690,19 @@ Wow.
 ---
 
 ## LIEUTENANT CARO: 
-Nah, hey, I get it, and I get you, Walter -- more than you think. And I take no offense. And personally, I would love to be able to agree with you completely. Because if not for the fact that you happen to be totally wrong, you’d probably be right. And I mean that. And that being said, I’m certain that you’ll also have to agree with me that -- whether we like it or not -- the simple fact is that not everything in this world, Walter, is about being fuckin’ Black!
+Nah, hey, I get it, and I get you, Walter -- more than you think. And I take no offense. 
+
+---
+
+And personally, I would love to be able to agree with you completely. Because if not for the fact that you happen to be totally wrong, you’d probably be right. 
+
+---
+
+And I mean that. And that being said, I’m certain that you’ll also have to agree with me that -- whether we like it or not -- 
+
+---
+
+the simple fact is that not everything in this world, Walter, is about being fuckin’ Black!
 
 ---
 
@@ -2527,12 +2727,20 @@ Walter, do you honestly believe I could ever be engaged to a man who would ever 
 ---
 
 ## POPS: 
-I don’t know, Audrey, it’s been awhile...... And you wrong, Dave: it is about being black. Always has been, always will be -- and who the fuck are you to try and tell a Black man otherwise?
+I don’t know, Audrey, it’s been awhile...... And you wrong, Dave: it is about being black. 
+
+---
+
+Always has been, always will be -- and who the fuck are you to try and tell a Black man otherwise?
 
 ---
 
 ## LIEUTENANT CARO: 
-I apologize. But Walter, I’m telling you: Don’t be the Old Black Man in the New White world. It’s a decent settlement. Cut your losses and take it. Let’s go Audrey.
+I apologize. But Walter, I’m telling you: Don’t be the Old Black Man in the New White world. 
+
+---
+
+It’s a decent settlement. Cut your losses and take it. Let’s go Audrey.
 
 ---
 
@@ -2547,7 +2755,11 @@ I don’t see what that’s got to do with anything -
 ---
 
 ## POPS: 
-And if you got any pep left in your step, you gonna make love before you roll over and go to sleep and dream about being promoted up the damn “Alpo dog food” police chain, now aren’t you?
+And if you got any pep left in your step, you gonna make love before you roll over and go to sleep 
+
+---
+
+and dream about being promoted up the damn “Alpo dog food” police chain, now aren’t you?
 
 ---
 
@@ -2567,7 +2779,11 @@ I’m a man, Walter -- of course I get it up.
 ---
 
 ## POPS: 
-Well I don’t! The last 8 years of my wife’s life -- after the shooting -- I couldn’t do nothing with her ‘cept drink tea and play scrabble if you get my meaning -- and that ain’t the half of it.
+Well I don’t! The last 8 years of my wife’s life -- after the shooting -- 
+
+---
+
+I couldn’t do nothing with her ‘cept drink tea and play scrabble if you get my meaning -- and that ain’t the half of it.
 
 ---
 
@@ -2592,7 +2808,11 @@ And who’s fault is that really, Walter?
 ---
 
 ## LIEUTENANT CARO: 
-You’re about to lose your apartment and believe me, a whole lot more if they decide to unleash forensic accountants on every financial transaction you’ve ever made -- not to mention what they could do to your three-quarter pension if they put every arrest you ever filed in 30 years under a microscope.
+You’re about to lose your apartment and believe me, a whole lot more if they decide to unleash forensic accountants on every financial transaction you’ve ever made -- 
+
+---
+
+not to mention what they could do to your three-quarter pension if they put every arrest you ever filed in 30 years under a microscope.
 
 ---
 
@@ -2602,7 +2822,15 @@ I wanna know what you meant before, Audrey, when you said; “Who’s fault is t
 ---
 
 ## LIEUTENANT CARO: 
-Hey -- they will arrest your son, that’s definite -they might even try to arrest you. Why let them do that? For what? Because you’re “right”? Sign the non-disclosure. Cash a check. Take a trip to Acapulco, the Poconos, your veal it was impeccable, maybe open up a little place, or not -- 
+Hey -- they will arrest your son, that’s definite -they might even try to arrest you. 
+
+---
+
+Why let them do that? For what? Because you’re “right”? Sign the non-disclosure. Cash a check. 
+
+---
+
+Take a trip to Acapulco, the Poconos, your veal it was impeccable, maybe open up a little place, or not -- 
 
 ---
 
@@ -2627,7 +2855,11 @@ I wasn’t there.
 ---
 
 ## POPS: 
-So some incompetent white rookie Justin Beiber motherfucker shoots me six times -- empties his gun inside of me -- and him doing that is my fault?!
+So some incompetent white rookie Justin Beiber motherfucker shoots me six times -- empties his gun inside of me -- 
+
+---
+
+and him doing that is my fault?!
 
 ---
 
@@ -2692,7 +2924,15 @@ I have no doubt whatsoever that there wasn’t a person in that club that you di
 ---
 
 ## POPS: 
-The person I hold in contempt is you, Audrey -- you and Lieutenant Ass Lick over there -- so save the Doctor Phil “I don’t like myself” bullshit for somebody else. “I don’t like myself”?! Show me one cop who actually does his job, sees what we see, becomes what the streets makes us become-- show me one cop who did what I did for 30 years who “likes” himself!
+The person I hold in contempt is you, Audrey -- you and Lieutenant Ass Lick over there -- so save the Doctor Phil “I don’t like myself” bullshit for somebody else. 
+
+---
+
+“I don’t like myself”?! Show me one cop who actually does his job, sees what we see, becomes what the streets makes us become-- 
+
+---
+
+show me one cop who did what I did for 30 years who “likes” himself!
 
 ---
 
@@ -2702,7 +2942,15 @@ Okay now, emotions are running high
 ---
 
 ## POPS: 
-Everybody hates fuckin cops -- even cops hate cops. And everybody especially don’t like Black cops! White cops were never comfortable with us, Black civilians think we Uncle Tom, White civilians think we Uppity, and everybody damn else sees we’re Black and thinks we’re somehow not entirely qualified to carry a badge and a gun --
+Everybody hates fuckin cops -- even cops hate cops. And everybody especially don’t like Black cops! 
+
+---
+
+White cops were never comfortable with us, Black civilians think we Uncle Tom, White civilians think we Uppity, 
+
+---
+
+and everybody damn else sees we’re Black and thinks we’re somehow not entirely qualified to carry a badge and a gun --
 
 ---
 
@@ -2712,12 +2960,32 @@ Walter
 ---
 
 ## POPS: 
-“Do I like myself”? Hell no! “Do I drink”? Hell yes! Thirty years, I gave everything to the job, and you got the nerve to come at me with “Who’s fault is it really, Walter”? That White Rookie opened fire on me, Audrey! And he called me Nigger while he did it. Six shots N.I. G. G. E. R. -- that’s what that was! He shot everything Black in the whole joint and somehow didn’t hit anything White. Now how the fuck is that possible -- and don’t I have the same right as anybody else to sip on a damn Margarita and not get shot the fuck up in the process?
+“Do I like myself”? Hell no! “Do I drink”? Hell yes! 
+
+---
+
+Thirty years, I gave everything to the job, and you got the nerve to come at me with “Who’s fault is it really, Walter”? 
+
+---
+
+That White Rookie opened fire on me, Audrey! And he called me Nigger while he did it. 
+
+---
+
+Six shots N.I. G. G. E. R. -- that’s what that was! He shot everything Black in the whole joint and somehow didn’t hit anything White. 
+
+---
+
+Now how the fuck is that possible -- and don’t I have the same right as anybody else to sip on a damn Margarita and not get shot the fuck up in the process?
 
 ---
 
 ## DETECTIVE O'CONNOR: 
-It’s not your fault that he shot you, Walter. It’s your fault that you were there. You clocked out at 9 pm that night. Bars close at 4. Seven hours wasn’t enough for you?
+It’s not your fault that he shot you, Walter. It’s your fault that you were there. 
+
+---
+
+You clocked out at 9 pm that night. Bars close at 4. Seven hours wasn’t enough for you?
 
 ---
 
@@ -2727,7 +2995,27 @@ I drink sometimes. And I pay my own way when I do.
 ---
 
 ## DETECTIVE O'CONNOR: 
-And you paid an awful lot for those last few drinks that night, didn’t you? “Who’s fault was it”? It was the rookie’s. “Who’s fault was it really”? I can’t answer that. But I know Delores, your wife, had an opinion on that subject. Because if you didn’t have to be at an after hours bar at 6 am, this never would’ve happened. But you did have to be there, didn’t you? And, Walter, if I walk outta here right now and a safe falls on my head, it’s not my fault. But if a safe falls on my head when I’m dead drunk at 6 in the morning, hanging out in a location where safes are known to sometimes drop on heads --
+And you paid an awful lot for those last few drinks that night, didn’t you? “Who’s fault was it”? 
+
+---
+
+It was the rookie’s. “Who’s fault was it really”? I can’t answer that. 
+
+---
+
+But I know Delores, your wife, had an opinion on that subject. 
+
+---
+
+Because if you didn’t have to be at an after hours bar at 6 am, this never would’ve happened. 
+
+---
+
+But you did have to be there, didn’t you? And, Walter, if I walk outta here right now and a safe falls on my head, it’s not my fault. 
+
+---
+
+But if a safe falls on my head when I’m dead drunk at 6 in the morning, hanging out in a location where safes are known to sometimes drop on heads --
 
 ---
 
@@ -2742,7 +3030,39 @@ Fuck your settlement, Caro!
 ---
 
 ## LIEUTENANT CARO: 
-Walter, please: This is all my fault and this is not how this evening was supposed to go. And you’re right, I am a department suck up -- I got my eye on a much higher pay grade and I’ll choke on brass cock to get there. Whatever it takes. But the thing is, I’m in love with this woman here, I love her Walter -- and all I know is she wants you to walk her down that aisle on our wedding day, which means I want that too. Think this through. Please... Look, My father was a Patrolman just like you. He wasn’t Black, obviously, but he was like you. He was a lot like you. Not the best, not the worst. Just the Salt of the Earth, ya know? And the job ends up killing us one way or the other. Often literally. My dad -he ate his gun, okay? You woulda liked him. And him you. So even though I don’t know, I know a little. Sign the non disclosure. Don’t be a martyr. Be a Grandfather. They’ll need your answer by 5 pm Monday, Walter.
+Walter, please: This is all my fault and this is not how this evening was supposed to go. 
+
+---
+
+And you’re right, I am a department suck up -- I got my eye on a much higher pay grade and I’ll choke on brass cock to get there. 
+
+---
+
+Whatever it takes. But the thing is, I’m in love with this woman here, I love her Walter -- 
+
+---
+
+and all I know is she wants you to walk her down that aisle on our wedding day, which means I want that too. 
+
+---
+
+Think this through. Please... Look, My father was a Patrolman just like you. He wasn’t Black, obviously, but he was like you. 
+
+---
+
+He was a lot like you. Not the best, not the worst. Just the Salt of the Earth, ya know? 
+
+---
+
+And the job ends up killing us one way or the other. Often literally. My dad -he ate his gun, okay? 
+
+---
+
+You woulda liked him. And him you. So even though I don’t know, I know a little. 
+
+---
+
+Sign the non disclosure. Don’t be a martyr. Be a Grandfather. They’ll need your answer by 5 pm Monday, Walter.
 
 ---
 
@@ -2752,7 +3072,15 @@ Please, Walter.
 ---
 
 ## POPS: 
-I got an answer right now: Fuck all a y’all. They wanna hang me from a cross -- hang me. Ten dollars, ten million dollars-- I don’t give a fuck. Just make sure you tell whoever sent you that Walter Washington is a man. They ain’t crucifying some supernatural Jesus! Walter Washington’s a flesh and blood, pee standing up, registered Republican --
+I got an answer right now: Fuck all a y’all. They wanna hang me from a cross -- hang me. 
+
+---
+
+Ten dollars, ten million dollars-- I don’t give a fuck. Just make sure you tell whoever sent you that Walter Washington is a man. 
+
+---
+
+They ain’t crucifying some supernatural Jesus! Walter Washington’s a flesh and blood, pee standing up, registered Republican --
 
 ---
 
@@ -2814,7 +3142,12 @@ But why you have to be alone?
 ## JUNIOR: 
 Don’t you ever like to be alone?
 
- LULU. No.
+---
+
+
+
+##  LULU: 
+No.
 
 ---
 
@@ -2829,7 +3162,11 @@ I wasn’t alone then. You thought I was alone, but I wasn’t.
 ---
 
 ## JUNIOR: 
-Okay, but I like to be alone sometimes. Especially now with my Pops and all. Lulu, I gotta go, baby. I’m gonna miss the bus. I’ll miss you. Believe me. I’ll miss you a lot.
+Okay, but I like to be alone sometimes. Especially now with my Pops and all. Lulu, I gotta go, baby. 
+
+---
+
+I’m gonna miss the bus. I’ll miss you. Believe me. I’ll miss you a lot.
 
 ---
 
@@ -2874,17 +3211,29 @@ Cuz before what?
 ---
 
 ## LULU: 
-Cuz before, I said to you that; “You thought I was alone, but I wasn’t really alone”, and you didn’t react or nothing, you just said you wanted to be alone, like you weren’t jealous or nothing!
+Cuz before, I said to you that; “You thought I was alone, but I wasn’t really alone”, and you didn’t react or nothing, 
+
+---
+
+you just said you wanted to be alone, like you weren’t jealous or nothing!
 
 ---
 
 ## JUNIOR: 
-That’s not true. I heard what you said, and I made a mental note to fuck with you about it later, but for right now I just want us to be cool before I get on the bus.
+That’s not true. I heard what you said, and I made a mental note to fuck with you about it later, 
+
+---
+
+but for right now I just want us to be cool before I get on the bus.
 
 ---
 
 ## LULU: 
-Six months ago, you woulda been mad jealous. Six months ago you woulda never got on that bus. But now I’m pregnant and all you want is that I should get an abortion and kill our baby.
+Six months ago, you woulda been mad jealous. Six months ago you woulda never got on that bus. 
+
+---
+
+But now I’m pregnant and all you want is that I should get an abortion and kill our baby.
 
 ---
 
@@ -2894,7 +3243,15 @@ I never said that. What I said was the decision was yours.
 ---
 
 ## LULU: 
-But your meaning was very clear! I bet you got some bitch in Baltimore anyway, don’t you? I wish you did have a bitch over there, because I would cut a bitch and not even blink -- even in my pregnant condition, which, you don’t even care about that anyway. 
+But your meaning was very clear! I bet you got some bitch in Baltimore anyway, don’t you? 
+
+---
+
+I wish you did have a bitch over there, because I would cut a bitch and not even blink -- 
+
+---
+
+even in my pregnant condition, which, you don’t even care about that anyway. 
 
 ---
 
@@ -2904,7 +3261,11 @@ Lulu.
 ---
 
 ## LULU: 
-You said you was different, Junior! And I believed you! But thass okay, I know that’s just what old men say to get young girl pussy.
+You said you was different, Junior! And I believed you! 
+
+---
+
+But thass okay, I know that’s just what old men say to get young girl pussy.
 
 ---
 
@@ -2934,12 +3295,20 @@ Okay, calm yourself
 ---
 
 ## LULU: 
-I been with drug dealers and murderers treated me better than you! I been with Crackhead homeless in Van Cortland Park half naked in a Blizzard who showed me more love!
+I been with drug dealers and murderers treated me better than you! 
+
+---
+
+I been with Crackhead homeless in Van Cortland Park half naked in a Blizzard who showed me more love!
 
 ---
 
 ## JUNIOR: 
-Well go be with them then! I’m already taking care of one impossible goddamn child, Lulu -- my father -- and I ain’t leaving him all alone even if it fuckin kills me, but I got no space to take care of two!
+Well go be with them then! I’m already taking care of one impossible goddamn child, Lulu -- my father -- 
+
+---
+
+and I ain’t leaving him all alone even if it fuckin kills me, but I got no space to take care of two!
 
 ---
 
@@ -2999,7 +3368,11 @@ Clearly.
 ---
 
 ## JUNIOR: 
-No, I mean -- you wanna go to Baltimore, let’s just go to Baltimore, okay?..... Let’s just go to Baltimore -- c’mon, I’m serious. Let’s go. But we gotta leave right now.
+No, I mean -- you wanna go to Baltimore, let’s just go to Baltimore, okay?..... 
+
+---
+
+Let’s just go to Baltimore -- c’mon, I’m serious. Let’s go. But we gotta leave right now.
 
 ---
 
@@ -3009,7 +3382,15 @@ I don’t wanna anymore.
 ---
 
 ## JUNIOR: 
-Okay, please?... Will you please go to Baltimore with me, baby?.... Please?... I’m begging you, baby, I’m so stupid, I’m high on reefer, I wouldn’t even be smoking if my Pops wasn’t so damn difficult, and let’s just -- would you please go to Baltimore with me -- please? It won’t be the same without you... Okay? Please?
+Okay, please?... Will you please go to Baltimore with me, baby?.... Please?... 
+
+---
+
+I’m begging you, baby, I’m so stupid, I’m high on reefer, I wouldn’t even be smoking if my Pops wasn’t so damn difficult, 
+
+---
+
+and let’s just -- would you please go to Baltimore with me -- please? It won’t be the same without you... Okay? Please?
 
 ---
 
@@ -3056,6 +3437,10 @@ You’re fuckin crazy, you know that, right?
 ## LULU: 
 Uh huh. Kiss me. Kiss me now.
 
+---
+
+
+
 (Music: Have You Seen Her)
 
 ---
@@ -3100,7 +3485,19 @@ It didn’t?
 ---
 
 ## OSWALDO: 
-He told me I was no good. He told me I was a arrogant, petty fuck. He told me I was a bad fuckin’ person, a scumbag. He told me I was a weak addict just circling the drain, then he told me get the fuck out and don’t ever come back -- can you believe that, Dad? He hit me in my face -- see? He told me I was a first class Piece of Shit of the Highest Order. I don’t think that was right -- do you, Dad?
+He told me I was no good. He told me I was a arrogant, petty fuck. He told me I was a bad fuckin’ person, a scumbag. 
+
+---
+
+He told me I was a weak addict just circling the drain, then he told me get the fuck out and don’t ever come back -- can you believe that, Dad? 
+
+---
+
+He hit me in my face -- see? He told me I was a first class Piece of Shit of the Highest Order. 
+
+---
+
+I don’t think that was right -- do you, Dad?
 
 ---
 
@@ -3110,7 +3507,11 @@ Nah, Oswaldo -- that ain’t right at all.
 ---
 
 ## OSWALDO: 
-Then he took my Black Rhino Claw Hammer with the ergonomics an shit that I gave him -- and I mean, I don’t even know -- I just fuckin ran -- you know? Anyway. As a result of this, I’m thinking about calling an escort service now, Dad -- whatchu think about that?
+Then he took my Black Rhino Claw Hammer with the ergonomics an shit that I gave him -- and I mean, I don’t even know -- I just fuckin ran -- you know? 
+
+---
+
+Anyway. As a result of this, I’m thinking about calling an escort service now, Dad -- whatchu think about that?
 
 ---
 
@@ -3120,7 +3521,11 @@ Then he took my Black Rhino Claw Hammer with the ergonomics an shit that I gave 
 ---
 
 ## OSWALDO: 
-They got these services now, you can get cocaine AND a woman, like both, you know? Like one stop shopping? I just need a few hundred bucks -- I could borrow that from you, right, Dad?
+They got these services now, you can get cocaine AND a woman, like both, you know? 
+
+---
+
+Like one stop shopping? I just need a few hundred bucks -- I could borrow that from you, right, Dad?
 
 ---
 
@@ -3161,8 +3566,13 @@ I’m just backing you off
 
 ## OSWALDO: 
 But you hit me, dad. 
+
+---
+
+
  
- POPS. Oswaldo 
+## POPS:
+Oswaldo 
 
 ---
 
@@ -3242,23 +3652,32 @@ And Dad, Junior says he’s gotta lay low at Little Dirty’s in East Flatbush u
 ---
 
 ## LULU: 
-Yeah, he’s a little upset by, like, things -- but anyway I was thinking, I’d go out there now to visit with him? But then be back home and watch Jeopardy on the DVR with you like at Midnight?
+Yeah, he’s a little upset by, like, things -- but anyway I was thinking, I’d go out there now to visit with him? 
+
+---
+
+But then be back home and watch Jeopardy on the DVR with you like at Midnight?
 
 ---
 
 ## POPS: 
-Just leave your keys with the elevator man -- I don’t wanna have to be getting up and down every time them Moving People be ringing the door bell -
+Just leave your keys with the elevator man -- 
 
-LUL
 ---
-U:
-## 
+
+I don’t wanna have to be getting up and down every time them Moving People be ringing the door bell -
+
+---
  Oh, and Junior also said we don’t have to be moving out right now, Dad -- that it takes a while to get evicted.
 
 ---
 
 ## POPS: 
-Well I ain’t trying to jostle you around once you’re nine months pregnant with my grandchild. We gonna be out sooner or later -- might as well be now... She having a baby -- you know-- a “bambino”?
+Well I ain’t trying to jostle you around once you’re nine months pregnant with my grandchild. 
+
+---
+
+We gonna be out sooner or later -- might as well be now... She having a baby -- you know-- a “bambino”?
 
 ---
 
@@ -3283,7 +3702,11 @@ Okay...
 ---
 
 ## POPS: 
-And Lulu -- take the damn dog with you, okay? In fact, leave his ass in Brooklyn if the little motherfucker gets distracted and you can give him the slip.
+And Lulu -- take the damn dog with you, okay? 
+
+---
+
+In fact, leave his ass in Brooklyn if the little motherfucker gets distracted and you can give him the slip.
 
 ---
 
@@ -3358,21 +3781,26 @@ Ladrao?! Ay! And you were alone?
 ---
 
 ## POPS: 
-I was. But the elevator man, Mr. Chico -- he a friend of
+I was. But the elevator man, Mr. Chico -- he a friend of mine, and he seen this Bandito come in, 
 
-mine, and he seen this Bandito come in, so Mr. Chico came check on me, and Mr. Chico -- well, he don’t play.
+---
+
+so Mr. Chico came check on me, and Mr. Chico -- well, he don’t play.
 
 ---
 
 ## CHURCH LADY: 
 He defeated “Bandito”?
 
-upstairs to
 
 ---
 
 ## POPS: 
-Bandito left here in handcuffs, with several of his front teeth scattered over there by that house plant. Bandito was lucky the Police came. He was, well, he was a drug addict -- you know how that goes.
+Bandito left here in handcuffs, with several of his front teeth scattered over there by that house plant. 
+
+---
+
+Bandito was lucky the Police came. He was, well, he was a drug addict -- you know how that goes.
 
 ---
 
@@ -3412,7 +3840,11 @@ You tempt me -- but no... So...... Ay! I’m eating all your cookies!
 ---
 
 ## POPS: 
-That’s what they they’re for. You should see when Glenda, the lady who usually comes from the church, when she arrive, she go through 2 rolls of Chip Ahoys and a half gallon of juice before she even sit down almost.
+That’s what they they’re for. You should see when Glenda, the lady who usually comes from the church, when she arrive, 
+
+---
+
+she go through 2 rolls of Chip Ahoys and a half gallon of juice before she even sit down almost.
 
 ---
 
@@ -3442,7 +3874,11 @@ You’re very close to Glenda?
 ---
 
 ## POPS: 
-You know, she began visiting my late wife when she got infirm, that was last year, and after Delores passed before Christmas, well, Glenda -- she just kept on coming.
+You know, she began visiting my late wife when she got infirm, that was last year, 
+
+---
+
+and after Delores passed before Christmas, well, Glenda -- she just kept on coming.
 
 ---
 
@@ -3507,7 +3943,15 @@ I like you.
 ---
 
 ## CHURCH LADY: 
-I like you too. Now tell me why you refuse to take communion from Glenda every week? Is because you angry at God? Because the holy truth, the sacred truth, the truth of the earth -is God loves you very much. I meet you for only 10 minutes, I already see you are much loved by God. I see it, I feel it.
+I like you too. Now tell me why you refuse to take communion from Glenda every week? 
+
+---
+
+Is because you angry at God? Because the holy truth, the sacred truth, the truth of the earth -is God loves you very much. 
+
+---
+
+I meet you for only 10 minutes, I already see you are much loved by God. I see it, I feel it.
 
 ---
 
@@ -3527,7 +3971,11 @@ I got an old everything.
 ---
 
 ## CHURCH LADY: 
-Yes. You make joke -- to push me back, no? Okay. We can talk about weather if you want to. Sunny today, cloudy tomorrow -but you do believe I feel things, don’t you?
+Yes. You make joke -- to push me back, no? Okay. We can talk about weather if you want to. 
+
+---
+
+Sunny today, cloudy tomorrow -but you do believe I feel things, don’t you?
 
 ---
 
@@ -3642,7 +4090,15 @@ No. I know shit too. But I can’t tell you what I know unless you want me to. S
 ---
 
 ## POPS: 
-Devils, yes. See, I want to be fair because I like you. Now, I don’t know exactly what you’re after here, and I don’t mind that you’re after it -- but, to be fair -- what you don’t know -- is that you’re messin’ with the exact wrong motherfucker when it comes to that Hoo Doo, Voo Doo, Boo Boo & Doo Doo bullshit you’re trying to front on me now.
+Devils, yes. See, I want to be fair because I like you. 
+
+---
+
+Now, I don’t know exactly what you’re after here, and I don’t mind that you’re after it -- but, to be fair -- what you don’t know -- 
+
+---
+
+is that you’re messin’ with the exact wrong motherfucker when it comes to that Hoo Doo, Voo Doo, Boo Boo & Doo Doo bullshit you’re trying to front on me now.
 
 ---
 
@@ -3657,7 +4113,15 @@ Hey, it’s your dime, sister -- you wanna do a little magic show, bring it on, 
 ---
 
 ## CHURCH LADY: 
-I know you was fond of the Bandito who did the burglary to you. I know he caused the wound above your eye. I know you love your son but he causes you shame and it shames you three times because you feel your shame, and his, plus more shame for feeling shame, no? And I know you’re angry -- so angry -- that your wife passed --
+I know you was fond of the Bandito who did the burglary to you. I know he caused the wound above your eye. 
+
+---
+
+I know you love your son but he causes you shame and it shames you three times because you feel your shame, and his, plus more shame for feeling shame, no? 
+
+---
+
+And I know you’re angry -- so angry -- that your wife passed --
 
 ---
 
@@ -3687,7 +4151,11 @@ Now hold up now -
 ---
 
 ## CHURCH LADY: 
-And you were relieved when Delores passed, weren’t you? Because you still loved her in your way, and she in hers, but you was no longer in love with each other. And you blame yourself for that -and for the prostitutes --
+And you were relieved when Delores passed, weren’t you? Because you still loved her in your way, and she in hers, but you was no longer in love with each other. 
+
+---
+
+And you blame yourself for that -and for the prostitutes --
 
 ---
 
@@ -3697,7 +4165,11 @@ Prostitutes?!
 ---
 
 ## CHURCH LADY: 
-Prostitutes, yes! Were you not with prostitutes? Many prostitutes? I don’t judge. In a bad time, I was prostitute in my country. Okay? But God is big -- and “Always we are free”.
+Prostitutes, yes! Were you not with prostitutes? Many prostitutes? I don’t judge. In a bad time, I was prostitute in my country. 
+
+---
+
+Okay? But God is big -- and “Always we are free”.
 
 ---
 
@@ -3707,12 +4179,28 @@ Who the hell sent you here?
 ---
 
 ## CHURCH LADY: 
-Maybe I was called here. By who, I doan know. But I’m here now. And I know there are people out there who want to hurt you. And you need protection. And I know, Mr. Washington -- that you want to take communion with me -- and that it will restore you fully. “Always we are free” -- Mr. Washington. Always. Take Communion with me, Mr. Washington.
+Maybe I was called here. By who, I doan know. But I’m here now. 
+
+---
+
+And I know there are people out there who want to hurt you. And you need protection. 
+
+---
+
+And I know, Mr. Washington -- that you want to take communion with me -- and that it will restore you fully. 
+
+---
+
+“Always we are free” -- Mr. Washington. Always. Take Communion with me, Mr. Washington.
 
 ---
 
 ## POPS: 
-Look here: I ain’t for no Communion, I ain’t for that old slave religion -- and I ain’t for none of this; “Always we are free”, and this; “Somehow you know every damn thing” business neither.
+Look here: I ain’t for no Communion, I ain’t for that old slave religion -- and I ain’t for none of this; 
+
+---
+
+“Always we are free”, and this; “Somehow you know every damn thing” business neither.
 
 ---
 
@@ -3727,17 +4215,29 @@ I am.
 ---
 
 ## CHURCH LADY: 
-And I am serious woman. These beads, this cross, they are serious. They mean something. The communion wafer, it means something too.
+And I am serious woman. These beads, this cross, they are serious. They mean something. 
+
+---
+
+The communion wafer, it means something too.
 
 ---
 
 ## POPS: 
-To you it does, and I respect that. You here to visit the elderly, right? Well, visit with me a minute -- just knock off the Jungle Boogie. Now, where you live at?
+To you it does, and I respect that. You here to visit the elderly, right? 
+
+---
+
+Well, visit with me a minute -- just knock off the Jungle Boogie. Now, where you live at?
 
 ---
 
 ## CHURCH LADY: 
-For to make “chit chat”? Okay. Two months in New York, I clean for the Church. The other ten, in a favela in Sao Paolo. I volunteer at an Orphanage there, it borders the Leper Colony.
+For to make “chit chat”? Okay. Two months in New York, I clean for the Church. 
+
+---
+
+The other ten, in a favela in Sao Paolo. I volunteer at an Orphanage there, it borders the Leper Colony.
 
 ---
 
@@ -3787,7 +4287,11 @@ Okay. So now let me ask you, Miss Brazil: Can’t y’all appreciate even one ti
 ---
 
 ## CHURCH LADY: 
-God still loves you, Mr. Washington. Don’t be too proud to be free. “Always we are free”. God loves you. And your life can be, believe me, a beautiful life indeed if you can only learn to love God back.
+God still loves you, Mr. Washington. Don’t be too proud to be free. “Always we are free”. 
+
+---
+
+God loves you. And your life can be, believe me, a beautiful life indeed if you can only learn to love God back.
 
 ---
 
@@ -3956,7 +4460,11 @@ Money. Much money Oh!
 ---
 
 ## POPS: 
-Oh Hell yeah! Money’s no object -- you can have it all -- oh -- I just, am I breathing right?.... Because this is -- Oh my -
+Oh Hell yeah! Money’s no object -- you can have it all -- oh -- I just, am I breathing right?.... 
+
+---
+
+Because this is -- Oh my -
 
 ---
 
@@ -4081,7 +4589,11 @@ No.
 ---
 
 ## POPS: 
-Fuckin dog -- he’s what you call a co-dependent. Can’t shake the motherfucker. He like a bill collector -- always up your ass.... Now: Lulu told you my last wishes?
+Fuckin dog -- he’s what you call a co-dependent. Can’t shake the motherfucker. 
+
+---
+
+He like a bill collector -- always up your ass.... Now: Lulu told you my last wishes?
 
 ---
 
@@ -4091,7 +4603,11 @@ Let’s just focus on you getting better, Pop.
 ---
 
 ## POPS: 
-Listen to me: No funeral, no wake, no burial, no refreshments, no nothing! Your Uncle Floyd was an undertaker - - they’re all fuckin licensed thieves. Don’t let them talk you into nothing but ashes and a tin cup.
+Listen to me: No funeral, no wake, no burial, no refreshments, no nothing! 
+
+---
+
+Your Uncle Floyd was an undertaker - - they’re all fuckin licensed thieves. Don’t let them talk you into nothing but ashes and a tin cup.
 
 ---
 
@@ -4131,7 +4647,11 @@ Pop
 ---
 
 ## POPS:
- On my bureau is me and your mother’s old ATM card from Chase Manhattan. There should be bout 385 dollars in there, withdraw all of it first thing in the morning, ‘cuz when I go, they’ll try to hold on to that too.
+ On my bureau is me and your mother’s old ATM card from Chase Manhattan. 
+
+---
+
+There should be bout 385 dollars in there, withdraw all of it first thing in the morning, ‘cuz when I go, they’ll try to hold on to that too.
 
 ---
 
@@ -4236,7 +4756,11 @@ I don’t wanna hear it!
 ---
 
 ## JUNIOR: 
-Well maybe I need to say it! Maybe your son needs to say it! Maybe your wife needed to say it -- or to fuckin hear it -- even once! Just once! You ever fuckin think of that?!
+Well maybe I need to say it! Maybe your son needs to say it! Maybe your wife needed to say it -- or to fuckin hear it -- even once! 
+
+---
+
+Just once! You ever fuckin think of that?!
 
 ---
 
@@ -4246,7 +4770,11 @@ Okay. You been heard. But now you gotta stop yelling and take a look around, see
 ---
 
 ## JUNIOR: 
-Why? What’s the difference? I could be the one in the bed, and it’d be the exact same cold fuckin shit with you. Ask Mom. Yeah. She made excuses for you all her life. But she lived it. She fuckin’, she was, she...
+Why? What’s the difference? I could be the one in the bed, and it’d be the exact same cold fuckin shit with you. 
+
+---
+
+Ask Mom. Yeah. She made excuses for you all her life. But she lived it. She fuckin’, she was, she...
 
 ... Oh man. Aw man. I’m sorry, Pop.
 
@@ -4283,7 +4811,11 @@ Okay.
 ---
 
 ## POPS: 
-Yeah. People look down their nose at tap water. Makes me wanna slap a motherfucker. Tap water is good water. Don’t ever forget that, son.
+Yeah. People look down their nose at tap water. Makes me wanna slap a motherfucker. Tap water is good water. 
+
+---
+
+Don’t ever forget that, son.
 
 ---
 
@@ -4405,9 +4937,15 @@ I do, but I just wanna let ya know
 ---
 
 ## POPS: 
-Oh boy............. On our wedding night, she was nervous,
+Oh boy............. On our wedding night, she was nervous, right there in the bed there she was in her negligee chatting away about this and that and every little damn thing crossed her mind 
 
-right there in the bed there she was in her negligee chatting away about this and that and every little damn thing crossed her mind till finally the sun started coming up through the window and I told her; “Delores, you sure do got a way with words -- but there are other forms of communication.”
+---
+
+till finally the sun started coming up through the window and I told her; “Delores, you sure do got a way with words --
+
+---
+
+ but there are other forms of communication.”
 
 ---
 
@@ -4497,7 +5035,15 @@ And you did that, Pop. And what I said before
 ---
 
 ## POPS: 
-Mo Lubenthal came to see me after I’d been shot, I told him; “How much can we get, Mo”, he told me; “I was drunk and where I wasn’t supposed to be and they could toss me a few pennies or just fire me if I pushed it too far -- unless I maybe told them the boy called me nigger” -- so I went with that.
+Mo Lubenthal came to see me after I’d been shot, I told him; “How much can we get, Mo”, he told me; 
+
+---
+
+“I was drunk and where I wasn’t supposed to be and they could toss me a few pennies or just fire me if I pushed it too far -- 
+
+---
+
+unless I maybe told them the boy called me nigger” -- so I went with that.
 
 ---
 
@@ -4507,7 +5053,23 @@ So what? That don’t change nothing.
 ---
 
 ## POPS: 
-The point is: the day I got shot? I think I was relieved. Because I could stop pretending to be some guy I wasn’t never meant to be. Trying to live in reaction to my father turned me angry, drunk and half outta my mind. Don’t do the same like me, son. It ain’t necessary. Because in reality, I’m more like my daddy than I thought. And I only learned it the night of my little heart attack last Sunday. And if I survive this, I just might take to the road and travel a little myself -- do a little wandering.
+The point is: the day I got shot? I think I was relieved. Because I could stop pretending to be some guy I wasn’t never meant to be. 
+
+---
+
+Trying to live in reaction to my father turned me angry, drunk and half outta my mind. 
+
+---
+
+Don’t do the same like me, son. It ain’t necessary. Because in reality, I’m more like my daddy than I thought. 
+
+---
+
+And I only learned it the night of my little heart attack last Sunday. 
+
+---
+
+And if I survive this, I just might take to the road and travel a little myself -- do a little wandering.
 
 ---
 
@@ -4547,7 +5109,11 @@ Meaning what?
 ---
 
 ## POPS: 
-Meaning, move on -- but she deserves a soft landing spot for herself before she move on from here. Now: you go on and keep an eye on them Movers, make sure they don’t steal nothing.
+Meaning, move on -- but she deserves a soft landing spot for herself before she move on from here. 
+
+---
+
+Now: you go on and keep an eye on them Movers, make sure they don’t steal nothing.
 
 ---
 
@@ -4607,7 +5173,11 @@ Okay, Pop.
 ---
 
 ## POPS: 
-Good. Now -- it’s okay with you I get a little fuckin’ post heart attack rest? And hey -- take these goddamn awful smelling flowers outta here -- who wasted their money on them anyway?
+Good. Now -- it’s okay with you I get a little fuckin’ post heart attack rest? 
+
+---
+
+And hey -- take these goddamn awful smelling flowers outta here -- who wasted their money on them anyway?
 
 ---
 
@@ -4652,7 +5222,11 @@ I have a right to see Walter.
 ---
 
 ## JUNIOR: 
-Look: I know women who would break a bitch like you in two for a dime bag and a Happy Meal, okay? Now: you ain’t gettin’ my father’s money, neither is your Church, I’ll hurt you if I have to, so stay the fuck away.
+Look: I know women who would break a bitch like you in two for a dime bag and a Happy Meal, okay? 
+
+---
+
+Now: you ain’t gettin’ my father’s money, neither is your Church, I’ll hurt you if I have to, so stay the fuck away.
 
 ---
 
@@ -4752,7 +5326,11 @@ Don’t like the kind with the stripes —- you oughta know that.
 ---
 
 ## LIEUTENANT CARO: 
-I gotta say, Walter, full medical care in your own apartment courtesy of the NYPD? I mean —- Donald Trump —- maybe —MAYBE Trump gets full medical care from the convenience of his home —-
+I gotta say, Walter, full medical care in your own apartment courtesy of the NYPD? 
+
+---
+
+I mean —- Donald Trump —- maybe —MAYBE Trump gets full medical care from the convenience of his home —-
 
 ---
 
@@ -4782,7 +5360,15 @@ It’s useless, Dave. Walter seems determined to go down in flames —-
 ---
 
 ## POPS: 
-I hope I die tonight! I hope it come on New York One bright and early tomorrow morning: how the city harassed, threatened, strong-armed and put out on the street a feeble old Patriotic, tax-paying, African American ex-cop war hero senior citizen —- and how they didn’t stop the barrage till he dropped dead as a doornail.
+I hope I die tonight! 
+
+---
+
+I hope it come on New York One bright and early tomorrow morning: how the city harassed, threatened, strong-armed and put out on the street a feeble old Patriotic, tax-paying, African American ex-cop war hero senior citizen —- 
+
+---
+
+and how they didn’t stop the barrage till he dropped dead as a doornail.
 
 ---
 
@@ -4797,7 +5383,11 @@ Dave’s right. I wouldn’t lie to you.
 ---
 
 ## LIEUTENANT CARO: 
-Eight years ago, you overplayed your hand. That’s the reason you’re in the spot you’re in today. However, I spoke to your lawyer, Mr. Liebenthal —-
+Eight years ago, you overplayed your hand. That’s the reason you’re in the spot you’re in today. 
+
+---
+
+However, I spoke to your lawyer, Mr. Liebenthal —-
 
 ---
 
@@ -4827,7 +5417,27 @@ So what I get?
 ---
 
 ## LIEUTENANT CARO: 
-You get your apartment back plus 18 months free rent. The city agrees to expunge your son’s entire criminal record —now that’s subject to him avoiding arrest for the next 15 years —but to employers and creditors, it’ll be like he never even had a parking ticket. And obviously, all the dust that’s been kicked up the last couple of weeks —- that will all disappear entirely. And the city will cover your remaining legal fees, but Mr. Liebental tells us he hasn’t cashed a check of yours in over a year anyway, and he’s not interested in payment past, present or future, only that your well being be secured legally and in writing. Finally —- as a conciliatory gesture, you’ll be invited annually and be made a member of the advisory boards of the Mayor’s annual galas for both “Jack and Jill of America, Incorporated” and the AAMA.
+You get your apartment back plus 18 months free rent. 
+
+---
+
+The city agrees to expunge your son’s entire criminal record —now that’s subject to him avoiding arrest for the next 15 years —but to employers and creditors, it’ll be like he never even had a parking ticket. 
+
+---
+
+And obviously, all the dust that’s been kicked up the last couple of weeks —- that will all disappear entirely. 
+
+---
+
+And the city will cover your remaining legal fees, but Mr. Liebental tells us he hasn’t cashed a check of yours in over a year anyway, 
+
+---
+
+and he’s not interested in payment past, present or future, only that your well being be secured legally and in writing. 
+
+---
+
+Finally —- as a conciliatory gesture, you’ll be invited annually and be made a member of the advisory boards of the Mayor’s annual galas for both “Jack and Jill of America, Incorporated” and the AAMA.
 
 ---
 
@@ -4837,7 +5447,11 @@ And that’s what?
 ---
 
 ## LIEUTENANT CARO: 
-The African American Museum Association I believe. Yes. And both those organizations, when you’re on the Board, you get on the list for free tickets to a variety of cultural and sporting events.
+The African American Museum Association I believe. Yes. 
+
+---
+
+And both those organizations, when you’re on the Board, you get on the list for free tickets to a variety of cultural and sporting events.
 
 ---
 
@@ -4852,7 +5466,11 @@ I wish there was, but no. If you hadn’t turned down that final settlement offe
 ---
 
 ## POPS: 
-Look, I’ll admit I want this to be over. But: no money, no signature on the non-disclosure. I’m old, I’m gonna die soon anyway, so any discomfort I can cause you people, unless there’s some money involved…
+Look, I’ll admit I want this to be over. But: no money, no signature on the non-disclosure. 
+
+---
+
+I’m old, I’m gonna die soon anyway, so any discomfort I can cause you people, unless there’s some money involved…
 
 ---
 
@@ -4877,7 +5495,11 @@ Fifteen grand —- that comes to what? Twenty five hundred per bullet inside me?
 ---
 
 ## DETECTIVE O’CONNOR: 
-Please take it, Walter —- you’ll have your pension, social security —- you can have your life back —- and you can help Junior with his. I know you want that.
+Please take it, Walter —- you’ll have your pension, social security —- you can have your life back —- 
+
+---
+
+and you can help Junior with his. I know you want that.
 
 ---
 
@@ -4927,7 +5549,11 @@ What’s that?
 ---
 
 ## LIEUTENANT CARO: 
-It’s the point in a negotiation, Walter, where the powers that be revise the cost benefit, reassess the risk, and end up saying: “You know what? Paying this guy ain’t worth it, let’s just crush him —- Fuck It.”
+It’s the point in a negotiation, Walter, where the powers that be revise the cost benefit, reassess the risk, 
+
+---
+
+and end up saying: “You know what? Paying this guy ain’t worth it, let’s just crush him —- Fuck It.”
 
 ---
 
@@ -4937,7 +5563,15 @@ Don’t do this to yourself. And don’t do this to Junior.
 ---
 
 ## LIEUTENANT CARO: 
-Don’t do this to Audrey —- she loves you. Or to Junior. You were wronged, Walter. But destroying yourself and your loved ones won’t right that wrong. It’s been eight years. Let it go, man. In my heart, Walter, I know you want to put this burden down. It’s okay. Let it go.
+Don’t do this to Audrey —- she loves you. Or to Junior. You were wronged, Walter. 
+
+---
+
+But destroying yourself and your loved ones won’t right that wrong. It’s been eight years. Let it go, man. 
+
+---
+
+In my heart, Walter, I know you want to put this burden down. It’s okay. Let it go.
 
 ---
 
@@ -4957,7 +5591,15 @@ What should I do, Audrey?
 ---
 
 ## DETECTIVE O’CONNOR: 
-I just want you to walk me down that aisle, Walter. I just want to put all of this behind us —- I don’t even know how things went so far afield. Junior deserves a second chance. And you deserve to keep your apartment and everything you’ve worked so hard for. You’re like my father. And Dave has grown so fond of you —he so respects your guts and your principles and he really just wants to take you fishing out on the Island —-
+I just want you to walk me down that aisle, Walter. I just want to put all of this behind us —- I don’t even know how things went so far afield. 
+
+---
+
+Junior deserves a second chance. And you deserve to keep your apartment and everything you’ve worked so hard for. You’re like my father. 
+
+---
+
+And Dave has grown so fond of you —he so respects your guts and your principles and he really just wants to take you fishing out on the Island —-
 
 ---
 
@@ -5017,7 +5659,11 @@ Thank you!
 ---
 
 ## LIEUTENANT CARO: 
-Oh my God —- you’re the man, Walter —- you’re a goddamn rock star is what you are! You’re friggin’ Jimi Hendrix at Monterrey!
+Oh my God —- you’re the man, Walter —- you’re a goddamn rock star is what you are! 
+
+---
+
+You’re friggin’ Jimi Hendrix at Monterrey!
 
 ---
 
@@ -5112,7 +5758,11 @@ And I’ll always cherish it —- along with the ring.
 ---
 
 ## LIEUTENANT CARO: 
-“Along with the ring”?! Along with what ring, Walter —- cuz you’re not ever getting her fuckin ring —- so straighten up and fly fuckin right over here before you get hurt!
+“Along with the ring”?! Along with what ring, Walter —- cuz you’re not ever getting her fuckin ring —- 
+
+---
+
+so straighten up and fly fuckin right over here before you get hurt!
 
 ---
 
@@ -5232,7 +5882,15 @@ Look Dave: The Ring. The Check. The Necktie —- or go fuck yourself.
 ---
 
 ## LIEUTENANT CARO: 
-I’ll arrest Junior right now, Walter —- toss his ass in a cell with gangbangers and make sure the system loses him for two weeks minimum —- and that’s just the tip of the iceberg of what I can and will do for him —- right this very minute —- if you don’t come quickly to your senses over here. Now is that what you want?
+I’ll arrest Junior right now, Walter —- toss his ass in a cell with gangbangers and make sure the system loses him for two weeks minimum —- 
+
+---
+
+and that’s just the tip of the iceberg of what I can and will do for him —- right this very minute —- 
+
+---
+
+if you don’t come quickly to your senses over here. Now is that what you want?
 
 ---
 
@@ -5277,7 +5935,35 @@ Dave!
 ---
 
 ## LIEUTENANT CARO: 
-And maybe you don’t think things can’t get worse —but believe me, they fuckin can —- and they will! You don’t like me? Hey fuck you, I don’t like you either —- but who the fuck am I? I’m just a cog in the wheel, Walter —- and so are you! And the wheel’s gonna keep turning whether it’s gotta grind out your guts or not —either way, the wheel don’t feel a fuckin thing! The wheel don’t give a fuck, Walter. And you know that! But somewhere inside that thick head of yours —- I know you give a fuck! I know you do! And I know you’re reasonable! You think by saying “Fuck You” that you’re showing the world that you got balls —- but Walter, unless I’m mistaken, —no disrespect —- but that fuckin’ rookie cop shot off your balls 8 years ago —- so what’s the fuckin’ point, here?!
+And maybe you don’t think things can’t get worse —but believe me, they fuckin can —- and they will! 
+
+---
+
+You don’t like me? Hey fuck you, I don’t like you either —- but who the fuck am I? 
+
+---
+
+I’m just a cog in the wheel, Walter —- and so are you! 
+
+---
+
+And the wheel’s gonna keep turning whether it’s gotta grind out your guts or not —either way, the wheel don’t feel a fuckin thing! 
+
+---
+
+The wheel don’t give a fuck, Walter. And you know that! But somewhere inside that thick head of yours —- 
+
+---
+
+I know you give a fuck! I know you do! And I know you’re reasonable! 
+
+---
+
+You think by saying “Fuck You” that you’re showing the world that you got balls —- but Walter, unless I’m mistaken, 
+
+---
+
+—no disrespect —- but that fuckin’ rookie cop shot off your balls 8 years ago —- so what’s the fuckin’ point, here?!
 
 ---
 
@@ -5287,7 +5973,15 @@ Walter, please —
 ---
 
 ## POPS: 
-Audrey, Dave: I’m going to the bathroom now to make a deposit —- while I’m gone, y’all can sort it out if you want my signature or if you wanna explain to your bosses, Dave, how you fucked this shit all up, okay? You can have a victory —- or you can have a ring. Can’t have both. Lulu, I need an escort to the office!!!...
+Audrey, Dave: I’m going to the bathroom now to make a deposit —- while I’m gone, 
+
+---
+
+y’all can sort it out if you want my signature or if you wanna explain to your bosses, Dave, how you fucked this shit all up, okay? 
+
+---
+
+You can have a victory —- or you can have a ring. Can’t have both. Lulu, I need an escort to the office!!!...
 
 ---
 
@@ -5317,12 +6011,20 @@ I’m here, Dad.
 ---
 
 ## LIEUTENANT CARO: 
-This is nonsense, Walter —- It’s not our fault you got shot, it’s not our fault you got stupid and greedy, it’s not our fault you’re a lying, shiftless drunk —- and I’ll bet my life that kid never called you a fuckin nigger in the first place!
+This is nonsense, Walter —- It’s not our fault you got shot, it’s not our fault you got stupid and greedy, 
+
+---
+
+it’s not our fault you’re a lying, shiftless drunk —- and I’ll bet my life that kid never called you a fuckin nigger in the first place!
 
 ---
 
 ## POPS: 
-And Dave —- hey —- you may very well be right. So now: The Ring. The Cashier’s Check. The Necktie. Or —- go fuck yourself. Do you want this over or not?
+And Dave —- hey —- you may very well be right. 
+
+---
+
+So now: The Ring. The Cashier’s Check. The Necktie. Or —- go fuck yourself. Do you want this over or not?
 
 ---
 
@@ -5332,7 +6034,11 @@ Walter, I’m begging you to reconsider —
 ---
 
 ## POPS: 
-Looky here —- I ain’t quick in the bathroom, so you’ll have time to mull it over… Hey: toughen up now, Audrey, I taught you better than that.
+Looky here —- I ain’t quick in the bathroom, so you’ll have time to mull it over… 
+
+---
+
+Hey: toughen up now, Audrey, I taught you better than that.
 
 ---
 
@@ -5342,7 +6048,15 @@ But this isn’t right. It isn’t right, Walter.
 ---
 
 ## POPS: 
-What exactly isn’t right, Audrey? And what a world it would be if “what was right” was enough. Besides —- nothing’s been decided here.
+What exactly isn’t right, Audrey? And what a world it would be if “what was right” was enough. 
+
+---
+
+
+
+---
+
+Besides —- nothing’s been decided here.
 
 ---
 
@@ -5672,7 +6386,11 @@ Why not?
 ---
 
 ## CHURCH LADY: 
-Glenda, the Church Lady, she told me about you. I clean the Church, and she was always there. Lonely. So she talk to me. She told me everything about you.
+Glenda, the Church Lady, she told me about you. I clean the Church, and she was always there. Lonely. 
+
+---
+
+So she talk to me. She told me everything about you.
 
 ---
 
@@ -5682,7 +6400,15 @@ So?
 ---
 
 ## CHURCH LADY: 
-So I tell her the Priest want her to visit someone else. I came in her place. Because I know all about you. From Glenda. I came to rob you. To tell you stories and make you give me what you have. That’s what I do. That’s who I am.
+So I tell her the Priest want her to visit someone else. I came in her place. Because I know all about you. 
+
+---
+
+From Glenda. I came to rob you. To tell you stories and make you give me what you have. 
+
+---
+
+That’s what I do. That’s who I am.
 
 ---
 
