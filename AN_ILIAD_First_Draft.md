@@ -364,7 +364,11 @@ Or there’s been a war and you’re no longer Greek. You’re now Diocletian or
 
 ---
 
-They came and took over, while you were hanging out at Troy, and you have no title to your land anymore. Um, your father died while you were gone.
+They came and took over, while you were hanging out at Troy, and you have no title to your land anymore. 
+
+---
+
+Um, your father died while you were gone.
 
 ---
 
@@ -381,7 +385,15 @@ to hold out so long, then sail home empty handed.
 
 ---
 
-How do you know when you’ve won? You know, someone said, uh how do you ask uh a person to be the last man to die for a, for a- a losing cause and I, I’m paraphrasing but the idea being, you’re in the supermarket line, and you’ve been there for 20 minutes and the other line’s moving faster.
+How do you know when you’ve won? You know, someone said, uh how do you ask uh a person to be the last man to die for a, for a- 
+
+---
+
+a losing cause and I, I’m paraphrasing but the idea being, you’re in the supermarket line, 
+
+---
+
+and you’ve been there for 20 minutes and the other line’s moving faster.
 
 ---
 
@@ -402,7 +414,11 @@ Up on Mount Olympus. And some of them cheered on the Greeks— “Achilles!” a
 
 ---
 
-And really, back then, this was their only entertainment, they were addicted to it, they couldn’t allow it to end, and so they’d swoop down and pinch and prod and whisper, just to make sure the battles kept raging. Ah, the old gods.
+And really, back then, this was their only entertainment, they were addicted to it, they couldn’t allow it to end, 
+
+---
+
+and so they’d swoop down and pinch and prod and whisper, just to make sure the battles kept raging. Ah, the old gods.
 
 ---
 
@@ -472,12 +488,20 @@ Only now it’s night and men are suddenly getting very sick. One minute they’
 
 ---
 
-Down the beach, there's a massive fire burning, and the fire is not wood, it's corpses, they’re burning the corpses of men and mules and dogs, they've all been infected by plague. What is going on??
+Down the beach, there's a massive fire burning, and the fire is not wood, it's corpses, 
+
+---
+
+they’re burning the corpses of men and mules and dogs, they've all been infected by plague. What is going on??
 
 ---
 
 
-I’ll tell you: we’ve angered the gods. Agamemnon, our leader, our commander has taken as the spoils of war this girl –gorgeous, 15 yrs old – and she happens to be the daughter of a priest, a priest of Apollo.
+I’ll tell you: we’ve angered the gods. 
+
+---
+
+Agamemnon, our leader, our commander has taken as the spoils of war this girl –gorgeous, 15 yrs old – and she happens to be the daughter of a priest, a priest of Apollo.
 
 ---
 
@@ -503,7 +527,11 @@ Apollo takes these arrows, and he covers the tips in sickness, in plague. Nasty 
 
 ---
 
-The arrows clanged at his back as the god quaked with rage, Over against the ships he dropped to a knee, let fly a shaft And a terrifying clash rang out from the great silver bow –
+The arrows clanged at his back as the god quaked with rage, 
+
+---
+
+Over against the ships he dropped to a knee, let fly a shaft And a terrifying clash rang out from the great silver bow –
 
 ---
 
@@ -569,11 +597,19 @@ But fetch me another prize - and straight off too - else I alone of the Argives 
 
 ---
 
-And the men all kind of murmur cause there are no prizes left, they've all been distributed – someone will have to give up their prize – and suddenly a huge figure rises in the back – AH! This is our man – Achilles.
+And the men all kind of murmur cause there are no prizes left, they've all been distributed – someone will have to give up their prize – and suddenly a huge figure rises in the back 
+
+---
+
+– AH! This is our man – Achilles.
 
 ---
 
 In the middle of all this – misery – there is this one genious. 
+
+---
+
+
 Achilles… is the greatest warrior that ever lived - bigger than Heracles, bigger than Sinbad, bigger than… well, who’s the greatest warrior living now…?
 
 ---
@@ -595,7 +631,15 @@ His horse —  can't remember the horse's name — talked to him. I remember wuh
 
 ---
 
-His horse said – no, no, one day, Achilles was, he was, he was uh, he was really… he was over-eating, and his horse said (neighing), “Whoa-oa-oa-oa!” (laughs)… We all laughed. 
+His horse said – no, no, one day, Achilles was, he was, he was uh, he was really… he was over-eating, and his horse said 
+
+---
+
+(neighing), “Whoa-oa-oa-oa!” (laughs)… We all laughed. 
+
+---
+
+
 Oh yes… and Achilles knows he’s going to die - here, in Troy.
 
 ---
@@ -616,6 +660,10 @@ This is Achilles. Here he is.
 
 Just how, Agamemnon,	
 Great field marshal… most grasping man alive,
+
+---
+
+
 How can the generous Argives give you prizes now? I know of no troves of treasure, piled, lying idle, anywhere.
 
 ---
@@ -655,12 +703,15 @@ Now Briseius is someone that Achilles won, fair and square. Not only has he won 
 
 ---
 
-Briseius is his companion
-- she cooks for him, she sleeps with him, she's, she's become dear to him
+Briseius is his companion- she cooks for him, she sleeps with him, she's, she's become dear to him
 ---
 
 ## ACHILLES:
 Don’t give me commands! 
+
+---
+
+
 The Trojans never did me damage, not in the least.
 
 ---
@@ -675,7 +726,11 @@ The men all gasp!
 ---
 
 ## ACHILLES:
-Never once did you arm with the troops and go to battle or risk an ambush– You lack the courage, you can see the death coming. Safer by far, you find, to foray all through camp,Commandeering the prize of any man who speaks against you.
+Never once did you arm with the troops and go to battle or risk an ambush– 
+
+---
+
+You lack the courage, you can see the death coming. Safer by far, you find, to foray all through camp,Commandeering the prize of any man who speaks against you.
 
 ---
 
@@ -696,7 +751,15 @@ I will never beg you to stay, not on my account.
 
 But let this be my warning on your way:
 I will be there in person at your tents
-To take Briseis in all her beauty, your own prize – So you can learn just how much greater I am than you! And the next man up may shrink from matching words with me!
+
+---
+
+
+To take Briseis in all her beauty, your own prize – So you can learn just how much greater I am than you! 
+
+---
+
+And the next man up may shrink from matching words with me!
 
 ---
 
@@ -754,7 +817,11 @@ Achilles has no choice. He takes the scepter and he BSHHHH to the ground, smashe
 
 ---
 
-And all the Greek army is standing there going (awed look), and Agamemnon’s kinda going (confused grumble), ––“Who the fuck cares about him?” And he leaves. This is the rage of Peleus’ son, Achilles. 
+And all the Greek army is standing there going (awed look), and Agamemnon’s kinda going (confused grumble), 
+
+---
+
+––“Who the fuck cares about him?” And he leaves. This is the rage of Peleus’ son, Achilles. 
 
 ---
 
@@ -786,15 +853,27 @@ I wish I could show you a photograph of Troy. But here is what it was like:
 
 ---
 
-Walk through the Scaean Gates and the first thing you’ll see is a great plaza, a great plaza with a fountain, there’s water everywhere: little waterfalls, little pools, every house has its own pool, and you hear the sound of water flowing all the time, and the water is a form of music, and that music mingles with real music: flutes, lyres, singing.
+Walk through the Scaean Gates and the first thing you’ll see is a great plaza, a great plaza with a fountain, there’s water everywhere: little waterfalls, little pools, every house has its own pool,
 
 ---
 
-And then as you walk through, you begin to see how every house is both private and public so every house has a private area and yet it spills into a common area, so as you’re walking through the city of Troy you see everybody, and everybody sees you.
+and you hear the sound of water flowing all the time, and the water is a form of music, and that music mingles with real music: flutes, lyres, singing.
 
 ---
 
- They’ll often have events, they like to have their concerts, they have public meetings, they have performances of all kinds and there’s a great sense of civic duty, so they get together to discuss things like: what do we do with the fig tree that’s dying?
+And then as you walk through, you begin to see how every house is both private and public so every house has a private area and yet it spills into a common area, 
+
+---
+
+so as you’re walking through the city of Troy you see everybody, and everybody sees you.
+
+---
+
+They’ll often have events, they like to have their concerts, they have public meetings, they have performances of all kinds and there’s a great sense of civic duty, 
+
+---
+
+so they get together to discuss things like: what do we do with the fig tree that’s dying?
 
 ---
 
@@ -802,11 +881,19 @@ How do we save the fig tree? And they have a committee to talk about the fig tre
 
 ---
 
-And of course, respect for the family, the royal family, Priam and his sons. They’ve actually brought Troy peace, they’ve actuallyfought off invasions, they’ve actually given them a life that’s stable.
+And of course, respect for the family, the royal family, Priam and his sons. 
+
+---
+
+They’ve actually brought Troy peace, they’ve actuallyfought off invasions, they’ve actually given them a life that’s stable.
 
 ---
 
 So what you feel when you walk into Troy is a great sense of calm and a great sense of serenity… this is before the war, of course. 
+
+---
+
+
 Now the man named Hector.
 
 ---
@@ -835,15 +922,27 @@ Hector is a brave man but deep down, he’d rather be taming horses.
 
 ---
 
-But Hector is the eldest – first born and he’s got DOZENS, and I mean DOZENS of brothers and sisters, more than 50, by various mothers, I can’t remember all their names now- my God- I would have to look that up, it’s all written down somewhere… 
+But Hector is the eldest – first born and he’s got DOZENS, and I mean DOZENS of brothers and sisters, more than 50, by various mothers, 
 
 ---
 
-But one brother especially – Paris – every time Hector sees Paris he can’t seem to stop yelling at him. And for good reason, of course, because Paris was the kind of - Paris actually figured out a way to make the case that it was better for him to stay inside, with the women, then go out and fight.
+I can’t remember all their names now- my God- I would have to look that up, it’s all written down somewhere… 
 
 ---
 
-And even when he did try to fight once, Aphrodite swooped in and picked him up by the scruff of his neck, wrapped him in a blanket made of fog, and tossed him back in Helen’s bed. And he stayed there.
+But one brother especially – Paris – every time Hector sees Paris he can’t seem to stop yelling at him. 
+
+---
+
+And for good reason, of course, because Paris was the kind of - Paris actually figured out a way to make the case that it was better for him to stay inside, with the women, then go out and fight.
+
+---
+
+And even when he did try to fight once, Aphrodite swooped in and picked him up by the scruff of his neck, 
+
+---
+
+wrapped him in a blanket made of fog, and tossed him back in Helen’s bed. And he stayed there.
 
 ---
 
@@ -851,7 +950,15 @@ That’s who Paris was. It, it was something like you know, ––“Ohhh, but i
 
 ---
 
-Better for me to stay here and, and, you know, live out my days knowing that I am a coward and…” You know you couldn’t argue with someone like that because he actually made the case for you and you were like… uhh… you are a coward, you know what I mean? But he had already called himself a coward- where are you going to go from there?
+Better for me to stay here and, and, you know, live out my days knowing that I am a coward and…” 
+
+---
+
+You know you couldn’t argue with someone like that because he actually made the case for you and you were like… uhh… you are a coward, you know what I mean? 
+
+---
+
+But he had already called himself a coward- where are you going to go from there?
 
 ---
 
@@ -859,7 +966,15 @@ Everyone always wants to hear more about Paris “Paris! Paris!
 
 ---
 
-Tell us more about Paris!” But actually, Paris isn’t really that important – I know, I know, he stole Helen away from Menelaus and brought her to Troy and that started the war, and yes, he was so handsome and everything – but he’s not interesting. Not interesting to me.
+Tell us more about Paris!” But actually, Paris isn’t really that important – I know, I know, he stole Helen away from Menelaus and brought her to Troy and that started the war, 
+
+---
+
+
+
+---
+
+and yes, he was so handsome and everything – but he’s not interesting. Not interesting to me.
 
 ---
 
@@ -887,11 +1002,23 @@ Hector’s a good husband, and a good father. He’s a lot like…
 
 ---
 
-One terrible day – the Trojans are struggling – because the Greek army is full of ferocious warriors – Great Ajax, Diomedes – and even though Achilles won’t fight, the Greeks are winning because Athena… oh, the gods have made a mess of things, you wouldn’t believe all the… Athena even puts on her helmet and fights for the Greeks, stabbing her own brother Ares in the stomach, and he goes crying to Zeus - no, no, it’s a mess… On this day the Greeks, with the help of Athena, they hack and chop and decimate the Trojans, pushing them back toward the city walls.
+One terrible day – the Trojans are struggling – because the Greek army is full of ferocious warriors – Great Ajax, Diomedes – and even though Achilles won’t fight, the Greeks are winning because Athena… 
 
 ---
 
-Hector and his brothers try to hold their ground but they keep getting pushed back, pushed back, and Hector becomes afraid that the Trojan soldiers might give up and run away, or hide inside the city gates. Hector and one of his brothers – uh… – realize that they have to get Athena on their side.
+oh, the gods have made a mess of things, you wouldn’t believe all the… Athena even puts on her helmet and fights for the Greeks, stabbing her own brother Ares in the stomach, 
+
+---
+
+and he goes crying to Zeus - no, no, it’s a mess… On this day the Greeks, with the help of Athena, they hack and chop and decimate the Trojans, pushing them back toward the city walls.
+
+---
+
+Hector and his brothers try to hold their ground but they keep getting pushed back, pushed back, and Hector becomes afraid that the Trojan soldiers might give up and run away, 
+
+---
+
+or hide inside the city gates. Hector and one of his brothers – uh… – realize that they have to get Athena on their side.
 
 ---
 
@@ -905,7 +1032,11 @@ His mother, Hecuba, catches sight of him and runs and grabs his hand.
 ## HECUBA:
 
 
-My child—why have you left the bitter fighting,	 why have you come home? Look how they wear you out… But wait, I’ll bring you some honeyed, mellow wine.
+My child—why have you left the bitter fighting,	 why have you come home? Look how they wear you out… 
+
+---
+
+But wait, I’ll bring you some honeyed, mellow wine.
 
 ---
 
@@ -932,7 +1063,15 @@ My dear brother, dear to me, bitch that I am, vicious, scheming – horror to fr
 
 Oh how I wish
 that first day my mother brought me into the light
-some black whirlwind had rushed me out to the mountains! But since the gods ordained it all, these desperate years, I wish I had been the wife of a better man.
+
+---
+
+
+some black whirlwind had rushed me out to the mountains! But since the gods ordained it all, these desperate years, 
+
+---
+
+I wish I had been the wife of a better man.
 
 ---
 
@@ -942,7 +1081,19 @@ But come in, rest on this seat with me, dear brother. You are the one hit hardes
 
 ## POET
 
-But Hector doesn’t have time for this, the only one he wants to see is his wife, Andromache, and his son, Astyanax, who’s just, oh, maybe 6 months old… he goes to his house and they’re not there, he looks for them everywhere, he can’t find them, he’s starting to panic, then someone tells him they’re up on the tower, on the walls of the city, and he runs up there, helmet flashing - still in his full armor. There they are, his wife Andromache, and his baby boy.
+But Hector doesn’t have time for this, the only one he wants to see is his wife, Andromache, and his son, Astyanax, who’s just, oh, maybe 6 months old… 
+
+---
+
+he goes to his house and they’re not there, he looks for them everywhere, he can’t find them, he’s starting to panic, 
+
+---
+
+then someone tells him they’re up on the tower, on the walls of the city, and he runs up there, helmet flashing - 
+
+---
+
+still in his full armor. There they are, his wife Andromache, and his baby boy.
 
 ---
 
@@ -1088,7 +1239,11 @@ Huh.
 
 ---
 
-Have you ever seen a front line? Let’s take – I want to show you what that bloody field looked like, what Hector walked back to just then, with all those other boys scattered across it.
+Have you ever seen a front line? Let’s take – I want to show you what that bloody field looked like, 
+
+---
+
+what Hector walked back to just then, with all those other boys scattered across it.
 
 ---
 
@@ -1096,7 +1251,27 @@ It’s like, it’s like – I have a picture here it’s from another war but�
 
 ---
 
-well here - you see, outside the trenches where there had been a particularly bad day – this was oh a hundred years ago but you get the picture- and uhhh the battlefield was just littered with bodies and when you look at it you think, –– Oh, well these are a bunch of bodies but they’re not just bodies cuz this is this is Jamie and this is Matthew and this is Brennan and this is Paul, this is Scottie he was 19, he was 21, he was 18, Brennan was meant to go to Oxford – he had gotten a scholarship because of his writing – his father was only a postman he would have been the first child in his whole family ever to go to University -- but he didn’t…
+well here - you see, outside the trenches where there had been a particularly bad day – this was oh a hundred years ago but you get the picture- 
+
+---
+
+and uhhh the battlefield was just littered with bodies and when you look at it you think, –– 
+
+---
+
+Oh, well these are a bunch of bodies but they’re not just bodies cuz this is this is Jamie and this is Matthew and this is Brennan and this is Paul, 
+
+---
+
+this is Scottie he was 19, he was 21, he was 18, Brennan was meant to go to Oxford – 
+
+---
+
+he had gotten a scholarship because of his writing – 
+
+---
+
+his father was only a postman he would have been the first child in his whole family ever to go to University -- but he didn’t…
 
 ---
 
@@ -1104,7 +1279,11 @@ Do you see?
 
 ---
 
-But this is the battle I want to tell you about now: because the women of Troy prayed, and those prayers seemed to work, and the Trojans begin to fight like never before – and still no Achilles, and that begins to take its toll on the Greeks.
+But this is the battle I want to tell you about now: because the women of Troy prayed, and those prayers seemed to work, 
+
+---
+
+and the Trojans begin to fight like never before – and still no Achilles, and that begins to take its toll on the Greeks.
 
 ---
 
@@ -1116,7 +1295,15 @@ This is what the war looks like:
 
 ---
 
-At last the armies clashed at one strategic point, they slammed their shields together, pike scraped pikewith the grappling strength of fighters armed in bronze and their round shields pounded, boss on welded boss, and the sound of struggle roared and rocked the earth. 
+At last the armies clashed at one strategic point, they slammed their shields together, pike scraped pikewith the grappling strength of fighters armed in bronze and their round shields pounded, 
+
+---
+
+
+
+---
+
+boss on welded boss, and the sound of struggle roared and rocked the earth. 
 
 ---
 
@@ -1125,12 +1312,15 @@ Screams of men and cries of triumph breaking in one breath, fighters killing, fi
 ---
 
 Wildly as two winter torrents raging down from the mountains, swirling into a valley, hurl their great waters together, plunging down in a gorge and miles away in the hills a shepherd hears the thunder — so from the grinding armies broke the cries and crash of war. 
+
 ---
 
 ## POET:
+…and Terror and Rout and relentless Strife stormed too, sister of manslaughtering Ares, 
 
-…and Terror and Rout and relentless Strife stormed too, sister of manslaughtering Ares, Ares’ comrade-in-arms— Strife, only a slight thing when she first rears her head
-but her head soon hits the sky as she strides across the earth.
+---
+
+Ares’ comrade-in-arms— Strife, only a slight thing when she first rears her head but her head soon hits the sky as she strides across the earth.
 
 ---
 
@@ -1158,7 +1348,11 @@ Patroclus was Achilles’ friend. His only friend.
 
 ---
 
-They were boyhood friends. Patroclus was sent by his own father to live with Achilles’ family – he’s slightly older than Achilles, good with horses, and practical.
+They were boyhood friends. Patroclus was sent by his own father to live with Achilles’ family – 
+
+---
+
+he’s slightly older than Achilles, good with horses, and practical.
 
 ---
 
@@ -1178,7 +1372,15 @@ Now Patroclus was a good fighter, but when Achilles retreats to his tent, Patroc
 
 ---
 
-But on this day, this day when Trojans are slaughtering Greeks left and right, and the Trojans have gotten past the Greek ramparts, they’ve crashed through all the Greek defenses, and Patroclus has been running up and down the beach, watching the bodies carried – but there’s nowhere to carry them – and he sees that Agamemnon is wounded, and Odysseus is wounded, and the one medic is wounded, and he can’t take it anymore. He runs to Achilles tent:
+But on this day, this day when Trojans are slaughtering Greeks left and right, and the Trojans have gotten past the Greek ramparts, they’ve crashed through all the Greek defenses, 
+
+---
+
+and Patroclus has been running up and down the beach, watching the bodies carried – but there’s nowhere to carry them – 
+
+---
+
+and he sees that Agamemnon is wounded, and Odysseus is wounded, and the one medic is wounded, and he can’t take it anymore. He runs to Achilles tent:
 
 ---
 
@@ -1192,7 +1394,11 @@ Can’t you see that Hector is destroying us? Is your heart made of iron?
 
 ---
 
-If you won’t fight, drive the Trojans back, then let me. Give me your armor – they might think I’m you. I’ll take that chance – but you are wrong, you will be remembered as a fool, if you won’t fight this day.
+If you won’t fight, drive the Trojans back, then let me. Give me your armor – they might think I’m you. 
+
+---
+
+I’ll take that chance – but you are wrong, you will be remembered as a fool, if you won’t fight this day.
 
 ---
 
@@ -1249,7 +1455,19 @@ Patroclus O my rider, straight at the pressing Trojan ranks you swooped…
 
 ---
 
-And at first he does as he’s promised – the sight of Achilles’ armor terrifies the Trojan fighters, they lose their nerve, and Patroclus drives them back from the Argive ships, and then further, and further. He’s good at this, Patroclus, he never knew he was so good at it – he’s gifted, he breathes in the smell of blood and bronze, he’s been waiting NINE YEARS to show what he’s made of, and here he is wearing Achilles armor and he feels GOOD, ya know?
+And at first he does as he’s promised – the sight of Achilles’ armor terrifies the Trojan fighters, 
+
+---
+
+they lose their nerve, and Patroclus drives them back from the Argive ships, and then further, and further. 
+
+---
+
+He’s good at this, Patroclus, he never knew he was so good at it – he’s gifted, he breathes in the smell of blood and bronze, 
+
+---
+
+he’s been waiting NINE YEARS to show what he’s made of, and here he is wearing Achilles armor and he feels GOOD, ya know?
 
 ---
 
@@ -1270,7 +1488,15 @@ And you could see the charred metal and you could see the see the smoking thing 
 ---
 
 Why did you fucking cut me off?!” AAAARRRRRGGGGGGHHHHHH!!!!!!! 
-Glint of a spear tore his opponent’s chest, stabbed his right jawbone, ramming the spearhead square between his teeth so hard – hoisted, dragged the Trojan – fury bursting his heart - mouth gaping - flipped him down facefirst, dead as he fell –
+
+---
+
+
+Glint of a spear tore his opponent’s chest, stabbed his right jawbone, ramming the spearhead square between his teeth so hard – hoisted, dragged the Trojan – 
+
+---
+
+fury bursting his heart - mouth gaping - flipped him down facefirst, dead as he fell –
 
 ---
 
@@ -1279,11 +1505,19 @@ Ha! Ha!
 ---
 
 Lunging in -- he flung a rock struck between his eyes crushed both brows, the skull caved in
-and both eyes burst from their sockets, NOTHING can hurt Patroclus now, he’s a killing MACHINE, my god --
+and both eyes burst from their sockets, 
 
 ---
 
-Patroclus like something superhuman – Patroclus and his men - Hungry as wolves that rend and bolt raw flesh, hearts filled with battle-frenzy that never dies— they gorge on the kill till all their jaws drip red with blood, belching bloody meat, but the fury, never shaken, builds inside their chests though their glutted bellies burst –
+NOTHING can hurt Patroclus now, he’s a killing MACHINE, my god --
+
+---
+
+Patroclus like something superhuman – Patroclus and his men - Hungry as wolves that rend and bolt raw flesh, hearts filled with battle-frenzy that never dies— 
+
+---
+
+they gorge on the kill till all their jaws drip red with blood, belching bloody meat, but the fury, never shaken, builds inside their chests though their glutted bellies burst –
 
 ---
 
@@ -1356,7 +1590,11 @@ This is why I don’t do this. This is why I don’t do this.
 
 ---
 
-So Patroclus crowded corpse on corpse on the earth that rears us all. And then… in the middle of it all - impossibly, like I have never quite understood what happened… his helmet falls off, his armor falls off, he- suddenly gets shoved to the ground like some massive force hit him, something hit him.
+So Patroclus crowded corpse on corpse on the earth that rears us all. And then… in the middle of it all - impossibly, like I have never quite understood what happened… 
+
+---
+
+his helmet falls off, his armor falls off, he- suddenly gets shoved to the ground like some massive force hit him, something hit him.
 
 ---
 
@@ -1401,7 +1639,15 @@ And it fell off. And so Patroclus stands up and goes, “(Gasp).” Totally expo
 
 ---
 
-And out of nowhere comes this Dardan, this guy… a nobody- never fought before- first day of fighting, done very very well, ya know, running around, I think he has killed nine people so far, he’s knocked five chariot riders off their – uh - things. Takes his spear and literally, happens to be behind Patroclus and just kind of goes, “Uhhh.”
+And out of nowhere comes this Dardan, this guy… a nobody- never fought before- first day of fighting, done very very well, ya know, running around, 
+
+---
+
+I think he has killed nine people so far, he’s knocked five chariot riders off their – uh - things. 
+
+---
+
+Takes his spear and literally, happens to be behind Patroclus and just kind of goes, “Uhhh.”
 
 ---
 
@@ -1425,7 +1671,11 @@ He comes running at him, from, I don’t know how far away, but he gets up ahead
 
 ---
 
-He takes his spear and, how did it work? What we say is that it went up his bowels – and the brazen point went jutting straight out through Patroclus’ back.
+He takes his spear and, how did it work? What we say is that it went up his bowels – 
+
+---
+
+and the brazen point went jutting straight out through Patroclus’ back.
 
 ---
 
