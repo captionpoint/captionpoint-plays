@@ -268,49 +268,70 @@ blockquote {
   }
 }
 /*-----------------------------------------*/
-.col2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 6rem 1fr 1fr;
-  grid-gap: 20px 50px;
-}
-
-.col2 h2, .col2 p {
-  margin: 0;
-}
-
-/* First column */
-.col2 h2:is(:first-of-type) {
-  grid-column: 1;
-  grid-row: 1;
-}
-
-.col2 h2:is(:first-of-type) + p {
-  grid-column: 1;
-  grid-row: 2;
-}
-
-.col2 h2:is(:first-of-type) + p + p {
-  grid-column: 1;
-  grid-row: 3;
-}
-
-/* Second column */
-.col2 h2:is(:last-of-type) {
-  grid-column: 2;
-  grid-row: 1;
-}
-
-.col2 h2:is(:last-of-type) + p {
-  grid-column: 2;
-  grid-row: 2;
-}
-
-.col2 h2:is(:last-of-type) + p + p {
-  grid-column: 2;
-  grid-row: 3;
-}
-
+  .col2 {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: 123px auto !important;
+        grid-column-gap: 40px !important;
+        width: 100% !important;
+    }
+    
+    /* For direct column divs */
+    .col2 .column-left {
+        grid-column: 1 !important;
+    }
+    
+    .col2 .column-right {
+        grid-column: 2 !important;
+    }
+    
+    /* For <!-- .slide: class="col2" --> with direct h2 elements */
+    .col2 > h2:nth-of-type(1) {
+        grid-column: 1 !important;
+        grid-row: 1 !important;
+        margin-top: 0 !important;
+        // margin-bottom: 1rem !important;
+    }
+    
+    .col2 > h2:nth-of-type(2) {
+        grid-column: 2 !important;
+        grid-row: 1 !important;
+        margin-top: 0 !important;
+        // margin-bottom: 1rem !important;
+    }
+    
+    /* Handle fragments within col2 */
+    .col2 > .fragment {
+        grid-column: 2 !important;
+        grid-row: 1 / span 2 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Keep fragment h2 properly aligned with other h2 */
+    .col2 > .fragment > h2 {
+        margin-top: 0 !important;
+        // margin-bottom: 1rem !important;
+    }
+    
+    /* Handle paragraphs and other content */
+    .col2 > h2:nth-of-type(1) + *:not(h2):not(.fragment) {
+        grid-column: 1 !important;
+        grid-row: 2 !important;
+    }
+    
+    .col2 > h2:nth-of-type(2) + *:not(h2),
+    .col2 > h2:nth-of-type(2) ~ *:not(h2):not(h2 + *):not(.fragment) {
+        grid-column: 2 !important;
+        grid-row: 2 !important;
+    }
+    
+    /* Styling for all headings in columns */
+    .col2 h2 {
+        font-size: 70% !important;
+        margin-top: 0 !important;
+        // margin-bottom: 1rem !important;
+    }
 
 /*-----------------------------------------*/
 /*DIMMING STYLES */

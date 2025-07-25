@@ -1,4 +1,89 @@
+class: center, middle, smaller
+BEGIN SETTINGS
+---
+
+[//]: # (title settings—give the play a title and author name)
+title: TITLE
+author: Author
+
+[//]: # (color settings—replace "character-_____" with a character name)
+plum-purple: giorgio
+stiletto-red: clara
+st-tropaz-blue: torasso
+orange-zest: doctor
+lavender-purple: fosca
+green-goblin: barri
+shocking-pink: cook
+brown-clay: christian
+pelorous-aqua: character-nine
+magenta: john
+dark-violet: medium-alison
+gold: character-twelve
+dodger-blue: pete
+cornflower-blue: character-fourteen
+cyan: character-fifteen
+lime-green: character-sixteen
+coral: joan
+hot-pink: character-eighteen
+orange: character-nineteen
+tomato: character-twenty
+lime: character-twentyone
+layout: true
+---
+name: noise
+class: center, middle, noise
+---
+name: title
+class: center, middle
+---
+name: music
+class: center, middle
+&#9834; &#9834;
+---
+name: song
+class: song
+---
+name: aside
+class: aside
+---
+name: overlap
+class: overlap
+---
+name: 2col
+class: col2
+---
+class: characters, smaller
+[//]: # (list of colors)
+## PLUM-PURPLE:
+## STILETTO-RED:
+## ST-TROPAZ-BLUE:
+## ORANGE-ZEST:
+## GREEN-GOBLIN:
+## LAVENDER-PURPLE:
+## SHOCKING-PINK:
+## BROWN-CLAY:
+## PELOROUS-AQUA:
+---
+template: overlap
+[//]: # (list of characters, in color)
+## CHARACTER-ONE:
+## CHARACTER-TWO:
+## CHARACTER-THREE:
+## CHARACTER-FOUR:
+## CHARACTER-FIVE:
+---
+
+class: center, middle, smaller
+END SETTINGS
+---
+
+
+---
+
 [pre show announcement]
+
+---
+
 Welcome to Theater Latté Da!
 
 ---
@@ -7,7 +92,11 @@ Please take this moment to check that all cellphones are silenced.
 
 ---
 
-Out of respect for our artists and each other, please refrain from texting and know that the taking of photographs and use of recording devices is not permitted. 
+Out of respect for our artists and each other, please refrain from texting 
+
+---
+
+and know that the taking of photographs or use of recording devices is not permitted. 
 
 ---
 
@@ -19,7 +108,7 @@ Please join us for a post-show discussion immediately following the show.
 
 ---
 
-And now, Theater Latté Da’s production of Steven Sondheim and James Lapine’s Passion.
+And now, Theater Latté Da’s production of Steven Sondheim and James Lapine’s *Passion.*
 
 ---
 
@@ -55,17 +144,18 @@ IS A MIRACLE—
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 NO, INEVITABLE— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 THEN INEVITABLE, YES,
 
-</div>
+
 
 
 ---
@@ -91,34 +181,38 @@ THAT DAY
 
 ---
 
+template: 2col
+
+## CLARA:
 WHEN WE GLANCED<br>
-AT EACH OTHER <br>
+AT EACH OTHER 
 IN THE PARK.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 WE WERE BOTH UNHAPPY.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 UNHAPPINESS CAN BE SEDUCTIVE.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 YOU PITIED ME…
 
 
-</div>
+
 
 
 ---
@@ -132,6 +226,10 @@ HOW QUICKLY PITY LEADS TO LOVE.
 
 ## CLARA:
 ALL THIS HAPPINESS<br>
+
+---
+
+
 MERELY FROM A GLANCE<br>
 IN THE PARK.
 
@@ -142,41 +240,42 @@ SO MUCH LOVE…
 
 ---
 
+
 ## GIORGIO:
 I THOUGHT I KNEW WHAT LOVE WAS.
 
+---
 
 ## CLARA:
 I WISH WE MIGHT HAVE MET SO MUCH SOONER.
 
 ---
 
+template: 2col
+## CLARA:
 I COULD HAVE GIVEN YOU— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I THOUGHT I KNEW WHAT LOVE WAS.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 —MY YOUTH
-
-
-<div class="fragment">
 
 ## GIORGIO:
 I THOUGHT I KNEW HOW MUCH I COULD FEEL.
 
 
-</div>
 
 
 ---
@@ -187,29 +286,31 @@ ALL THE TIME WE LOST…
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 I DIDN’T KNOW WHAT LOVE WAS.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 I’VE NEVER KNOWN WHAT LOVE WAS.
 
 
-</div>
 
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## GIORGIO:
 BUT NOW I DO. 
 
+
 ## CLARA:
 AND NOW I DO. 
+
 
 ---
 
@@ -220,41 +321,43 @@ THE HAPPINESS I FEEL WITH YOU.
 
 ---
 
+template: 2col
 
 ## CLARA:
 SO MUCH HAPPINESS—
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 YOU ARE SO BEAUTIFUL…
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 —HAPPENING BY CHANCE<br>
 IN A PARK.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 NOT BY CHANCE,<br>
 BY NECESSITY— 
 
-</div>
+
 
 
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## CLARA:
 SURELY, THIS IS HAPPINESS— 
@@ -265,18 +368,15 @@ SURELY, THIS IS HAPPINESS—
 
 ---
 
-IN EACH OTHER.
-
-
-<div class="fragment">
+template: 2col
 
 ## CLARA:
 —NO ONE ELSE
 HAS EVER FELT BEFORE!
 
-</div>
 
-
+## GIORGIO:
+IN EACH OTHER.
 
 ---
 
@@ -289,6 +389,7 @@ THAT’S WHAT THEY WOULD CLAIM.
 ANOTHER SIMPLE LOVE STORY— <br>
 AREN’T ALL OF THEM THE SAME?
 
+---
 
 ## CLARA:
 NO, BUT THIS IS MORE,<br>
@@ -302,31 +403,34 @@ LIKE EVERY OTHER LOVE STORY.
 
 ---
 
+---
+
+## CLARA & GIORGIO:
 SOME SAY HAPPINESS<br>
 COMES AND GOES.<br>
 
 ---
 
 
-THEN THIS HAPPINESS
-IS A KIND OF HAPPINESS<br>
-NO ONE REALLY KNOWS.<br>
+THEN THIS HAPPINESS <br>
+IS A KIND OF HAPPINESS <br>
+NO ONE REALLY KNOWS.
 
 ---
 
-
+template: 2col
 
 ## GIORGIO:
 I THOUGHT I KNEW WHAT LOVE WAS.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 I’D ONLY HEARD WHAT LOVE WAS.
 
 
-</div>
+
 
 
 ---
@@ -338,18 +442,19 @@ FOR YEARNING.
 
 ---
 
+template: 2col
 
 ## CLARA:
 I THOUGHT IT WAS WHAT KINDNESS BECAME.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I’M LEARNING— 
 
 
-</div>
+
 
 ---
 
@@ -360,19 +465,19 @@ THERE WAS SHAME.
 
 ---
 
-
+template: 2col
 
 ## GIORGIO:
 —THAT WITH YOU— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 BUT WITH YOU— 
 
 
-</div>
+
 
 
 ---
@@ -381,6 +486,7 @@ BUT WITH YOU—
 ## CLARA, GIORGIO:
 –THERE’S JUST HAPPINESS.
 
+---
 
 ## CLARA:
 ENDLESS HAPPINESS…
@@ -392,12 +498,15 @@ ENDLESS HAPPINESS…
 
 ---
 
+## CLARA:
 What?
 
+---
 
 ## GIORGIO:
 Not now…
 
+---
 
 ## CLARA:
 Tell me… please.
@@ -410,8 +519,9 @@ Tell me… please.
 
 
 ## GIORGIO:
-I received my orders from headquarters. I’ve been transferred to the Fourth Brigade.
+I received my orders from headquarters, and they're transferring me to the Fourth Brigade.
 
+---
 
 ## CLARA:
 When?
@@ -440,16 +550,17 @@ Yes, well, we will make the most of the next four days. We’ll steal as much ti
 
 ---
 
-And after I leave, we’ll write each other every day. We’ll make love with our words. 
+And after I leave, we’ll write each other every day. 
+
+---
+
+We’ll make love with our words. 
 
 ---
 
 You’ll be with me every day, Clara.
 
 ---
-
-
-
 
 ## CLARA:
 I must go. I’m expected.
@@ -459,49 +570,57 @@ I must go. I’m expected.
 ## GIORGIO:
 GOD, <br>
 YOU ARE SO BEAUTIFUL.<br>
-I LOVE TO SEE YOU IN THE LIGHT,<br>
 
 ---
 
+I LOVE TO SEE YOU IN THE LIGHT,<br>
 CLEAR AND BEAUTIFUL,<br>
-MEMORIZE <br>
+
+---
+
+MEMORIZE <br> 
 EVERY INCH,<br>
 
 ---
 
 EVERY PART OF YOU,<br>
 TO TAKE WITH ME.<br>
-YOUR FEET SO SOFT,<br>
+
 
 ---
 
+template: 2col
+
+## GIORGIO:
+YOUR FEET SO SOFT,<br>
 AS IF THEY’D NEVER TOUCHED THE GROUND— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 I can’t…
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 —YOUR SKIN SO COOL,<br>
 SO PURE, SO DELICATE.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 Not now…
 
 
-</div>
+
 
 
 ---
@@ -518,122 +637,113 @@ I’M PAINTING YOU INDELIBLY ON MY MIND.
 
 ---
 
+template: 2col
 
 ## CLARA:
 LET ME GO…
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 WE MUST FILL EVERY MOMENT.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 ALL THIS HAPPINESS<br>
-
 ENDED BY A WORD IN THE DARK.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 OH MY LOVE, <br>
 OH MY DARLING.
 
-</div>
+
 
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 SO MUCH HAPPINESS<br>
 WASN’T MEANT TO LAST.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I AM HERE,<br>
 I AM WITH YOU,<br>
-
-</div>
-
 I AM YOURS.
+
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 I NEVER KNEW WHAT LOVE WAS.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 YOUR SKIN,<br>
 YOUR SILKEN HAIR…
 
-</div>
+
 
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 I ALWAYS THOUGHT I DIDN’T DESERVE IT.
-
-
-<div class="fragment">
 
 ## GIORGIO:
 YOUR BREASTS,<br>
 YOUR LIPS…
 
-</div>
-
-
-
 ---
 
+template: 2col
 
 ## CLARA:
 I DIDN’T KNOW WHAT LOVE WAS.
 
-
-<div class="fragment">
-
 ## GIORGIO:
 I WANT YOU EVERY MINUTE OF MY LIFE…
 
-
-</div>
-
-
 ---
 
+template: 2col
 
 ## CLARA:
 I DON’T KNOW HOW I’LL LIVE WHEN YOU’RE GONE!
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I WILL ALWAYS BE HERE.
 
 
-</div>
+
 
 
 ---
@@ -650,7 +760,10 @@ I DON’T KNOW HOW I’LL LIVE…
 
 
 ## CLARA:
-GIORGIO…<br>
+GIORGIO…
+
+---
+
 DON’T LEAVE ME…
 
 ---
@@ -659,19 +772,20 @@ DON’T LEAVE ME…
 
 ---
 
+template: 2col
 
 
 ## TORASSO:
 [singing an aria]
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 –Thank you, Lieutenant.
 
 
-</div>
+
 
 
 ---
@@ -698,7 +812,9 @@ And neither do you.
 
 ---
 
+[laughter]
 
+---
 
 
 ## TORASSO:
@@ -730,18 +846,19 @@ Veal? We had veal four days ago. And from the looks of it, it was this veal.
 
 ---
 
+template: 2col
 
 ## COOK:
 Lieutenant Barri, if I hear— 
 
 
-<div class="fragment">
+--
 
 [offstage wails of pain]
 
 
 
-</div>
+
 
 ---
 
@@ -796,15 +913,10 @@ You mustn’t believe everything you hear in a whorehouse, Major.
 ## RIZZOLI:
 That is where Garibaldi received much of his information, sir.
 
-
-<div class="fragment">
+---
 
 ## DOCTOR:
 Ah! So that’s why you go there!
-
-
-</div>
-
 
 ---
 
@@ -911,26 +1023,27 @@ Say you brought him back to camp! Why settle for being half a hero when full-fle
 ---
 
 
-
+---
 
 ## CLARA:
 “CLARA…
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 “CLARA…<br>
 I CRIED.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 “I CRIED.
 
 
-</div>
+
 
 
 ---
@@ -945,10 +1058,10 @@ A SOLDIER WHO CRIES.
 ## CLARA:
 “I HAD TO HIDE MY EYES<br>
 SO THE OTHERS ON THE TRAIN<br>
+THAT CARRIED ME AWAY FROM YOU
 
 ---
 
-THAT CARRIED ME AWAY FROM YOU<br>
 WOULD THINK I WAS ASLEEP.”
 
 ---
@@ -1015,7 +1128,7 @@ My cousin loves to read— it’s her only passion, really. I can’t find enoug
 
 
 ## GIORGIO:
-Well, I also love to read. And I happen to have brought a few of my favorite books. 
+Well, I also love to read. And I happen to have brought along a few of my favorite books. 
 
 ---
 
@@ -1027,7 +1140,7 @@ I would be most happy to lend them to Signora Fosca, though I can’t promise th
 
 
 ## COLONEL:
-She’s been given to reading military handbooks. I have no doubt she will welcome anything in print!
+Captain, she has given to reading military handbooks. I have no doubt she would welcome anything in print!
 
 ---
 
@@ -1040,14 +1153,14 @@ Mail!
 ---
 
 
-
+---
 
 ## RIZZOLI:
 Nothing for me again? It’s been two weeks.
 
 ---
 
-
+---
 
 
 ## AUGENTI:
@@ -1090,26 +1203,19 @@ AND WHEN I CANNOT BEAR IT ANY LONGER …”
 
 ---
 
-
-
-
 ## BARRI:
 Imagine surviving the battle of Alessandra only to lose your life to an aide-de-camp in a duel.
 
 ---
-
-
+template: 2col
 ## TORASSO:
 An aide-de-camp will do anything to— 
 
 
-<div class="fragment">
+--
 
+## 
 [offstage wails of pain]
-
-
-
-</div>
 
 ---
 
@@ -1122,8 +1228,6 @@ Do not be alarmed! It’s my cousin. I have grown so accustomed to her outbursts
 My apologies for not warning you.
 
 ---
-
-
 
 
 ## DOCTOR:
@@ -1189,17 +1293,17 @@ Seconds for you, Lieutenant? Can I take that as a compliment?
 
 ---
 
-
-
+template: 2col
 
 ## BARRI:
 No, Sergeant, my horses are hungry.
 
-<div class="fragment">
+--
 
+## 
 [all laughing]
 
-</div>
+
 
 ---
 
@@ -1208,48 +1312,54 @@ In time, Captain Bachetti, you too will get used to life among us.
 
 ---
 
+---
+
+template: 2col
 
 ## CLARA:
 “CLARA, I’M IN HELL.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 THIS IS HELL.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## SOLDIERS :
 LIVING HELL.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 “LIVING HELL.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
+
 “THIS GODFORSAKEN PLACE— 
 
 
-<div class="fragment">
+--
 
 ## SOLDIER :
 THIS GODFORSAKEN PLACE— 
 
 
-</div>
+
 
 ---
 
@@ -1260,18 +1370,19 @@ THESE POMPOUS LITTLE MEN,
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 THIS MILITARY MADNESS…
 
 
-<div class="fragment">
+--
 
 ## SOLDIER:
 THIS MILITARY MADNESS…
 
 
-</div>
+
 
 ---
 
@@ -1282,47 +1393,51 @@ UNIFORMS, UNIFORMS…
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 MILITARY MADNESS…
 
 
-<div class="fragment">
+--
 
 ## ALL SOLDIERS:
 MILITARY…
 
 
-</div>
+
 
 
 ---
+
+template: 2col
 
 ## CLARA & GIORGIO:
 “MY DAYS ARE SPENT IN MANEUVERS— 
 
 
-<div class="fragment">
+--
 
 ## ALL SOLDIERS:
 UNIFORMS, UNIFORMS…
 
 
-</div>
+
 
 ---
+template: 2col
 
 ## CLARA & GIORGIO:
 “MY EVENINGS IN DISCUSSING THE DAY— 
 
 
-<div class="fragment">
+--
 
 ## ALL SOLDIERS:
 THIS IS HELL— 
 
 
-</div>
+
 
 
 ---
@@ -1421,6 +1536,8 @@ What exactly is wrong with this woman?
 
 ---
 
+---
+
 
 ## DOCTOR:
 …She is a kind of medical phenomenon, a collection of many ills.
@@ -1451,7 +1568,7 @@ One might say that her nerves are exposed, where ours are protected by a firm la
 
 
 ## GIORGIO:
-Is she in danger of succumbing to this disease?
+Is she at risk of succumbing to this disease?
 
 ---
 
@@ -1505,6 +1622,7 @@ Pretty?
 
 ---
 
+## GIORGIO:
 You don’t suppose that she is the lover of the Colonel, do you?
 
 ---
@@ -1521,7 +1639,8 @@ No need for discomfort, Captain. We’re all human. Your curiosity is understand
 
 ---
 
-No, I’m afraid Signora Fosca’s physical state prevents her from being anyone’s lover. Good day.
+No, I’m afraid Signora Fosca’s physical condition prevents her from being anyone’s lover. <br>
+Good day.
 
 ---
 
@@ -1532,6 +1651,7 @@ KEEP ME CLOSE TO YOU, CLARA…”
 
 ---
 
+---
 
 ## RIZZOLI:
 Late for breakfast, Captain.
@@ -1614,6 +1734,8 @@ Gentlemen.
 
 ---
 
+---
+
 ## CLARA & GIORGIO:
 “HOW COULD I FORGET YOU?
 
@@ -1680,18 +1802,19 @@ I hope I didn’t startle you.
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 Signora Ricci, I’m Captain Bachetti— 
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 –Bachetti. I know. <br>
 My cousin has told me all about you.
 
-</div>
+
 
 
 ---
@@ -1725,6 +1848,7 @@ Excuse me. I shouldn’t speak of my troubles. I have been going through a perio
 
 ---
 
+## FOSCA:
 I so enjoyed the novel by Rousseau.
 
 ---
@@ -1894,16 +2018,19 @@ IT IS REMOTE, ISN’T IT?
 
 ---
 
+template: 2col
+
+## FOSCA:
 AND PROVINCIAL, DON’T YOU THINK?
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 Yes.
 
 
-</div>
+
 
 
 ---
@@ -1935,7 +2062,7 @@ Yes.
 
 ## FOSCA:
 GOOD, I CAN SHOW YOU GARDENS.<br>
-AND THEN OF COURSE THERE IS THE CASTLE.
+AND THEN OF COURSE THERE IS THE CASTLE. <br>
 The ruined castle.
 
 ---
@@ -1977,6 +2104,7 @@ PERHAPS YOU’LL JOIN ME<br>
 AND MY COUSIN<br>
 ONE DAY…
 
+---
 
 ## GIORGIO:
 Well, that would be delightful. I don’t believe I’ve seen a flower or a garden since the day I arrived.
@@ -2045,12 +2173,12 @@ It’s good to know that the dead here can go to their graves— <br>
 
 
 
-[offstage wails of pain]
+[Fosca wails in pain]
 
 ---
 
 
-
+## GIORGIO:
 Doctor?! Help!!
 
 ---
@@ -2075,6 +2203,9 @@ THE EMBARRASSMENT, CLARA,<br>
 LOOKING AT THAT LONELINESS,<br>
 LISTENING TO ALL THAT SELF PITY…
 
+---
+
+---
 
 ## SOLDIERS:
 THE TOWN— <br>
@@ -2115,18 +2246,14 @@ Look at how they’ve let this garden go.
 
 ---
 
-
 ## COLONEL:
 This is not Milan, Doctor.
 
-
-<div class="fragment">
+---
 
 ## DOCTOR:
 I’m all too well aware of that.
 
-
-</div>
 
 ---
 
@@ -2209,50 +2336,56 @@ I know how to walk. My cousin likes to treat me like a child.
 
 ---
 
+template: 2col
 
 ## FOSCA:
 I hope I didn’t frighten you the other day.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 No, not at all.
 
 
-</div>
+
 
 ---
 
+template: 2col
+
+## GIORGIO:
 “—I COULD SEE YOU READING MY LETTER.
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 I’m not afraid of death.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 “ALL THE WHILE AS WE STROLLED— 
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 I rather think I’d welcome dying. 
 
 
-</div>
+
 
 
 ---
 
+## FOSCA:
 It’s everything that follows that I dread: being shut up in a coffin, smothered in the earth, turning into dust. 
 
 ---
@@ -2271,77 +2404,53 @@ ALL THAT I COULD THINK OF WAS YOU.”
 
 ---
 
+template: 2col
 
 ## FOSCA:
 Even speaking of this makes me—
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 Well, surely if you’re sick, signora, there is always the hope that you will get better.
 
-
-</div>
-
 ---
-
 
 ## CLARA:
 “—ALL THAT I COULD THINK OF WAS YOU.
 
 ---
 
-
-
-
 ## FOSCA:
 Hope, in my case, is in short supply.
 
 ---
-
-
-
 
 ## CLARA:
 “HOW RIDICULOUS— 
 
 ---
 
-
-
-
 ## GIORGIO:
 Well then, one must look to life for whatever pleasures it can offer.
 
 ---
-
-
-
 
 ## FOSCA:
 And what might they be?
 
 ---
 
-
-
-
 ## CLARA:
 “—TO BE LOOKING AT HER— 
 
 ---
 
-
-
-
 ## GIORGIO:
 Helping others, for example.
 
 ---
-
-
-
 
 ## FOSCA:
 [scoffs] 
@@ -2349,72 +2458,45 @@ Helping others!
 
 ---
 
-
-
-
 ## CLARA:
 “—AND BE THINKING OF YOU.
 
 ---
-
-
-
 
 ## FOSCA:
 I have worked in poorhouses, Captain.
 
 ---
 
-
-
-
 ## CLARA:
 “HOW COULD ANYONE— 
 
 ---
-
-
-
 
 ## FOSCA:
 I felt no different.
 
 ---
 
-
-
-
 ## CLARA:
 “SO UNBEAUTIFUL— 
 
 ---
-
-
-
 
 ## FOSCA:
 Pity is nothing but passive love.
 
 ---
 
-
-
-
 ## CLARA:
 “—STIR MY MEMORY OF YOU?
 
 ---
 
-
-
-
 ## FOSCA:
 Dead love.
 
 ---
-
-
-
 
 ## CLARA:
 “TO FEEL A WOMAN’S TOUCH,
@@ -2437,18 +2519,21 @@ AND THEN TO HEAR A WOMAN’S VOICE,
 
 “TO HOLD A WOMAN’S ARM,
 
----	
+---
+template: 2col
 
+## CLARA:
 TO FEEL A WOMAN’S TOUCH…”
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 These thoughts are bad for you. 
 
 
-</div>
+
+
 
 ---
 
@@ -2589,32 +2674,36 @@ EVERYTHING IS POSSIBLE.
 
 ---
 
+template: 2col
+
+## CLARA, GIORGIO: 
 “WHERE WE THINK THE SAME THOUGHTS
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 “WANT THE SAME THINGS,
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA, GIORGIO:
 “LIVE AS ONE,
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 “FEEL AS ONE,
 
 
-</div>
+
 
 
 ---
@@ -2625,42 +2714,51 @@ EVERYTHING IS POSSIBLE.
 
 ---
 
+template: 2col
 
 ## CLARA:
 “LOVE THAT SHUTS AWAY THE WORLD,
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 “LOVE THAT SHUTS AWAY THE WORLD,
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 “AND ENVELOPS MY SOUL,
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 “AND ENVELOPS YOUR SOUL,
 
 
-</div>
+
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## CLARA:
 “THAT ENNOBLES MY LIFE,
 
+
+--
+
+## GIORGIO:
+YOUR LIFE,
+
+---
 
 ## CLARA & GIORGIO:
 “LOVE THAT FLOODS<br>
@@ -2668,38 +2766,41 @@ EVERY LIVING MOMENT.
 
 ---
 
+template: 2col
+
 ## CLARA & GIORGIO:
 “LOVE LIKE— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 —OURS.”
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 Love like?
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 LIKE WINE.
 
 
-</div>
+
 
 
 ---
 
-AN INTOXICATION…
+AN INTOXICATION…<br>
 A great blindness, if you will.
 
 ---
@@ -2714,17 +2815,12 @@ Yes, I’ve read about that love, but you speak of it as one who lives it.
 
 I’m not feeling well. I must go back.
 
+---
 
 ## GIORGIO:
 I’m sorry, signora.
 
 ---
-
-
-
----
-
-
 
 
 ## FOSCA:
@@ -2734,17 +2830,9 @@ You can be incredibly cruel, Captain.
 
 
 
----
-
-
-
 
 ## GIORGIO:
 Cruel?
-
----
-
-
 
 ---
 
@@ -2825,7 +2913,7 @@ I THOUGHT YOU UNDERSTOOD.
 THEY HEAR DRUMS,<br>
 YOU HEAR MUSIC,
 
----	
+---
 
 AS DO I.<br>
 DON’T YOU SEE?
@@ -2941,7 +3029,7 @@ Of course, but we should head back nonetheless.
 
 ---
 
-
+---
 
 
 ## CLARA:
@@ -3094,18 +3182,19 @@ Make yourself scarce.
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 Unavailable.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 Aloof.
 
 
-</div>
+
 
 ---
 
@@ -3131,51 +3220,55 @@ I love you more.
 
 ---
 
+template: 2col
 
 
 
 ## FOSCA:
 THREE— 
 
----
 
-
-
+--
 
 ## GIORGIO:
 Forever yours,
 
----
 
 
-
-
-## FOSCA:
-—DAYS.
 
 ---
 
-
+template: 2col
 
 
 ## CLARA:
 As always,
 
+
+--
+
+## FOSCA:
+—DAYS.
+
+
+
+
 ---
 
-
+template: 2col
 
 
 ## GIORGIO:
 Giorgio.
 
----
 
-
-
+--
 
 ## CLARA:
 Clara.
+
+
+
 
 ---
 
@@ -3209,7 +3302,7 @@ I want to strike you from my mind and my heart, but I can’t, Giorgio. You may 
 
 ---
 
-
+---
 
 
 ## BARRI:
@@ -3293,8 +3386,10 @@ Oh, no, nonsense.
 
 ---
 
+## GIORGIO:
 Excuse me, Doctor. Why do you always put that gold coin on the table?
 
+---
 
 ## DOCTOR:
 For thirty years, I’ve done that whenever I eat with other officers. 
@@ -3306,7 +3401,7 @@ The first meal where no one talks about horses or women,
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 ## DOCTOR
 I’ll surrender my gold coin.
 
@@ -3329,34 +3424,36 @@ I remember a wager that Lieutenant Barri made once…
 
 ---
 
+template: 2col
 
 ## FOSCA:
 I’ve missed you so.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 Please.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 You must read my letter.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 Let go of my hand! Let go!
 
 
-</div>
+
 
 
 ---
@@ -3466,34 +3563,35 @@ ALL THE TIME I WATCHED FROM MY ROOM…
 ---
 
 
-
+template: 2col
 
 ## SOLDIER 1:
 THINKING WE’D MEET…
 
 
-<div class="fragment">
+--
 
 ## SOLDIER 2:
 THINKING YOU’D LOOK AT ME…
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## SOLDIER 3:
 THINKING YOU’D— 
 
 
-<div class="fragment">
+--
 
 ## SOLDIERS:
 —BE REPELLED BY WHAT YOU SAW.
 
 
-</div>
+
 
 ---
 
@@ -3560,21 +3658,24 @@ Thinking of my work, and my superiors, of your cousin, I will no doubt also thin
 
 ---
 
-Do not be difficult. Please! You must stop this behavior immediately. 
+Do not be difficult. Please! Signora! You must stop this behavior immediately. 
 
 
 ---
 
+template: 2col
+
+## GIORGIO:
 What would people think if they see this display?
 
 
-<div class="fragment">
+--
 
 ## FOSCA :
 [shouting]
 What does it matter if people see me?! 
 
-</div>
+
 
 
 
@@ -3699,7 +3800,7 @@ Signora.
 
 ---
 
-
+---
 
 
 ## FOSCA:
@@ -3723,40 +3824,41 @@ YOU ARE SO BEAUTIFUL—
 ---
 
 
-
+template: 2col
 
 ## FOSCA:
 “I DO NOT WISH TO CAUSE YOU PAIN— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 AS I REMEMBER EVERY NIGHT— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “SO PLEASE CONSIDER WHAT I SAY— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 CLEAR AND BEAUTIFUL— 
 
 
-</div>
+
 
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## FOSCA:
 “WITH CALM.
@@ -3767,66 +3869,69 @@ CLEAR AND BEAUTIFUL—
 
 ---
 
-
+template: 2col
 
 ## FOSCA:
 “MY HEART— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 YOU FEEL SO GOOD— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “MY HEART BELONGS— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 AS IF YOU’D NEVER BEEN AWAY— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “MY HEART BELONGS TO SOMEONE ELSE.
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 YOUR BREATH SO WARM, YOUR TOUCH SO SURE— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 YOUR SKIN SO DELICATE…
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 YOUR ARMS SO STRONG…
 
 
-</div>
+
 
 ---
 
@@ -3843,215 +3948,231 @@ HOPELESSLY IN TURN,
 
 ---
 
-SIGNORA.
+template: 2col
+
+## FOSCA:
+"SIGNORA.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 ALL THIS HAPPINESS— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “YOU AND I— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 BEING HERE WITH YOU IN THE DARK.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “—WERE NOT MEANT FOR EACH OTHER.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 SO MUCH HAPPINESS— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “IF I SEEMED TO IMPLY <br>
 SOMETHING MORE— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 EVEN MORE THAN WHAT I FELT BEFORE!
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “—I APOLOGIZE.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 TO FEEL YOUR TOUCH AGAIN— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “BUT SINCE WE’RE FORCED TO BE TOGETHER— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 —WHEN SO MUCH TIME HAS PASSED— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “—LET US TRY TO FACE THE FACT.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 TO DREAM OF YOU AND THEN
 
 
-</div>
+
 
 
 ---
 
+## GIORGIO, CLARA:
 TO BE WITH YOU AGAIN
 AND HAVE SOME TIME AT LAST…
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “LET US BOTH BEHAVE WITH TACT.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 HOW LONG WERE WE APART— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “IF THIS LETTER SEEMS COLD-HEARTED— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 —A MONTH, A WEEK, A DAY?
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
-“—IT CONCEALS MY OWN DISTRESS.
+“—IT CONCEALS MY OWN DISTRESS. <br>
 NONETHELESS— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 TO FEEL YOUR TOUCH AGAIN— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “—WE MUST END WHAT NEVER STARTED.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO, CLARA:
 YOU’VE NEVER BEEN AWAY.
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “YOU MUST RECOGNIZE— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 STILL, I’VE MISSED YOU— 
 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 “—THERE IS NOTHING BETWEEN US. 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 Hush.
 
 
-</div>
+
 
 
 ---
@@ -4060,14 +4181,17 @@ Hush.
 ## CLARA:
 —SO MUCH.
 
+---
 
 ## FOSCA:
 “NOTHING…
 
+---
 
 ## GIORGIO :
 I’M HERE NOW.
 
+---
 
 ## FOSCA:
 “NOTHING, <br>
@@ -4083,6 +4207,7 @@ NOTHING…
 ## CLARA:
 WELCOME HOME…
 
+---
 
 ## ATTENDANTS:
 I’VE WATCHED YOU FROM MY WINDOW.<br>
@@ -4154,15 +4279,11 @@ Well. I found your affection very flattering.
 
 ---
 
-
+---
 
 
 ## FOSCA:
 How indulgent you are with me. 
-
----
-
-
 
 ---
 
@@ -4234,11 +4355,11 @@ Naturally.
 
 
 ## FOSCA:
-Perhaps I should put in a word with my cousin. Help from me might serve you well. 
+Perhaps I should put in a word with my cousin. Help from me might serve you well. It all depends on him. 
 
 ---
 
-It all depends on him. Of course, a negative word…
+Of course, a negative word…
 
 ---
 
@@ -4254,7 +4375,11 @@ Place more value on your dignity, Signora. Do not offend your own pride.
 
 
 ## FOSCA:
-We each deal with our pride as best we can, Captain. You love this woman very much?
+We each deal with our pride as best we can, Captain. 
+
+---
+
+You love this woman very much?
 
 ---
 
@@ -4389,11 +4514,11 @@ You may go now, Captain. I have more important things to do.
 
 ---
 
-
+---
 
 
 ## CLARA:
-THREE WEEKS…
+THREE WEEKS…<br>
 THREE WEEKS…
 
 ---
@@ -4428,7 +4553,7 @@ I’ve realized how I’ve had to temper my feelings toward her. But, now that I
 ---
 
 ## CLARA
-<!-- .slide: class="col2" -->
+template: 2col
 But you, my Clara— you remain strong in my thoughts.
 
 ## SOLDIERS
@@ -4576,18 +4701,19 @@ A simple act on your part is all that is asked for.
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 I don’t wish to get involved.
 
 
-<div class="fragment">
+--
 
 ## DOCTOR:
 You are involved, sir. 
 
 
-</div>
+
 
 
 ---
@@ -4680,23 +4806,33 @@ What is the cost of a few words when a life hangs in the balance?
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 No need to be frightened. It is Giorgio.
 
 
+
+--
+
 ## FOSCA:
 Oh my God! 
 
+
+
 ---
 
+## FOSCA:
 My God! I never thought you would come. Of course I hoped… 
 
 ---
 
+---
 
+## FOSCA:
 I’m sorry. These are the follies one commits before dying.
 
+---
 
 ## GIORGIO:
 Don’t speak of dying, Signora.
@@ -4743,8 +4879,9 @@ I want you to be comfortable. Please.
 
 ---
 
+---
 
-
+## FOSCA:
 GOD, YOU ARE SO BEAUTIFUL.
 
 ---
@@ -4753,16 +4890,24 @@ COME, LET ME SEE YOU IN THE LIGHT.
 
 ---
 
-NO, DON’T LOOK AT ME.
+NO, DON’T LOOK AT ME.<br>
 LET ME LOOK AT YOU.
 
 ---
 
+template: 2col
+
+## FOSCA:
 I FEEL BETTER IN THE DARK.
 
 
+
+--
+
 ## GIORGIO:
 Your kindness makes you beautiful.
+
+
 
 ---
 
@@ -4814,6 +4959,7 @@ Listen to mine.
 
 ---
 
+## FOSCA:
 My heart says it loves you, Giorgio. What does yours say?
 
 ---
@@ -4860,17 +5006,22 @@ Well, I am here to tell you you would be happier living.
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## FOSCA:
 That day I was so awful to you— 
 
 
+--
+
 ## GIORGIO:
 No, let’s not speak of the past. 
 
+
+
 ---
 
+## GIORGIO:
 You are tired. I have come, we have spoken, and now you must sleep.
 
 ---
@@ -4883,7 +5034,7 @@ Will you stay if I do?
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -4899,7 +5050,7 @@ Will you sleep, too?
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -4915,12 +5066,17 @@ Lay your head near mine.
 
 ---
 
+---
+
+## FOSCA:
 Can we dream together?
 
+---
 
 ## GIORGIO:
 Yes.
 
+---
 
 ## CLARA:
 “My dearest Giorgio. 
@@ -4943,7 +5099,11 @@ Do you dream of me? How I wish I could just lie by your side and watch you sleep
 
 ---
 
-To see you disarmed, at peace. Sometimes I think that when you watch a person sleep there’s a transparency that lets you see their soul. 
+To see you disarmed, at peace. 
+
+---
+
+Sometimes I think that when you watch a person sleep there’s a transparency that lets you see their soul. 
 
 ---
 
@@ -4972,7 +5132,7 @@ Do you think there are other worlds out there?
 ---
 
 
-
+---
 
 ## GIORGIO:
 I do.
@@ -4987,7 +5147,7 @@ Will we ever visit them one day?
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -4999,7 +5159,7 @@ As a child I used to dream that I could, um, fly— travel to far away places.
 
 ---
 
-
+---
 
 
 ## FOSCA:
@@ -5015,7 +5175,7 @@ My father. My father was an officer. And it was expected that I would follow his
 
 ---
 
-
+---
 
 
 ## FOSCA:
@@ -5071,6 +5231,9 @@ What music!
 
 ---
 
+---
+
+## FOSCA:
 You love this woman very much?
 
 ---
@@ -5083,6 +5246,7 @@ You love this woman very much?
 ## GIORGIO:
 Don’t ask me that. I’ve told you that.
 
+---
 
 ## FOSCA:
 What is her name?
@@ -5107,7 +5271,7 @@ Clara.
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -5124,7 +5288,7 @@ Will you do me a great favor before you go? Will you write a letter for me?
 ---
 
 
-
+---
 
 ## GIORGIO:
 Certainly.
@@ -5147,9 +5311,11 @@ There is paper in my desk.
 ## GIORGIO:
 Yes?
 
+---
+
 
 ## FOSCA:
-My dearest… Fosca. 
+"My dearest… Fosca."
 
 ---
 
@@ -5169,17 +5335,17 @@ Please.
 
 
 ## FOSCA:
-I WISH I COULD FORGET YOU,<br>
+"I WISH I COULD FORGET YOU,<br>
 ERASE YOU FROM MY MIND.
 
 ---
 
-BUT EVER SINCE I MET YOU,  I FIND<br>
+"BUT EVER SINCE I MET YOU, I FIND<br>
 I CANNOT LEAVE THE THOUGHT OF YOU BEHIND.
 
 ---
 
-THAT DOESN’T MEAN I LOVE YOU…
+"THAT DOESN’T MEAN I LOVE YOU…
 
 ---
 
@@ -5195,70 +5361,70 @@ THAT DOESN’T MEAN I LOVE YOU…
 
 
 ## FOSCA:
-I WISH THAT I COULD LOVE YOU…<br>
+I WISH THAT I COULD LOVE YOU…"<br>
 Please…
 
 ---
 
-I KNOW THAT I’VE UPSET YOU.<br>
+"I KNOW THAT I’VE UPSET YOU.<br>
 I KNOW I’VE BEEN UNKIND.
 
 ---
 
-I WANTED YOU TO VANISH FROM SIGHT,<br>
+"I WANTED YOU TO VANISH FROM SIGHT,<br>
 BUT NOW I SEE YOU IN A DIFFERENT LIGHT.
 
 ---
 
-AND THOUGH I CANNOT LOVE YOU,<br>
+"AND THOUGH I CANNOT LOVE YOU,<br>
 I WISH THAT I COULD LOVE YOU.
 
 ---
 
-FOR NOW I’M SEEING LOVE<br>
+"FOR NOW I’M SEEING LOVE<br>
 LIKE NONE I’VE EVER KNOWN,
 
 ---
 
-A LOVE AS PURE AS BREATH,<br>
+"A LOVE AS PURE AS BREATH,<br>
 AS PERMANENT AS DEATH,<br>
 IMPLACABLE AS STONE.
 
 ---
 
-A LOVE THAT, LIKE A KNIFE,<br>
+"A LOVE THAT, LIKE A KNIFE,<br>
 HAS CUT INTO A LIFE<br>
 I WANTED LEFT ALONE.
 
 ---
 
-A LOVE I MAY REGRET,<br>
+"A LOVE I MAY REGRET,<br>
 BUT ONE I CAN’T FORGET.
 
 ---
 
-I DON’T KNOW HOW I LET YOU<br>
+"I DON’T KNOW HOW I LET YOU<br>
 SO FAR INSIDE MY MIND,
 
 ---
 
-BUT THERE YOU ARE AND THERE YOU WILL STAY.<br>
+"BUT THERE YOU ARE AND THERE YOU WILL STAY.<br>
 HOW COULD I EVER WISH YOU AWAY?<br>
 I SEE NOW I WAS BLIND.
 
 ---
 
-AND SHOULD YOU DIE TOMORROW,<br>
+"AND SHOULD YOU DIE TOMORROW,<br>
 ANOTHER THING I SEE:
 
 ---
 
-YOUR LOVE WILL LIVE IN ME.
+"YOUR LOVE WILL LIVE IN ME.
 
 ---
 
 I remain always… <br>
-Your Giorgio. 
+Your Giorgio." 
 
 ---
 
@@ -5270,6 +5436,7 @@ Please bring it to me, please.
 
 ---
 
+## FOSCA:
 Thank you, Giorgio. 
 
 ---
@@ -5279,7 +5446,7 @@ Do you have sisters?
 ---
 
 
-
+---
 
 ## GIORGIO:
 I do.
@@ -5294,7 +5461,7 @@ Do you kiss them goodbye?
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -5429,18 +5596,19 @@ OF LA SIGNORA!
 
 ---
 
+template: 2col
 
 ## COOK, BARRI:
 LA SIGNORA!
 
 
-<div class="fragment">
+--
 
 ## AUGENTI:
 LA SIGNORA!
 
 
-</div>
+
 
 ---
 
@@ -5450,7 +5618,7 @@ Please, a little quiet!
 
 ---
 
-
+---
 
 
 ## GIORGIO:
@@ -5531,17 +5699,19 @@ JUST A BIT ALOOF, DON’T YOU THINK?
 
 ---
 
+template: 2col
+
 ## COOK:
 NOT AROUND THE COLONEL.
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 GENTLEMEN, GENTLEMEN…
 
 
-</div>
+
 
 ---
 
@@ -5551,18 +5721,19 @@ NEVER TRUST A MAN WHO DOESN’T DRINK.
 
 ---
 
+template: 2col
 
 ## TORASSO:
 AND HE KEEPS A JOURNAL.
 
 
-<div class="fragment">
+--
 
 ## BARRI:
 Eight-ball off the nine.
 
 
-</div>
+
 
 ---
 
@@ -5611,6 +5782,7 @@ I’LL SAY!
 ## ALL (EXCEPT RIZZOLI):
 I’ll say!
 
+---
 
 ## ALL:
 I’LL SAY!
@@ -5643,7 +5815,7 @@ You have no reason to thank me.
 
 
 ## COLONEL:
-Any attention that is paid to her means so much. Signora Fosca has always had a…shortage of friends.
+Any attention that is paid to her means so much. Signora Fosca has always had a… shortage of friends.
 
 ---
 
@@ -5655,7 +5827,7 @@ Any attention that is paid to her means so much. Signora Fosca has always had a�
 
 ---
 
-What a joy it is to have someone to whom I can tell my feelings, to share my past with.
+"What a joy it is to have someone to whom I can tell my feelings, to share my past with.
 
 ---
 
@@ -5667,70 +5839,81 @@ I was a young man when my parents died and Fosca’s mother and father welcomed 
 
 ---
 
+template: 2col
+
+## COLONEL:
 AS A CHILD— 
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 AS A CHILD— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## COLONEL:
 SHE WAS LONELY— 
 
----
 
+--
 
 ## FOSCA:
 I WAS HAPPY— 
 
+
+
 ---
 
+template: 2col
 
 ## COLONEL:
 HER PARENTS DOTED ON HER— 
 
----
 
+--
 
 ## FOSCA:
 MY PARENTS DOTED ON ME— 
 
+
+
 ---
 
+template: 2col
 
 ## FOSCA, COLONEL:
 THEY SAID:
 
 
-<div class="fragment">
+--
 
 ## MOTHER, FATHER:
 BEAUTIFUL.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## MOTHER:
 SO SENSITIVE.
 
 
-<div class="fragment">
+--
 
 ## MOTHER, FATHER:
 SO BEAUTIFUL.
 
 
-</div>
+
 
 ---
 
@@ -5740,33 +5923,35 @@ THEY TOLD ME TO BE:
 
 ---
 
+template: 2col
 
 ## MOTHER:
 CAREFUL— 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 OF COURSE— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## MOTHER:
 —FOSCA.
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 —TO THEM SHE WAS.
 
 
-</div>
+
 
 ---
 
@@ -5777,18 +5962,19 @@ HAS TO—
 
 ---
 
+template: 2col
 
 ## FOSCA:
 AND SO— 
 
 
-<div class="fragment">
+--
 
 ## FATHER:
 —BE CAREFUL.
 
 
-</div>
+
 
 ---
 
@@ -5799,7 +5985,7 @@ THAT I WAS BEAUTIFUL.
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## FOSCA:
 AND THEN I REACHED THE AGE— 
@@ -5818,22 +6004,23 @@ A WOMAN CAN BE.
 
 ---
 
+template: 2col
 
 ## COLONEL:
 AN UNATTRACTIVE MAN— 
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 AS LONG AS YOU’RE A MAN,—
 
 
-</div>
+
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## FOSCA:
 —YOU STILL HAVE OPPORTUNITIES.
@@ -5844,52 +6031,56 @@ AS LONG AS YOU’RE A MAN,—
 
 ---
 
+template: 2col
 
 ## MOTHER, FATHER:
 BEAUTIFUL.
 
 
-<div class="fragment">
+--
 
 ## COLONEL, FOSCA:
 WHEREAS, IF YOU’RE A WOMAN,
 
 
-</div>
+
 
 ---
 
+## COLONEL, FOSCA:
 YOU EITHER ARE A DAUGHTER OR A WIFE.
 
 ---
 
+template: 2col
 
 ## MOTHER, FATHER:
 A WOMAN IS A FLOWER.
 
 
-<div class="fragment">
+--
 
 ## COLONEL, FOSCA:
 YOU MARRY— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FATHER:
 —NOW YOU’RE SEVENTEEN.
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 —OR YOU’RE A DAUGHTER ALL YOUR LIFE.
 
 
-</div>
+
 
 ---
 
@@ -5905,145 +6096,169 @@ I’D MET THIS NICE YOUNG MAN.
 
 ---
 
+template: 2col
 
 ## FOSCA:
 I’D SEEN THIS NICE YOUNG MAN— 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 HE’D INTRODUCED HIMSELF— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 —PASSING BY— 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 —AT MY CLUB.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 —JUST BELOW MY WINDOW.
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 SO— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 ONE DAY— 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 —ONE EVENING I INVITED HIM— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 —HE TIPPED HIS HAT TO ME. 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 —HOME.
 
 
-</div>
+
 
 ---
 
+## COLONEL:
 Count Ludovic— 
 
+---
 
 ## FOSCA:
 I MUST ADMIT THAT I WAS FLATTERED— 
 
+---
 
 ## COLONEL:
 —this is my Aunt Theresa and my Uncle Bruno.
 
+---
+
+template: 2col
 
 ## MOTHER:
 A count?
 
 
-## FATHER:
-From where, if I may ask.
+--
 
+## FATHER:
+From where, may I ask?
+
+
+
+---
 
 ## LUDOVIC:
 Austria.
 
+---
 
 ## FATHER, MOTHER:
 AUSTRIA…
 
+---
 
 ## MOTHER:
 What a beautiful place.
 
+---
 
 ## COLONEL:
 Fosca! We have a visitor!
 
+---
 
 ## FOSCA:
 IMAGINE MY SURPRISE…
 
+---
 
 ## COLONEL:
 I’d like you to meet a new friend. Count Ludovic.
 
+---
 
 ## FOSCA:
 He was even more handsome up close.
 
+---
 
 ## COLONEL:
 I was amazed to see him take such an interest in my cousin.
 
 ---
 
+template: 2col
 
 ## LUDOVIC:
 IF I HAD KNOWN YOU WERE HERE, SIGNORINA— 
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 “If he had known…” Of course he knew.
 
 
-</div>
+
 
 ---
 
@@ -6053,55 +6268,66 @@ IF I HAD KNOWN YOU WERE HERE, SIGNORINA—
 
 ---
 
+template: 2col
 
 ## COLONEL:
 If I had known…
 
----
 
+--
 
 ## LUDOVIC:
 YOU DO LIKE FLOWERS?
 
+
+
 ---
 
+template: 2col
 
 ## FOSCA:
 Yes.
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 I SHOULD HAVE KNOWN.
 
 
-</div>
+
 
 ---
 
+
+template: 2col
 
 ## LUDOVIC:
 I’VE SEEN YOU AT YOUR WINDOW.
 
 
+--
+
 ## MOTHER:
 Won’t you stay for dinner—?
 
+
+
 ---
 
+template: 2col
 
 ## FATHER:
 Do. Yes.
 
 
-<div class="fragment">
+--
 
 ## MOTHER:
 …Count?
 
 
-</div>
+
 
 ---
 
@@ -6111,49 +6337,52 @@ I’VE WATCHED YOU EVERY DAY SINCE I ARRIVED.
 
 ---
 
+template: 2col
 
 ## FOSCA:
 I HAD MY SUSPICIONS.
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 I HAD NO SUSPICION.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA, COLONEL:
 I CHOSE NOT TO SEE.
 
 
-<div class="fragment">
+--
 
 ## LUDOVIC:
 THE WAY YOU MOVE,<br>
 THE WAY YOU GAZE AT THE SKY…
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## FOSCA:
 FOR LOVE HAD MADE ME BLIND— 
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 HOW COULD I BE SO BLIND?
 
 
-</div>
+
 
 ---
 
@@ -6310,18 +6539,19 @@ AND A CHILD IN DALMATIA.
 
 ---
 
+template: 2col
 
 ## FOSCA:
 I’m sorry, you must be mistaken.
 
 
-<div class="fragment">
+--
 
 ## MISTRESS:
 Oh, yes!
 
 
-</div>
+
 
 ---
 
@@ -6344,6 +6574,7 @@ A HEART.
 
 YOU FOOL…
 
+---
 
 ## FOSCA:
 I confronted him with this information, and he made no attempt to deny it.
@@ -6417,66 +6648,73 @@ OH, AND YES, WE HAVEN’T PAID THE RENT<br>
 SINCE JULY<br>
 JUST SO YOU KNOW…
 
+---
 
 ## FOSCA:
 I returned home, to find my parents impoverished and in poor health.
 
+---
 
 ## COLONEL:
 Fosca’s health failed…
 
+---
 
 ## FOSCA:
 A woman’s like a flower…
 
+---
 
 ## COLONEL:
 …and she began to suffer her first convulsions. My aunt and uncle nursed her as best they could.
 
 ---
 
+template: 2col
 
 ## FOSCA:
 A FLOWER’S ONLY PURPOSE IS TO PLEASE…
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 I spent months looking for the man.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 BEAUTY IS POWER…
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 By then, of course, he’d vanished.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## FOSCA:
 LONGING A DISEASE…
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 To this day, I dream of finding him and realizing my revenge.
 
 
-</div>
+
 
 ---
 
@@ -6486,22 +6724,23 @@ My father died not long thereafter.
 
 ---
 
+template: 2col
 
 ## COLONEL:
 HOW COULD I BE SO BLIND?
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 I COULDN’T FACE THE WORLD.
 
 
-</div>
+
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## COLONEL:
 IT TOOK HER MANY MONTHS TO LEAVE HER BED.
@@ -6673,7 +6912,7 @@ AS A TURNING OF THE PAGE…
 
 ---
 
-CLARA & GIORGIO
+## CLARA & GIORGIO
 “PERHAPS WHEN NEXT WE MEET,<br>
 I’LL BE A SORRY SIGHT.<br>
 YOU WON’T KNOW WHO I AM.
@@ -6702,16 +6941,19 @@ You came a great distance to read her letters. Are you running away from me?
 
 ---
 
+template: 2col
+
+## FOSCA:
 Since my recovery, you’ve made every effort to get away from me, to be free of my company.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 There are times I wish to be left alone.
 
 
-</div>
+
 
 ---
 
@@ -6754,7 +6996,7 @@ I think you can be very difficult.
 
 
 ## FOSCA:
-I didn’t come here to be difficult. I came here to simply share your company.
+I didn’t come here to be difficult! I came here to simply share your company!
 
 ---
 
@@ -6782,6 +7024,8 @@ You have no business being out here.
 
 ---
 
+---
+
 ## FOSCA:
 Do you want me dead?
 
@@ -6799,6 +7043,7 @@ I know, I’m unfair. I want to free you from my affection. I know what it is do
 
 ---
 
+## FOSCA:
 Why is it that violets and daisies blossom now?
 
 ---
@@ -6852,7 +7097,7 @@ Give me a kiss. I know, I know a woman shouldn’t ask for such a thing.
 
 ---
 
-A woman shouldn’t have followed a man here. 
+A woman shouldn’t have followed a man here, but... 
 
 ---
 
@@ -6929,8 +7174,7 @@ AND RETURN,
 
 WHEN YOU CARE FOR ANOTHER<br>
 SO MUCH THAT THE OTHER’S <br>
-
-## SET FREE:
+SET FREE:
 
 ---
 
@@ -7031,18 +7275,19 @@ YOU DON’T SUPPOSE—?
 
 ---
 
+template: 2col
 
 ## BARRI :
 UGH!
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 GENTLEMEN, ENOUGH!
 
 
-</div>
+
 
 ---
 
@@ -7096,18 +7341,19 @@ NOBODY IS THAT BRAVE.
 
 ---
 
+template: 2col
 
 ## COOK:
 WOULDN’T YOU LIKE TO PEEK?
 
 
-<div class="fragment">
+--
 
 ## TORASSO:
 UGH!
 
 
-</div>
+
 
 ---
 
@@ -7180,7 +7426,7 @@ LOVE ISN’T SUDDEN—
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 IT’S TENDER AND SLOW…<br>
 TENDER AND SLOW…<br>
 TENDER AND SLOW…
@@ -7190,7 +7436,7 @@ SUDDEN SURRENDER…
 
 ---
 
-<!-- .slide: class="col2" -->
+template: 2col
 
 ## GIORGIO:
 Let go! Let go of me! Please help me! Help me!
@@ -7245,6 +7491,9 @@ You still have a fever, but it seems to be lower.
 
 ---
 
+---
+
+## DOCTOR:
 My boy, you will recover from this illness, but it will take some time. 
 
 ---
@@ -7277,6 +7526,7 @@ Don’t look so sad, Captain. I trust there is someone there who can oversee you
 
 ---
 
+---
 
 ## SOLDIER:
 TO FEEL A WOMAN’S TOUCH,<br>
@@ -7352,7 +7602,7 @@ BE THERE FOR YOU…
 
 
 ## GIORGIO:
-How could you? How dare you follow me?!
+How could you? How dare you follow me?
 
 ---
 
@@ -7400,12 +7650,16 @@ And this you think will make me love you?
 
 ---
 
+---
 
 ## FOSCA:
 No. 
 
 ---
 
+---
+
+## FOSCA:
 No, I am doing this because I love you.
 
 ---
@@ -7454,6 +7708,9 @@ I’m sorry.
 
 ---
 
+---
+
+## FOSCA:
 No one has taught me how to love. I know I feel too much. 
 
 ---
@@ -7462,17 +7719,24 @@ I don’t always know what to do with those feelings, Giorgio.
 
 ---
 
+template: 2col
+
+## FOSCA:
 You understand that, don’t you?
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
-Fosca. You have to face the truth. Please. You have to give me up.
+Fosca. You have to face the truth. Please. <br>
+You have to give me up.
 
 
-</div>
 
+
+---
+
+---
 
 ## FOSCA:
 LOVING YOU<br>
@@ -7542,8 +7806,10 @@ Would Clara give her life for yours, Giorgio? I would. Happily.
 
 ---
 
+---
 
 
+## FOSCA:
 In the end, you’ll finally see what is beautiful about me. 
 
 ---
@@ -7552,14 +7818,22 @@ In the end, you’ll finally see what is beautiful about me.
 
 ---
 
+
+## FOSCA:
 Do you wish me to go to another compartment?
 
+---
+
+---
 
 ## GIORGIO:
 We’re getting off at the next stop. I’m taking you back. 
 
 ---
 
+---
+
+## GIORGIO:
 You’re freezing. Cover yourself up. 
 
 ---
@@ -7568,6 +7842,7 @@ You’re freezing. Cover yourself up.
 
 ---
 
+## GIORGIO:
 Do you wanna get sicker?
 
 ---
@@ -7578,7 +7853,7 @@ Do you wanna get sicker?
 
 
 ## FOSCA:
-The moon makes even this landscape look lovely. Look. 
+The moon makes even this landscape look lovely. <br> Look. 
 
 ---
 
@@ -7697,7 +7972,8 @@ Captain Bachetti, you forget that I am your superior.
 
 ---
 
-You can’t decide to forgo a sick leave just like that. Has Signora Fosca brought you to this?
+You can’t decide to forgo a sick leave just like that. <br>
+Has Signora Fosca brought you to this?
 
 
 ---
@@ -7753,114 +8029,123 @@ Don’t you understand, Captain? No one can help her. Good day.
 
 ---
 
+template: 2col
 
 ## TORASSO:
 FORTY DAYS—!
 
 
-<div class="fragment">
+--
 
 ## COOK:
 WHERE DOES HE GET ALL THE LUCK?
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## TORASSO:
 FORTY DAYS—!
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 THE MAN IS SICK.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## TORASSO:
 BUT FORTY DAYS—!
 
 
-<div class="fragment">
+--
 
 ## BARRI:
 YES, HE’S SICK OF BEING STUCK<br>
 IN THE STICKS.
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## AUGENTI:
 WHO ISN’T?
 
 
-<div class="fragment">
+--
 
 ## TORASSO:
 IN MILAN—!
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## COOK:
-HE’S GONE<br>
+HE’S GONE
 BECAUSE IT’S GETTING PRETTY THICK<br>
 WITH THE SIGNORA.
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 GENTLEMEN— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## AUGENTI:
 HE’D BETTER GET OUT QUICK<br>
 FROM THE SIGNORA.
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 GENTLEMEN— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## BARRI:
 THAT’S NOT AN EASY TRICK<br>
 WITH THE SIGNORA.
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 GENTLEMEN!<br>
-YOU KNOW WHAT I THINK?<br>
+YOU KNOW WHAT I THINK?
 
-</div>
 
+
+---
+## RIZZOLI:
 WE NEED ANOTHER DRINK!
 
 ---
@@ -7937,16 +8222,19 @@ WE’LL SHARE A SUNRISE.
 
 ---
 
+template: 2col
+
+## CLARA:
 WOULDN’T THAT BE BEAUTIFUL—?
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I’m not taking the sick leave. 
 
 
-</div>
+
 
 ---
 
@@ -8072,15 +8360,18 @@ Giorgio, you know that’s not possible.
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 Anything is possible.
 
----
 
+--
 
 ## CLARA:
 I would lose my child.
+
+
 
 ---
 
@@ -8156,8 +8447,10 @@ Yes, I suppose that’s true, Giorgio. Just as you have chosen to forgo your sic
 
 ---
 
+## CLARA:
 I’ve often wondered if you would love me as much if I were free.
 
+---
 
 ## GIORGIO:
 I would, Clara. You know I would.
@@ -8176,6 +8469,7 @@ And I love you.
 
 You’re not coming back, are you?
 
+---
 
 ## GIORGIO:
 I’ll be back. Clara! I’ll be back. Let’s stop this talk. Let’s enjoy the next four days together.
@@ -8202,6 +8496,7 @@ DAL GRAN POTER DI SÀTAN<br>
 E DA SUA POTESTÀ.<br>
 O NOVELLA DI GRAN FELICITÀ!
 
+---
 
 ## COLONEL:
 Thank you, Lieutenant! Oh, that was beautiful, my dear. Merry Christmas, everyone! Salute!
@@ -8284,18 +8579,19 @@ We’ve come to think of you as part of the family.
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 Yes, and I appreciate that.
 
 
-<div class="fragment">
+--
 
 ## RIZZOLI:
 At last, a letter for me.
 
 
-</div>
+
 
 ---
 
@@ -8308,6 +8604,8 @@ Colonel.
 
 ## COLONEL:
 Ugh. Excuse me.
+
+---
 
 ---
 
@@ -8375,18 +8673,19 @@ Truffles! Indeed, I can’t remember the last time I had truffles!
 
 ---
 
+template: 2col
 
 ## TORASSO:
 I hope they’ll be recognizable after Sergeant Lombardi…
 
 
-<div class="fragment">
+--
 
 ## COLONEL:
 Captain Bachetti! 
 
 
-</div>
+
 
 ---
 
@@ -8444,6 +8743,7 @@ Fosca!
 
 ---
 
+## COLONEL:
 Gentlemen! 
 
 ---
@@ -8452,6 +8752,7 @@ Gentlemen!
 
 ---
 
+## COLONEL:
 You will wait for me here, Captain Bachetti.
 
 ---
@@ -8579,67 +8880,72 @@ WE HAD SOMETHING MORE—
 
 ---
 
+template: 2col
 
 ## CLARA:
 ALL THAT HAPPINESS— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 IS THIS WHAT YOU CALL LOVE?
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 —WE HAD THEN— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
-—THIS LOGICAL AND PRACTICAL<br>
+—THIS LOGICAL AND PRACTICAL,<br>
 SENSIBLE ARRANGEMENT— 
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## CLARA:
 —WE CAN HAVE THAT HAPPINESS— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 —THIS FOREGONE CONCLUSION— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 —ONCE AGAIN!
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 —YOU THINK THAT THIS IS LOVE?
 
 
-</div>
+
 
 ---
 
+## GIORGIO:
 LOVE ISN’T SO CONVENIENT.<br>
 LOVE ISN’T SOMETHING SCHEDULED IN ADVANCE,
 
@@ -8667,36 +8973,39 @@ AND NEITHER DO I!
 
 ---
 
+template: 2col
 
 ## CLARA:
 ALL THAT HAPPINESS— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 IT WAS FINE.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 —IN THE PAST— 
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 I WAS YOURS, YOU WERE MINE.
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 THAT WAS NOT JUST HAPPINESS,<br>
@@ -8704,13 +9013,13 @@ LOVE WAS IN THAT HAPPINESS,<br>
 THAT’S WHY IT WILL LAST.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 LOVE IS MORE, I WANT MORE.
 
 
-</div>
+
 
 ---
 
@@ -8732,49 +9041,52 @@ I DO KNOW THAT IT’S NOT A NEGOTIATION.
 
 ---
 
+template: 2col
 
 ## CLARA:
 WE’LL TAKE IT IN OUR STRIDE.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 WHAT WE HAD— 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 YOU DECIDE.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 —WASN’T BAD. 
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## CLARA:
 WE COULD HAVE EVERYTHING.<br>
 I WANT YOU MORE THAN ANYTHING.
 
 
-<div class="fragment">
+--
 
 ## GIORGIO:
 HOW SAD— 
 
 
-</div>
+
 
 ---
 
@@ -9167,6 +9479,7 @@ FROM YOU…
 
 ---
 
+## GIORGIO:
 Are you cold?
 
 ---
@@ -9235,6 +9548,7 @@ I love you.
 ## FOSCA:
 Once more.
 
+---
 
 ## GIORGIO:
 I love you. 
@@ -9257,6 +9571,9 @@ This isn’t.
 
 ---
 
+---
+
+## GIORGIO:
 We can’t.
 
 ---
@@ -9297,7 +9614,7 @@ Gentlemen.
 
 ---
 
-Ten paces, please. One, two, three, four, five, six, seven, eight, nine, ten.
+Ten paces, please. And, one, two, three, four, five, six, seven, eight, nine, ten.
 
 ---
 
@@ -9313,6 +9630,7 @@ Ten paces, please. One, two, three, four, five, six, seven, eight, nine, ten.
 
 ---
 
+---
 
 ## DOCTOR:
 “Captain Bachetti. I didn’t write to you before, because I knew your illness might prevent you from comprehending the contents of my letter. 
@@ -9359,6 +9677,7 @@ Also, I have enclosed some personal belongings of Signora Fosca’s…
 
 ---
 
+template: 2col
 
 ## SOLDIERS:
 THE TOWN, IT IS REMOTE, ISN’T IT?<br>
@@ -9366,18 +9685,22 @@ AND PROVINCIAL— <br>
 DON’T YOU THINK?
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 I’M FILLING UP OUR ROOM,<br>
 OUR LITTLE ROOM,<br>
 
-</div>
 
+
+---
+
+## CLARA:
 WITH EVERY FLOWER IN BLOOM.
 
 ---
 
+template: 2col
 
 ## LUDOVIC:
 THE TIME HAS COME TO FACE<br>
@@ -9385,67 +9708,75 @@ THE TRUTH,<br>
 SIGNORINA.
 
 
-<div class="fragment">
-
 ## CLARA:
 I’LL HAVE THE FIRE LIT,<br>
 THE TABLE SET,<br>
 
-</div>
-
-I’LL WEAR THE BLUE CHEMISE…
 
 ---
 
+template: 2col
+
+## CLARA:
+I’LL WEAR THE BLUE CHEMISE…
+
+
+--
 
 ## SOLDIERS:
 THIS STERILE LITTLE TOWN,<br>
 THESE POMPOUS LITTLE MEN,
+
+
 
 ---
 
 THIS MILITARY MADNESS…<br>
 UNIFORMS, UNIFORMS…
 
+---
 
 ## CLARA:
 IMAGINING YOUR FINGERS TOUCHING MINE.
 
 ---
 
+template: 2col
 
 ## COLONEL:
 AN UNATTRACTIVE WOMAN— 
 
 
-<div class="fragment">
+--
 
 ## CLARA:
 IMAGINING OUR ROOM, 
 THE BED,
 
-</div>
+
 
 
 ---
 
+template: 2col
 
 ## COLONEL:
 —IS EASILY DECEIVED…
 
 
-<div class="fragment">
-
 ## CLARA:
 THE SECRECY,
 THE WORLD OUTSIDE,
 
-</div>
 
+---
+
+## CLARA:
 YOUR MOUTH ON MINE…
 
 ---
 
+---
 
 ## GIORGIO:
 “My dearest, Giorgio. The end is near. 
@@ -9456,7 +9787,7 @@ YOUR MOUTH ON MINE…
 
 ---
 
-“These past two days since you have left, since we were together, have been…a revelation.
+“These past two days since you have left, since we were together, have been… a revelation.
 
 ---
 
@@ -9473,7 +9804,6 @@ FEELING LOVED,
 
 YOU SEE THINGS CLEARLY.<br>
 THINGS I FEARED,<br>
-
 LIKE THE WORLD ITSELF
 
 ---
@@ -9503,24 +9833,29 @@ FOR ALL THOSE YEARS—
 ALL THOSE VAIN <br>
 AND BITTER SELF-CONCERNS— 
 
+---
 
 ## FOSCA, GIORGIO:
 ALL THOSE TEARS<br>
 AND ALL THAT PRIDE<br>
 HAVE VANISHED INTO AIR…
 
+---
 
 ## FOSCA:
 I DON’T WANT TO LEAVE.
 
+---
 
 ## GIORGIO:
 NOW THAT I AM LOVED,
 
+---
 
 ## FOSCA:
 I DON’T WANT TO LEAVE.
 
+---
 
 ## FOSCA, GIORGIO:
 EVERYWHERE I TURN,<br>
@@ -9542,6 +9877,7 @@ EVERY MOMENT BURSTS WITH FEELING.
 WHY IS LOVE SO EASY TO GIVE<br>
 AND SO HARD TO RECEIVE?
 
+---
 
 ## FOSCA:
 BUT THOUGH I WANT TO LIVE,<br>
@@ -9552,14 +9888,17 @@ WITH WHAT I NEVER KNEW:
 
 I’M SOMEONE TO BE LOVED.
 
+---
 
 ## GIORGIO:
 I’M SOMEONE TO BE LOVED.
 
+---
 
 ## FOSCA:
 AND THAT I LEARNED FROM YOU
 
+---
 
 ## ALL:
 I DON’T KNOW HOW I LET YOU
@@ -9581,84 +9920,91 @@ HOW COULD I EVER WISH YOU AWAY?
 I SEE NOW I WAS BLIND.
 
 
+---
+
 ## FOSCA:
 AND SHOULD YOU DIE TOMORROW,<br>
 ANOTHER THING I SEE:
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 YOUR LOVE WILL LIVE IN ME…
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 YOUR LOVE WILL LIVE IN ME…
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-<div class="fragment">
+--
 
 ## FOSCA, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-<div class="fragment">
+--
 
 ## FOSCA, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-<div class="fragment">
+--
 
 ## FOSCA, SOLDIERS:
 YOUR LOVE WILL LIVE IN ME…
 
 
-</div>
+
 
 ---
 
+template: 2col
 
 ## GIORGIO:
 YOUR LOVE WILL LIVE IN ME…
 
 
-<div class="fragment">
+--
 
 ## FOSCA:
 YOUR LOVE WILL LIVE IN ME…
 
 
-</div>
+
 
 ---
 
@@ -9666,3 +10012,175 @@ YOUR LOVE WILL LIVE IN ME…
 ## GIORGIO:
 YOUR LOVE WILL LIVE IN ME…
 
+
+
+
+---
+
+
+---
+---
+
+template: title
+class: smaller
+Open Captioning for this performance was made possible by CaptionPoint.
+---
+---
+<style>
+html {
+  font-size: 16px;
+}
+
+/* 2022 styles to match hackmd.io */
+/* .remark-slide-content { font-size: 15rem; width: 500rem; padding: 0 3%; transform: scaleX(0.55); transform-origin: left center;} */
+.remark-slide-content { font-size: 8.6rem; padding: 0.5% 1%;}
+.remark-slide-content p {padding-bottom: 2%; line-height: 1;}
+.remark-slide-content h2,
+.remark-slide-content h3 {line-height: 1;}
+.remark-slide-content > p:first-child::before {
+  height: 50px;
+}
+/* TURN OFF H2 FADE */
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+span.dim {
+  opacity: 1;
+}
+.remark-slide-content p:nth-last-child(n+4),
+.remark-slide-content h2:nth-last-child(n+4){
+  opacity: 1;
+}
+
+/*-----------------------------------------*/
+/*SIDE BY SIDE STYLES */
+
+
+
+h2.{{plum-purple}},
+h2.{{plum-purple}}-,
+h2.-to-{{plum-purple}},
+h2[class^='{{plum-purple}}'],
+h2.plum-purple {color: #862d86;}
+
+h2.{{magenta}},
+h2.{{magenta}}-,
+h2.-to-{{magenta}},
+h2[class^='{{magenta}}'],
+h2.magenta {color: #FF00FF;}
+
+h2.{{dark-violet}},
+h2.{{dark-violet}}-,
+h2.-to-{{dark-violet}},
+h2[class^='{{dark-violet}}'],
+h2.dark-violet {color: #9400D3;}
+
+h2.{{stiletto-red}},
+h2.{{stiletto-red}}-,
+h2.-to-{{stiletto-red}},
+h2[class^='{{stiletto-red}}'],
+h2.stiletto-red {color: #9e2e2e;}
+
+h2.{{tomato}},
+h2.{{tomato}}-,
+h2.-to-{{tomato}},
+h2[class^='{{tomato}}'],
+h2.tomato {color: #FF6347;}
+
+h2.{{st-tropaz-blue}},
+h2.{{st-tropaz-blue}}-,
+h2.-to-{{st-tropaz-blue}},
+h2[class^='{{st-tropaz-blue}}'],
+h2.st-tropaz-blue {color: #2966a3;}
+
+h2.{{orange-zest}},
+h2.{{orange-zest}}-,
+h2.-to-{{orange-zest}},
+h2[class^='{{orange-zest}}'],
+h2.orange-zest {color: #df8020;}
+
+h2.{{orange}},
+h2.{{orange}}-,
+h2.-to-{{orange}},
+h2[class^='{{orange}}'],
+h2.orange {color: #FFA500;}
+
+h2.{{gold}},
+h2.{{gold}}-,
+h2.-to-{{gold}},
+h2[class^='{{gold}}'],
+h2.gold {color: #FFD700;}
+
+h2.{{green-goblin}},
+h2.{{green-goblin}}-,
+h2.-to-{{green-goblin}},
+h2[class^='{{green-goblin}}'],
+h2.green-goblin {color: #3d8f3d;}
+
+h2.{{lime}},
+h2.{{lime}}-,
+h2.-to-{{lime}},
+h2[class^='{{lime}}'],
+h2.lime {color: #32CD32;}
+
+h2.{{lavender-purple}},
+h2.{{lavender-purple}}-,
+h2.-to-{{lavender-purple}},
+h2[class^='{{lavender-purple}}'],
+h2.lavender-purple {color: #9177AC;}
+
+h2.{{shocking-pink}},
+h2.{{shocking-pink}}-,
+h2.-to-{{shocking-pink}},
+h2[class^='{{shocking-pink}}'],
+h2.shocking-pink {color: #e085b3;}
+
+h2.{{coral}},
+h2.{{coral}}-,
+h2.-to-{{coral}},
+h2[class^='{{coral}}'],
+h2.coral {color: #FF7F50;}
+
+h2.{{hot-pink}},
+h2.{{hot-pink}}-,
+h2.-to-{{hot-pink}},
+h2[class^='{{hot-pink}}'],
+h2.hot-pink {color: #FF69B4;}
+
+h2.{{brown-clay}},
+h2.{{brown-clay}}-,
+h2.-to-{{brown-clay}},
+h2[class^='{{brown-clay}}'],
+h2.brown-clay {color: #996633;}
+
+h2.{{lime-green}},
+h2.{{lime-green}}-,
+h2.-to-{{lime-green}},
+h2[class^='{{lime-green}}'],
+h2.lime-green {color: #00FF00;}
+
+h2.{{pelorous-aqua}},
+h2.{{pelorous-aqua}}-,
+h2.-to-{{pelorous-aqua}},
+h2[class^='{{pelorous-aqua}}'],
+h2.pelorous-aqua {color: #40bfbf;}
+
+h2.{{dodger-blue}},
+h2.{{dodger-blue}}-,
+h2.-to-{{dodger-blue}},
+h2[class^='{{dodger-blue}}'],
+h2.dodger-blue {color: #1E90FF;}
+
+h2.{{cornflower-blue}},
+h2.{{cornflower-blue}}-,
+h2.-to-{{cornflower-blue}},
+h2[class^='{{cornflower-blue}}'],
+h2.cornflower-blue {color: #6495ED;}
+
+h2.{{cyan}},
+h2.{{cyan}}-,
+h2.-to-{{cyan}},
+h2[class^='{{cyan}}'],
+h2.cyan {color: #00FFFF;}
+
+</style>
