@@ -41,7 +41,9 @@ Wake up Travis. Come on now boy. Come on now, boy, it's seven-thirty!
 ---
 
 
-I say hurry up, Travis! You ain't the only person in the world got to use a bathroom!
+I say hurry up, Travis! 
+--
+You ain't the only person in the world got to use a bathroom!
 
 ---
 

@@ -102,7 +102,7 @@ And now, Theater Latté Da’s production of FUN HOME.
 
 ---
 ---
-
+template: song
 ## SMALL ALISON:
 DADDY, HEY DADDY, COME HERE, OKAY? I NEED YOU.<br>
 WHAT ARE YOU DOING? I SAID COME HERE!
@@ -587,7 +587,7 @@ Where’s my bronzing stick?
 It’s in the—
 
 ---
-
+template: song
 ## ALISON:
 WELCOME TO OUR HOUSE ON MAPLE AVENUE<br>
 SEE HOW WE POLISH AND WE SHINE

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 breaks: false
 type: slide
@@ -31,6 +32,8 @@ slideOptions:
 
 ---
 
+=======
+>>>>>>> 3ea8987 (2025-09-09)
 ## POET:
 
 [IN GREEK: RAGE. RAGE. SING THE RAGE OF ACHILLES]
@@ -2589,6 +2592,9 @@ You see?
 
 ---
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 3ea8987 (2025-09-09)

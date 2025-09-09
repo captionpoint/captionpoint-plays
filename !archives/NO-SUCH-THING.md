@@ -225,7 +225,11 @@ Sheng stops talking and gazes at her with this real intensity …
 
 ---
 
-and in the next second, he came across that couch like he’d been shot out of a cannon, 
+and in the next second, 
+
+---
+
+he came across that couch like he’d been shot out of a cannon, 
 
 ---
 
