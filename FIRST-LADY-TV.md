@@ -1,9 +1,88 @@
+class: center, middle, smaller
+BEGIN SETTINGS
+---
+
+[//]: # (title settings—give the play a title and author name)
+title: TITLE
+author: Author
+
+[//]: # (color settings—replace "character-_____" with a character name)
+plum-purple: molly
+stiletto-red: richard
+st-tropaz-blue: leyla
+orange-zest: jawid
+lavender-purple: character-five
+green-goblin: character-six
+shocking-pink: character-seven
+brown-clay: character-eight
+pelorous-aqua: character-nine
+magenta: character-ten
+dark-violet: character-eleven
+gold: character-twelve
+dodger-blue: character-thirteen
+cornflower-blue: character-fourteen
+cyan: character-fifteen
+lime-green: character-sixteen
+coral: character-seventeen
+hot-pink: character-eighteen
+orange: character-nineteen
+tomato: character-twenty
+lime: character-twentyone
+layout: true
+---
+name: noise
+class: center, middle, noise
+---
+name: title
+class: center, middle
+---
+name: music
+class: center, middle
+&#9834; &#9834;
+---
+name: song
+class: song
+---
+name: aside
+class: aside
+---
+name: overlap
+class: overlap
+---
+class: characters, smaller
+[//]: # (list of colors)
+## PLUM-PURPLE:
+## STILETTO-RED:
+## ST-TROPAZ-BLUE:
+## ORANGE-ZEST:
+## GREEN-GOBLIN:
+## LAVENDER-PURPLE:
+## SHOCKING-PINK:
+## BROWN-CLAY:
+## PELOROUS-AQUA:
+---
+template: overlap
+[//]: # (list of characters, in color)
+## CHARACTER-ONE:
+## CHARACTER-TWO:
+## CHARACTER-THREE:
+## CHARACTER-FOUR:
+## CHARACTER-FIVE:
+---
+
+class: center, middle, smaller
+END SETTINGS
+---
+---
+
 ---
 template: title
-The First Lady of Television
-.small[
-by 
+.big[
+  The First Lady of Television
 ]
+.small[
+  by 
+]  
 
 ---
 ---
@@ -97,7 +176,11 @@ you'll drink Sanka, you'll feel better. Trust me.
 ---
 
 ## MOLLY:
-Now, you'll have to excuse me because in a minute Sammy and Rosalie will be home and Jake will be home from work, so I have to get ready. 
+Now, you'll have to excuse me because in a minute Sammy and Rosalie will be home 
+
+---
+
+and Jake will be home from work, so I have to get ready. 
 
 ---
 
@@ -260,7 +343,11 @@ What?
 ---
 
 ## ROSALIE:
-I saw a sign at the American Legion Hall. There’s a contest for someone to write the best essay about one of the founding fathers.
+I saw a sign at the American Legion Hall. 
+
+---
+
+There’s a contest for someone to write the best essay about one of the founding fathers.
 
 ---
 
@@ -290,7 +377,11 @@ An essay? Of, course, Rosalie, Darling.
 ---
 
 ## ROSALIE:
-I’m going to get started on it right away. Do you think Sammy will let me use his encyclopedia?
+I’m going to get started on it right away. 
+
+---
+
+Do you think Sammy will let me use his encyclopedia?
 
 ---
 
@@ -429,7 +520,11 @@ Sure. Stand in front of me.
 ---
 
 ## ROSALIE:
-Stand straight. Come on. No slumping. Shoulders back. Left hand out so she can rest her hand in yours. 
+Stand straight. Come on. No slumping. Shoulders back. 
+
+---
+
+Left hand out so she can rest her hand in yours. 
 
 ---
 
@@ -455,7 +550,11 @@ Then bring your left foot together with the right...
 
 ---
 
-Good... Now, take a step back with the right...Then your left leg to the side... 
+Good... Now, take a step back with the right...
+
+---
+
+Then your left leg to the side... 
 
 ---
 
@@ -524,7 +623,11 @@ Oh, Jake.
 ---
 
 ## JAKE:
-How long does a person have to knock on a door? I couldn’t reach my keys. I had to kick the door with my foot.
+How long does a person have to knock on a door? I couldn’t reach my keys. 
+
+---
+
+I had to kick the door with my foot.
 
 ---
 
@@ -639,7 +742,11 @@ Yes.
 ---
 
 ## GERTRUDE:
-So you’re not thinking clearly. You’re going to bring home as many dresses as you can carry. All right?
+So you’re not thinking clearly. You’re going to bring home as many dresses as you can carry. 
+
+---
+
+All right?
 
 ---
 
@@ -663,7 +770,11 @@ Wait a minute. What if I bring in just one dress?
 
 ---
 
-A special dress? I could bring it in like this. Like I’m carrying Cordelia. 
+A special dress? I could bring it in like this. 
+
+---
+
+Like I’m carrying Cordelia. 
 
 ---
 
@@ -834,7 +945,11 @@ I don’t need to work on the dancing.
 ---
 
 ## GERTRUDE:
-It’s going too fast. The “forward/side/together.” You can slow it down. We’ve got time.
+It’s going too fast. The “forward/side/together.” You can slow it down. 
+
+---
+
+We’ve got time.
 
 ---
 
@@ -999,7 +1114,11 @@ Yes?
 ---
 
 ## GERTRUDE:
-I may get a phone call. Let me know right away. If I get a phone call, stop the rehearsal.
+I may get a phone call. Let me know right away. 
+
+---
+
+If I get a phone call, stop the rehearsal.
 
 ---
 
@@ -1107,7 +1226,11 @@ You wouldn’t...?
 ---
 
 ## WALTER:
-Well, I mean, you do what you think is best, of course. But, right now  You have enough to deal with being associated with this one.
+Well, I mean, you do what you think is best, of course. 
+
+---
+
+But, right now  you have enough to deal with being associated with this one.
 
 ---
 
@@ -2211,7 +2334,11 @@ All right. I was trying to put this off, but I can't put it off.
 
 ---
 
-I have been informed by our network that the sponsors of our show are concerned about the attitudes of their customers toward their products.
+I have been informed by our network that the sponsors of our show 
+
+---
+
+are concerned about the attitudes of their customers toward their products.
 
 ---
 
@@ -2315,7 +2442,11 @@ Grocery stores.
 ---
 
 ## GERTRUDE:
-Mr. Johnson is a big fan of the House Un-American Activities Committee. He's been handing out copies of Red Channels in his grocery stores. He's put up signs.
+Mr. Johnson is a big fan of the House Un-American Activities Committee. 
+
+---
+
+He's been handing out copies of Red Channels in his grocery stores. He's put up signs.
 
 ---
 
@@ -3830,7 +3961,11 @@ My favorite Founding Father is George Washington.
 
 ---
 
-He is my favorite founding father because, like our own President Truman, he believed that the United States is the greatest country in the history of the world 
+He is my favorite founding father because, like our own President Truman, 
+
+---
+
+he believed that the United States is the greatest country in the history of the world 
 
 ---
 
@@ -3853,7 +3988,11 @@ but George studied hard and taught himself math, logistics, and map reading.
 ---
 
 ## ROSALIE:
-These skills would serve him well when it came time for him to lead a small, inexperienced army against a mean world power.
+These skills would serve him well when it came time for him to lead a small, 
+
+---
+
+inexperienced army against a mean world power.
 
 ---
 
@@ -4669,7 +4808,11 @@ I just want her to understand.
 ---
 
 ## ARLENE:
-I understand that if people think that one of us is a Communist, they might think all of us are Communists. I can’t have that.
+I understand that if people think that one of us is a Communist, they might think all of us are Communists. 
+
+---
+
+I can’t have that.
 
 ---
 
@@ -5067,7 +5210,11 @@ Now it gets interesting.
 ---
 
 ## PHILIP:
-There were rumors that they were snipers in the trees so a group of people held hands and formed a circle around Robeson to protect him.
+There were rumors that they were snipers in the trees so a group of people held hands 
+
+---
+
+and formed a circle around Robeson to protect him.
 
 ---
 
@@ -5093,17 +5240,25 @@ I won’t stop fightin’... Until I’m dyin.
 Then, in Yiddish, he sang “Song of the Warsaw Ghetto.”
 
 ---
-
+template: song
 Zog nit keyn mol, as du geyst dem letstn veg
 
 ---
-
+template: song
 ## PHILIP & ELI:
-Khotsh himlen blayene farshteln bloye teg Kumen vet nokh undzer oysgebenkte sho S’vet a pyk ton undzer trot mir zaynen do. 
+Khotsh himlen blayene farshteln bloye teg
+
+Kumen vet nokh undzer oysgebenkte sho 
 
 ---
+template: song
+S’vet a pyk ton undzer trot mir zaynen do. 
 
-Kumen vet nokh undzer oysgebenkte sho S’vet a pyk ton undzer trot mir zaynen do.
+---
+template: song
+Kumen vet nokh undzer oysgebenkte sho 
+
+S’vet a pyk ton undzer trot mir zaynen do.
 
 ---
 
@@ -5423,7 +5578,11 @@ Hello? Oh, my. Hello...
 
 ---
 
-I'm so honored and I am almost speechless that you would call me Mr., I mean, Cardinal, I mean, I'm sorry I don't know what to call you... 
+I'm so honored and I am almost speechless that you would call me Mr., I mean, Cardinal, 
+
+---
+
+I mean, I'm sorry I don't know what to call you... 
 
 ---
 
@@ -5436,11 +5595,15 @@ Well, thank you. Thank you for returning my call. I really didn't know…
 
 ---
 
-You… Really? You've watched my show? Well I'm very flattered… That's very kind of you to say... 
+You… Really? You've watched my show? Well I'm very flattered… 
+
+---That's very kind of you to say... 
 
 ---
 
-And you've enjoyed it… No, that is true. You don't have to be Jewish. That's absolutely true.
+And you've enjoyed it… No, that is true. You don't have to be Jewish. 
+
+---That's absolutely true.
 
 ---
 
@@ -5453,11 +5616,19 @@ Yes. From a convent. I'm sorry I don't remember which one.
 
 ---
 
-But this Mother Superior wrote in because she wanted to know if I could send her synopses of six weeks worth of programs because, you see, 
+But this Mother Superior wrote in 
 
 ---
 
-the nuns in her convent had given up The Goldbergs for Lent and they wanted to know what had happened… 
+because she wanted to know if I could send her synopses of six weeks worth of programs because, you see, 
+
+---
+
+the nuns in her convent had given up The Goldbergs for Lent 
+
+---
+
+and they wanted to know what had happened… 
 
 ---
 
@@ -5513,7 +5684,11 @@ So I'm asking you, Your Eminence, to do me a great favor.
 
 ---
 
-I'm asking you to talk to the right people and to use your influence and to end this terrible blacklisting business against my costar, Mr. Philip Loeb and, honestly, 
+I'm asking you to talk to the right people and to use your influence 
+
+---
+
+and to end this terrible blacklisting business against my costar, Mr. Philip Loeb and, honestly, 
 
 ---
 
@@ -6214,7 +6389,15 @@ I just don’t want anyone calling me a Communist.
 ---
 
 ## GERTRUDE:
-You want to do what I do? You want to have your own show? Then, as an artist, as a celebrity, as a woman, you have to be prepared to be called all kinds of things. You understand?
+You want to do what I do? You want to have your own show? 
+
+---
+
+Then, as an artist, as a celebrity, as a woman, you have to be prepared to be called all kinds of things. 
+
+---
+
+You understand?
 
 ---
 
@@ -6521,3 +6704,160 @@ And you go on... You go on... Because this is America. And everyone has freedom.
 ---
 
 THE END
+
+---
+---
+
+template: title
+class: smaller
+Open Captioning for this performance was made possible by CaptionPoint.
+---
+---
+<style>
+/* 2022 styles to match hackmd.io */
+.remark-slide-content { font-size: 6rem; padding: 3% 3%;}
+.remark-slide-content p {padding-bottom: 2%;}
+.remark-slide-content > p:first-child::before {
+  height: 87px;
+}
+.middle.remark-slide-content > p:first-child::before {
+  height: 0rem;
+}
+/* TURN OFF H2 FADE */
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+span.dim {
+  opacity: 1;
+}
+.remark-slide-content p:nth-last-child(n+4),
+.remark-slide-content h2:nth-last-child(n+4){
+  opacity: 1;
+}
+h3.{{plum-purple}},
+h3.{{plum-purple}}-,
+h3.-to-{{plum-purple}},
+h3[class^='{{plum-purple}}'],
+h3.plum-purple {color: #862d86;}
+
+h3.{{magenta}},
+h3.{{magenta}}-,
+h3.-to-{{magenta}},
+h3[class^='{{magenta}}'],
+h3.magenta {color: #FF00FF;}
+
+h3.{{dark-violet}},
+h3.{{dark-violet}}-,
+h3.-to-{{dark-violet}},
+h3[class^='{{dark-violet}}'],
+h3.dark-violet {color: #9400D3;}
+
+h3.{{stiletto-red}},
+h3.{{stiletto-red}}-,
+h3.-to-{{stiletto-red}},
+h3[class^='{{stiletto-red}}'],
+h3.stiletto-red {color: #9e2e2e;}
+
+h3.{{tomato}},
+h3.{{tomato}}-,
+h3.-to-{{tomato}},
+h3[class^='{{tomato}}'],
+h3.tomato {color: #FF6347;}
+
+h3.{{st-tropaz-blue}},
+h3.{{st-tropaz-blue}}-,
+h3.-to-{{st-tropaz-blue}},
+h3[class^='{{st-tropaz-blue}}'],
+h3.st-tropaz-blue {color: #2966a3;}
+
+h3.{{orange-zest}},
+h3.{{orange-zest}}-,
+h3.-to-{{orange-zest}},
+h3[class^='{{orange-zest}}'],
+h3.orange-zest {color: #df8020;}
+
+h3.{{orange}},
+h3.{{orange}}-,
+h3.-to-{{orange}},
+h3[class^='{{orange}}'],
+h3.orange {color: #FFA500;}
+
+h3.{{gold}},
+h3.{{gold}}-,
+h3.-to-{{gold}},
+h3[class^='{{gold}}'],
+h3.gold {color: #FFD700;}
+
+h3.{{green-goblin}},
+h3.{{green-goblin}}-,
+h3.-to-{{green-goblin}},
+h3[class^='{{green-goblin}}'],
+h3.green-goblin {color: #3d8f3d;}
+
+h3.{{lime}},
+h3.{{lime}}-,
+h3.-to-{{lime}},
+h3[class^='{{lime}}'],
+h3.lime {color: #32CD32;}
+
+h3.{{lavender-purple}},
+h3.{{lavender-purple}}-,
+h3.-to-{{lavender-purple}},
+h3[class^='{{lavender-purple}}'],
+h3.lavender-purple {color: #9177AC;}
+
+h3.{{shocking-pink}},
+h3.{{shocking-pink}}-,
+h3.-to-{{shocking-pink}},
+h3[class^='{{shocking-pink}}'],
+h3.shocking-pink {color: #e085b3;}
+
+h3.{{coral}},
+h3.{{coral}}-,
+h3.-to-{{coral}},
+h3[class^='{{coral}}'],
+h3.coral {color: #FF7F50;}
+
+h3.{{hot-pink}},
+h3.{{hot-pink}}-,
+h3.-to-{{hot-pink}},
+h3[class^='{{hot-pink}}'],
+h3.hot-pink {color: #FF69B4;}
+
+h3.{{brown-clay}},
+h3.{{brown-clay}}-,
+h3.-to-{{brown-clay}},
+h3[class^='{{brown-clay}}'],
+h3.brown-clay {color: #996633;}
+
+h3.{{lime-green}},
+h3.{{lime-green}}-,
+h3.-to-{{lime-green}},
+h3[class^='{{lime-green}}'],
+h3.lime-green {color: #00FF00;}
+
+h3.{{pelorous-aqua}},
+h3.{{pelorous-aqua}}-,
+h3.-to-{{pelorous-aqua}},
+h3[class^='{{pelorous-aqua}}'],
+h3.pelorous-aqua {color: #40bfbf;}
+
+h3.{{dodger-blue}},
+h3.{{dodger-blue}}-,
+h3.-to-{{dodger-blue}},
+h3[class^='{{dodger-blue}}'],
+h3.dodger-blue {color: #1E90FF;}
+
+h3.{{cornflower-blue}},
+h3.{{cornflower-blue}}-,
+h3.-to-{{cornflower-blue}},
+h3[class^='{{cornflower-blue}}'],
+h3.cornflower-blue {color: #6495ED;}
+
+h3.{{cyan}},
+h3.{{cyan}}-,
+h3.-to-{{cyan}},
+h3[class^='{{cyan}}'],
+h3.cyan {color: #00FFFF;}
+
+</style>

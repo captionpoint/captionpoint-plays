@@ -5998,7 +5998,3 @@ h2[class^='{{cyan}}'],
 h2.cyan {color: #00FFFF;}
 
 </style>
-
-Buzz promised me the moon!
----
-What possessed any of us?
