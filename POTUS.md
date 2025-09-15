@@ -1,5119 +1,5711 @@
-POTUSOr Behind Every Great Dumbass are Seven Women Trying to Keep Him Alive
+class: center, middle, smaller
+BEGIN SETTINGS
+---
+name: noise
+class: center, middle, noise
+---
+name: title
+class: center, middle
+---
+name: music
+class: center, middle
+&#9834; &#9834;
+---
+name: song
+class: song
+---
+name: aside
+class: aside
+---
+name: overlap
+class: overlap
+---
+
+class: center, middle, smaller
+END SETTINGS
+---
+---
+POTUS<br>
+Or Behind Every Great Dumbass are Seven Women Trying to Keep Him Alive<br>
 By Selina Fillinger
 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Cunt.
 
 ---
 
-JEAN: 
+## JEAN: 
 What?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Cunt.
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 It's not a question.
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 It's not a yes or no question.
 
 ---
 
-JEAN: 
+## JEAN: 
 Publicly?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Yes.
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Please stop saying no.
 
 ---
 
-JEAN: 
+## JEAN: 
 How public? Who exactly was there?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 WashingtonPost.
 
 ---
 
-JEAN: 
+## JEAN: 
 Well
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Huffington Post. 
 
 ---
 
-JEAN: 
+## JEAN: 
 They're hardly 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 CNNJEAN: 
 Okay
 
 ---
 
-HARRIET: 
+## HARRIET: 
 New York Times, BBC, and three Chinese diplomats.
 
 ---
 
-JEAN: 
+## JEAN: 
 The ones who speak English?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 They all speak English.
 
 ---
 
-JEAN: 
+## JEAN: 
 I think there was one last year who struggled with idioms,  you know, like, slang, so it might have gone over his head
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Everyone heard it, everyone got it, two people gasped
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 These are not questions, Jean, stop saying no.
 
 ---
 
-JEAN: 
+## JEAN: 
 He said the words, "My wife's a cunt?"
 
 ---
 
-HARRIET: 
+## HARRIET: 
 He said, "Please excuse my wife's absence. She's having a cunty morning:'
 
 ---
 
-JEAN: 
+## JEAN: 
 Well that's not so bad
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Wow
 
 ---
 
-JEAN: 
-It's not! We can contain that. We all have cunty mornings sometimes. My son has them every week. You're clearly having one today
+## JEAN: 
+It's not! We can contain that. We all have cunty mornings sometimes. 
 
 ---
 
-HARRIET: 
+My son has them every week. You're clearly having one today
+
+---
+
+## HARRIET: 
 She was in the room.
 
 ---
 
-JEAN: 
+## JEAN: 
 What?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 ---
 
 Margaret wasn't absent, she was in the room. She entered late but she had been there for ten minutes when he
 
 ---
 
-JEAN: 
+## JEAN: 
 Called her absent.
 
 ---
 
-HARRIET: 
-And a cuntJEAN: 
+## HARRIET: 
+And a cunt
+
+---
+
+## JEAN: 
 Cunt-y.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 If this is you workshopping your response to the press right now
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm just processing, I'm trying to - Why didn't he see her?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 She was sitting.
 
 ---
 
-JEAN: 
+## JEAN: 
 And therefore invisible?
 
 ---
 
-HARRIET: 
-He was standing, so the diplomats felt like it would be rude to sit, so they were all standing, they were all standing in front of her, blocking his view and she was sitting.
+## HARRIET: 
+He was standing, so the diplomats felt like it would be rude to sit, so they were all standing, 
 
 ---
 
-JEAN: 
+they were all standing in front of her, blocking his view and she was sitting.
+
+---
+
+## JEAN: 
 He stood for the entirety of the meeting?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 He can't sit right now because of/ the thing on his
 
 ---
 
-JEAN: 
+## JEAN: 
 The thing on his - right. I thought they were removing it.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Well they couldn't remove it last week because of the shit with Israel
 
 ---
 
-JEAN: 
+## JEAN: 
 Shit with Israel
 
 ---
 
-HARRIET: 
-And there was talk of doing it today but he got booked up: nine a.m. briefing, ten a.m. China, non­ proliferation discussions in an hour
+## HARRIET: 
+And there was talk of doing it today but he got booked up: nine a.m. briefing, ten a.m. 
 
 ---
 
-JEAN: 
+China, non­ proliferation discussions in an hour
+
+---
+
+## JEAN: 
 Okay, but then
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Two p.m. Leslie Hopper endorsement
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay, but afterwards
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Three p.m. handshakes with the Jacobson twins
 
 ---
 
-JEAN: 
+## JEAN: 
 Can't we reschedule them?
 
 ---
 
-HARRIET: 
-The two veterans who were blinded and maimed while saving their units in Iraq? I'm gonna say JEAN: 
+## HARRIET: 
+The two veterans who were blinded and maimed while saving their units in Iraq? I'm gonna say 
+
+---
+
+## JEAN: 
 I'm just spit-balling
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Three p.m. handshake, five p.m. briefing, six p.m. pedicure
 
 ---
 
-JEAN: 
+## JEAN: 
 Push the pedicure!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Have you seen his feet?
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay, blink, Harry, you're not blinking
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Pedi, tux, then eight p.m. gala honoring FML!
 
 ---
 
-JEAN: 
+## JEAN: 
 What?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 FML! FML! The Female Models of Leadership Council.
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay, I think you need to include the Council part in the acronym because - do you know what that means?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I just told you
 
 ---
 
-JEAN: 
+## JEAN: 
 No, but literally
 
 ---
 
-HARRIET: 
-Literally, I've bullied 200 feminists into attending tonight's gala and written thirty-seven drafts of POTUS's speech so that our female base doesn't literally shrink smaller than a nutsack in the snow! It's final hour, we're headed into reelection: FML!
+## HARRIET: 
+Literally, I've bullied 200 feminists into attending tonight's gala and written thirty-seven drafts of POTUS's speech 
 
 ---
 
-JEAN: 
+so that our female base doesn't literally shrink smaller than a nutsack in the snow! 
+
+---
+
+It's final hour, we're headed into reelection: FML!
+
+---
+
+## JEAN: 
 But if someone texts you FML it means
 
 ---
 
-HARRIET: 
-The point is he's booked, Jean! He's fucking booked, so they had to reschedule the procedure which is why Margaret entered the meeting late, she was talking to Dr. Rifson and she entered the meeting late and POTUS didn't see her - bing, bang, boom: "cuntY:'
+## HARRIET: 
+The point is he's booked, Jean! 
 
 ---
 
-JEAN: 
-So Margaret agrees with Dr. Rifson that the abscess on his anus should be removed - and that makes her a cuntHARRIET: 
-He's pissed she's insisting on surgery. His friend, Jerry, from college said that he had the same thing and that it just went away without surgery.
+He's fucking booked, so they had to reschedule the procedure which is why Margaret entered the meeting late, 
 
 ---
 
-JEAN: 
+she was talking to Dr. Rifson and she entered the meeting late and POTUS didn't see her - bing, bang, boom: "cuntY:'
+
+---
+
+## JEAN: 
+So Margaret agrees with Dr. Rifson that the abscess on his anus should be removed - and that makes her a cunt
+
+---
+
+## HARRIET: 
+He's pissed she's insisting on surgery. 
+
+---
+
+His friend, Jerry, from college said that he had the same thing and that it just went away without surgery.
+
+---
+
+## JEAN: 
 What the fuck does Jerry know?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 He said he should rub tea tree oil on it
 
 ---
 
-JEAN: 
+## JEAN: 
 How does a person even get an anal abscess?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Jerry told him it can happen sometimes from ass play. Ass play. When it's rough. Ass play
 
 ---
 
-JEAN: 
+## JEAN: 
 I know/ what ass play is 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 When it's rough ass play. 
 
 ---
 
-JEAN: 
+## JEAN: 
 Stop saying ass play. Is that particular activity a plausible cause for this anal abscess?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 How would I know?
 
 ---
 
-JEAN: 
+## JEAN: 
 You're his right-hand. 
 ---
 
-HARRIET: 
+## HARRIET: 
 Not for that activity. 
 
 ---
 
-JEAN: 
+## JEAN: 
 You're his chief of staff.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Exactly. You want to know about stuff like that, ask the First Lady.
 
 ---
 
-JEAN: 
+## JEAN: 
 Right, like Margaret would ever go anywhere/ near his
 
 ---
 
-HARRIET: 
-She would know if he was engaging in that kind of thing with anyone elseJEAN: 
+## HARRIET: 
+She would know if he was engaging in that kind of thing with anyone else
+
+---
+
+## JEAN: 
 Why would she know that?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Because it's HIM and it's HER and it's their weird marriage with all their weird "arrangements"!
 ---
 
-JEAN: 
-Well she and I don't have an "arrangement," so I can't just go up to the First Lady and ask if her husband is getting into rough ass play with some other
+## JEAN: 
+Well she and I don't have an "arrangement," so I can't just go up to the First Lady 
 
 ---
 
-HARRIET: 
+and ask if her husband is getting into rough ass play with some other
+
+---
+
+## HARRIET: 
 I'm just saying if you want to know
 
 ---
 
-JEAN: 
-WANT to know? I don't WANT to know. In the last three years, I've had to bail on seven first dates and my sister's mastectomy just to spin shit I don't WANT TO KNOW. And right now I'm trying to figure out if my biggest problem today will be explaining why the President of the United States used the word "cunty" to describe his wife to three diplomats - OR if there is still something MORE awful involving ASS PLAY that I need to know about! IS there, Harriet? Is this day about to become an oozing pustule on the anus of my week? Or is everything fine?
+## JEAN: 
+WANT to know? I don't WANT to know. In the last three years, 
+
 ---
 
-STEPHANIE: 
+I've had to bail on seven first dates and my sister's mastectomy just to spin shit I don't WANT TO KNOW. 
+
+---
+
+And right now I'm trying to figure out if my biggest problem today will be explaining why the President of the United States used the word "cunty" to describe his wife to three diplomats -
+
+---
+
+ OR if there is still something MORE awful involving ASS PLAY that I need to know about! 
+
+---
+
+IS there, Harriet? Is this day about to become an oozing pustule on the anus of my week? Or is everything fine?
+---
+
+## STEPHANIE: 
 No!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I'm gonna punt that man's abscessed ass across the South Lawn and if you don't get out of my way I will shred you like the sad cardigan you are.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Ma'am, he really is busy
 
 ---
 
-MARGARET: 
+## MARGARET: 
 With what.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 You know that I can't
 
 ---
 
-MARGARET: 
+## MARGARET: 
 If he's in there rubbing tea tree oil on his
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 He is not, Ma'am. Anymore. But he is in the middle of
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I checked his schedule and I know he has a break right now.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Something came up.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Did it?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, Ma'am.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 ---
 
 Margaret.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Pardon?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 ---
 
 Margaret or Margie. Do not address me as Ma'am. I sent a memo this morning.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, Ma'am - Margaret - Margie - Why are we calling you by your name now?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 To show how earthy I am.
 
 
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Okay
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Because apparently these days it's not enough to be wildly accomplished and deeply effective
 
 ---
 
-STEPHANIE:  
+## STEPHANIE:  
 Ohh is this about the
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I've launched free lunch programs in 6,000 public schools but all the tweens can meme about are the stilettos I wore to one homeless shelter
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Is that why you're wearing
 
 ---
 
-MARGARET: 
-What do you think, Stephanie? You think this was my idea? You think when I gave my speech as Valedictorian I said, "One day I will walk the halls of the White House in shoes that can double as flotation devices"? No! But there are children to feed, funds to raise, and Time Magazine is interviewing me today for their Women of Excellence series so I will not allow anything to distract from my work - - least of all
+## MARGARET: 
+What do you think, Stephanie? You think this was my idea? 
 
 ---
 
-STEPHANIE: 
+You think when I gave my speech as Valedictorian I said, "One day I will walk the halls of the White House in shoes that can double as flotation devices"? 
+
+---
+
+No! But there are children to feed, funds to raise, and Time Magazine is interviewing me today for their Women of Excellence series 
+
+---
+
+so I will not allow anything to distract from my work - - least of all
+
+---
+
+## STEPHANIE: 
 Ma'am - Margaret - Margie - I am the Presidential Secretary and nobody enters that door without my say-so!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 What's happening?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Harriet gave me a book about women taking up space in the workplace and I've read it twice!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Are you having a stroke?
 
 ---
 
-STEPHANIE: 
-I'm power-stancing, I am decreasing my cortisol levels and increasing my testosterone, thus increasing my confidence! OW!HARRIET: 
+## STEPHANIE: 
+I'm power-stancing, I am decreasing my cortisol levels and increasing my testosterone, thus increasing my confidence! OW!
+
+---
+
+## HARRIET: 
 Jesus. Stephanie, what the hell are you doing? What's on your feet?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Does anyone read my memos?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 She wanted to see the president and I said no! My spine was in alignment and I used declarative sentences!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 That's great- Have you been listening to that playlist I recommended?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 BitchBeats, yes Ma'am, very empowering, I listen to it every morning while I eat my overnight oats.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Why don't you go practice your power stances in the bathroom.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That trash fire must be extinguished.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 She's still in the room, Margaret - Yes, Stephanie?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 The merch for the Female Models of Leadership Council arrived.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Thank you.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 She's like a menopausal toddler.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Stephanie has a photographic memory and speaks five languages. To what do I owe the pleasure, Margaret?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I actually need a chat with POTUS, so if you'll just / excuse me
 
 ---
 
-HARRIET: 
+## HARRIET: 
 He didn't mean it. He's in a lot of pain and it's clouding his judgment.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Your loyalty to my husband is admirable, and I hope you continue to feel fulfilled by your choice to trade youth and beauty for a life of service to him
 ---
 
-MARGARET: 
+## MARGARET: 
 Our ratings would plummet! We would be crucified! She's wanted in three countries, Harry
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I know.
 
 ---
 
-MARGARET: 
-Not to mention all the holidays we'd have to start spending with her if she were to get out - You know, Bernadette bought my daughter a dildo for her sixteenth birthday? And stole my ruby earrings, probably wears them as nipple piercings now
+## MARGARET: 
+Not to mention all the holidays we'd have to start spending with her if she were to get out - 
 
 ---
 
-HARRIET: 
+You know, Bernadette bought my daughter a dildo for her sixteenth birthday? 
+
+---
+
+And stole my ruby earrings, probably wears them as nipple piercings now
+
+---
+
+## HARRIET: 
 I KNOW I FUCKING KNOW, which is why we're not going to let him go through with it, but if you don't back off and let me handle this
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm sorry, did someone say something about Bernadette?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Nope I don't think so, nobody said that
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Of course not, nothing to worry about.
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay 'cause I'm going into the press room right now and if there's something I need to know
 
 
 ---
 
-HARRIET:
+## HARRIET:
 You don't need to know anything, JEAN:
 
 ---
 
-MARGARET:
+## MARGARET:
 Nothing to know. Everything's fine.
 
 ---
 
-JEAN: Okay let's go, fuck me
+## JEAN: 
+Okay let's go, fuck me
 
 ---
 
-HARRIET:
+## HARRIET:
 Go get 'em! Wooohh
 
 
 ---
 
-MARGARET:
+## MARGARET:
 You got this! Knock 'em dead
 
 ---
 
-JEAN: 
+## JEAN: 
 Oh shut up
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Hi!
 
 ---
 
-JEAN: 
+## JEAN: 
 Leave.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 And a cunty morning to you! What a time to be alive, isn't it?
 
 ---
 
-JEAN: 
+## JEAN: 
 God, that thing is loud. You can't pump in my office.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Where else am I gonna do it in this hellish place?
 
 ---
 
-JEAN: 
+## JEAN: 
 Not my problem. Put 'em away. How did you get back here before me?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I know a shortcut from the press room. I thought you handled it very well in there.
 
 ---
 
-JEAN: 
+## JEAN: 
 You have food on your collar.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 The twins just discovered projectile vomiting.
 
 ---
 
-JEAN: 
+## JEAN: 
 I have an extra shirt you can borrow.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 As much as I love your Steve Jobs aesthetic
 
 ---
 
-JEAN: 
+## JEAN: 
 Turtlenecks are universally flattering.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I'll stick with the vomit. How would you say your morning's going, on a spectrum of cocky to cunty?
 
 ---
 
-JEAN: 
+## JEAN: 
 Do you have something for me, or are you just craving companionship since Greg left you?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Bahrain. 
 
 ---
 
-JEAN: 
+## JEAN: 
 What about it. 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 It's a country 
 
 ---
 
-JEAN: 
+## JEAN: 
 I know.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Involved in the nuclear non-proliferation discussions
 
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm aware.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Occurring in fifteen minutes
 
 ---
 
-JEAN: 
+## JEAN: 
 Get there.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Bahrain is pissy about cunty.
 
 ---
 
-JEAN: 
+## JEAN: 
 How do you know?
 
 ---
 
-CHRIS: 
-I've got a buddy at HuffPo who covers the area. The prime minister's unsettled by the fact that the president would be so blatantly disrespectful to someone so close to him.
+## CHRIS: 
+I've got a buddy at HuffPo who covers the area. 
 
 ---
 
-JEAN: 
+The prime minister's unsettled by the fact that the president would be so blatantly disrespectful to someone so close to him.
+
+---
+
+## JEAN: 
 I don't think a government as cozy with Saudi Arabia as Bahrain's can really pass judgment on ours.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I don't think a government as cozy with Saudi Arabia as ours can really pass judgment on Bahrain.
 
 ---
 
-JEAN: 
+## JEAN: 
 We're in bed with their oil, not their gender politics. 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Is that your official comment? 
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Was it an emphasized cunty? Or more of a casual, throw-away cunty?
 
 ---
 
-JEAN: 
+## JEAN: 
 What do you want, Chris?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 A comment.
 
 ---
 
-JEAN: 
+## JEAN: 
 You got my comment in the press room.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I want a better one.
 
 ---
 
-JEAN: 
+## JEAN: 
 I thought you said I handled it well.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Yeah, so handle it poorly for me and I'll make it anonymous.
 
 ---
 
-JEAN: 
+## JEAN: 
 Very cute.
 
 ---
 
-CHRIS: 
-Speaking of fucking adorable, can you please tell Luke to stop sharing his snacks with Kenny? We're trying to get him out of the habit of sharing food at school because of his canola allergy.
+## CHRIS: 
+Speaking of fucking adorable, can you please tell Luke to stop sharing his snacks with Kenny? 
+
 ---
 
-JEAN: 
+We're trying to get him out of the habit of sharing food at school because of his canola allergy.
+---
+
+## JEAN: 
 I'm not going to tell my kid to be less generous because your kid has trouble saying no. I'm raising a feminist.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Yeah, foisting his agenda onto someone who is too polite to refuse sounds super feminist.
 
 ---
 
-JEAN: 
+## JEAN: 
 Sharing is not foisting, grapes are not an agenda, and you're not supposed to be here
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I'm a White House reporter.
 
 ---
 
-JEAN: 
-Doing a fluff piece on the First Lady's excellence for Time. Sounds like someone's being phased out. Who are they replacing you with? Young Harvey? Younger Nate? That giggly boy from Vulture?
+## JEAN: 
+Doing a fluff piece on the First Lady's excellence for Time. Sounds like someone's being phased out. 
 
 ---
 
-CHRIS: 
+Who are they replacing you with? Young Harvey? Younger Nate? That giggly boy from Vulture?
+
+---
+
+## CHRIS: 
 Listen
 
 ---
 
-JEAN: 
-No, you listen: You are a newly divorced mother of three with vomit on your neck and tit juice on your shirt. These guys can out-tweet you, out-text you, chug a Red Bull and work three days straight. Is it fair? No. Am I sympathetic? Sure. But don't think that means I'm going to let you stir shit up just to save your job.
+## JEAN: 
+No, you listen: You are a newly divorced mother of three with vomit on your neck and tit juice on your shirt. 
 
 ---
 
-CHRIS: 
+These guys can out-tweet you, out-text you, chug a Red Bull and work three days straight. 
+
+---
+
+Is it fair? No. Am I sympathetic? Sure. But don't think that means I'm going to let you stir shit up just to save your job.
+
+---
+
+## CHRIS: 
 Honey, I don't need to stir shit up: we got a president throwing his feces at the wall.
 
 ---
 
-JEAN: 
-There isn't a story in Washington smutty enough to get you back in the game, CHRIS:
+## JEAN: 
+There isn't a story in Washington smutty enough to get you back in the game, Chris.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 That a challenge?
 
 ---
 
-JEAN: 
+## JEAN: 
 That's a warning.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 First Lady still going to the gala tonight?
 
 ---
 
-JEAN: 
+## JEAN: 
 Why wouldn't she?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Might be feeling a bit cunty.
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't use that language in my office, please
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Give it up, Jean
 
 ---
 
-JEAN: 
+## JEAN: 
 Get off my dick, Chris 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Is that your comment? 
 
 ---
 
-JEAN: 
+## JEAN: 
 Yes.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Oh!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Frick. I'm so sorry.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Are you okay?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Frick, I got it on my sleeve.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Is that a normal color to be coming out of a person?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 It was buy-one-get-one-half-off for blue raz slushies. There wasn't even a line!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Okay.
 
 ---
 
-DUSTY: 
-Slushies are the only thing I can eat right now. Everything else makes me totally sick. I was feeling great after the blushies - that's what I call blue raz slushies - and then I ate a baby carrot and it all went to frick.
+## DUSTY: 
+Slushies are the only thing I can eat right now. Everything else makes me totally sick. 
 
 ---
 
-STEPHANIE: 
+I was feeling great after the blushies - that's what I call blue raz slushies - and then I ate a baby carrot and it all went to frick.
+
+---
+
+## STEPHANIE: 
 Do you need a doctor?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Oh my gosh you're the cutest to worry, but I'm fine! It's for a beautiful reason! I'm pregnant!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Wow. That is beautiful.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Gross. Sorry. I didn't mean to interrupt your dance practice.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I wasn't
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Whatcha listening to? Oh my gosh - BitchBeats is my favorite playlist! You know they have a karaoke version?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Um, are you an intern?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Oh my gosh do I look like an intern?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Not at all.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'm just visiting.
 
 ---
 
-STEPHANIE: 
-Are you important or are you lost? Did you get separated from a tour? Sorry, it's just you're not allowed to be in this wing unless you have the proper clearance.
+## STEPHANIE: 
+Are you important or are you lost? Did you get separated from a tour? 
 
 ---
 
-DUSTY: 
+Sorry, it's just you're not allowed to be in this wing unless you have the proper clearance.
+
+---
+
+## DUSTY: 
 I thought that's what this is for. 
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 How did you get that? Who are you? 
 
 ---
 
-DUSTY: I'm Dusty.
+## DUSTY: 
+I'm Dusty.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 As in
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Dusty
 
 ---
 
-STEPHANIE:  
+## STEPHANIE:  
 Okay.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'm here about the position.
-r
+
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 What position? 
 
 ---
 
-DUSTY: 
+## DUSTY: 
 The position.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Why are you winking. 
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I was told to be discreet.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 So why are you winking.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Do you mind just, like, pointing me towards the president?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Point you towards the president?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I feel dumb, this is all new to me. I'm supposed to tell the lady that I'm here about the position.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Which lady? What lady? The First Lady?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I can't remember her name, but she's, like, I don't know, she's like really intense?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 They're all intense here, everyone's intense here!
 
 ---
 
-CHRIS: 
-Greg, I swear to god if you don't cancel your date and pick Kenny up from dance class tonight, I will feed our children nothing but prunes for the two days leading up to your weekend with them and they will blow ass on that new white leather couch you think makes your shitty studio look like a bachelor pad!
+## CHRIS: 
+Greg, I swear to god if you don't cancel your date and pick Kenny up from dance class tonight, 
 
 ---
 
-DUSTY: 
+I will feed our children nothing but prunes for the two days leading up to your weekend with them 
+
+---
+
+and they will blow ass on that new white leather couch you think makes your shitty studio look like a bachelor pad!
+
+---
+
+## DUSTY: 
 Not her, but woah.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Oh my god are you here for my position? Are they firing me?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 No! I mean I don't know. I don't know who you are
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 They're replacing ME with YOU? The girl who vomits BLUE?
 
 ---
 
-DUSTY: 
-Are you okay? You're rhyming. STEPHANIE: How many languages do you speak? DUSTY: I think just English. If you arch your back more your boobs will look bigger. I was captain of my school's dance team.
+## DUSTY: 
+Are you okay? You're rhyming. 
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
+How many languages do you speak? 
+
+---
+
+## DUSTY: 
+I think just English. If you arch your back more your boobs will look bigger. I was captain of my school's dance team.
+
+---
+
+## STEPHANIE: 
 I'm gonna be sick.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Blushie?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Leslie, of course you still want the president's endorsement! You're running for governor! Just because a few FML guests
 
-(From the TV:)
+---
+
+## TV ANNOUNCER:
 ..have threatened to boycott tonight's White House dinner..."
 ---
 
-HARRIET: 
+## HARRIET: 
 Okay, but no one's going to notice if
 
-(From the TV:)
+---
+
+
+
+## TV ANNOUNCER:
 ''... the notoriously outspoken musician is now expressing hesitation to peiform at the White House..."
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Look Jean's a pro, she's handling it, it's handled, they're already on to the next cycle
 
-(from the TV:)
+
+
+---
+
+## TV ANNOUNCER:
 ''...when approached for comment, an anonymous -white House source responded, quote, 'Get off my dick."'
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I have to go. "GET OFF MY DICK"?
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm going to kill Chris
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm going to kill YOU
 
 ---
 
-JEAN: 
+## JEAN: 
 I was joking! She knew that! We have a rapport
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm about to go into the non-proliferation meeting with forty world leaders, I can't be dealing with this
 
 ---
 
-JEAN: 
+## JEAN: 
 Just be aware that Bahrain is pissy. 
 
 ---
 
-HARRIET:
+## HARRIET:
 What do you mean, Bahrain's pissy? 
 
 ---
 
-JEAN: 
+## JEAN: 
 About cunty! He's pissy about cunty! 
 ---
 
-HARRIET: 
+## HARRIET: 
 So is everyone!
 
 ---
 
-JEAN: 
+## JEAN: 
 He thought it was disrespectful.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Oh did he? Did he take a break from imprisoning journalists to issue that statement?
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm just saying POTUS has to be extra careful in there.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I don't have time for this! The whole point of these talks is reducing nuclear weapons among global powers - is Bahrain a global power?
 
 ---
 
-JEAN: 
+## JEAN: 
 Depends on your definition of
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No! The only reason Bahrain was even invited today was to look like we give a shit about tiny Arab countries
 
 ---
 
-JEAN: 
+## JEAN: 
 Nice, I love the smell of imperialism in the morning.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Oh shut up! Obviously we personally care that tiny Arab countries exist, we just don't geopolitically care if they're pissy
 
 ---
 
-JEAN: 
+## JEAN: 
 Other countries might
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Wow, Jean, I had no idea your BA in marketing made you such a fucking expert on international diplomacy!
 
 ---
 
-JEAN: 
-I'm talking about the optics, you shriveled twat! Turns out, nuclear war polls really badly with women. So if you want FML to actually land that voting block, POTUS has to appear, for one day, like a level-headed, peace-seeking
+## JEAN: 
+I'm talking about the optics, you shriveled twat! Turns out, nuclear war polls really badly with women. 
 
 ---
 
-HARRIET: 
+So if you want FML to actually land that voting block, POTUS has to appear, for one day, like a level-headed, peace-seeking
+
+---
+
+## HARRIET: 
 Okay well he will! He's great in these meetings. He thrives in these meetings. He's great in these meetings.
 
 ---
 
-JEAN: 
+## JEAN: 
 You said great twice.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 This is his wheelhouse. Room full of men, talking about weapons and war, not a woman in sight
 
 ---
 
-JEAN: 
+## JEAN: 
 You'll be there.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Of course I'll be there.
 
 ---
 
-JEAN: 
+## JEAN: 
 You're a woman.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I don't count.
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't say that. I like your haircut. I don't think it's mannish at all.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What?
 
 ---
 
-JEAN: 
+## JEAN: 
 Nothing.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Who said it was mannish?
 
 ---
 
-JEAN: 
+## JEAN: 
 No one. Nothing. POTUS. But what does he know about
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Dusty girl there's a Dusty girl Dusty in the bathroom
 
 ---
 
-JEAN: 
+## JEAN: 
 Just rinse her off.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 No it's her name her name's Dusty and she's throwing up but says she's here about the position?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Oh my god. She's not supposed to be here until 3:30!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 So you do have a meeting with her? You are considering her?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Bring the girl to my office. Don't let anyone talk to her.
 
 ---
 
-JEAN: 
+## JEAN: 
 Who is she?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No one. Nothing. Don't you have a situation to be containing right now?
 
 ---
 
-JEAN: 
+## JEAN: 
 If there's something you need to tell me
 
 ---
 
-HARRIET: 
+## HARRIET: 
 How about "Get off my dick!"
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay I'm going!
 
 ---
 
-HARRIET: 
-FUCK SHIT BALLS Don't panic. Find something for the president to sit on. At dinner. Something that allows him to sit
+## HARRIET: 
+FUCK SHIT BALLS Don't panic. Find something for the president to sit on. At dinner. 
 
 ---
 
-STEPHANIE: 
+Something that allows him to sit
+
+---
+
+## STEPHANIE: 
 Like a chair?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No, not like a chair
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 But maybe a chair with, like, a hole in it or, like, maybe an inner tube! You know, one of those floaty
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I know what an inner tube is
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 If we covered it with fabric
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Do I look like a sounding board to you, Stephanie?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 No, Ma'am
 
 ---
 
-HARRIET: 
-Find the First Lady and tell her I need her smiling next to POTUS at the Leslie Hopper endorsement. I don't care what you do to get her there, just get her there
+## HARRIET: 
+Find the First Lady and tell her I need her smiling next to POTUS at the Leslie Hopper endorsement. 
 
 ---
 
-STEPHANIE: 
+I don't care what you do to get her there, just get her there
+
+---
+
+## STEPHANIE: 
 Oh god
 
 ---
 
-HARRIET: 
+## HARRIET: 
 But bring the girl to my office
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 What do I do first
 
 ---
 
-HARRIET: 
-All of them Stephanie I need all of them first! Look at me. Look at me. Look at me: if there was ever a time to prove your worth It. Is. Now. Do you understand?
+## HARRIET: 
+All of them Stephanie I need all of them first! Look at me. Look at me. 
 
 ---
 
-STEPHANIE: 
+Look at me: if there was ever a time to prove your worth It. Is. Now. Do you understand?
+
+---
+
+## STEPHANIE: 
 Yes, Ma'am!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 This is your job. Are you good at your job?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I am good at my job!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You are woman! Hear you roar!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 AAAAAAAAAH
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Don't actually yell, Stephanie, there are meetings
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I'm so sorry
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Why are you still standing there?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I just wanted to say how much I've loved working here and how much I appreciate all of your mentorship
 
 ---
 
-HARRIET: 
+## HARRIET: 
 GO!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Well there is no typical, Chris. My daily work is determined by the ever-shifting needs of my five non-profits, two children, and of course, one and only president.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Sorry, my babysitter's 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 If you need to take that 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 No, no. Please continue.
 
 ---
 
-MARGARET: 
-The truth is, even before I was First Lady I always wore multiple hats. Granted, I only had three non-profits back then, but after graduating from Stanford and then Harvard, I managed to keep busy enough with my law firm, my husband's campaigns, my campaigns, my talk show, my book, my other book, my cookbook, my gallery and Taekwondo. If you want to
-
-
+## MARGARET: 
+The truth is, even before I was First Lady I always wore multiple hats. 
 
 ---
 
-CHRIS: 
+Granted, I only had three non-profits back then, but after graduating from Stanford and then Harvard, I managed to keep busy enough with my law firm, 
+
+---
+
+my husband's campaigns, my campaigns, my talk show, my book, my other book, my cookbook, my gallery and Taekwondo. 
+
+---
+
+If you want to
+
+---
+
+## CHRIS: 
 Nope. All the women we are interviewing for this series excel in their respective fields, but you have broken glass ceilings in so many different areas.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 You're too kind
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Politically, culturally, philanthropically
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Joyful work
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Why aren't you president?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That's the eternal question, isn't it?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Anyway
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Anyway
 
 ---
 
-CHRIS: 
+## CHRIS: 
 How do you decompress after a long day?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 You're a mother, Chris, so you know there is nothing more relaxing than spending time with your family
 
 ---
 
-CHRIS: 
+## CHRIS: 
 So relaxing. 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 But also, I hunt! 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Hunt. As in
 
 ---
 
-MARGARET: 
-My Ladies Big Game Hunting Club! For ladies who love to hunt! You should join! Nothing helps you cast off a hard day like stalking your prey, listening for the slightest crack, sniffing for that faintest whiff of musky, gamey smell - and then once you have the beast in your crosshairs, feeling the force of the gun as you pull the trigger, and squinting in the hopes of seeing that splash of blood, that moment of animal shock, as the bullet enters the creature, penetrates the flesh, snuffing out his small, mediocre life once and for all.
+## MARGARET: 
+My Ladies Big Game Hunting Club! For ladies who love to hunt! You should join! 
 
 ---
 
-CHRIS: 
+Nothing helps you cast off a hard day like stalking your prey, listening for the slightest crack, sniffing for that faintest whiff of musky, gamey smell -
+
+---
+
+and then once you have the beast in your crosshairs, feeling the force of the gun as you pull the trigger, and squinting in the hopes of seeing that splash of blood, 
+
+---
+
+that moment of animal shock, as the bullet enters the creature, penetrates the flesh, snuffing out his small, mediocre life once and for all.
+
+---
+
+## CHRIS: 
 That is, um, really
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Earthy.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Right. You've spent your three years in the White House focusing your energy on child hunger
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Yes, and when I think of the ten million children living in poverty
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Totally. And since seventy-one percent of those kids are children of color, I was wondering if you had any plans to spend your last year in office
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Before reelection
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Using your position as a Black First Lady to push our president towards addressing systemic issues impacting the Black community and marginalized groups in general?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Well, Chris, perhaps you consider your Black readers a monolith
 
 ---
 
-CHRIS: 
+## CHRIS: 
 That's not what I
 
 ---
 
-MARGARET: 
+## MARGARET: 
 But I have spent a lifetime fighting that kind of generalization by subverting stereotypes, rejecting identity politics, and being, across the board, un-fucking-paralleled.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Right, so was that a "no" on, say, Black maternal health, voting rights, abolition, reparations
 
 ---
 
-MARGARET: Sounds like you got your stump speech! Maybe you should run for president.
+## MARGARET: 
+Sounds like you got your stump speech! Maybe you should run for president.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Ha! - I would if l wasn't still paying off the hospital bills for my C-section. Speaking of cuntyr
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 CHRIST Chris hi Chris, good to see you, sorry to interrupt, I was just Oh, this?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 This is a, um, gift for the First Lady. From the staff
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Because um, everyone knows she loves inner tubing. Because of how. Earthy. She is.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Stephanie. A word.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Wait, hi, hi, I know you, you're on TV!
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'm a little confused.
 
 ---
 
-JEAN: 
+## JEAN: 
 Ask one of the other intems, I can't
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Could you just point me towards the president?
 
 ---
 
-JEAN: 
+## JEAN: 
 What?
 
 ---
 
-DUSTY: 
-I'm DUSTY:
+## DUSTY: 
+I'm Dusty.
 
 ---
 
-JEAN: 
+## JEAN: 
 I can't help you with that.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 No, I'm Dusty.
 
 ---
 
-JEAN: 
+## JEAN: 
 That's your name.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Yes.
 
 ---
 
-JEAN: 
+## JEAN: 
 Why is your mouth blue? 
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Blushies. I'm pregnant. 
 
 ---
 
-JEAN: 
+## JEAN: 
 Who are you?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'm Dusty
 
 ---
 
-JEAN: 
+## JEAN: 
 You're meeting with Harriet?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Is she the intense one?
 
 ---
 
-JEAN: 
+## JEAN: 
 She's a walking Kegel.
 
 ---
 
-DUSTY: 
-Do you know when the president will be ready to see me? I know he has a lot going on, but I'm only here until tomorrow night and then I'm flying back to the farm.
+## DUSTY: 
+Do you know when the president will be ready to see me? 
 
 ---
 
-JEAN: 
+I know he has a lot going on, but I'm only here until tomorrow night and then I'm flying back to the farm.
+
+---
+
+## JEAN: 
 The farm.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 In Iowa.
 
 ---
 
-JEAN: 
+## JEAN: 
 You're a farmer from Iowa.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Well my dad's the real farmer, but I can handle a hoe. The dream is to start my own regenerative ranch
 
 ---
 
-JEAN: 
+## JEAN: 
 Hang on
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Can I show you the vision board?
 
 ---
 
-JEAN: 
+## JEAN: 
 You're the daughter of a farmer and you're meeting with Harriet but you're here to see the president.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 He sent a private jet!
 
 ---
 
-JEAN: 
+## JEAN: 
 And you're pregnant.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Eighteen weeks! Big as a bell pepper.
 
 ---
 
-JEAN: 
+## JEAN: 
 Are you by any chance into rough ass play?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I guess I am sometimes.
 
 ---
 
-JEAN: 
+## JEAN: 
 Holy fucking balls shit ass bucket pissing dick
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Actually I'm trying not to expose the baby to unkind sounds, so if you could
 
 ---
 
-JEAN: 
+## JEAN: 
 Cock-sucking fuck me with a flaming screwdriver
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Now that takes me back.
 
 ---
 
-JEAN: 
+## JEAN: 
 Bernadette
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 SURPRISE! Jeanie, baby, how are you! What's happening? Fuck, what a dump. You gotta start hiring hotter interns - all your staff look like sweaty Beanie Babies. YOU: coffee. Seven sugars, dash of triple sec.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Sorry, but would you mind putting out your cigarette? I'm pregnant.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 And I'm constipated. We all have our trials. Who's the Prosti-Tot?
 
 ---
 
-DUSTY: 
-I'm DUSTY:
+## DUSTY: 
+I'm Dusty.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 What'd you do - blow a Smurf?
 
 ---
 
-JEAN: 
+## JEAN: 
 What's happening how is this happening
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I banged one of those Blue Man guys once - you know, in my experimental phase: stamina like a bull but I was queefing cobalt for days.
 
 ---
 
-JEAN: 
+## JEAN: 
 You're in PRISON!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Was in prison.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Has anyone ever told you you look so much like the president? Like, you could be his sister.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Holy tits, he's screwing her, isn't he?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Actually the president and I are in love, so it's a lot more than just
 
 
 ---
 
-JEAN: 
+## JEAN: 
 LOWER your voice, oh my god keep it down SHUT UP. How are you here?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 My presidential pardon, baby!
 
 ---
 
-JEAN: 
+## JEAN: 
 For the last time, he's not going to pardon you!
 
 ---
 
-BERNADETTE: 
-Babe, he basically already has. Pulled some strings with the warden and judge so I could get out today, and so long as he makes it official in the next twenty-four hours, they cut this ankle shit off and then it's free Bernie howling at the moon all night every night Ow OWWWWW - give me a howl Prosti-Tot!
+## BERNADETTE: 
+Babe, he basically already has. Pulled some strings with the warden and judge so I could get out today, 
 
 ---
 
-DUSTY: 
+and so long as he makes it official in the next twenty-four hours, they cut this ankle shit off 
+
+---
+
+and then it's free Bernie howling at the moon all night every night Ow OWWWWW - give me a howl Prosti-Tot!
+
+---
+
+## DUSTY: 
 Ow OWWWWWW
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Ow OWWWWWWW
 
 ---
 
-JEAN: 
+## JEAN: 
 Stop it STOP howling NO HOWLING in the White House!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 She's so FUN!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Yo, what you looking at? Did I say you could film me, bitch?/ I will cut that phone out of your hand
 
 ---
 
-JEAN: 
-They're.fifth-graders - they're on a field trip! Listen to me: I don't know what "sibling bond" bullshit you fed POTUS to guilt him into this one but there is no way anyone here is letting him pardon an international drug mule
+## JEAN: 
+They're.fifth-graders - they're on a field trip! 
 
 ---
 
-BERNADETTE:  
+Listen to me: I don't know what "sibling bond" bullshit you fed POTUS to guilt him into this one 
+
+---
+
+but there is no way anyone here is letting him pardon an international drug mule
+
+---
+
+## BERNADETTE:  
 I prefer "drug stallion:'
 
 ---
 
-JEAN: 
+## JEAN: 
 You're not seeing him.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 That's not up to you.
 
 ---
 
-JEAN: 
+## JEAN: 
 It's up to Harriet, which is why I know you're not seeing him.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Harriet works for my brother.
 
 ---
 
-JEAN: 
+## JEAN: 
 Harriet works your brother. Harriet's the number one reason this country continues to function.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 So why isn't she president? 
 
 ---
 
-JEAN: 
+## JEAN: 
 That's the eternal question, isn't it? 
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Is she the one with the man's haircut? 
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 This is a bitter fucking welcome, you know that? You know how many favors I had to call in just so I could see you today on our anniversary?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Awwww
 
 ---
 
-JEAN: 
+## JEAN: 
 Ex-anniversary! And the only reason you ever do anything is for you and if you think I'm going to fall for your star-crossed lovers, Bonnie and Clyde bullshit
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Come on, Jeanie. Those were some long, wet nights on the campaign trail. Don't tell me you've forgotten
 
 ---
 
-JEAN: 
+## JEAN: 
 I-I-I'm not saying I've forgotten, I just
 
 ---
 
-BERNADETTE: 
-Prison changed me. I'm looking for commitment and intimacy, a second chance at life and love. I mean, think of what this pardon could mean for us.
+## BERNADETTE: 
+Prison changed me. I'm looking for commitment and intimacy, a second chance at life and love. 
 
 ---
 
-JEAN: 
+I mean, think of what this pardon could mean for us.
+
+---
+
+## JEAN: 
 Us? 
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I missed you. 
 
 ---
 
-JEAN: 
+## JEAN: 
 Did you?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You look great.
 
 ---
 
-JEAN: 
+## JEAN: 
 Do I?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Love the suit.
 
 ---
 
-JEAN: 
+## JEAN: 
 Do you?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Very Jackie O meets Carl Sagan.
 
 ---
 
-JEAN: 
+## JEAN: 
 Turtlenecks are universally flattering.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Let's get out of here
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Do it.
 
 ---
 
-JEAN: 
-Okay yes I mean yes I mean yes - NO! That's it. Bernie, go to my office - Wait. No. Dusty, you go to my - No. Bad. / Okay okay
+## JEAN: 
+Okay yes I mean yes I mean yes - NO! That's it. Bernie, go to my office - 
 
 ---
 
-BERNADETTE: 
+Wait. No. Dusty, you go to my - No. Bad. / Okay okay
+
+---
+
+## BERNADETTE: 
 You seem stressed. 
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I think you're the intense one. 
 
 ---
 
-JEAN: 
+## JEAN: 
 Give me your/ bag, give me your
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Watch it - I got breakables in there
 
 ---
 
-JEAN: 
+## JEAN: 
 What are these?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 What do they look like? Tums.
 
 ---
 
-JEAN: 
+## JEAN: 
 Hold this
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Can I have one?
 
 ---
 
-JEAN: 
+## JEAN: 
 No.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 No. For fuck's sake
 
 ---
 
-JEAN: 
+## JEAN: 
 You're not going anywhere until I know you're clean.
 
 ---
 
-BERNADETTE: 
-I'm a new woman, Jean, clean as a whistle, straight as an edge. So you can strip me down and turn me inside out, but all you're gonna find is pure, fine, fresh Bernie.
+## BERNADETTE: 
+I'm a new woman, Jean, clean as a whistle, straight as an edge. 
 
 ---
 
-DUSTY: 
+So you can strip me down and turn me inside out, but all you're gonna find is pure, fine, fresh Bernie.
+
+---
+
+## DUSTY: 
 Where was that? I have so many questions!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Okay, so here's the thing...
 
 
 ---
 
-STEPHANIE:	
-I understand you are upset, Ma'am, Margaret, Margie, but this is not coming from me, it's coming from POTUS, or, or rather, Harriet, and I'm afraid it is non-negotiable - I hear you, but you are expected to accompany POTUS to the
+## STEPHANIE:	
+I understand you are upset, Ma'am, Margaret, Margie, but this is not coming from me, it's coming from POTUS, or, or rather, Harriet, 
+
+---
+
+and I'm afraid it is non-negotiable - I hear you, but you are expected to accompany POTUS to the
 
 
 ---
 
-MARGARET:
-This interview is about ME! Not my husband, not the presidency - ME, and Harriet can gnash her teeth about my popularity all she wants but I will not allow her to ruin this by sending some spineless, sweaty, saltine of a human to
+## MARGARET:
+This interview is about ME! Not my husband, not the presidency - ME, and Harriet can gnash her teeth about my popularity all she wants 
+
+---
+
+but I will not allow her to ruin this by sending some spineless, sweaty, saltine of a human to
 
 
 ---
 
-STEPHANIE: 
-AAAAAAAAAAAAH you will accompany POTUS to the front lawn. You will stand next to him and you will smile DON'T TEST ME I AM GOOD AT MY JOB
+## STEPHANIE: 
+AAAAAAAAAAAAH you will accompany POTUS to the front lawn. You will stand next to him and you will smile 
 
 ---
 
-HARRIET: 
+DON'T TEST ME I AM GOOD AT MY JOB
+
+---
+
+## HARRIET: 
 What the hell is going on here?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Oh thank god
 
 ---
 
-MARGARET: 
+## MARGARET: 
 If you have things to say to me, Harry, you tell me directly, don't send your Pomeranian to piddle on my shoe.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Don't worry, Marge, throw those shoes in the dishwasher and they'll be good as new.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Contain your minion! 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What'd you do to her? 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Nothing!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Stand up, Stephanie. 
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I can't.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Get up, Stephanie.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Not yet.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Now, Stephanie!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 It's better down here.
 
 ---
 
-CHRIS: 
-No, she just stepped out for a second, but I'm telling you there is some crazy shit going down here - No! Don't send Nate! I'm saying I got this - hang on, that's my babysitter - don't send Nate! Hi, Lucy, if you go into the garage there should be extra wipes in a box labeled "Emergency Baby:'
+## CHRIS: 
+No, she just stepped out for a second, but I'm telling you there is some crazy shit going down here - 
 
 ---
 
-HARRIET: 
+No! Don't send Nate! I'm saying I got this - hang on, that's my babysitter - don't send Nate! 
+
+---
+
+Hi, Lucy, if you go into the garage there should be extra wipes in a box labeled "Emergency Baby:'
+
+---
+
+## HARRIET: 
 Chris, hi, we'll just be another five.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I have to go. Figure it out!
 
 ---
 
-JEAN: 
+## JEAN: 
 Are you kidding? This is unbelievable. You get out of prison this MORNING and you are already selling drugs in my White House?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 It's temporary! Just a little fast cash while I'm getting back on my feet.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 We really need to put more resources into rehabilitation if we're ever going to tackle recidivism.
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't you have a prostate to stimulate?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Well if you could point me towards the president
 
 ---
 
-JEAN: 
+## JEAN: 
 No!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Look I wasn't even selling today, just collecting on some deals while I was in town
 
 ---
 
-JEAN: 
+## JEAN: 
 "SOME DEALS"
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 No drugs exchanged hands on these grounds. We have a system where I
 
 ---
 
-JEAN: 
+## JEAN: 
 A "SYSTEM"? Who the fuck is "WE"?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You know I can't breach the confidentiality of my clients
 
 ---
 
-JEAN: 
+## JEAN: 
 If you don't tell me right now I'm going to shove this bag so far up your uterus
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Violent violent this feels violent
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 It's not even bad stuff, mostly pharmaceuticals that are already legal in some countries
 
 ---
 
-JEAN: 
+## JEAN: 
 I want names
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Russia, parts of lndia
 
 ---
 
-JEAN: 
+## JEAN: 
 Names of the people you sell to
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I don't know- Marcus, Lance, Jack,/ Jake, Sheldon, Kyle
 
 ---
 
-JEAN: 
+## JEAN: 
 That's half the Cabinet! I'm gonna kill 'em I'm gonna stab 'em in the taint
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Ma'am, I'm going to need you to take a deep breath
 
 ---
 
-JEAN: 
+## JEAN: 
 YOUR NAME IS AN ADJECTIVE: DON'T TELL ME WHAT TO DO.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Jean?
 
 ---
 
-JEAN: 
+## JEAN: 
 Harry 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Bernie 
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Marge
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 YOU?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Dusty
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Oh my god she broke out of prison to kill us all!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Like I'd waste a manicure snapping your leathery neck. I got a guy for that.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I should have known you were here by the smell of lies and yeast infection.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Hey, I paid extra for non-chip nails so let's go
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That's my candlestick holder!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Then you shouldn't have left it out on the table for anyone to take!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 This is you containing the situation?
 
 ---
 
-JEAN: 
+## JEAN: 
 Do NOT lecture me
 
 ---
 
-MARGARET:
+## MARGARET:
 Get out of my White House, or I will tell your mother you're here
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You wouldn't voluntarily call that hag for anything. The only one she hates more than me, is you.
 
 ---
 
-JEAN: 
+## JEAN: 
 YOU are Chief of Staff: YOUR job is to contain situations. I'M the PRESS SECRETARY
 
 ---
 
-MARGARET: 
+## MARGARET: 
 If you've stolen so much as a fork from the White House - Stephanie, check her bag.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, / Ma'am
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Put a hand on me, kid, I bite it off.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, Ma'am
 
 ---
 
-JEAN: 
+## JEAN: 
 MY job is to contain STORIES and I can't contain stories if I don't KNOW the SITUATION, so perhaps you'd like to explain THIS SITUATION
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Put Dusty in my office, Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, Ma'am
 
 ---
 
-JEAN: 
+## JEAN: 
 Stay where you are, Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes, Ma'am
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You got some nerve greeting me like this. You know, I spent an hour on the phone with your son yesterday explaining why it's bad to use tanning lotion as lube.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Now, Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yes Ma'am
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't move, Stephanie
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Oh my god
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Marley would never be so crude
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Why, 'cause he comes from such classy parentage? Sorry to hear about your morning, Marge, I'm afraid I'm all out of cunty pills
 
 ---
 
-DUSTY:
-HEY THERE, FRIEND, WHAT'D YOU SAY? YOU SAY YOU'RE HAVING A REAL BAD DAY? LET'S SIT DOWN AND CHAT AWHILE
-WE'LL FIND A WAY TO MAKE YOU SMILE 'CAUSE CONFLICT CAN BE HEALTHY
+## DUSTY:
+HEY THERE, FRIEND, WHAT'D YOU SAY? 
+
+---
+
+YOU SAY YOU'RE HAVING A REAL BAD DAY? 
+
+---
+
+LET'S SIT DOWN AND CHAT AWHILE
+
+---
+
+
+WE'LL FIND A WAY TO MAKE YOU SMILE 
+
+---
+
+'CAUSE CONFLICT CAN BE HEALTHY,
 CONFLICT CAN BE TRUE
-CONFLICT CAN BRING ME CLOSER TO YOU SO LET'S COGITATE AND ARTICULATE DON'T MONOLOGUE, LET'S DIALOGUE
-BUT IN ORDER TO GROW, FIRST WE MUST LISTEN AND IN ORDER TO LISTEN
-FIRST WE MUST HUSH FIRST WE MUST HUSH FIRST WE MUST HUSHHH
+
+---
+
+
+CONFLICT CAN BRING ME CLOSER TO YOU 
+
+---
+
+SO LET'S COGITATE AND ARTICULATE DON'T MONOLOGUE, LET'S DIALOGUE
+
+
+---
+
+BUT IN ORDER TO GROW, FIRST WE MUST LISTEN 
+
+---
+
+AND IN ORDER TO LISTEN
+FIRST WE MUST HUSH 
+
+---
+
+FIRST WE MUST HUSH 
+
+---
+
+FIRST WE MUST HUSHHH
+
+---
+
+
 That's great, guys, really good stuff.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I've dropped acid on Air Force One on three separate occasions but that was by far the most out-of­ body experience I've ever had.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 HER? SERIOUSLY?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 What is this?
 
 ---
 
-DUSTY: 
-It seems like there are a lot of strong feelings in the room right now, but the good news is I am a certified conflict resolution mediator and I'm happy to provide my services.
+## DUSTY: 
+It seems like there are a lot of strong feelings in the room right now, 
 
 ---
 
-STEPHANIE: 
+but the good news is I am a certified conflict resolution mediator and I'm happy to provide my services.
+
+---
+
+## STEPHANIE: 
 I could be a mediator! I'll get certified! I'll do whatever you want!
 
 ---
 
-HARRIET:  
+## HARRIET:  
 What are you talking about?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 You don't have to fire me I'll take up space I'll mediate while taking up space
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Stephanie, what the fuck is going on with you -
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Oh my god you're the one into ass play, aren't you?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Why do people keep asking me that? Is it my highlights?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 She's into more than that: you don't get pregnant off ass play.
 
 ---
 
-MARGARET:  
+## MARGARET:  
 Pregnant?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Bernadette, for the love of
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I could be into ass play! If that's what you want, I could, I could
 
 ---
 
-JEAN: 
+## JEAN: 
 Wait, no
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Oh, shit
 
 ---
 
-JEAN: 
+## JEAN: 
 How many of those have you had?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Six?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Oh shit
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't say oh shit they're Tums Bernie tell me they're Tums
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Listen to me, you little slut
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No no no no
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Look, everyone responds differently, she might not even feel them
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Feel what?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 If you think you can show up here, unannounced, and blackmail the president
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Feel what?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 What? No, POTUS invited me, I'm here to celebrate our little president-to-be.
 
 ---
 
-MARGARET: NOPE, that's it, I'm out- Bernie.
+## MARGARET: 
+NOPE, that's it, I'm out- Bernie.
 ---
 
-JEAN: 
+## JEAN: 
 Are you kidding me?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Relax, those things are like vitamins to her by now.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Are my feet on the ground?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Oh shit.
 
 ---
 
-JEAN: 
+## JEAN: 
 Oh shit.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 When I sent him a pie of the ultrasound he texted me that I should come in to celebrate.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Nope, that was me.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 What? No, 'cause then I also sent him my favorite Rilke poem and a picture of my nipples.
 
 ---
 
-HARRIET: 
-And they were great. The thing is, POTUS is really busy. He's actually going into a meeting about bombs in seven minutes ago, fuck me - so he's talking to world leaders about bombs, right now,  little chat and
+## HARRIET: 
+And they were great. The thing is, POTUS is really busy. He's actually going into a meeting about bombs in seven minutes ago, fuck me - 
 
 ---
 
-JEAN: 
+so he's talking to world leaders about bombs, right now,  little chat and
+
+---
+
+## JEAN: 
 Here? You're doing this IN the White House?r
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Where else am I gonna do it? A back alley? You don't think that'd make her a bit suspicious?
 
 ---
 
-JEAN: 
+## JEAN: 
 Have you TALKED to the girl? You could tell her to meet you at the ABORTION CLINIC and she wouldn't be suspicious!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I volunteer at a clinic back in Iowa. Affordable, safe reproductive health care is a basic human right.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Where is the ground?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Okay, honey? Honey, here's the thing: as much fun as I'm sure you and the president had together
 
 ---
 
-DUSTY: 
+## DUSTY: 
 We're in love.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 The thing is this pregnancy is not, um. Happening.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 It is, I have a copy of the ultrasound right here.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Ooh I'll take that. So, um, there are a few options, or, really just two options. There's adoption. Which is great. Jean's kid is adopted
 
 ---
 
-JEAN: 
+## JEAN: 
 Please don't bring me in
 
 ---
 
-HARRIET: 
+## HARRIET: 
 See? Your baby could have a mom like Jean! Isn't Jean great?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 The violent one with no neck?
 
 ---
 
-JEAN: 
+## JEAN: 
 Turtlenecks are universally
 
 ---
 
-HARRIET: 
-Shut the fuck up. So adoption's one option and obviously we would handle all the logistics there. Um and the other option is, ummmm, not doing it at all.
+## HARRIET: 
+Shut the fuck up. So adoption's one option and obviously we would handle all the logistics there. 
 
 ---
 
-DUSTY: 
+Um and the other option is, ummmm, not doing it at all.
+
+---
+
+## DUSTY: 
 And the other option is having it.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I feel like we're not quite understanding each other.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 She means snip, snip, flush
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Jesus Christ
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I'm on a clock here, I got a pardon to get!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 See, the way it works is we give you money and, in exchange, the pregnancy isn't - it doesn't - it it it goes away.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Thank you, but I don't need money. Our farm's the number-one flax farm in Iowa.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 There is no ground! Why is there no ground?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Okay honey, honey, we're talking about the President of the United States, right? The married president. Do you see the problem? Do you see how that could make for some icky headlines?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I guess I do see why a few people might be mad about the president having a baby with someone other than his wife
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Good, good, I'm glad you see/ that.
 
 ---
 
-DUSTY: 
-But I kinda think more people would be even madder if they found out you tried to bribe the president's girlfriend into having an abortion against her will. Don't you think?
+## DUSTY: 
+But I kinda think more people would be even madder if they found out you tried to bribe the president's girlfriend into having an abortion against her will. 
 
 ---
 
-STEPHANIE: 
+Don't you think?
+
+---
+
+## STEPHANIE: 
 The walls are BREATHING! DEVIL BOOBS!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 GET HER
 
 ---
 
-JEAN: 
+## JEAN: 
 I GOT HER PHONE
 
 ---
 
-HARRIET: 
+## HARRIET: 
 DON'T LET HER LEAVE
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That is twelfth-century Japan you uncultured cow! NONO NO
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Give me my phone and get out of my way or I will break this head into a million pieces
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That is notable suffragist Alice Paul!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I will break her ugly face!
 
 ---
 
-JEAN: 
+## JEAN: 
 Break whatever you want you're not getting your phone!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 One 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 NO 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Two 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Wait 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 THREE
 
-HARRIET	
+---
+
+
+
+## HARRIET:
 Mr. President?
 
-
-
+---
+---
+template: title
 INTERMISSION
 
 
 
-
+---
 ---
 
-DUSTY: 
+## DUSTY: 
 NOOOOOOOOOOOOOOOO
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Oh HELL no
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Oh my god
 
 ---
 
-DUSTY: 
+## DUSTY: 
 MYLOVVWVVVE HE'S DEEAAAAAD
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Shut up shut up shut up
 
 ---
 
-JEAN: 
+## JEAN: 
 What are you doing?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I'm wiping down fingerprints, and then you and me, we're skipping town, we're going to Mongolia
 
 ---
 
-JEAN: 
+## JEAN: 
 Mongolia?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I got a guy!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 YOU KILLED HIM
 
 ---
 
-HARRIET: 
+## HARRIET: 
 BE QUIET
 ---
 
-JEAN: 
+## JEAN: 
 Harriet! Oh my god!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Damn she's got an arm
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I'm going to go away for life they're going to send me to Guantanamo they'll give the kids to Greg and then one of his girlfriends will put them up for adoption
 
 ---
 
-DUSTY: 
+## DUSTY: 
 YOU AND YOUR MEAN FRIENDS KILLED MY MY MY LOOOOOVE
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Help me someone fucking help me
 
 ---
 
-JEAN: 
+## JEAN: 
 Don't hurt her! We can't kill another
 
 ---
 
-DUSTY: 
+## DUSTY: 
 WE WERE GOING TO GROW FLAX TOGETHERRRRRR
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Stop - OW - does it look like we have this under control, Jean?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 NAKED TIME NAKED TIME
 
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm sorry but we can't let you go until you stop shouting
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You have to shut up or we're all finished, do you understand me
 
 ---
 
-MARGARET: 
-ENOUGH! You say you loved him, yes? And he loved you? WHEN did he love you? When you were weak and weepy, on your back, girly and soft? NO! He loved you when you were an AMAZON, a BEAST, an EVIL STEPMOTHER shoving a TENNIS RACKET UP HIS ASS! So for the man you loved, the country he led, and the child he gave you, PULL YOURSELF TOGETHER.
+## MARGARET: 
+ENOUGH! You say you loved him, yes? And he loved you? WHEN did he love you? 
 
 ---
 
-MARGARET: 
+When you were weak and weepy, on your back, girly and soft? NO! He loved you when you were an AMAZON, a BEAST, an EVIL STEPMOTHER shoving a TENNIS RACKET UP HIS ASS! 
+
+---
+
+So for the man you loved, the country he led, and the child he gave you, PULL YOURSELF TOGETHER.
+
+---
+
+## MARGARET: 
 Bernie, untie her. Chris, stand up. Jean, go out the office door, tell the secret service that the president is going to be a bit.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 A bit? He's going to be more than a bit
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Oh I'm sorry, do you have a better idea? Is this all part of some master plan? Because here I thought your contribution ended at DEATH by DISCUS!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 She's right. Jean: go.
 
 ---
 
-JEAN: 
+## JEAN: 
 Why me?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Because you lie for a living!
 
 ---
 
-JEAN: 
+## JEAN: 
 I look at the bright side for a living! HARRI ET. Well right now you're going to go LIE! CHRIS: This isn't going to work.
 
 ---
 
-MARGARET: 
-Leslie, hi, in light of the concerns you expressed this morning, we've decided that the optics will be better if I do your endorsement and we push it back an hour.
+## MARGARET: 
+Leslie, hi, in light of the concerns you expressed this morning, 
 
 ---
 
-HARRIET: 
+we've decided that the optics will be better if I do your endorsement and we push it back an hour.
+
+---
+
+## HARRIET: 
 Now, Jean, before we go down in history next to Booth and Oswald!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Wonderful, Leslie, we'll be in touch.
 
 ---
 
-JEAN: 
+## JEAN: 
 What do I tell them?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Just buy us some time! Say anything! Say Margaret's giving him a blowjob
 
 ---
 
-MARGARET: 
+## MARGARET: 
 They'll never believe that.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Who's out there?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Two secret service agents: Kevin and
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Kevin's a client.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Good, you go. Tell him FLOTUS and POTUS are doing something weird, say it's nasty, say he doesn't want to go in there.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Tell him it's the mango thing. Kevin's walked in on that one before.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 He loved the mango thing.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 If it doesn't work, give the guy drugs, give him money, give him a blowjob
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Th-is is insane.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Wait, who's the other one - is it Danny?
 
 ---
 
-JEAN: 
+## JEAN: 
 Who cares?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 We got bad blood.
 
 ---
 
-JEAN: 
+## JEAN: 
 Bad blood?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 He thinks I sold him some bad stuff and overcharged him for it.
 
 ---
 
-JEAN: 
+## JEAN: 
 Did you?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 The lines are blurry!
 
 ---
 
-JEAN: 
+## JEAN: 
 You can't even deal drugs honestly? See, this is why you and I will never work
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Hey, I'm trying to go legit and save up for my tattoo parlor but it's a tough economy right now because SOMEONE keeps NOT DELIVERING on his TAX PLAN!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 That is CONGRESS! That is NOT our fault!
 
 ---
 
-DUSTY: 
+## DUSTY: 
  I'll do it. I'll blow Kevin and Danny. For POTUS, I'll blow them both.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Atta girl.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 We are talking about the secret service here! They're not going to be sucked in by some kid trying to suck 'em off
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Is she like the last idealistic journalist in Washington?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 This is a matter of national security! We need to notify the vice president right now.
 
 ---
 
-JEAN: 
+## JEAN: 
 Are you out of your/ mind?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You've got to be joking.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 That man is as useful in a crisis as a turnip.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Someone ELSE, then. We need a PLAN. Dusty can deep throat her way through the White House, but that won't change the fact that we MURDERED the PRESIDENT
 
 ---
 
-JEAN: 
+## JEAN: 
 You mean YOU murdered the president
 
 ---
 
-CHRIS: 
-DON'T. YOU. DARE. If he was doing his job he would be across the White House right now making peace treaties! Why was he even here? He should not have walked in this room, he should not be living in this house, he should not be running this nation, and YOU KNOW IT! He's the pyromaniac, but you gave him kindling, you gave him matches, you figured he'd burn his fingers and learn his lesson - Well he DIDN'T, and now the WHOLE FUCKING WORLD IS ON FIRE! So we will douse those flames, or we will burn in them together, but don't think for one second I am marching to that stake by myself!
+## CHRIS: 
+DON'T. YOU. DARE. If he was doing his job he would be across the White House right now making peace treaties! 
 
 ---
 
-DUSTY: 
+Why was he even here? He should not have walked in this room, he should not be living in this house, he should not be running this nation, and YOU KNOW IT! 
+
+---
+
+He's the pyromaniac, but you gave him kindling, you gave him matches, you figured he'd burn his fingers and learn his lesson - 
+
+---
+
+Well he DIDN'T, and now the WHOLE FUCKING WORLD IS ON FIRE! 
+
+---
+
+So we will douse those flames, or we will burn in them together, but don't think for one second I am marching to that stake by myself!
+
+---
+
+## DUSTY: 
  Holy frick, why isn't SHE president?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Go blow the secret service, kid!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 How long do you need?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 How long can you buy us?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Fifteen minutes each, plus flirting and soothing - I'd say forty minutes total?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Make it forty-five.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'll ask them about their favorite video games.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 What. Is. Our. Plan.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I have my plan, I'm getting out - Jeanie, let's go
 
 ---
 
-JEAN: 
+## JEAN: 
 I have a kid!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 We can ship him later!
 
 ---
 
-JEAN: 
+## JEAN: 
 Ship him how?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I got a guy!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 You are not going anywhere.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You gonna stop me, Marge?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Yes.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 That thing's not loaded.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Yes it is
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Why do you have a loaded gun in here?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 For when my husband's evil sister breaks out of prison!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I got a presidential pardon!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Not yet, you don't, and now that he's dead, you never will - UNLESS you help us come up with a plan and deal with his body.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 And then what - he comes back to life and pardons me?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You get us through today, I will sign your pardon for him. I forge his signature all the time.
 
 ---
 
-JEAN: 
+## JEAN: 
 Not on official documents!
 
 ---
 
-HARRIET: 
-Oh I'm sorry, is THAT the ethical line we've decided not to cross today? She's probably the only one here who knows what to do with a body, right? I bet you even got a guy just for bodies, right?
+## HARRIET: 
+Oh I'm sorry, is THAT the ethical line we've decided not to cross today? 
 
 ---
 
-BERNADETTE: 
+She's probably the only one here who knows what to do with a body, right? I bet you even got a guy just for bodies, right?
+
+---
+
+## BERNADETTE: 
 Charlie is good at what he does.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Exactly. You help us out, within twenty-four hours we all walk free. Tell us what to do.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Suicide. We make it look like he killed himsel£
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Right, because people smash their skulls against marble suffragists all the time.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 If we stage it right we could make it look like he overdosed, passed out, and hit his head on the way down.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Why would he commit suicide in my office?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Your personality, your voice, the decor...
 
 ---
 
-HARRIET: 
+## HARRIET: 
 She's right, we have to move him and clean up all evidence of any
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Blood!
 
 ---
 
-JEAN: 
+## JEAN: 
 Oh my god
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Blooooooooood
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No, Stephanie? Stephanie, look at me
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Blood paint blood paint blood paint
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I know you feel weird right now, but you need to hold it together, okay? Stephanie, you are the presidential secretary, / remember?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I AM WOMAN
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Yes, yes you are, and
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 SPACE! MY SPACE
 
 ---
 
-MARGARET: 
+## MARGARET: 
 No, not my - GRAB HER
  
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 YOU! You are NOT NICE TO ME
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Stephanie, I think this is a great opportunity to calmly express
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 YOU DIE NOW
 
 ---
 
-MARGARET: 
+## MARGARET: 
 HELP I can't run in Croes! I can't run in Crocs!
 
 ---
 
-JEAN: 
+## JEAN: 
 How long is she gonna be like this?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I don't know, she's got the tolerance of a hamster, but she seems to be going through all the normal stages
 
 ---
 
-JEAN: 
+## JEAN: 
 What are the normal stages?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Visions, belligerence, mania, unquenchable sexual thirst, and vomiting.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Look, honey, keys! Oooooh, keys! NOPE, doesn't like keys!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I think we're pretty firmly in Belligerence.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 The door - she's heading for the
 
 ---
 
-MARGARET: 
+## MARGARET: 
 My carpet!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Gross, sorry, I'm normally fine with swallowing, but this pregnancy has thrown me all off.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 You said forty-five minutes!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 They were so excited, but it's okay, I left them asleep in the closet. They looked so cute together, you didn't tell me they were twins!
 
 ---
 
-JEAN: 
+## JEAN: 
 Twins? They're not
 
 ---
 
-DUSTY: 
+## DUSTY: 
 It's amazing they can protect the president even though one of them is blind and one of them is missing an arm.
 
 ---
 
-JEAN: 
+## JEAN: 
 Oh my GOD, the vets - she blew the VETERANS!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Ohhh. You know, that makes more sense.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 What a surprise that the blowjob plan backfired, that one seemed airtight.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Hey! We all serve in different ways and if I can provide any relief to those brave men I consider that a win!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Wait, what's happening, I can't hear the TV!
 
-(From the Tv.·)
+---
+
+## TV ANNOUNCER:
 ..president reportedly stormed out of the nuclear non-proliferation discussions, after a.fiery exchange with the Prime Minister of Bahrain."
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No nano
-
-(From the Tv.·)
-''Sources within the U'hite House say the president refused to sit for the duration of the negotiations, which the prime minister and several other world leaders interpreted as, quote, 'an aggressive power move.'"
 
 ---
 
-HARRIET: 
+
+
+## TV ANNOUNCER:
+''Sources within the U'hite House say the president refused to sit for the duration of the negotiations, 
+
+---
+
+which the prime minister and several other world leaders interpreted as, quote, 'an aggressive power move.'"
+
+---
+
+## HARRIET: 
 You FUCKER
 
-(From the Tv.·)
+---
+
+## TV ANNOUNCER:
 "The White House has yet to release an official statement, but the prime minister says there will be, quote, 'regretful consequences."'
 
 ---
 
-HARRIET: 
+## HARRIET: 
 After everything I do to get you here 
 
 
 ---
 
-JEAN: 
+## JEAN: 
 Stop it shut up they'll hear you 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm going to follow you to hell! 
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Get the sweater! Gag her 
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Dusty; hit her again!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I don't want to hurt her, I don't know my own strength!
 
 ---
 
-JEAN: 
+## JEAN: 
 Sorry oh my god are you okay? Harriet?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm never gonna have a shot in five years, not even for vice president
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Hey, no, don't say/ that
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I thought my haircut made me look presidentiaaaaal
 
 ---
 
-CHRIS: 
+## CHRIS: 
 It does. You look just like Reagan.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Noooo trickle-down economics are the worrrrst
 
 ---
 
-JEAN: 
+## JEAN: 
 Hey, hey, stop it, listen to me: we can still contain this.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 It's too much 
 
 ---
 
-JEAN: 
+## JEAN: 
 No it's not 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm too tired 
 
 ---
 
-JEAN: 
+## JEAN: 
 No you're not
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Let's just go to prison, Jean, maybe it's not so bad. You could teach me how to be a lesbian
 
 ---
 
-JEAN: 
+## JEAN: 
 That's not how lesbians work and no one's going to prison! This is what we're going to do: Margaret takes the endorsement. Tweak the speech to make it your own, stretch it as long as you can, look happy, look easy, look
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Earthy.
 
 ---
 
-JEAN: 
+## JEAN: 
 Sure. While she's got the press, we move the body. The vets are conked out with their cocks out, so we can cross them off the schedule - thank you, Dusty
 
 ---
 
-DUSTY: 
+## DUSTY: 
 They're the real heroes.
 
 ---
 
-JEAN: 
+## JEAN: 
 Okay. Chris - you know how to get blood and vomit out of upholstery?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I do it after every playdate.
 
 ---
 
-JEAN: 
-Stay visible, don't talk to each other, go about your days. And then tonight, right when he's supposed to be onstage for his FML speech, POTUS will be found across the White House with three horse tranquilizers up his butt and a suicide note in his hand.
+## JEAN: 
+Stay visible, don't talk to each other, go about your days. And then tonight, right when he's supposed to be onstage for his FML speech, 
 
 ---
 
-MARGARET: 
+POTUS will be found across the White House with three horse tranquilizers up his butt and a suicide note in his hand.
+
+---
+
+## MARGARET: 
 That could work.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 It's brilliant.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I've never been so attracted to you in my life.
 
 ---
 
-JEAN: 
+## JEAN: 
 Wadda ya say, Harry?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 We got Bahrain. We got cabinet members on drugs. We got two hundred feminists coming to dinner pissed about cunty - that shit won't go away just cuz he's dead
 
 ---
 
-JEAN: 
-But it will! Think about it: you can't go after a guy who just killed himself You can't criticize a country in mourning. That would be distasteful!
+## JEAN: 
+But it will! Think about it: you can't go after a guy who just killed himself 
 
 ---
 
-HARRIET: 
+You can't criticize a country in mourning. That would be distasteful!
+
+---
+
+## HARRIET: 
 But
 
 ---
 
-JEAN: 
+## JEAN: 
 He was unwell. He can't be held responsible for his words, or his actions, he can't be held to etiquette or facts - he was sad!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 But
 
 ---
 
-JEAN: 
-This is what you do, Harry. You stand in for him every single day, you've done it for years. You clean up his messes, you make excuses, you do his job, and then you wake up and do it all over again. But what if today is different? What if this is the last mess of his you ever have to clean? What if it's All. Finally. Over.
+## JEAN: 
+This is what you do, Harry. You stand in for him every single day, you've done it for years. 
 
 ---
 
-STEPHANIE: 
+You clean up his messes, you make excuses, you do his job, and then you wake up and do it all over again. 
+
+---
+
+But what if today is different? What if this is the last mess of his you ever have to clean? 
+
+---
+
+What if it's All. Finally. Over.
+
+---
+
+## STEPHANIE: 
 Bye-bye.
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 IT'S ALL MIIIIIIIIIIIIINNNNNEE
 
 ---
 
-HARRIET: 
-What do you mean, "Why would Norway involve itself?" Because that's what allies do, Hilde. You back us and in exchange we give you things that Norway needs, like peanut butter and genetic diversity. Oh nice, Hilde, you eat your herring with that mouth?
+## HARRIET: 
+What do you mean, "Why would Norway involve itself?" Because that's what allies do, Hilde. 
 
 ---
 
-JEAN: 
-Do I seem worried? No, Eric, please don't speak until I call on you. If I don't seem worried then I must not be worried - No, like I said, the talks did not stall, they just broke for lunch. Well maybe the Saudi minister wanted to go home for lunch, Eric, did you think about that?
-- No, I don't see your hand - Look, if POTUS were worried, then I would be worried, but we've established I'm not worried, so by that logic - Hand, Eric
+You back us and in exchange we give you things that Norway needs, like peanut butter and genetic diversity. 
 
 ---
 
-HARRIET:
+Oh nice, Hilde, you eat your herring with that mouth?
+
+---
+
+## JEAN: 
+Do I seem worried? No, Eric, please don't speak until I call on you. 
+
+---
+
+If I don't seem worried then I must not be worried - 
+
+---
+
+No, like I said, the talks did not stall, they just broke for lunch. 
+
+---
+
+Well maybe the Saudi minister wanted to go home for lunch, Eric, did you think about that?
+
+---
+
+
+No, I don't see your hand - Look, if POTUS were worried, then I would be worried, but we've established I'm not worried, 
+
+---
+
+so by that logic - Hand, Eric
+
+---
+
+## HARRIET:
 Absolutely, Javier. And you can tell the ambassador that nobody is undermining these negotiations, least of all
 
 ---
 
-MARGARET:	
+## MARGARET:	
 "Leslie Hopper is not only a dear friend, but a fellow activist, who has dedicated her life to serving our president ...!'
 
 ---
 
-HARRIET: 
+## HARRIET: 
 My husband
 
 ---
 
-MARGARET: 
+## MARGARET: 
 "My husband/ hails from"
 
 ---
 
-HARRIET: 
+## HARRIET: 
 President!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 You have the handwriting of a drunk baby!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 When I say husband I mean president, because, because what is the president if not America's husband, am I right?
 
 ---
 
-CHRIS:
+## CHRIS:
 Ow ow ow
 
 ---
 
-BERNADETTE:
+## BERNADETTE:
 Shut up. Shut up. Shut up.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 She couldn't have gotten far. What's in there?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Just dudes in suits.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Shit! He sent Nate!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Who's Nate?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 A snot-faced preteen who thinks he's a journalist. Dammit, I told Alan I had this story locked down!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You told your boss you had a big story? Are you crazy?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I didn't know! That was this morning! Back when skies were still blue and grass was still green and my big scoop was cunty!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Harriet is moving dead POTUS across the White House right now and you have literally invited a journalist
 
 ---
 
-CHRIS: 
-I didn't invite him! If I had it my way that preppy little WASP would be strung up by his Nate! Hi! Oh, were you in there? I didn't see you, how funny, I was just looking for, um, the, um bathroom. Ha ha. Clearly having a bit of a frazzled - What? Oh, yes, sorry, this is, um
+## CHRIS: 
+I didn't invite him! If I had it my way that preppy little WASP would be strung up by his Nate! 
 
 ---
 
-BERNADETTE: 
+Hi! Oh, were you in there? I didn't see you, how funny, I was just looking for, um, the, um bathroom. Ha ha. 
+
+---
+
+Clearly having a bit of a frazzled - What? Oh, yes, sorry, this is, um
+
+---
+
+## BERNADETTE: 
 Chanterelle.
 
 ---
 
-CHRIS:	
+## CHRIS:	
 Chanterelle. My, um, my, um babysitter.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Girlfriend.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Former babysitter, current girlfriend. Hey, in this post-feminist world, women can run off with the nanny too haha
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Post it post it post it post it post it post it post it post it
 
 ---
 
-CHRIS: 
-And this is STEPHANIE: She's our housekeeper
+## CHRIS: 
+And this is Stephanie. She's our housekeeper
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Slave.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 No!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Sex slave.
 
 ---
 
-CHRIS: 
-Consensual! Voluntary. Loves it. We all do. Anyway, Nate, I got everything handled here, so why don't you go back to the office and - pardon? No no Alan must have misunderstood me. When I said big story I meant my profile on the First Lady. Gonna be big. The "woman behind the Botox" that sort of - No, you don't need to, I'm saying there's nothing here. What do you mean, "Perhaps I'm not the best judge of that:'
+## CHRIS: 
+Consensual! Voluntary. Loves it. We all do. Anyway, Nate, I got everything handled here, so why don't you go back to the office and - pardon? 
 
 ---
 
-BERNADETTE: 
+No no Alan must have misunderstood me. When I said big story I meant my profile on the First Lady. Gonna be big. 
+
+---
+
+The "woman behind the Botox" that sort of - No, you don't need to, I'm saying there's nothing here. 
+
+---
+
+What do you mean, "Perhaps I'm not the best judge of that:'
+
+---
+
+## BERNADETTE: 
  Babe, why don't we
 
 ---
 
-CHRIS: 
+## CHRIS: 
 You know what, Nate? Fuck you. Because there is a story. A big, fat, juicy story
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Darling
 
 ---
 
-CHRIS: 
-A behemoth of a story, that I dug up, that's mine, that will be printed with my name on it, and if you try to take it from me, I will stab you in the throat with that hipster fucking fountain pen you love so much
+## CHRIS: 
+A behemoth of a story, that I dug up, that's mine, that will be printed with my name on it, and if you try to take it from me, 
 
 ---
 
-BERNADETTE: 
+I will stab you in the throat with that hipster fucking fountain pen you love so much
+
+---
+
+## BERNADETTE: 
 Oh shit
 
 ---
 
-CHRIS: 
+## CHRIS: 
 What do you mean, "Does Greg know about all this?" Is that supposed to be some kind of threat?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I think it is
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Like if I don't give you my story you're gonna tell my ex-husband I'm gay now, is that it?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Get it, girl
 
 ---
 
-CHRIS: 
-You know what? Go ahead. Please do. Tell him after nine years of blowing his crooked little cock, I'm finally getting mine from my girlfriend Chanterelle and our live-in sex slave!
+## CHRIS: 
+You know what? Go ahead. Please do. Tell him after nine years of blowing his crooked little cock, 
 
 ---
 
-BERNADETTE: 
+I'm finally getting mine from my girlfriend Chanterelle and our live-in sex slave!
+
+---
+
+## BERNADETTE: 
 YAS BITCH
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I'm getting eaten out for DAYS, motherfucker!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 For DAYS
 
 ---
 
-CHRIS: 
+## CHRIS: 
 MY PUSSY IS QUEEEEEEEEEN
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 She be royalty, call her Your Majesty
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Yeah you BETTER run! That was AMAZING!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 FIRE!  You were on FIRE!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I feel so ALIVE!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You would dominate prison!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Really? You think so?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 OW - cool it, bitch
 
 ---
 
-CHRIS: 
+## CHRIS: 
 YEAH, BITCH! I'm so sorry, I actually really don't like calling other women that
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Wait someone's coming
 
 ---
 
-CHRIS: 
+## CHRIS: 
 The closet, get her in the
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 This looks suspicious!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Here,just
 
 ---
 
-JEAN: 
+## JEAN: 
 The FUCK?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Shit
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm sorry, should I leave?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Of course not, we need your help
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Babe, we were just covering, we didn't know who was coming and we needed to act like
 
 ---
 
-JEAN: 
+## JEAN: 
 No, no, it's fine. I'm just surprised, Bernie, I didn't realize you preferred your pussy post-partum these days.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Hey!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Take it easy, Chris didn't do anything wrong.
 
 ---
 
-JEAN: 
+## JEAN: 
 Sure, why would anyone take responsibility for anything when Jean will take responsibility for everything, right? That's the way it's always been
 
 ---
 
-CHRIS: 
+## CHRIS: 
 What is her problem?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 You really want to get into this now? Look, I know when we were hooking up / I gave you some mixed messages
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Ohhh...
 
 ---
 
-JEAN: 
+## JEAN: 
 You got stoned at my dad's funeral, asked me to marry you, and then screwed the caterer!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Guys guys GUYS
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Hall's clear.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Wait- put this on.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Oh my god these are hilarious! We gotta take a selfie.  Wait, let's get the box behind us
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What? Are you crazy? Give me that phone!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 But FML! Like, FML?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 The Female Models of Leadership Council!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Ohhh wow I thought you were in your sixties but you're older, aren't you?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm not sixty!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Really? Your skin might age better if you stop eating gluten.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 And the world might be better if you stop eating the president's butthole, but we can't have everything, can we! Lift on three: One, two
 
 ---
 
-MARGARET: 
-Which is why it is with great pride and joy that the president and I endorse Leslie Hopper as the next governor of but but but while I have you all looking at me - your attention, eyes here, eyes front. While I have your attention, I, um, would like to take this moment to address
+## MARGARET: 
+Which is why it is with great pride and joy that the president and I endorse Leslie Hopper as the next governor of 
 
 ---
 
-MARGARET: 
-Thatway- That way, that singular way, that America must lead the charge in Turn around - turning around the, um, the search for, um - Christ! So um, in summation. America has lost its way when it comes to our backwards - Jesus! - views on - oh god - God, Jesus and God - where is America on that subject, I ask. Lost, that's where, and and I think a good thing to do would be to take this time to - grab her hair - hands, grab hands, clasp hands and pray. With our eyes closed. That's good, EVERYONE CLOSE THEIR EYES. And let us pray.
+but but but while I have you all looking at me - your attention, eyes here, eyes front. 
 
 ---
 
-STEPHANIE: 
+While I have your attention, I, um, would like to take this moment to address
+
+---
+
+## MARGARET: 
+Thatway- That way, that singular way, that America must lead the charge in Turn around - turning around the, um, the search for, um - 
+
+---
+
+Christ! So um, in summation. America has lost its way when it comes to our backwards - 
+
+---
+
+Jesus! - views on - oh god - God, Jesus and God - where is America on that subject, I ask. 
+
+---
+
+Lost, that's where, and and I think a good thing to do would be to take this time to - grab her hair - hands, grab hands, clasp hands and pray. 
+
+---
+
+With our eyes closed. That's good, EVERYONE CLOSE THEIR EYES. And let us pray.
+
+---
+
+## STEPHANIE: 
 SPAAAAAAAAAAACE
 
 ---
 
-CHRIS: 
+## CHRIS: 
 She's a performance artist
+
+--
+
+
 
 [Soundbite ''...more drama at the White House..."]
 
 ---
 
-BERNADETTE: 
-One of those Make­A-Wish kids
+## BERNADETTE: 
+One of those Make ­A-Wish kids
+
+--
+
 
 [Soundbite ''...confusion at the White House..."]
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Are you Kevin or Danny?
+
+--
 
 [Soundbite ''...guests announcing they will not be attending..."]
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No comment.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Are you sure?
 
 [Soundbite ''...president has yet to comment..."]
 ---
 
-DUSTY:
+## DUSTY:
 I feel like you guys might be lying to me
+
+--
+
+
 
 [Soundbite ''...First Lady tells nation to 'close eyes and pray'..."]
 
 ---
 
-JEAN: 
-- A gross misinterpretation of her speech, which was, at its core, a
+## JEAN: 
+A gross misinterpretation of her speech, which was, at its core, a
+
+--
+
+
 
 [Soundbite ''...heavily Christian message..."]
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Trust me, no one is more godless than Margaret
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Well Jesus was Jewish
+
+--
+
+
 
 [soundbite "trending with Evangelicals"]
 
 ---
 
-DUSTY: 
+## DUSTY: 
 That's it! No one's getting blown 'til I see some ID!
+
+---
+
+
 
 [Soundbite "Germany uncomfortable"]
 
+---
+
+
+
 [Soundbite '1srael pul/,S out"]
+
+---
+
+
 
 [Soundbite "Will the president be responding?"  “Is there a response?"]
 
+---
+
+
 [Soundbite "What game is he playing?"]
+
+---
+
+
 [Soundbite "Who is running this country?"]
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 MEEEEEEEEEEEE
+
+--
+
+
 
 [Soundbite “ARE We ALL GOING TO DIE?"]
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No comment.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 France is out!
 
 ---
 
-JEAN: 
+## JEAN: 
 Out? What do you mean "out"?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 They're OUT they're refusing to resume the talks and if France is out then Britain's out and if Britain's out then China's out and if China's  out
 
 ---
 
-JEAN: 
+## JEAN: 
 But why is France out 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Because Bahrain's out 
 
 ---
 
-JEAN: 
+## JEAN: 
 Because of cunty?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Because of Thailand!
 
 ---
 
-JEAN: 
+## JEAN: 
 Thailand's pissed at Bahrain because of cunty?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Thailand's pissed at POTUS 'cause he was cunty to Bahrain
 
 ---
 
-JEAN: 
+## JEAN: 
 But he wasn't cunty, he just couldn't sit down because of the thing on his
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I KNOW, Jean, but we can't tell the world about the thing on his
 
 ---
 
-JEAN: 
+## JEAN: 
 It's better than the world thinking he was a cunt to Bahrain
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Everyone's a cunt to Bahrain! Nobody cares about Bahrain!
 
 ---
 
-JEAN: 
+## JEAN: 
 Except Thailand
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Nobody cares about Thailand
 
 ---
 
-JEAN: 
+## JEAN: 
 Except France
 
 ---
 
-HARRIET: 
+## HARRIET: 
 France-doesn't care, they're just looking for an excuse to humiliate us ever since the shit with Syria!
 
 ---
 
-JEAN: 
+## JEAN: 
 Shit with Syria - goddammit, Harriet, you promised me good optics on these talks! Three of the performers I booked for tonight have canceled. The poet laureate just posted a haiku titled FML
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Haikus are nice!
 
 ---
 
-JEAN: 
+## JEAN: 
 This one WASN'T!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 It's not my fault! How could I know that every country and their mother would be itching for an excuse to make us look like incapable war-mongering idiots?
 
 ---
 
-JEAN: 
-How could you - HOW COULD YOU KNOW? POTUS has spent three years burning EVERY BRIDGE, insulting EVERY ALLY, and finger-banging EVERY DIPLOMAT'S WIFE around the world! I mean, hey, it's ALMOST as if America doesn't have an endless line of moral credit -
+## JEAN: 
+How could you - HOW COULD YOU KNOW? 
+
+---
+
+POTUS has spent three years burning EVERY BRIDGE, insulting EVERY ALLY, and finger-banging EVERY DIPLOMAT'S WIFE around the world! 
+
+---
+
+I mean, hey, it's ALMOST as if America doesn't have an endless line of moral credit -
+
+
+---
+
 I mean who'd have THUNK there was a limit to how much ethical currency a country could just THROW AWAY before every other nation finally claps back, "YA BROKE, BITCH!"
 
 ---
 
-MARGARET: 
+## MARGARET: 
 There you are!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Where have you been?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I didn't know where you were! We said we'd meet at the Residence!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I texted you "With POTUS in Bathroom!"
 
 ---
 
-MARGARET: 
+## MARGARET: 
 You texted me "With potty in buttroom!"
 
 ---
 
-JEAN: 
+## JEAN: 
 My phone is exploding right now. What am I telling the press?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You want to switch jobs, Jean? How about/ come up with the soundbite and you can stick suppositories up the dead president's asshole
 
 ---
 
-JEAN: 
+## JEAN: 
 I got New York Times asking if we're going to war
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Guests are already starting to arrive for the gala. We need to get him to the Residence and those tranqs up his ass right now
 
 ---
 
-HARRIET: 
-Too many people are looking for him. Senator Kobb caught me in the hall and the only way I could get rid of him was by saying I had diarrhea - We need to do this now! Where is Bernadette?
+## HARRIET: 
+Too many people are looking for him. Senator Kobb caught me in the hall and the only way I could get rid of him was by saying I had diarrhea - 
 
 ---
 
-MARGARET: 
+We need to do this now! Where is Bernadette?
+
+---
+
+## MARGARET: 
 They can't find his body in the women's bathroom!
 
 ---
 
-HARRIET: 
-Why not? Maybe, okay maybe he took the drugs, thinking he would have enough time before they hit to do one final speech, one final night of service - But then just before going in, he started to feel sick, ran to the nearest bathroom to throw up, hit his head on the toilet edge, and died alone in a pool of his own vomit
+## HARRIET: 
+Why not? Maybe, okay maybe he took the drugs, thinking he would have enough time before they hit to do one final speech, one final night of service - 
+
 ---
 
-HARRIET:
+But then just before going in, he started to feel sick, ran to the nearest bathroom to throw up, hit his head on the toilet edge, and died alone in a pool of his own vomit
+---
+
+## HARRIET:
 OCCUPIED
 
 ---
 
-JEAN: 
+## JEAN: 
 SHE'S POOPING
 
 ---
 
-DUSTY: 
+## DUSTY: 
 DONT SHOOT I'M CARRYING THE PRESIDENT'S BABY
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Shhh! Shut up! Close the door! Why do you have a gun on you?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 I always have a gun on me.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Are we at war? Because the internet feels, like, extra war-y right now.
 
 ---
 
-JEAN: 
+## JEAN: 
 I'M WORKING ON IT
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I got POTUS's tux, but I couldn't find your gala outfit, all I found was this weird man's suit.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 That IS my gala outfit - it's a woman's dress tux!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Christ, it's like if Elton John did Civil War reenactments.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You are literally wearing the footwear of a hospice worker!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 They're EARTHY
 
 ---
 
-HARRIET: I could shove those Crocs down your throat and bury your corpse in a compost heap and you STILL wouldn't be earthy!
+## HARRIET: 
+I could shove those Crocs down your throat and bury your corpse in a compost heap and you STILL wouldn't be earthy!
 
 ---
 
-JEAN:
+## JEAN:
 Korea Korea Korea's tweeting
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Which Korea
 
 ---
 
-JEAN: 
+## JEAN: 
 The SCARY one that TWEETS
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Give it to me!
 
 ---
 
-JEAN: 
+## JEAN: 
 It's just a stupid joke mocking POTUS for the talks falling apart. So long as nobody responds
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Kyle just responded
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Kyle who
 
 ---
 
-HARRIET: 
+## HARRIET: 
 CABINET MEMBER KYLE
 
 ---
 
-JEAN: 
+## JEAN: 
 WHY WOULD KYLE RESPOND TO NORTH KOREA
 
 ---
 
-HARRIET: 
+## HARRIET: 
 'CAUSE HE'S HYPED ON ROIDS YOUR GIRLFRIEND SOLD HIM!
 
 ---
 
-JEAN: 
+## JEAN: 
 PICK UP YOUR PHONE, KYLE, PICKUP YOUR
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Wait I got him!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 How?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I found him on Hinge.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What's a Hinge?
 
 ---
 
-MARGARET:
+## MARGARET:
 Oh, girl.	
 
 ---
 
-JEAN:
+## JEAN:
 Very sad.
 ---
 
-DUSTY: 
+## DUSTY: 
 Okay, he's deleting it, but if you want to be extra careful I could just hack his account and freeze all his socials?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 You hack?
 
 ---
 
-HARRIET:
+## HARRIET:
 DIARRHEA
 
 ---
 
-JEAN: 
+## JEAN: 
 WE'RE SHITTING
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 YOU WANNA FINISH THIS NOW, MARGE, LETS GO
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Calm down, I didn't know it was you
 
 ---
 
-BERNADETTE: Likely story
+## BERNADETTE: 
+Likely story
 
 ---
 
-JEAN: 
-Why do you have a blowtorch? BERNADETTE: I always have a blowtorch. HARRIET: Weapons down, both of you! MARGARET & BERNADETTE: You lower, I'll lower
+## JEAN: 
+Why do you have a blowtorch? 
 
 ---
 
-HARRIET: 
+## BERNADETTE: 
+I always have a blowtorch. 
+
+---
+
+## HARRIET: 
+Weapons down, both of you! 
+
+---
+
+## MARGARET & BERNADETTE: 
+You lower, I'll lower
+
+---
+
+## HARRIET: 
 Give me that! Now!
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 "When in the Course of human events it becomes / necessary for one people to dissolve the political bands "
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 She's been shouting the Declaration of Independence on loop in five different languages since we pulled her out of the pastry kitchen
 
 ---
 
-HARRIET: 
+## HARRIET: 
 It's been hours, how is she STILL manic?
 
 ---
 
-CHRIS: 
+## CHRIS: 
 So did he ice it?
 
 ---
 
-JEAN: 
+## JEAN: 
 No phones! Who are you talking to!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 The dance school called because your monster truck of a childjeted into my kid and knocked him down!
 
 ---
 
-JEAN:
+## JEAN:
 A warm breeze would knock your kid down, he's like an anemic leaf
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 "La vie, la liberte, et la poursuite du bonheur"
 
 ---
 
-CHRIS:
+## CHRIS:
  I agree, Miss Belsky, aggression is learned in the home.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Didn't we smash her phone?
 
 ---
 
-JEAN: 
+## JEAN: 
 Give it to me!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 It's my backup. I got two of everything in my bag.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Why?
 ---
 
-CHRIS: 
+## CHRIS: 
 I'M A MOM
 
 ---
 
-JEAN: 
+## JEAN: 
 SHE'S A MOM
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 "La Vida, la Libertad, y la Busqueda de la Felicidad"
 
 ---
 
-HARRIET: 
+## HARRIET: 
 ENOUGHHHHHHHHHH! Really?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Sorry, Kyle wanted a pie.
 
 ---
 
-HARRIET: 
-I DON'T HAVE TIME FOR THIS. FML guests are already starting to arrive! We have to do this now. We have to get the tranqs in him and make it look like he hit his head on the toilet edge.
+## HARRIET: 
+I DON'T HAVE TIME FOR THIS. FML guests are already starting to arrive! We have to do this now. 
 
 ---
 
-JEAN: 
+We have to get the tranqs in him and make it look like he hit his head on the toilet edge.
+
+---
+
+## JEAN: 
 And then what?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 We head to the gala and stick to the plan!
 
 ---
 
-JEAN: 
+## JEAN: 
 We can't just leave the body! What if something happens to it?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What's he going to do - stand up and walk out?
 
+---
+
+
+
 [Everyone screams.]
+
+---
+
+
 
 [ Offstage, the din of guests. ]
 
 ---
 
-JEAN: 
+## JEAN: 
 They patched up his head, they cleaned him up, they're putting him in a tux but he's not waking up
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What do you mean he's not waking up? I spent three months writing this speech that he's supposed to be delivering right now.
 
 ---
 
-DUSTY: 
-I'm sure he'll be up in a sec! He seems totally fine. We propped him up in the wing on the other side of the stage. I think he's just a sweepy weepy wittle pwesident who needs a nap.
+## DUSTY: 
+I'm sure he'll be up in a sec! He seems totally fine. We propped him up in the wing on the other side of the stage. 
 
 ---
 
-HARRIET: 
-Oh DOES he! Is the WITTLE PWESIDENT a bit ty-ty from being an abomination to diplomacy? GODDAMMIT, I just wanted ONE NIGHT where we could feel like the President of the United States cared about OUR RIGHTS!
+I think he's just a sweepy weepy wittle pwesident who needs a nap.
 
 ---
 
-DUSTY: 
+## HARRIET: 
+Oh DOES he! Is the WITTLE PWESIDENT a bit ty-ty from being an abomination to diplomacy? 
+
+---
+
+GODDAMMIT, I just wanted ONE NIGHT where we could feel like the President of the United States cared about OUR RIGHTS!
+
+---
+
+## DUSTY: 
 You should give the speech!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Where is he? The feminists are getting restless.
 
 ---
 
-JEAN: 
+## JEAN: 
 He's not up yet. Stall them.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 You wrote the speech, you should deliver it.
 
 ---
 
-JEAN: 
+## JEAN: 
 She's right, you know it better than he does.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 But even if I did, we still need POTUS to be there, otherwise they'll think his absence is a statement!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Okay but maybe we don't need the president, maybe we just need
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Yo, how sexy is this: I traded some crack with one of the waiters for his tux.
 
 ---
 
-DUSTY:	
+## DUSTY:	
 Someone who looks like him!
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Brilliant.
 
 ---
 
-JEAN: 
+## JEAN: 
 Absolutely not.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 We put some glasses on her, slick back her hair, from the stage no one will be able to tell!
 
 ---
 
-JEAN: 
+## JEAN: 
 Of course they'll be able to tell!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I haven't been crowned Kansas City Drag King Emperor three years in a row for nothing. I got this.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 I'll stall the crowd while you get ready!
 
 ---
 
-JEAN: 
+## JEAN: 
 How are you going to stall the
 
 ---
 
-DUSTY: 
+## DUSTY: 
 BitchBeats Playlist. Karaoke version. I want the bass loud and the lights hot. Plug her in, Marge!
+
+---
+
+
 
 [(Offstage.) "HELLO DC! We got some angry bitches in the house TONIGHT!"]
 
 ---
 
-JEAN: 
+## JEAN: 
 This isn't going to work! This woman is not capable of even pretending to be anything other than exactly what she is an irresponsible, selfish
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Get changed, Harry. Wait in the other wing, Bernie. I'll signal when we're ready.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Where my Iowa girls at? Who loves a big caucus?
 
 ---
 
-JEAN: 
+## JEAN: 
 What are you doing?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Last I checked, POTUS doesn't have an ankle monitor.
 
 ---
 
-JEAN: 
+## JEAN: 
 If you take that off before your pardon you go straight back to prison!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Yeah well, E pubis umami, you know?
 
 ---
 
-JEAN: 
+## JEAN: 
 E PLURIBUS UNUM, you idiot! WAIT. No! You can't go back there! You can't leave me again!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 I knew you missed me. I'm not going anywhere, darlin': I got a guy.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 You chickies ready to party?
 
 ---
 
-BERNADETTE:  
+## BERNADETTE:  
 Brb, gotta save democracy.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Harriet, I need to
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Not now - Mr. Prime Minister, if you can just let the translator catch up
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I need to talk to you
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Chris, unless you suddenly speak Arabic and can negotiate Bahrain back to the table
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 ME! 
 Hey aam tehke maa I masu'ul hala'a
 
 ---
 
-HARRIET: 
+## HARRIET: 
 No no NO
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Lake habibe, bella kizib ba'a 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What is she saying?
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Kiffina nelghiya hal ossa? 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 DO YOU KNOW WHAT SHE'S SAYING
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 Yalla, bshufak 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Sir? ...Oh. Well good. Tell the prime minister I'm glad he feels that way...
 
 [Over the opening bars of a BitchBeats song]
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 You're welcome
+
+---
+
+
 
 [The bass drops.]
 
 [The crowd roars.] 
+
+---
+
+
 
 [The song ends. Thunderous applause.)
 
@@ -5121,347 +5713,351 @@ You're welcome
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 THEY LOVE ME
 
 ---
 
-DUSTY: 
+## DUSTY: 
 We'll take our bows, and then we'll introduce you, okay?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Oh god.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Don't be nervous! This is your time!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I'm sorry I was harsh with you, Dusty. You are an extraordinary woman.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Awww, I think you're so brilliant, POTUS is making a huge mistake replacing you with Andrew.
 
 ---
 
-HARRIET:
+## HARRIET:
 What?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Firing you!  I think it's a big mistake.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Firing me?
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Some people were saying you're the real brains in the White House. POTUS felt like the only way to prove that's not true was to fire you.
 
 ---
 
-JEAN: 
+## JEAN: 
 You're not running it! We will make your life hell
 
 ---
 
-CHRIS: 
+## CHRIS: 
 You think I'm going to be scared off by some libel lawsuits?
 
 ---
 
-JEAN: 
+## JEAN: 
 What are you gonna write, huh? That you thought you killed the president with a stone suffragist? You don't have a story
 
 ---
 
-CHRIS: 
-Oh really? How about the president who would rather risk war than admit his butt hurts? Or the boss who treats his golf clubs better than he treats his staff? OR maybe it's just the man who leads his country like he loves his women: only when we serve him!
+## CHRIS: 
+Oh really? How about the president who would rather risk war than admit his butt hurts? 
 
 ---
 
-JEAN: 
+Or the boss who treats his golf clubs better than he treats his staff? OR maybe it's just the man who leads his country like he loves his women: only when we serve him!
+
+---
+
+## JEAN: 
 Harry! Where are you going? It's almost time.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 He's firing me.
 
 ---
 
-JEAN: 
+## JEAN: 
 What are you talking about? 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I have to - I'll be right back. 
 
 ---
 
-JEAN: 
+## JEAN: 
 What are you doing?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Just stay here, okay
 
 ---
 
-JEAN: 
+## JEAN: 
 Harry we're so close, don't do something stupid
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I love you, Jean. You're my best friend./ I've never had a friend like you
 
 ---
 
-JEAN: 
+## JEAN: 
 Put that down. What are you thinking?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I have to make it end.
 
 ---
 
-JEAN: 
+## JEAN: 
 NO, I'm not going to let you 
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Let go- BACK/ OFF! 
 
 ---
 
-JEAN: 
+## JEAN: 
 I WON'T LET YOU
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I CAN'T DO IT ANYMORE! IT HAS TO END! I HAVE TO MAKE IT END
 
 ---
 
-JEAN: 
+## JEAN: 
 HARRIET
 
 ---
 
-HARRIET: 
+## HARRIET: 
 What's happened to me?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 He's awake!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Fuck
 
 ---
 
-JEAN: 
+## JEAN: 
 Where?
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Other side of the stage, waiting to go on.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Fuck
 
 ---
 
-MARGARET: 
+## MARGARET: 
 We told him he took too many pain meds, blacked out, and hit his head. Idiot totally bought it.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Fuck.
 [The crowd continues to cheer and chant for Stephanie and Dusty] 
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Heyyy look who's finally coming down from her little trip.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 I feel like the air is stabbing my face.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Yeah you won't be able to eat solid foods or experience joy for about a week.
 
 ---
 
-DUSTY: (From stage.) 
+## DUSTY: (From stage.) 
 And now the power couple you've all been waiting for - FLOTUS and POTUSSSSSS!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 Go get 'em, Marge
 
 ---
 
-JEAN: 
+## JEAN: 
 You look amazing
 
 ---
 
-DUSTY: 
+## DUSTY: 
 You ready? On in three, two
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Shit! He didn't wait for me!
 
 [The feminists continue to scream: ''Bring them back! BRING THEM BACK!']
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Go anyway! They're so amped from the show they're not even letting him talk!
 
 ---
 
-JEAN: 
+## JEAN: 
 Just go out when he's done with the speech.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 No! Push him off the fucking stage!
 
 ---
 
-JEAN: 
+## JEAN: 
 Not all of us can just blow up our lives, Chris
 
 ---
 
-CHRIS: 
+## CHRIS: 
 LOOK at our lives! Look at Harriet!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Fuck
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Look at Stephanie! 
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 What am I wearing? 
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Look around you!
 
 ---
 
-DUSTY: 
+## DUSTY: 
 Who's he winking at?
 
 ---
 
-MARGARET: 
+## MARGARET: 
 Carol, the analyst. He's been screwing her since he was elected.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 See?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Fuck.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 I know you got more than that to say, Harry. You know where all the skeletons are
 
 ---
 
-JEAN: 
+## JEAN: 
 Leave her alone!
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Go on the record and get out now before you go down with him.
 
 ---
 
-JEAN: 
+## JEAN: 
 Guys like that don't go down. We're the ones who'll go down.
 
 [From onstage: ''Bring them back! Bring them back!"]
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Listen to them! They don't want him! They want an encore! He can't last if you stop saving him
 
 ---
 
-JEAN: 
+## JEAN: 
 Then someone else will! He won! Lots of people love him!
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 They don't love him, they're just afraid of the alternative.
 
 ---
 
-STEPHANIE: 
+## STEPHANIE: 
 What's the alternative?
 
 ---
 
-JEAN, BERNADETTE, DUSTY, MARGE & CHRIS: 
+## JEAN, BERNADETTE, DUSTY, MARGE & CHRIS:
 US!
 
 ---
 
-HARRIET:	
+## HARRIET:	
 Wait, does FML mean Fuck My Life?
 
 ---
@@ -5471,72 +6067,104 @@ YES!
 
 ---
 
-HARRIET: 
+## HARRIET: 
 I need a cigarette.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 He looks like shit.
 
 ---
 
-MARGARET: 
+## MARGARET: 
 He looks like he's gonna fall.
 
 ---
 
-JEAN: 
+## JEAN: 
 You think he's actually gonna fall?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Yes.
 
 ---
 
-JEAN: 
+## JEAN: 
 Should we do something
 
 ---
 
-HARRIET, DUSTY & MARGARET: 
+## HARRIET, DUSTY & MARGARET:
 No.
 
 ---
 
-HARRIET: 
+## HARRIET: 
 Will you stay with me?
 
 ---
 
-JEAN: 
+## JEAN: 
 I'm here.
 
 ---
 
-DUSTY: 
+## DUSTY: 
 We all are.
 
 ---
 
-BERNADETTE: 
+## BERNADETTE: 
 He's white-knuckling that podium but the fucker's still smiling
 
 ---
 
-HARRIET: 
+## HARRIET: 
 'Course he is. He doesn't know.
 
 ---
 
-CHRIS: 
+## CHRIS: 
 Know what?
 
 ---
 
-HARRIET: 
+## HARRIET: 
 There's a cunty dawn coming.
 
+---
+
+
 ["BRING THEM BACK! BRING THEM BACK! BRING THEM BACK!"]
+
+---
+---
+
+template: title
+class: smaller
+Open Captioning for this performance was made possible by CaptionPoint.
+---
+---
+<style>
+/* 2022 styles to match hackmd.io */
+.remark-slide-scaler { box-shadow: none;}
+.remark-slide-content { font-size: 4.5rem;}
+.remark-slide-content p {padding-bottom: 2%; line-height: 1;}
+.remark-slide-content > p:first-child::before {
+  height: 50px;
+}
+/* TURN OFF H2 FADE */
+.remark-slide-container.remark-fading .remark-slide-content {
+  opacity: 1;
+}
+span.dim {
+  opacity: 1;
+}
+.remark-slide-content p:nth-last-child(n+4),
+.remark-slide-content h2:nth-last-child(n+4){
+  opacity: 1;
+}
+</style>
