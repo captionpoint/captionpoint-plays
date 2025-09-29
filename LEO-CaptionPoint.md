@@ -1,35 +1,6 @@
 class: center, middle, smaller
 BEGIN SETTINGS
 ---
-
-[//]: # (title settings—give the play a title and author name)
-title: Frederick
-author: Based on the book by Leo Lionni<br>Book by Suzanne Maynard Miller<br>Music and Lyrics by Sarah Durkee and Paul Jacobs
-
-[//]: # (color settings—replace "character-_____" with a character name)
-plum-purple: frederick
-stiletto-red: ernest
-st-tropaz-blue: nellie
-orange-zest: sunny
-lavender-purple: baby
-green-goblin: character-six
-shocking-pink: character-seven
-brown-clay: character-eight
-pelorous-aqua: character-nine
-magenta: character-ten
-dark-violet: character-eleven
-gold: character-twelve
-dodger-blue: character-thirteen
-cornflower-blue: character-fourteen
-cyan: character-fifteen
-lime-green: character-sixteen
-coral: character-seventeen
-hot-pink: character-eighteen
-orange: character-nineteen
-tomato: character-twenty
-lime: character-twentyone
-layout: true
----
 name: noise
 class: center, middle, noise
 ---
@@ -49,23 +20,6 @@ class: aside
 name: overlap
 class: overlap
 ---
-class: characters, smaller
-[//]: # (list of colors)
-## PLUM-PURPLE:
-## STILETTO-RED:
-## ST-TROPAZ-BLUE:
-## ORANGE-ZEST:
-## LAVENDER-PURPLE:
----
-template: overlap
-[//]: # (list of characters, in color)
-## FREDERICK:
-## ERNEST:
-## NELLIE:
-## SUNNY:
-## BABY:
----
-
 class: center, middle, smaller
 END SETTINGS
 ---
