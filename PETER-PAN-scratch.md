@@ -336,7 +336,8 @@ Eight.
 
 ---
 
-MICHEL:  A medical term? Lateral meniscus—no—
+## MICHAEL:
+A medical term? Lateral meniscus—no—
 
 ---
 
@@ -1026,8 +1027,6 @@ Will someone please turn that off?
 
 ---
 
----
-
 ## WENDY:
 Oh!
 
@@ -1114,7 +1113,8 @@ Seriously?
 
 ---
 
-MICHEL:  You were the caboose who got all the attention—
+## MICHAEL:
+You were the caboose who got all the attention—
 
 ---
 
@@ -1180,6 +1180,9 @@ So now when I fly in my dreams I’m somehow always flying in Peter Pan. And it 
 ---
 
 Oh—there you go! You’re flying!
+
+---
+
 class: center, middle
 [Beeping of Heart Monitor]
 
@@ -1216,6 +1219,8 @@ We’re here—
 class: center, middle
 [Flat Line on Heart Monitor]
 
+---
+
 ## ANN:
 Our Father, who art in Heaven,
 
@@ -1239,31 +1244,35 @@ class: center, middle
 [Mysterious Ping sound]
 
 ---
-
+class: song
 ## JIM:
+Oh when the saints 
 
-♪  Oh when the saints Oh when the saints
+…Oh when the saints
 
 ---
-
+class: song
 ## ALL:
+Oh when the saints 
 
-Oh when the saints Oh when the saints go marching in Lord I want to be in that number When the saints go marching in . . . ♪
- 
+…Oh when the saints go marching in
+
+---
+class: song
+Lord I want to be in that number 
+
+When the saints go marching in . . . 
+
+---
+class: center, middle
 ♪ Jazzy recording of The Saints Go Marching In ♪
 
 ---
-
----
-
----
-
 ---
 
 MOVEMENT TWO:
 
 ---
-
 ---
 
 ## Michael:
@@ -1444,11 +1453,17 @@ Carrot blood—
 
 ---
 
-“I have some good news and some bad news,” and the friend says, “Oh doctor, please tell me the good news first.” “All right. Your friend is going to live.”
+“I have some good news and some bad news,” and the friend says, “Oh doctor, please tell me the good news first.” 
+
+---
+
+“All right. Your friend is going to live.”
 
 ---
 
 “Oh, thank God, thank God, doctor. What’s the bad news?”
+
+---
  
 “Well, I’m afraid he’s going to remain a vegetable for the rest of his life.”
 
@@ -1574,7 +1589,11 @@ Bobby McCabe!
 
 ---
 
-I said, “What do you get for the extra five grand?” He said, “You get a better seal and the degeneration is slower” . . . And I said, “Isn’t that sort of the point? To degenerate?”
+I said, “What do you get for the extra five grand?” He said, “You get a better seal and the degeneration is slower” . . . 
+
+---
+
+And I said, “Isn’t that sort of the point? To degenerate?”
 
 ---
 
@@ -1659,8 +1678,10 @@ Big Bob?
 ---
 
 ## JIM:
-Big Bob!— whacked me with a ruler in front of the class for trying to look up her dress,
- 
+Big Bob!— whacked me with a ruler in front of the class for trying to look up her dress, 
+
+---
+
 a feat the Lord himself could not accomplish.
 
 ---
@@ -1677,6 +1698,8 @@ Nor would He want to.
 
 ## WENDY:
 Maybe I ended up having the most interest in religion because I never went to Catholic school.
+
+---
  
 I used to shut myself in my room for days of solitary contemplation.
 
@@ -1782,11 +1805,13 @@ I was taking the pill after I gave birth to Katherine,
 
 ---
 
-and I was going to Mass at St. Clement’s
- 
-where she was baptized and I thought,
+and I was going to Mass at St. Clement’s where she was baptized and I thought,
+
+---
  
 Well, I’m taking birth control so I’m in mortal sin, and it’s hypocritical for me to go to church,
+
+---
  
 I should stay home and read the New York Times instead—
 
@@ -2013,11 +2038,13 @@ Do you mean that there is a word, Santa Claus, an idea Santa Claus, that is real
 
 ---
 
-MICHAEL That’s like saying unicorns are real because there is a word and a mental picture for them.
+## MICHAEL:
+That’s like saying unicorns are real because there is a word and a mental picture for them.
 
 ---
 
-ANN  That’s an old problem in linguistics—
+## ANN:
+That’s an old problem in linguistics—
 
 ---
 
@@ -2035,11 +2062,11 @@ That’s very “yes Virginia there is a Santa Claus” of you.
 
 ---
 
-ANNE: I suppose, in that sense, Santa Claus-ing, the action of being Santa Claus, exists,
+## ANN:
+I suppose, in that sense, Santa Claus-ing, the action of being Santa Claus, exists,
 
 ---
 
----
 
 it just doesn’t match the picture of a unified Santa Claus.
 
@@ -2089,9 +2116,11 @@ and then I tore up the pieces of paper as small as I could
 
 ---
 
-so no one would ever recognize the handwriting and threw them into the wind
- 
-and I said: No more, No more guilt.
+so no one would ever recognize the handwriting and threw them into the wind and I said: 
+
+---
+
+No more, No more guilt.
 
 ---
 
@@ -2123,12 +2152,20 @@ I prayed so much as a young soldier of Christ it lost all meaning.
 ---
 
 Annie I couldn’t believe it when you broke into the Our Father when we were holding vigil over Dad.
+
+---
+
+
  
 Okay, he was “our father” and it was an appropriate choice,
 
 ---
 
 but you’ve been railing for decades against the bullshit in the Catholic Church.
+
+---
+
+
  
 Maybe you haven’t strayed so far from the flock.
 
@@ -2319,6 +2356,10 @@ No. When I think of grown-ups I think of Dad wearing that hat—
 ---
 
 a grown-up man’s hat—to work every day— not because it kept you warm but because that’s what grown-ups did.
+
+---
+
+
  
 I pride myself somehow on —not feeling grown up.
 
@@ -2340,7 +2381,11 @@ Well by that definition isn’t being a grown-up a good thing? Someone who plans
 ---
 
 ## ANN:
-Maybe. I can’t seem to shake the disappointment that I haven’t—done something— whatever that would be . Dad always said: “I never praised you kids because I didn’t want you to get swelled heads.”
+Maybe. I can’t seem to shake the disappointment that I haven’t—done something— whatever that would be . 
+
+---
+
+Dad always said: “I never praised you kids because I didn’t want you to get swelled heads.”
 
 ---
 
@@ -2349,7 +2394,8 @@ He was not free with the compliments. It was always:
 
 ---
 
-JOHN, JIM & MICHAEL: “He who flatters me does me an injustice.”
+## JOHN, JIM & MICHAEL:
+“He who flatters me does me an injustice.”
 
 ---
 
@@ -2358,7 +2404,11 @@ One time Dad said to me driving home from an Iowa football game:
 
 ---
 
-“Well you’re very smart, Annie. ” But it made me feel like he was saying: “You’re smart so why have you not accomplished anything?”
+“Well you’re very smart, Annie. ” But it made me feel like he was saying: 
+
+---
+
+“You’re smart so why have you not accomplished anything?”
 
 ---
 
@@ -2403,8 +2453,11 @@ I was out of the house by then, thank God—
 ---
 
 ## JIM:
-
 Kennedy came through town that election cycle and was motorcading on River Drive.
+
+---
+
+
  
 I was holding a Nixon sign assuring balance to the proceedings.
 
@@ -2492,11 +2545,11 @@ No, but seriously I think I grew up during my medical training.
 
 ---
 
+When they first called a code I would run in the other direction but by the end of my residency I ran toward the code. 
+
 ---
 
-When they first called a code I would run in the other direction
- 
-but by the end of my residency I ran toward the code. And that felt sort of grown up.
+And that felt sort of grown up.
 
 ---
 
@@ -2510,7 +2563,11 @@ As a child I thought growing up was getting married, and I never wanted to do th
 
 ---
 
-because married people looked so bored with each other and I never wanted to be like that. I wanted to run into fountains with my clothes on.
+because married people looked so bored with each other and I never wanted to be like that. 
+
+---
+
+I wanted to run into fountains with my clothes on.
 
 ---
 
@@ -2641,7 +2698,6 @@ But if they’re all the same metaphor I mean doesn’t that prove something?
 ---
 
 ## ANN:
- 
 Hmm.
 
 ---
@@ -2722,6 +2778,10 @@ We have! No one really understands anything about economics; of course I underst
 
 ## JIM:
 You know what’s really wrong with this country?
+
+---
+
+
 
 Too many crazed and half-witted Platonists and too few sensible Aristotelians
 
@@ -3080,8 +3140,10 @@ Well it’s not fun for me—
 ---
 
 ## JOHN:
-And I would never say that about single mothers, you’ve been a single mother since Pat died,
- 
+And I would never say that about single mothers, you’ve been a single mother since Pat died, 
+
+---
+
 and you’ve done a beautiful job with your girls and you sure as hell deserve praise.
 
 ---
