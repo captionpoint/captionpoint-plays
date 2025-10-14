@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Palette</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            padding: 20px;
+            margin: 0;
+            background: #ffffff;
+        }
+        .color-list {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        .color-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            background: #f8f8f8;
+            transition: transform 0.2s;
+        }
+        .color-item:hover {
+            transform: translateX(4px);
+            background: #f0f0f0;
+        }
+        .color-swatch {
+            width: 60px;
+            height: 60px;
+            border-radius: 8px;
+            margin-right: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            flex-shrink: 0;
+        }
+        .color-info {
+            flex-grow: 1;
+        }
+        .color-hex {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        .color-name {
+            font-size: 14px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="color-list">
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #862d86;"></div>
+            <div class="color-info">
+                <div class="color-hex">#862d86</div>
+                <div class="color-name">plum-purple</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FF00FF;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FF00FF</div>
+                <div class="color-name">magenta</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #9400D3;"></div>
+            <div class="color-info">
+                <div class="color-hex">#9400D3</div>
+                <div class="color-name">dark-violet</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #9e2e2e;"></div>
+            <div class="color-info">
+                <div class="color-hex">#9e2e2e</div>
+                <div class="color-name">stiletto-red</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FF6347;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FF6347</div>
+                <div class="color-name">tomato</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #2966a3;"></div>
+            <div class="color-info">
+                <div class="color-hex">#2966a3</div>
+                <div class="color-name">st-tropaz-blue</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #df8020;"></div>
+            <div class="color-info">
+                <div class="color-hex">#df8020</div>
+                <div class="color-name">orange-zest</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FFA500;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FFA500</div>
+                <div class="color-name">orange</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FFD700;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FFD700</div>
+                <div class="color-name">gold</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #3d8f3d;"></div>
+            <div class="color-info">
+                <div class="color-hex">#3d8f3d</div>
+                <div class="color-name">green-goblin</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #9177AC;"></div>
+            <div class="color-info">
+                <div class="color-hex">#9177AC</div>
+                <div class="color-name">lavender-purple</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #e085b3;"></div>
+            <div class="color-info">
+                <div class="color-hex">#e085b3</div>
+                <div class="color-name">shocking-pink</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FF7F50;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FF7F50</div>
+                <div class="color-name">coral</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #FF69B4;"></div>
+            <div class="color-info">
+                <div class="color-hex">#FF69B4</div>
+                <div class="color-name">hot-pink</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #996633;"></div>
+            <div class="color-info">
+                <div class="color-hex">#996633</div>
+                <div class="color-name">brown-clay</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #00FF00;"></div>
+            <div class="color-info">
+                <div class="color-hex">#00FF00</div>
+                <div class="color-name">lime-green</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #40bfbf;"></div>
+            <div class="color-info">
+                <div class="color-hex">#40bfbf</div>
+                <div class="color-name">pelorous-aqua</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #1E90FF;"></div>
+            <div class="color-info">
+                <div class="color-hex">#1E90FF</div>
+                <div class="color-name">dodger-blue</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #6495ED;"></div>
+            <div class="color-info">
+                <div class="color-hex">#6495ED</div>
+                <div class="color-name">cornflower-blue</div>
+            </div>
+        </div>
+        <div class="color-item">
+            <div class="color-swatch" style="background-color: #00FFFF;"></div>
+            <div class="color-info">
+                <div class="color-hex">#00FFFF</div>
+                <div class="color-name">cyan</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
