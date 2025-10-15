@@ -1,0 +1,84 @@
+{
+  "name": "remark-preview",
+  "displayName": "Remark.js Preview",
+  "description": "Live preview for Remark.js presentations with split-view editor",
+  "version": "0.1.0",
+  "publisher": "captionpoint",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "remarkPreview.openPreview",
+        "title": "Open Remark.js Preview",
+        "category": "Remark",
+        "icon": "$(open-preview)"
+      },
+      {
+        "command": "remarkPreview.openPreviewToSide",
+        "title": "Open Remark.js Preview to the Side",
+        "category": "Remark",
+        "icon": "$(open-preview)"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "remarkPreview.openPreviewToSide",
+          "when": "editorLangId == markdown",
+          "group": "navigation"
+        }
+      ],
+      "editor/title/context": [
+        {
+          "command": "remarkPreview.openPreview",
+          "when": "editorLangId == markdown",
+          "group": "navigation"
+        }
+      ],
+      "commandPalette": [
+        {
+          "command": "remarkPreview.openPreview",
+          "when": "editorLangId == markdown"
+        },
+        {
+          "command": "remarkPreview.openPreviewToSide",
+          "when": "editorLangId == markdown"
+        }
+      ]
+    },
+    "keybindings": [
+      {
+        "command": "remarkPreview.openPreviewToSide",
+        "key": "ctrl+shift+v",
+        "mac": "cmd+shift+v",
+        "when": "editorLangId == markdown"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "lint": "eslint src --ext ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/vscode": "^1.75.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.69.0"
+  }
+}

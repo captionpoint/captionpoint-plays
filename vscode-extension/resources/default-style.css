@@ -1,0 +1,58 @@
+/* CaptionPoint-style Presentation */
+/* Based on theater captioning template */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2 {
+  color: #999966;
+  font-size: 70%;
+}
+
+h3 {
+  color: #999966;
+  font-size: 70%;
+}
+
+.remark-slide-scaler {
+  box-shadow: none;
+  background: black;
+}
+
+.remark-slide-content {
+  background: black;
+  font-size: 5.3em;
+  padding: 2% 3%;
+  color: yellow;
+  height: 100%;
+}
+
+.remark-slide-content h2,
+.remark-slide-content h3 {
+  margin: 0;
+  opacity: 1;
+  font-size: 70%;
+  text-transform: uppercase;
+}
+
+.remark-slide-content p {
+  line-height: 1;
+  padding-bottom: 5%;
+  opacity: 1;
+  margin: 0;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Remark Presentation</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic">
+  <style>/* Remark.js Default Presentation Styles */
+
+body {
+  font-family: 'Droid Serif', serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+.remark-code, .remark-inline-code {
+  font-family: 'Ubuntu Mono';
+}
+
+.remark-slide-content {
+  font-size: 30px;
+}
+
+.remark-slide-content h1 {
+  font-size: 60px;
+}
+
+.remark-slide-content h2 {
+  font-size: 48px;
+}
+
+.remark-slide-content h3 {
+  font-size: 36px;
+}
+</style>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+  <script>
+    function create() {
+      return remark.create({
+        source: "\n\n## BOB:\nWhy do you hate me?\n\n---\n## SALLY:\n…because I'm the best, silly!\n\n---\n## BOB:\nI don't know if that's true, or not. Are you trying to make the joke with me?\n---\n## SALLY: \nYou are incorrigible. \n---\n## BOB:\nWhat does that mean? Why do you use big words?\n--\n\n## SALLY:\n…because I'm smart. Fuck you.\n---\n## SALLY:\nIt means \"you're an asshole\". ",
+        ratio: '16:9',
+        highlightLines: true,
+        countIncrementalSlides: false,
+        highlightStyle: 'github'
+      });
+    }
+  </script>
+</head>
+<body onload="slideshow = create()">
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Debug Test</title>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+  <script>
+    function create() {
+      const slideshow = remark.create({
+        source: `title: Test
+
+---
+
+# Hello World
+
+This is a test.
+`,
+        ratio: '16:9'
+      });
+
+      // After slideshow is created, log the DOM structure
+      setTimeout(() => {
+        console.log('Slideshow container:', document.querySelector('.remark-container'));
+        console.log('Slide content:', document.querySelector('.remark-slide-content'));
+        console.log('All remark elements:', document.querySelectorAll('[class*="remark"]'));
+
+        // Log what styles are applied
+        const content = document.querySelector('.remark-slide-content');
+        if (content) {
+          const styles = window.getComputedStyle(content);
+          console.log('Font family:', styles.fontFamily);
+          console.log('Font size:', styles.fontSize);
+          console.log('Padding:', styles.padding);
+        }
+      }, 100);
+
+      return slideshow;
+    }
+  </script>
+  <style>
+    /* Try with very high specificity */
+    body .remark-slide-scaler .remark-slide-content {
+      background-color: red !important;
+      font-size: 30px !important;
+      padding: 2em !important;
+    }
+  </style>
+</head>
+<body onload="slideshow = create()">
+</body>
+</html>
