@@ -179,6 +179,10 @@ export class RemarkPreviewProvider {
     // Read the markdown content
     const markdownContent = document.getText();
 
+    // Extract configuration from markdown frontmatter
+    const config = this.extractConfig(markdownContent);
+    console.log('Extracted config:', JSON.stringify(config));
+
     // Get remark.js URI for webview
     let remarkJsScript = '';
     if (fs.existsSync(remarkJsPath)) {
@@ -199,19 +203,35 @@ export class RemarkPreviewProvider {
       template = this.getDefaultTemplate();
     }
 
-    // Extract title from markdown
-    const title = this.extractTitle(markdownContent);
-
     // Process template - replace all template variables
     console.log('Compiled CSS length:', this.compiledCss.length);
     console.log('First 100 chars of CSS:', this.compiledCss.substring(0, 100));
 
     let html = template
-      .replace(/\{\{title\}\}/g, title)
-      .replace(/\{\{\{title\}\}\}/g, title)
+      .replace(/\{\{title\}\}/g, config.title)
+      .replace(/\{\{\{title\}\}\}/g, config.title)
       .replace('{{{style}}}', `<style>${this.compiledCss}</style>`)
       .replace('{{{source}}}', `source: ${this.escapeMarkdown(markdownContent)}`)
       .replace('{{{remarkScript}}}', remarkJsScript);
+
+    // Inject ratio from YAML frontmatter if specified
+    if (config.ratio) {
+      console.log('Attempting to inject ratio:', config.ratio);
+      const beforeReplace = html.substring(0, 500);
+      html = html.replace(/ratio:\s*['"][^'"]*['"]/g, `ratio: '${config.ratio}'`);
+      console.log('Ratio injected. HTML snippet before:', beforeReplace.match(/ratio:\s*['"][^'"]*['"]/));
+    }
+
+    // Inject custom font-size if specified
+    if (config.fontSize) {
+      console.log('Injecting custom fontSize:', config.fontSize);
+      const fontSizeStyle = `<style>.remark-slide-content { font-size: ${config.fontSize} !important; }</style>`;
+      html = html.replace('</head>', `${fontSizeStyle}</head>`);
+    }
+
+    // Add debug comment to HTML
+    const debugComment = `<!-- CaptionPoint Config: ${JSON.stringify(config)} -->`;
+    html = html.replace('<head>', `<head>${debugComment}`);
 
     console.log('HTML contains <style>?', html.includes('<style>'));
     console.log('HTML contains CSS?', html.includes('remark-slide-content'));
@@ -243,6 +263,43 @@ export class RemarkPreviewProvider {
   private extractTitle(markdown: string): string {
     const titleMatch = markdown.match(/^title:\s*(.+)$/m);
     return titleMatch ? titleMatch[1].trim() : 'Remark Presentation';
+  }
+
+  /**
+   * Extracts configuration from markdown frontmatter
+   * Looks for YAML frontmatter at the very start: ---\nkey: value\n---
+   */
+  private extractConfig(markdown: string): { title: string; ratio?: string; template?: string; fontSize?: string } {
+    // Check if file starts with YAML frontmatter (must be at position 0)
+    const yamlMatch = markdown.match(/^---\s*\n([\s\S]*?)\n---/);
+
+    let title = 'Remark Presentation';
+    let ratio: string | undefined;
+    let template: string | undefined;
+    let fontSize: string | undefined;
+
+    if (yamlMatch) {
+      const yamlContent = yamlMatch[1];
+      console.log('Found YAML frontmatter:', yamlContent);
+
+      const titleMatch = yamlContent.match(/^title:\s*(.+)$/m);
+      const ratioMatch = yamlContent.match(/^ratio:\s*['"]?([^'"\n]+)['"]?$/m);
+      const templateMatch = yamlContent.match(/^template:\s*(.+)$/m);
+      const fontSizeMatch = yamlContent.match(/^fontSize:\s*(.+)$/m);
+
+      title = titleMatch ? titleMatch[1].trim() : title;
+      ratio = ratioMatch ? ratioMatch[1].trim() : undefined;
+      template = templateMatch ? templateMatch[1].trim() : undefined;
+      fontSize = fontSizeMatch ? fontSizeMatch[1].trim() : undefined;
+    } else {
+      // Fallback: try to find title anywhere in the document
+      const titleMatch = markdown.match(/^title:\s*(.+)$/m);
+      if (titleMatch) {
+        title = titleMatch[1].trim();
+      }
+    }
+
+    return { title, ratio, template, fontSize };
   }
 
   /**
