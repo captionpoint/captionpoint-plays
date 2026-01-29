@@ -1,2 +1,0 @@
-# PDF Processing for CaptionPoint
-pdfplumber>=0.10.0
