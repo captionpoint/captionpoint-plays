@@ -9,3 +9,11 @@ node_modules/
 npm-debug.log
 .DS_Store
 python-scripts/
+
+# Python virtual environment
+venv/
+*.progress.json
+
+# Python cache
+__pycache__/
+*.pyc

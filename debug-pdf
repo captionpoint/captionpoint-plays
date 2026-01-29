@@ -1,0 +1,14 @@
+#!/bin/bash
+# Wrapper for debug_pdf.py
+
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+if [ ! -d "$SCRIPT_DIR/venv" ]; then
+    echo "❌ Virtual environment not found!"
+    echo "Run: ./setup.sh"
+    exit 1
+fi
+
+source "$SCRIPT_DIR/venv/bin/activate"
+python "$SCRIPT_DIR/debug_pdf.py" "$@"
+deactivate
