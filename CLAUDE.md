@@ -271,12 +271,28 @@ This is useful when you have an OCR'd text export from a PDF and want to clean i
 See [PDF_WORKFLOW.md](PDF_WORKFLOW.md) for detailed workflow and tips.
 
 ### `chunk_dialogue.py`
-Splits long character dialogues across multiple slides (max 4 lines per slide). Useful for post-processing scripts with lengthy monologues.
+**Smart dialogue chunker** for breaking long character monologues into readable slides. Automatically detects long paragraphs (>150 characters) and splits them into sentence-based chunks.
+
+Features:
+- Detects any character name in caps (## CHARACTER:)
+- Identifies long paragraphs that need splitting
+- Splits by sentences while preserving quoted dialogue
+- Creates multiple slides per character when needed
+- Preserves short dialogues and non-dialogue slides unchanged
 
 Usage:
 ```bash
-python3 chunk_dialogue.py input.md output.md 4  # 4 = max lines per slide
+python3 chunk_dialogue.py input.md output.md 2  # 2 = max sentences per slide
+python3 chunk_dialogue.py input.md output.md 3  # 3 = max sentences per slide
 ```
+
+**Recommended**: Use 2-3 sentences per chunk for theater captioning. This creates more slides but improves on-screen readability during live performances.
+
+Example results:
+- Input: 874 slides → Output: 1,021 slides (2 sentences/chunk)
+- Input: 874 slides → Output: 959 slides (3 sentences/chunk)
+
+Use this after converting from PDF or when working with scripts that have long paragraph-style dialogue.
 
 ## Theater-Specific Templates
 
@@ -342,10 +358,14 @@ pip install -r requirements.txt
    - Add title/author YAML frontmatter
    - Set aspect ratio and font size
 
-4. **Chunk long dialogues** (optional):
+4. **Chunk long dialogues** (recommended for readability):
    ```bash
-   python chunk_dialogue.py raw-output.md final-output.md 4
+   python chunk_dialogue.py raw-output.md chunked-output.md 2
    ```
+   - Use `2` for shorter, more readable chunks (recommended for captioning)
+   - Use `3` for slightly longer chunks if screen real estate is limited
+   - This splits long paragraph-style dialogue into sentence-based chunks
+   - Creates more slides but dramatically improves readability during performances
 
 5. **Preview and refine**:
    ```bash
@@ -358,6 +378,53 @@ pip install -r requirements.txt
    ```
 
 See [PDF_WORKFLOW.md](PDF_WORKFLOW.md) for detailed instructions and troubleshooting.
+
+## Chunking Long Dialogues
+
+When working with scripts that have long monologues or paragraph-style dialogue, use the chunking script to break them into readable slides.
+
+### When to Chunk
+- After importing from PDF/OCR (dialogue often comes in as long paragraphs)
+- When individual dialogue slides have >150 characters
+- When you need better on-screen readability for live performances
+- When actors deliver long monologues that need pacing breaks
+
+### Chunking Workflow
+1. **Check if chunking is needed**:
+   ```bash
+   # Count slides before
+   grep -c "^---$" input.md
+   ```
+
+2. **Run chunking script**:
+   ```bash
+   python3 scripts/chunk_dialogue.py input.md output.md 2
+   ```
+
+3. **Verify results**:
+   ```bash
+   # Count slides after
+   grep -c "^---$" output.md
+
+   # Preview in browser
+   bs serve
+   ```
+
+4. **Adjust chunk size if needed**:
+   - Too many slides? Use `3` sentences per chunk
+   - Slides still too long? Use `1` sentence per chunk
+   - Just right? Keep `2` sentences per chunk (recommended)
+
+### Chunking Parameters
+- **2 sentences** (recommended): Best balance of readability and slide count
+- **3 sentences**: Good for screens with more space
+- **1 sentence**: Maximum readability, creates most slides
+
+### Example Results
+The MARY JANE script chunking:
+- **Before**: 874 slides, some with 400+ character paragraphs
+- **After (2 sentences)**: 1,021 slides, max ~200 characters per slide
+- **Result**: 147 new slides created, much more readable during performance
 
 ## Development Notes
 
