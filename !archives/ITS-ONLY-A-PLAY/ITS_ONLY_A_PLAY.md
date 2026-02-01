@@ -1,63 +1,9 @@
-class: center, middle, smaller
-BEGIN SETTINGS
----
+ template: title
 
-title: It's Only a Play
-author: Terrence McNally
+# IT'S ONLY A PLAY
 
-plum-purple: gus
-stiletto-red: james
-st-tropaz-blue: virginia
-orange-zest: frank
-lavender-purple: julia
-green-goblin: peter
-shocking-pink: ira
-brown-clay: torch
-pelorous-aqua: tv-announcer
+by Terrence McNally
 
-layout: true
----
-name: noise
-class: center, middle, noise
----
-name: title
-class: center, middle
----
-name: music
-class: center, middle
-&#9834; &#9834;
----
-name: song
-class: song
----
-name: aside
-class: aside
----
-name: overlap
-class: overlap
----
-class: characters, smaller
-## PLUM-PURPLE: GUS
-## STILETTO-RED: JAMES
-## ST-TROPAZ-BLUE: VIRGINIA
-## ORANGE-ZEST: FRANK
-## LAVENDER-PURPLE: JULIA
-## GREEN-GOBLIN: PETER
-## SHOCKING-PINK: IRA
-## BROWN-CLAY: TORCH
-## PELOROUS-AQUA: TV ANNOUNCER
----
-
-class: center, middle, smaller
-END SETTINGS
----
-
-template: title
-
-IT'S ONLY A PLAY<br>
-.small[
-  by Terrence McNally
-]
 
 ---
 
