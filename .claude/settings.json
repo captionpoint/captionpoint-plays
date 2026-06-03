@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/private/tmp"
+    ],
+    "allow": [
+      "Edit(~/.claude/skills/CaptionPoint/**)"
+    ]
+  }
+}

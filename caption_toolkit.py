@@ -384,10 +384,12 @@ def chunk_script(text, max_chars=150):
             # Not a dialogue block, keep as-is
             new_parts.append(part)
 
-    # Join with separators
-    output = '\n---\n\n'.join(new_parts)
+    # Join with separators. Blank line BEFORE each `---` keeps reveal.js
+    # happy (it requires a blank line above horizontal-rule separators);
+    # remark.js ignores the extra blank.
+    output = '\n\n---\n\n'.join(new_parts)
     if output:
-        output += '\n---\n'
+        output += '\n\n---\n'
 
     return output
 
