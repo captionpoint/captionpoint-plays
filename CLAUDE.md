@@ -4,324 +4,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-CaptionPoint is a specialized tool for creating live theater captioning presentations. It's a fork of [Backslide](https://github.com/sinedied/backslide) that generates HTML presentations using [Remark.js](https://remarkjs.com) from Markdown files, with specific features for theater captioning workflows.
-
-**Key Characteristics:**
-- Theater caption files are Markdown documents that become slide-based presentations
-- Each slide represents a caption screen shown during live theater performances
-- Character dialogue is color-coded for accessibility
-- Template-based styling system for consistent theater branding
-
-## Development Commands
-
-### Core CLI Commands (bs)
-
-```bash
-# Start development server with live preview (port 4100)
-npm start
-# or manually:
-node ./bin/bs serve [directory]
-
-# Export markdown files to self-contained HTML
-node ./bin/bs export [files]
-# Default output: dist/
-# Options: --strip-notes, --handouts, --no-inline, --web
-
-# Export to PDF (requires decktape: npm i -g decktape)
-node ./bin/bs pdf [files]
-# Default output: pdf/
-
-# Initialize new presentation with template
-node ./bin/bs init
-# Creates template/ directory and presentation.md
-
-# Linting
-npm run lint        # Check code style with xo
-npm run lint:fix    # Auto-fix linting issues
-```
-
-### VSCode Extension Development
-
-The `vscode-extension/` directory contains a VSCode extension for live Remark.js preview:
-
-```bash
-cd vscode-extension
-
-# Install dependencies
-npm install
-
-# Compile TypeScript
-npm run compile
-
-# Watch mode for development
-npm run watch
-
-# Package as .vsix file
-vsce package
-
-# Test in VSCode: Press F5 to launch Extension Development Host
-```
-
-## Architecture
-
-### CLI Tool Architecture (backslide.js)
-
-The main CLI is implemented as a single-file Node.js class (`BackslideCli`) with these core methods:
-
-1. **`serve(dir, port, open)`** - Development server with live reload
-   - Uses BrowserSync for hot reloading
-   - Watches `.md`, template files, and compiles SCSS on the fly
-   - Serves from `.tmp/`, `template/`, and source directory
-
-2. **`export(output, files, stripNotes, stripFragments, fixRelativePaths, inline, website)`** - HTML export
-   - Compiles SCSS → CSS
-   - Processes Mustache templates (`template/index.html`)
-   - Inlines resources (CSS, images, scripts) by default
-   - Handles relative path resolution for images
-
-3. **`pdf(output, files, wait, handouts, verbose, options)`** - PDF export
-   - Requires external `decktape` CLI tool
-   - First exports to HTML in `.tmp/pdf/`
-   - Then converts HTML to PDF using Decktape
-
-4. **`init(fromTemplateDir, force)`** - Project initialization
-   - Copies `starter/template/` → `template/`
-   - Creates sample `presentation.md`
-
-**Key Internal Methods:**
-- `_sass()` - Compiles `template/style.scss` using node-sass
-- `_inline()` - Inlines external resources using web-resource-inliner
-- `_getTitle()` - Extracts title from markdown frontmatter (`title: ...`)
-- `_makePathRelativeTo()` - Rewrites relative URLs to absolute file:// paths
-
-### VSCode Extension Architecture
-
-**Entry Point:** `vscode-extension/src/extension.ts`
-- Registers commands: `remarkPreview.openPreview` and `remarkPreview.openPreviewToSide`
-- Listens to editor and document changes
-
-**Core Provider:** `vscode-extension/src/previewProvider.ts`
-- `showPreview()` - Creates webview panel with Remark.js presentation
-- `updatePreview()` - Regenerates HTML on document changes
-- `compileScss()` - Compiles SCSS using Dart Sass (not node-sass)
-- `generatePreviewHtml()` - Processes template with Mustache variables
-- `setupTemplateWatcher()` - Watches `template/**/*` for changes
-
-**Template Processing:**
-```
-template/index.html (Mustache template)
-  {{title}}    → Extracted from markdown frontmatter
-  {{{style}}}  → <style>compiled CSS from style.scss</style>
-  {{{source}}} → source: "raw markdown content"
-```
-
-### Template System
-
-The `template/` directory is the presentation engine:
-
-**Required Files:**
-- `index.html` - Mustache template with Remark.js initialization
-- `style.scss` - Sass stylesheet (compiles to CSS)
-- `remark.min.js` - Remark.js library (optional, falls back to CDN)
-- `font/` - Custom fonts (League Gothic, Source Sans Pro)
-
-**Template Variables (Mustache):**
-- `{{title}}` - From `title: ...` in markdown frontmatter
-- `{{{source}}}` - Markdown content as JavaScript string
-- `{{{style}}}` - Compiled CSS wrapped in `<style>` tags
-
-### Theater Caption File Structure
-
-Caption markdown files follow this pattern:
-
-```markdown
-class: center, middle, smaller
-BEGIN SETTINGS
----
-
-title: PLAY TITLE
-author: Author Name
-
-[//]: # (Color-coded character assignments)
-plum-purple: character-one
-stiletto-red: character-two
-st-tropaz-blue: character-three
-...
-
-layout: true
----
-name: title
-class: center, middle
----
-name: music
-class: center, middle
-&#9834; &#9834;
----
-name: song
-class: song
----
-
-class: center, middle, smaller
-END SETTINGS
----
----
-
-[Caption slides begin here]
-
-## CHARACTER-NAME:
-Dialogue text here.
-
----
-
-template: music
-(Song title or description)
-
----
-```
-
-**Remark.js Slide Syntax:**
-- `---` = New slide
-- `--` = Incremental content (click to reveal)
-- `???` = Presenter notes (followed by content)
-- `template: name` = Apply named template
-- `class: className` = Apply CSS classes
-- `## CHARACTER:` = H2 headers are character names (color-coded)
-
-## Workflow Patterns
-
-### Creating New Caption Files
-
-1. Copy from `theater-templates/BOILERPLATE-*.md` or `BOILERPLATE.md`
-2. Update title and character color mappings in settings section
-3. Add caption slides with character dialogue
-4. Use `bs serve` to preview live
-5. Export with `bs export filename.md`
-
-### Theater-Specific Templates
-
-The `theater-templates/` directory contains boilerplates for specific theaters:
-- `BOILERPLATE-Court-Theatre-center.md` - Center-aligned captions
-- `BOILERPLATE-Court-Theatre-left.md` - Left-aligned captions
-- `BOILERPLATE-Northlight-Theatre.md` - Northlight branding
-- Each has pre-configured character colors and styling
-
-### Script Formatting Toolkit
-
-The `caption_toolkit.py` provides a unified pipeline for converting raw play scripts to CaptionPoint format. It consolidates and generalizes the functionality from various play-specific scripts.
-
-#### Toolkit Commands
-
-```bash
-# Auto-detect characters in a script
-python caption_toolkit.py detect script.md
-
-# Stage 1: Clean - Remove stage directions, page numbers, act markers
-python caption_toolkit.py clean script.md script-clean.md
-
-# Stage 2: Format - Convert to CaptionPoint markdown
-python caption_toolkit.py format script-clean.md script-formatted.md --characters "HAMLET,OPHELIA"
-
-# Stage 3: Chunk - Break long dialogues into slides
-python caption_toolkit.py chunk script-formatted.md script-final.md --max-chars 150
-
-# Full pipeline - Run all stages at once
-python caption_toolkit.py full script.md script-final.md --characters "HAMLET,OPHELIA" --verify
-```
-
-#### Processing Stages
-
-1. **Clean Stage**: Removes artifacts from raw scripts
-   - Parenthetical stage directions `(He exits)`
-   - Page numbers (standalone digits)
-   - ACT/SCENE markers
-   - Options: `--keep-parens`, `--keep-pages`, `--keep-acts`
-
-2. **Format Stage**: Converts to CaptionPoint markdown
-   - Transforms `CHARACTER.` or `CHARACTER:` to `## CHARACTER:`
-   - Splits lines with multiple speakers
-   - Joins continuation lines
-   - Auto-detects characters if not specified
-
-3. **Chunk Stage**: Breaks long dialogues into slides
-   - Splits at sentence boundaries
-   - Default max 150 characters per slide
-   - Preserves character headers on continuation slides
-
-#### Legacy Scripts
-
-These play-specific scripts are still available but `caption_toolkit.py` is preferred:
-- `chunk_dialogue.py` - Line-based chunking (for specific character lists)
-- `format_gaslight.py` - Gaslight-specific formatting
-- `chunk_gaslight.py` - Character-based chunking
-- `format_play_script.py` - Generic formatter with song detection
-- `format_fair_lady.py` - My Fair Lady specific (handles songs)
-
-## File Organization
-
-```
-captionpoint-plays/
-├── template/              # Active presentation template
-│   ├── index.html        # Remark.js template
-│   ├── style.scss        # Theater caption styles
-│   ├── remark.min.js     # Remark.js library
-│   └── font/             # Custom fonts
-├── theater-templates/     # Theater-specific boilerplates
-├── !archives/            # Completed caption files
-├── dist/                 # Exported HTML presentations
-├── .tmp/                 # Temporary build files (gitignored)
-├── vscode-extension/     # VSCode preview extension
-├── backslide.js          # Main CLI implementation
-├── chunk_dialogue.py     # Dialogue splitting utility
-├── BOILERPLATE.md        # Generic caption template
-└── PLAY-worksheet.md     # Template for new captions
-```
-
-## Key Styling Concepts
-
-### Character Color Coding
-
-Characters are assigned colors in the markdown frontmatter:
-```markdown
-plum-purple: hamlet
-stiletto-red: ophelia
-```
-
-These map to CSS classes in `template/style.scss` and the boilerplate's embedded styles:
-```scss
-h2.hamlet { color: #862d86; }  // Maps to plum-purple
-```
-
-The boilerplate includes 20+ predefined color options for multi-character plays.
-
-### Caption Display Classes
-
-- `class: center, middle` - Centered slides (titles, scene breaks)
-- `class: song` - Song lyrics styling
-- `class: noise` - Sound effects
-- `class: aside` - Stage directions
-- `class: overlap` - Overlapping dialogue
-- `class: smaller` - Reduced font size
-
-### Font Size Control
-
-Default: `$font-size: 5.3em` in `style.scss` for theater visibility
-Character names: `$font-size-char: 70%` of main size
-
-## Important Notes
-
-- **Active directory is workspace root**, not subdirectories. The `bs` commands expect to run from the repository root where `template/` exists.
-- **SCSS compilation** uses node-sass in CLI, but Dart Sass in VSCode extension
-- **HTML exports are self-contained** - all resources inlined by default
-- **Archived captions** go in `!archives/` directory
-- **The template directory must exist** before running serve/export commands (use `bs init` if missing)
-- **PDF export requires Decktape** installed globally: `npm i -g decktape`
-
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-## Project Overview
-
 CaptionPoint is a live theater captioning system built as a fork of [Backslide](https://github.com/sinedied/backslide). It creates real-time caption presentations for live theater performances using Remark.js and Markdown files.
 
 The system converts Markdown scripts into HTML slide presentations with theater-specific features:
@@ -332,20 +14,19 @@ The system converts Markdown scripts into HTML slide presentations with theater-
 
 ## Repository Structure
 
-- **Root directory**: Contains play scripts as `.md` files (e.g., `JOURNEY-ON-backup.md`)
-- **`!archives/`**: Archived/completed play scripts
-- **`template/`**: Core presentation template files
-  - `index.html` - Remark.js HTML template (supports Mustache variables)
-  - `style.scss` - Main stylesheet for presentations
-  - `remark.min.js` - Remark.js library
-  - `font/` - Custom fonts
-- **`theater-templates/`**: Theater-specific boilerplate templates (Court Theatre, Latte Da, Northlight, etc.)
-- **`vscode-extension/`**: VSCode extension for live preview
+The repo was reorganized 2026-06-03. Current layout:
+
+- **`!archives/`**: All play scripts — completed and working drafts, organized into per-play folders
+- **`tools/`**: The working toolkit
+  - `tools/scripts/`: Python helpers (toolkit, chunkers, PDF/OCR converters, formatters)
+  - `tools/boilerplates/`: `BOILERPLATE.md`, `PLAY-worksheet.md`, and theater-specific boilerplates (Court Theatre, Latte Da, Northlight)
+- **`legacy/backslide/`**: The original Backslide CLI workflow, parked but kept. Contains `backslide.js`, `bin/`, `template/` (Remark.js engine), `starter/`, and Node config. Run `bs` commands from inside this folder if needed.
+- **`vscode-extension/`**: VSCode extension for live preview (work-in-progress, may be resumed)
   - `src/extension.ts` - Extension entry point
   - `src/previewProvider.ts` - Preview rendering logic
-- **`starter/`**: Template starter files for new presentations
-- **`dist/`**: Exported HTML presentations
-- **`backslide.js`**: Main CLI tool implementation
+- **`docs/`**: Guides, color references, and the "How to Run Captions" PDF
+
+Note: the current workflow is AI-based (this tool + `tools/scripts/`). The Backslide CLI in `legacy/` describes the older manual workflow; paths in the command sections below assume that legacy layout.
 
 ## Common Commands
 
@@ -581,7 +262,7 @@ Features:
 
 Usage:
 ```bash
-python3 txt_to_clean_dialogue.py input.txt output.txt
+python3 tools/scripts/txt_to_clean_dialogue.py input.txt output.txt
 ```
 
 This is useful when you have an OCR'd text export from a PDF and want to clean it up before converting to CaptionPoint format.
@@ -600,8 +281,8 @@ Features:
 
 Usage:
 ```bash
-python3 chunk_dialogue.py input.md output.md 2  # 2 = max sentences per slide
-python3 chunk_dialogue.py input.md output.md 3  # 3 = max sentences per slide
+python3 tools/scripts/chunk_dialogue.py input.md output.md 2  # 2 = max sentences per slide
+python3 tools/scripts/chunk_dialogue.py input.md output.md 3  # 3 = max sentences per slide
 ```
 
 **Recommended**: Use 2-3 sentences per chunk for theater captioning. This creates more slides but improves on-screen readability during live performances.
@@ -665,7 +346,7 @@ pip install -r requirements.txt
 
 2. **Parse PDF** - Interactive extraction of character dialogue:
    ```bash
-   python pdf_to_captionpoint.py script.pdf raw-output.md
+   python tools/scripts/pdf_to_captionpoint.py script.pdf raw-output.md
    ```
    - Press `c` for character names, `d` for dialogue, `s` to skip
    - Press `a` for auto-skip mode (skips until next character)
@@ -678,7 +359,7 @@ pip install -r requirements.txt
 
 4. **Chunk long dialogues** (recommended for readability):
    ```bash
-   python chunk_dialogue.py raw-output.md chunked-output.md 2
+   python tools/scripts/chunk_dialogue.py raw-output.md chunked-output.md 2
    ```
    - Use `2` for shorter, more readable chunks (recommended for captioning)
    - Use `3` for slightly longer chunks if screen real estate is limited
@@ -716,7 +397,7 @@ When working with scripts that have long monologues or paragraph-style dialogue,
 
 2. **Run chunking script**:
    ```bash
-   python3 scripts/chunk_dialogue.py input.md output.md 2
+   python3 tools/scripts/chunk_dialogue.py input.md output.md 2
    ```
 
 3. **Verify results**:
