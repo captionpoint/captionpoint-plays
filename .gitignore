@@ -17,3 +17,13 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
+
+# Craft Agent workspace metadata (workspace lives in ~/.craft-agent, not here)
+/config.json
+/events.jsonl
+/views.json
+/sessions/
+/sources/
+/statuses/
+/labels/
+/.claude-plugin/

@@ -1,5 +1,0 @@
-{
-  "allowedApiEndpoints": [
-    { "method": "GET", "path": ".*", "comment": "All GET requests are read-only" }
-  ]
-}
